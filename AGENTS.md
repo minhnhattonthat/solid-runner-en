@@ -8,7 +8,7 @@ Skill: translate-retro-game; `python tools/skill.py` prints its folder. Read its
 - Smoke:    `python -X utf8 "$(python tools/skill.py)/scripts/emu.py" build/solid_runner_en.sfc --out work/qa/smoke --route tools/routes/boot.txt --smoke`
 - Warp:     `python -X utf8 "$(python tools/skill.py)/scripts/emu.py" build/solid_runner_en.sfc --out work/qa/warp --script tools/debug/scenes.lua --script tools/debug/warp.lua --var "SCENE='<name>'" --frames 2400 --sheet` (cold boot; warp lands ~f1560; scenes and options in `tools/debug/scenes.lua`/`warp.lua`; never ask the user to play to a scene)
 - All scenes: `python -X utf8 tools/debug/run_scenes.py [names] [--raw AA:RR] [--states] [--rom R]` (parallel cold boots, shots in work/qa/scenes/, `--states` regenerates work/states/<scene>.mss)
-- Release:  `python -X utf8 tools/release.py` (patch + verify; written in phase 9; never publish without the user)
+- Release:  `python -X utf8 tools/release.py` [--version X.Y] (build, tests, smoke, jp_left, QA gate on a tour of this exact ROM, BPS + re-apply, zip in release/; never publish without the user)
 - Clean:    `python -X utf8 tools/clean.py` (published projects: lists rebuildable/downloadable files; `--yes` deletes)
 
 ## Paths

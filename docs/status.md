@@ -2,8 +2,11 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8 (QA in the emulator) **in progress** (2026-10-30). Phase 7 done (lint clean, codes matched, writes
-  only in allowed ranges).
+- **Phase:** 9 (release) **done** (2026-10-30): `python -X utf8 tools/release.py` ran clean: 35 tests, smoke, jp_left
+  0 runs in script slots, `qa_gate.py check` 123/123 ok on a tour of this exact ROM, BPS made and re-applied,
+  `release/Solid_Runner_EN_v1.0.zip` (patch + README, patch sha1 fe7bed0d..., patched CRC32 DD98A3A7), playable ROM
+  `build/Solid_Runner_EN_v1.0.sfc` (smoke ok). Not published: publishing (`gh release create`, repo visibility) is
+  the owner's call (`references/pipeline.md` §Publish). Phase 8 done the same day.
 - **Phase 8 so far:** tour = `run_scenes.py --rom build/qa_tour.sfc --out work/qa/tour --jobs 7 --script
   tools/lua/textlog.lua` (~25 min, every scene now gets a `--sheet`); JP baseline `work/qa/tour_jp` (same ids);
   `tools/textscan.py` reads the tour's textlog lines and lists drawn strings that still hold kana/kanji (run it with
@@ -28,12 +31,15 @@ Updated at the end of every session. Keep it to what the next session needs; his
   <names> --jobs 3`, ~35 scenes < 10 min). Verdict files of a new round get a new prefix (`r3_chunk_*.tsv`) so the
   still-current ones survive. `run_scenes.py` writes an overview `sheet*.png` in the out dir: delete it from the
   tour before `qa_gate.py init`.
-- **Phase 8 next:** round-3 review of the 101 changed sheets (final build c107c6ae, `work/qa/tour_rom.sha1`); fix,
-  recheck, until `qa_gate.py check` exits 0. Graphics rows: G3 debug-menu font not reachable in play; G4
+- **Phase 8 end:** round 3 (101 changed sheets, final build c107c6ae) all ok; `qa_gate.py check` exits 0.
+  Graphics rows: G3 debug-menu font not reachable in play; G4
   (`EAは/あけて` tags, A3_05) not on any of the 104 tour screens: treated as unused. Staff roll = scene
   `staff_intro` (English in the original), THE END / Game Over English.
-- **Phase 9:** `tools/release.py` written (build, tests, smoke, jp_left on script slots, gate + tour from this
-  build, checksum, BPS make/re-apply, README with hashes, zip). Not run yet.
+- **Phase 9:** `tools/release.py` (build, tests, smoke, jp_left on script slots, gate + tour from this build,
+  checksum, BPS make/re-apply, README with hashes, zip; `--version`, refuses to overwrite without `--force`). After
+  any text/asm change: re-tour (foreground batches), `qa_gate.py init`/review, then release.py again.
+- **Next (owner):** play-test the v1.0 patch, decide on publishing. Not seen in testing (README known issues): A5
+  countdown, Turbo File "No data", add-armor yes/no, shop sell-count screen.
   Non-blocking: English types ~2x the JP's glyphs; the player can set Message Speed: Fast. `{c1C:xx}` slow print not
   timed.
 - **Phase 7 done so far:** `tools/insert.py` (run by `build.py`): every English entry in free space, each slot a
