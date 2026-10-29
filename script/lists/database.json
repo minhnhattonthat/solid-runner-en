@@ -1,0 +1,2114 @@
+[
+ {
+  "id": "database_87CA07",
+  "addr": "87:CA07",
+  "len": 15,
+  "jp": "ビル[F9]ポのモンスター[FA]{endFE}[FA]d{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CA16",
+  "addr": "87:CA16",
+  "len": 11,
+  "jp": "VRゲーセン[FA]ガ[FA]ャ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CA21",
+  "addr": "87:CA21",
+  "len": 52,
+  "jp": "RゆRエ{br}ホストセンターにあるコンピューターに{br}[FA]▼[F9]ふしたバイオモンスターを[FA]{endFE}[FA]dして{br}[F9]マさい。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CA55",
+  "addr": "87:CA55",
+  "len": 32,
+  "jp": "[F9]おしい[F9]つはエリア7のVRゲームセンター{br}にてお[F9]かします。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CA75",
+  "addr": "87:CA75",
+  "len": 17,
+  "jp": "[F9]ホ[F9]マ[F9]ムのモンスター[FA]{endFE}[FA]d{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CA86",
+  "addr": "87:CA86",
+  "len": 15,
+  "jp": "CTI[FB]ね[FA]8[F9]ね[FA]ャコスタ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CA95",
+  "addr": "87:CA95",
+  "len": 59,
+  "jp": "Rポ{br}エリア3の[F9]と[F9]な[FA]こ[FA]さ[F9]ホの[F9]ホ[F9]マ[F9]ムに[F9]6くって{br}いるバイオモンスター[FA]たを[FA]{endFE}[FA]dしてもらい{br}たい。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CAD0",
+  "addr": "87:CAD0",
+  "len": 12,
+  "jp": "[F9]ォを[F9]ばしてください{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CADC",
+  "addr": "87:CADC",
+  "len": 10,
+  "jp": "シャロン＝クレイン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CAE6",
+  "addr": "87:CAE6",
+  "len": 66,
+  "jp": "Rw{br}[F9]ち[F9]つに[F9]いたきり、[F9]こ[F9]さ[F9]し[F9]すになったままの{br}[F9]ォを[F9]ばし[F9]いして[F9]マさい。エリア7のカフェで{br}お[F9]ろちしています。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CB28",
+  "addr": "87:CB28",
+  "len": 14,
+  "jp": "モンスター[FA]{endFE}[FA]dを[F9]べむ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CB36",
+  "addr": "87:CB36",
+  "len": 5,
+  "jp": "ボーマン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CB3B",
+  "addr": "87:CB3B",
+  "len": 60,
+  "jp": "Sど{br}[FB]チ[FA]ユに[FA]▼[F9]ふしたバイオモンスターを{br}[FA]{endFE}[FA]dして[F9]ルしい。[F9]おしい[F9]かは{br}エリア5のファンタジードームで。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CB77",
+  "addr": "87:CB77",
+  "len": 17,
+  "jp": "[F9]こ[F9]さ[F9]し[F9]すのランナー[F9]ばし{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CB88",
+  "addr": "87:CB88",
+  "len": 16,
+  "jp": "ランナー[F9]0[F9]1[F9]  [F9] [F9]や{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CB98",
+  "addr": "87:CB98",
+  "len": 72,
+  "jp": "Sゥ{br}[F9]っ[F9]3テスト[F9]（に[F9]こ[F9]さ[F9]し[F9]すになった[FC]と[F9]、{br}ランナーを[F9]ばして[F9]マさい。エリア12の{br}[F9]0[F9]1[F9] にて[F9]おしいお[F9]かをします。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CBE0",
+  "addr": "87:CBE0",
+  "len": 10,
+  "jp": "パートナー[FC]ヘ[FB]ギ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CBEA",
+  "addr": "87:CBEA",
+  "len": 4,
+  "jp": "イオン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CBEE",
+  "addr": "87:CBEE",
+  "len": 76,
+  "jp": "S％{br}[FC]ホランナー『デイモン』を[FA]＆すのに[FB]ム[F9]ヅして{br}くれるパートナーを[FC]ヘ[FB]ギ[F9]（。ランナーの[FA]レい{br}に[FA]ら[FA]ノのある[F9]さはエリア7のカフェまで。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CC3A",
+  "addr": "87:CC3A",
+  "len": 12,
+  "jp": "ボディーガード[FC]ヘ[FB]ギ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CC46",
+  "addr": "87:CC46",
+  "len": 4,
+  "jp": "イオン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CC4A",
+  "addr": "87:CC4A",
+  "len": 67,
+  "jp": "Tぉ{br}[FC]マ[F9]ぞ[F9]けのボディーガードをやってくれる{br}ランナー[F9]メいを[F9]ばしています。[F9]びき[F9]ぶける{br}[F9]さはエリア7のSCBC[F9]スまで。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CC8D",
+  "addr": "87:CC8D",
+  "len": 14,
+  "jp": "[F9]ベ[FC]チ[F9]＆[F9][FA]の[FC]び[FB]ず{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CC9B",
+  "addr": "87:CC9B",
+  "len": 16,
+  "jp": "CTI[FB]ね[FA]8[F9]ね[FA]ャ コスタ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CCAB",
+  "addr": "87:CCAB",
+  "len": 67,
+  "jp": "T？{br}ソリッドシティの[FC]＝[FC]＆をおびやかしている{br}[F9]ベ[FC]チ[F9]＆[F9][FA]を[FC]び[FB]ずしてもらいたい。{br}[F9]おしい[F9]つはこちらから[F9]ぁ[F9]ぃする。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CCEE",
+  "addr": "87:CCEE",
+  "len": 11,
+  "jp": "テロ[F9]つ[FB]せ[F9]8[FA]ぅ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CCF9",
+  "addr": "87:CCF9",
+  "len": 44,
+  "jp": "エリア9の[F9]デ[F9]ド[FB]チ[FA]ユを[FB]で[F9]▼テロリスト{br}[FB]ギ[FB]グが[FB]ぢ[FB]い、ケガ[F9]け[FA]ニ[FA]ぱ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CD25",
+  "addr": "87:CD25",
+  "len": 72,
+  "jp": "UろUフU0{br}エリア9にある[F9]デ[F9]ド[FB]チ[FA]ユが、テロリスト{br}[FB]ギ[FB]グの[FB]ぢ[FB]いを[F9]ぶけた。このテロ[FB]ギ[FB]グは、{br}[F9]タてバイオモンスターという。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CD6D",
+  "addr": "87:CD6D",
+  "len": 54,
+  "jp": "かなりの[FB]で[F9]▼をしており、この[FB]ぢ[FB]いで{br}[FB]チ[FA]ユの[FC]ゅ[F9]やら11[F9]けの[FA]ピ[FA]ア[F9]はが[F9]いた{br}[FC]ょ[F9]ヂ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CDA3",
+  "addr": "87:CDA3",
+  "len": 50,
+  "jp": "これで、テロ[FB]ギ[FB]グの[FB]ぢ[FB]い[F9]つ[FB]せは5[FB]せ[F9]Cと{br}なり、[FA]ぺ[FB]iには[F9]し[FA]8が[FC]アがっている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CDD5",
+  "addr": "87:CDD5",
+  "len": 17,
+  "jp": "[F9]し[F9]ー[FA]ョ[F9]ヲり[F9]びき[FA]ズ[F9]る{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CDE6",
+  "addr": "87:CDE6",
+  "len": 34,
+  "jp": "[FA]ぁの[FC]イエリアでの[F9]し[F9]ー[FA]ョ[F9]ヲり[F9]びきが{br}[FA]ズ[F9]るのきざし。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CE08",
+  "addr": "87:CE08",
+  "len": 55,
+  "jp": "VしVば{br}ソリッドシティの[FC]イエリアを[F9]（[FA]いに、{br}[F9]し[F9]ー[FA]ョの[F9]ヲり[F9]びきが[FA]ズ[F9]るとなってきて{br}いる。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CE3F",
+  "addr": "87:CE3F",
+  "len": 65,
+  "jp": "[FA]スにカタラカンパニーは、この[F9] [FA]ズ[F9]るな{br}[FC]ウびを[FA]グけている。しかし、[F9]2[F9]ねでは{br}マフィアとのつながりを[F9]Nされている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CE80",
+  "addr": "87:CE80",
+  "len": 17,
+  "jp": "[F9]ホ[F9]マ[F9]ムにモンスター[F9]い[FA]な{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CE91",
+  "addr": "87:CE91",
+  "len": 39,
+  "jp": "[FA]ぁの[F9]ホ[F9]マ[F9]マ[F9]ミ[F9]ムでバイオモンスター[F9]C[FB]い{br}の[FA]4[F9]9が[FA]ニ[FA]ぱ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CEB8",
+  "addr": "87:CEB8",
+  "len": 66,
+  "jp": "VEV[FA]{br}[F9]ら[F9]り、ソリッドシティの[F9]ホ[F9]マを[F9]てる{br}[F9]マ[F9]ミ[F9]ムでバイオモンスターの[F9]C[FB]い[FA]ーが{br}[FA]ニ[FA]ぱ[FA]4[F9]9されている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CEFA",
+  "addr": "87:CEFA",
+  "len": 67,
+  "jp": "バイオモンスターについては、バイオ{br}[F9]0[F9]1[F9] から[F9]っ[F9]3[F9]ソが[F9]コ[FB]けしたという[F9]Nが{br}あるが、[F9]おしい[F9]つは[F9]＆かっていない。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CF3D",
+  "addr": "87:CF3D",
+  "len": 14,
+  "jp": "VRゲーセンが[F9]で[F9]け[F9]テ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CF4B",
+  "addr": "87:CF4B",
+  "len": 37,
+  "jp": "VR（ヴァーチャル）ゲームセンターが{br}[FA]フ[F9]はを[F9]（[FA]いに[F9]で[F9]け[F9]テ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CF70",
+  "addr": "87:CF70",
+  "len": 66,
+  "jp": "WヨW」W＄{br}エリア7にオープンしてから[FC]ち[FA]チが{br}たったヴァーチャルゲームセンターが、{br}[F9]ガ[FA]フ[F9]はに[F9]で[F9]け[F9]テとなっている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CFB2",
+  "addr": "87:CFB2",
+  "len": 65,
+  "jp": "[F9]モ[FA]％[F9]ぱ[FA]ゾはエリア13のファンタジー{br}ドームと[FB]ゅを[FA]uっていたが、VRゲーム{br}ブームに[FA]ッって[F9]け[F9]テを[F9]ヲり[F9]セした。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87CFF3",
+  "addr": "87:CFF3",
+  "len": 65,
+  "jp": "しかし、[F9]2[F9]ねでは[FA]タ[FC]ミVRマシンは{br}[F9]け[F9]ソに[F9]パ[F9]ピという[F9]かも[F9]いており、この{br}[F9]け[F9]テも[FA]ャくないという[F9]ヌ[F9]さも。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D034",
+  "addr": "87:D034",
+  "len": 13,
+  "jp": "カタラカンパニー[FA]＆[FA]ョ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D041",
+  "addr": "87:D041",
+  "len": 44,
+  "jp": "[F9]し[F9]ー[FA]ョ[F9]グ[FA]ヴのカタラカンパニーが[FA]＆[FA]ョ。{br}[F9]が[F9]ぎはマフィアとの[F9]h[F9]iか？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D06D",
+  "addr": "87:D06D",
+  "len": 81,
+  "jp": "Xマ{br}[F9]し[F9]ー[FA]ョ[FA]％のカタラカンパニーが[FA]＆[FA]ョ。{br}[F9]グ[FA]ヴ[FA]び[F9]ャは[FA]キ[FB]ヂ[F9]こ[F9]さ[F9]し[F9]すで、[F9]め[FB][FA]では{br}[F9]Nだったマフィアとの[F9]h[F9]iを[F9]る[FB]て[F9]（。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D0BE",
+  "addr": "87:D0BE",
+  "len": 13,
+  "jp": "テロ[FB]ギ[FB]グまた[F9]い[FA]な{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D0CB",
+  "addr": "87:D0CB",
+  "len": 26,
+  "jp": "[FB]で[F9]▼テロ[FB]ギ[FB]グが[FB]で[FC]ぱショップを[FB]ぢ[FB]い。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D0E5",
+  "addr": "87:D0E5",
+  "len": 70,
+  "jp": "XxYれ{br}エリア13の[FB]シ[FA]l[F9]な[F9]りくにある[FB]で[FC]ぱ[FA]ガが{br}バイオモンスターのテロリスト[FB]ギ[FB]グに{br}[FB]ぢ[FB]いされる[F9]つ[FB]せが[FB]マこった。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D12B",
+  "addr": "87:D12B",
+  "len": 49,
+  "jp": "[FA]ゼいにも[F9]ァ[FA]ア[F9]はは[F9]いなかったが、[FA]ガ[F9]ポに{br}あった[FA]ニ[FC]セの[FB]で[FC]ぱが[F9]ィち[FA]Dられた。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D15C",
+  "addr": "87:D15C",
+  "len": 13,
+  "jp": "[FA]タ[FC]ミドラッグ[FC]ぜ[F9]こ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D169",
+  "addr": "87:D169",
+  "len": 34,
+  "jp": "ヴァーチャルドラッグ『ハリケイン』が{br}[F9]パ[F9]ピな[FC]ぜ[F9]このきざし。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D18B",
+  "addr": "87:D18B",
+  "len": 48,
+  "jp": "YベYCZ{br}{br}エリア3のスラムを[F9]（[FA]いにヴァーチャル{br}ドラッグ『ハリケイン』が[FC]ぜ[F9]こ[F9]（。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D1BB",
+  "addr": "87:D1BB",
+  "len": 69,
+  "jp": "このドラッグは[F9]u[FA]ヅ[FB]hに[F9][F9][FA]ド[F9]ゅ[FC]ムを{br}[FA]ド[FA]グして[F9]ょ[F9]ポマヒをうながす[F9]Oだが、{br}[F9]ペ[FA]／が[F9]セらなくなる[F9]）れが[F9]できい。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D200",
+  "addr": "87:D200",
+  "len": 63,
+  "jp": "また、ハリケインの[F9]（[FB]ウ[F9]はが[FA]え[FA]おを[FA]えす{br}ケースも[FC]ハえてきており、[F9]め[FB][FA]では{br}[F9]ヲりしまりを[FA]j[FB]ぐする[F9]つに。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D23F",
+  "addr": "87:D23F",
+  "len": 19,
+  "jp": "ドラッグ[F9]ヲり[F9]びきで[FA]ガを[FB]っ[FB]て{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D252",
+  "addr": "87:D252",
+  "len": 41,
+  "jp": "ヴァーチャルドラッグの[F9]ヲり[F9]びきを{br}[F9]こったとされる[FA]ガを[F9]め[FB][FA]が[FB]っ[FB]て。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D27B",
+  "addr": "87:D27B",
+  "len": 68,
+  "jp": "ZガZガ{br}エリア7のナイトクラブ『ディルコア』{br}におけるVRドラッグ『ハリケイン』の{br}[F9]ヲり[F9]びき[FB]り[FA]4を[FA]ぉ、[F9]め[FB][FA]が[F9]い[F9]ー。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D2BF",
+  "addr": "87:D2BF",
+  "len": 41,
+  "jp": "[FA]ガ[F9]ポをくまなく[FB]っ[FB]てしたが、それらしき{br}[F9]Oは[F9]タく[F9]8[F9]ヌできなかった。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D2E8",
+  "addr": "87:D2E8",
+  "len": 18,
+  "jp": "ピラーニャ・プレタ[FB]ヌ[F9]は[FC]ハ[FB]t{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D2FA",
+  "addr": "87:D2FA",
+  "len": 37,
+  "jp": "[FC]Z[F9]ァ[F9]だの[FB]さ[F9]テ『ピラーニャ・プレタ』の{br}[FB]ヌ[F9]はが[FC]ハ[FB]t[F9]（。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D31F",
+  "addr": "87:D31F",
+  "len": 73,
+  "jp": "aもaヌ{br}[F9]8[FB]さすると[F9]ソ[F9]（の[FB]z[FB]＋がなえ、[FC]aり[F9]jち{br}[F9]ァに[FB]Nるという[FB]し[FB]さ『ピラーニャ・{br}プレタ』の[FB]ヌ[F9]はが[FC]ハ[FB]tしている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D368",
+  "addr": "87:D368",
+  "len": 74,
+  "jp": "[FC]Z[F9]ァ[F9]だの[F9]ぢいこの[FB]さ[F9]テの[F9]が[F9]ぎについては{br}エマージングウィルス[FB]あや[FC]b[FA]んの[FC]c[FC]d{br}[FA]s[FC]ぱ[FB]あなどがあるが、[F9]お[FC]cは[F9]し[F9]す。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D3B2",
+  "addr": "87:D3B2",
+  "len": 16,
+  "jp": "[FA]J[FA]K[FA]ぁで[FB]ヨ[FC]e[F9]8[FA]ぅ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D3C2",
+  "addr": "87:D3C2",
+  "len": 23,
+  "jp": "エリア11の[FA]J[FA]K[FA]ぁで[FB]ヨ[FC]e[F9]8[FA]ぅ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D3D9",
+  "addr": "87:D3D9",
+  "len": 87,
+  "jp": "albが{br}エリア11の[FA]J[FA]K[FA]ぁで、[F9]ダ[FC]オに[FB]ヨ[FC]eが{br}[F9]8[FA]ぅ。[F9]い[FB]ヨの[F9]が[F9]ぎを[F9]る[FB]て[F9]（、[FA]J[FA]Kの[F9]ホ[F9]マ{br}に[FC]f[FB]ヤ[F9]と[F9]なが[FB]ろされているのを[F9]8[F9]ヌ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D430",
+  "addr": "87:D430",
+  "len": 72,
+  "jp": "[FA]キ[FB]ヂ、[FB]ヨ[F9]ヨはこの[F9]と[F9]なと[F9]ヌられている。{br}[F9]め[FB][FA]では、この[F9]と[F9]なを[F9] [FA]ぼしていた[FA]％[F9]は{br}から[F9]つ[FB]り[FC]g[F9]ヲを[F9]こっている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D478",
+  "addr": "87:D478",
+  "len": 17,
+  "jp": "ピラーニャ・プレタ[FA]O[FA]hチーム{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D489",
+  "addr": "87:D489",
+  "len": 39,
+  "jp": "『ピラーニャ・プレタ』[FA]O[FA]hとして[FA]ス[FB]プ{br}チームをCTI[F9]ポに[F9]シ[FB]6。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D4B0",
+  "addr": "87:D4B0",
+  "len": 81,
+  "jp": "b（c {br}CTI[FB]u[F9]ゼ[FB]r[F9]オ[F9]スのグロリア[F9]ス[FA]ャは、{br}[FB]ヌ[F9]はが[FA]ぐ[FC]ハしている[FB]し[FB]さ『ピラーニャ・{br}プレタ』[FB]リ[F9]すの[FA]○、[FA]ス[FB]プチームを[F9]シ[FB]6。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D501",
+  "addr": "87:D501",
+  "len": 55,
+  "jp": "[F9]ガ[FA]け、バイオ[F9]0[F9]1[F9] の[F9]け[F9]やや[FB]チ[FA]ユも{br}[F9]ー[F9]やし、[F9]る[FB]て・[F9]0[F9]1して[F9]こく[F9]つを[F9]8[F9]ャ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D538",
+  "addr": "87:D538",
+  "len": 17,
+  "jp": "バイオモンスター[F9]C[FB]い[FB]り[FA]4{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D549",
+  "addr": "87:D549",
+  "len": 25,
+  "jp": "エリア5で[FA]ニ[FA]ぱのモンスター[F9]C[FB]い[FB]り[FA]4。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D562",
+  "addr": "87:D562",
+  "len": 66,
+  "jp": "cト{br}エリア5においてバイオモンスターの{br}[F9]C[FB]い[FB]り[FA]4が[FA]ニ[FA]ぱ[FA]4[F9]9されている。{br}[F9]め[FB][FA]では[F9]プ[F9]ペを[F9]あびかけている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D5A4",
+  "addr": "87:D5A4",
+  "len": 14,
+  "jp": "[FA]クそう[F9]つ[FB]せが[FA]ニ[F9]8{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D5B2",
+  "addr": "87:D5B2",
+  "len": 41,
+  "jp": "ソリッドシティにおける[FA]クそう[F9]つ[FB]せ、{br}[FA]ょ[FA]D[F9]ら[F9]ぢの[FB]せ[FA]ぱを[FB]ド[FC]ぅ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D5DB",
+  "addr": "87:D5DB",
+  "len": 80,
+  "jp": "cncn{br}[F9]り[F9]x、[FA]ぁのあちこちで[FA]クそう[F9]つ[FB]せが[FA]ニ[F9]8{br}している。このままでは[F9]む[FA]チ[F9]aの[FC]ェ[FA]」[FA]ね{br}もの[F9]8[FA]ぅ[FB]せ[FA]ぱになると[F9]ヌられている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D62B",
+  "addr": "87:D62B",
+  "len": 61,
+  "jp": "[F9]め[FB][FA]では[F9]つ[FB]せの[F9]v[FA]けに[F9]できな[FA]え[FA]お[F9]X[F9]Yが{br}[F9]h[F9]iしていると[F9]ヌて、[F9]おしい[FB]っ[FB]てを{br}[FA]グけている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D668",
+  "addr": "87:D668",
+  "len": 15,
+  "jp": "テロ[FB]ギ[FB]グを[F9]−う[FB]ド[F9]は{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D677",
+  "addr": "87:D677",
+  "len": 36,
+  "jp": "SCBC[F9]ス[FB]ド[F9]はが[FB]で[F9]▼テロリスト[FB]ギ[FB]グを{br}[F9]−[FC]ォ[F9]ヲ[FA]e。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D69B",
+  "addr": "87:D69B",
+  "len": 72,
+  "jp": "dュdq{br}エリア7にあるTV[F9]ス、SCBCの{br}サントス[FB]ド[F9]はは[FA]ぁの[FA]W[FB]iを[F9]し[FA]8におとし{br}いれているテロ[FB]ギ[FB]グを[F9]−い[FA]グけている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D6E3",
+  "addr": "87:D6E3",
+  "len": 71,
+  "jp": "[FA]Cは[F9]＝として[F9]め[FB][FA]を[FA]ね[F9]ぐる[F9]Bさで[FA]キ[F9]なに{br}[FA]キれ、[F9]ヲ[FA]eを[F9]こう。[FA]Cの[FB]り[FA]4[FC]ッには、{br}[F9]め[FB][FA]もかなわないようである。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D72A",
+  "addr": "87:D72A",
+  "len": 11,
+  "jp": "[FC]ホランナー[F9]い[FA]な{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D735",
+  "addr": "87:D735",
+  "len": 43,
+  "jp": "[F9]エ[FB]ケ[FB]プにランナーを[FB]ぢう[FC]ホランナーが{br}[F9]い[FA]な、[FC]ぃ[FB]ル[F9]はが[FA]グ[F9]い[F9]（。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D760",
+  "addr": "87:D760",
+  "len": 71,
+  "jp": "eトe4{br}[F9]2[FA]コランナーを[F9]エ[FB]ケ[FB]プに[FB]ぢうという{br}[FC]ホランナーが[FA]キれ、ランナーを[F9]メう{br}[F9]ば[F9]ア[F9]gの[F9]そに[F9]し[FA]8が[FB]マきている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D7A7",
+  "addr": "87:D7A7",
+  "len": 46,
+  "jp": "この[FC]ホランナーは、そのすさまじい{br}[FA]jさから『デイモン』と[F9]あばれ、{br}[F9]）れられている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D7D5",
+  "addr": "87:D7D5",
+  "len": 16,
+  "jp": "[FC]ホランナー[FA]{endFE}[FA]dに[FB]ぁ[F9]ゲ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D7E5",
+  "addr": "87:D7E5",
+  "len": 29,
+  "jp": "[FC]ホランナー『デイモン』に[FB]ぁ[F9]ゲが{br}かけられる[F9]つに。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D802",
+  "addr": "87:D802",
+  "len": 57,
+  "jp": "fかfぢ{br}[FA]ぁのランナー[F9]メいを[F9]）れさせている{br}デイモンに[FA]Oして、ついに[FB]ぁ[F9]ゲが{br}かけられる[F9]つになった。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D83B",
+  "addr": "87:D83B",
+  "len": 40,
+  "jp": "これを[F9]ゃった[FC]のに[FA]ら[FA]ノのある[F9]は[F9]gは、{br}デイモンを[F9]ばし[F9]ぐっている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D863",
+  "addr": "87:D863",
+  "len": 10,
+  "jp": "デイモン[FA]＆される{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D86D",
+  "addr": "87:D86D",
+  "len": 19,
+  "jp": "[FC]ホランナー『デイモン』[FA]＆される。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D880",
+  "addr": "87:D880",
+  "len": 67,
+  "jp": "fゲ{br}[FA]ぱ[F9]』の[F9]D[F9]けを[FA]えしていたデイモンが{br}ついに[FA]＆された。[FB]ぁ[F9]ゲはデイモンを{br}[FA]＆した[FC]ヂ[F9]テある[F9]ば[F9]アに[F9]Jされた。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D8C3",
+  "addr": "87:D8C3",
+  "len": 13,
+  "jp": "ジャスティス[F9]で[F9]け[F9]テ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D8D0",
+  "addr": "87:D8D0",
+  "len": 25,
+  "jp": "[FA]O[FA]デ[FC]ャ[FA]l『ジャスティス』が[F9]で[F9]け[F9]テ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D8E9",
+  "addr": "87:D8E9",
+  "len": 71,
+  "jp": "f−gが{br}エリア13のジャスティスドームで{br}[F9]こわれている[FA]O[FA]デ[FC]ャ[FA]lジャスティスの{br}[FB]ア[FB]ゅ[F9]ー[F9]や[FA]ぱの[FA]タ[FB]ド[FC]ぅが[FA]グいている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D930",
+  "addr": "87:D930",
+  "len": 57,
+  "jp": "この[F9]。がけの[FC]ャ[FA]l、ジャスティスの{br}[F9]け[F9]テはとどまる[F9] を[F9]ゃらず、[FB]ド[FC]ぅは{br}まだまだ[FA]グきそうである。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D969",
+  "addr": "87:D969",
+  "len": 16,
+  "jp": "[F9]け[F9]と[F9]チ[FC]hのヤミ[FA] [FA]わ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D979",
+  "addr": "87:D979",
+  "len": 26,
+  "jp": "[F9]け[F9]と[F9]チ[FC]hのヤミ[FA] [FA]わ[F9]つ[FB]せが[FC]ハ[FB]t。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D993",
+  "addr": "87:D993",
+  "len": 82,
+  "jp": "gィgィgィ{br}[FC]ク[F9]オ[FA]E[FA]ぽの[FA]ャ[FA]ェ[FB]ぐで、21[FA]ほ[FC]だを{br}[FA]ょぎてからようやく[F9]っ[F9]I[FB]ぐされた{br}[F9]け[F9]と[F9]チ[FC]hだが、[F9]ら[F9]りヤミ[FA] [FA]わが[FA]ぐ[FC]ハ[F9]（。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87D9E5",
+  "addr": "87:D9E5",
+  "len": 62,
+  "jp": "[F9]け[F9]と[F9]チ[FC]hはウィルスにかかる[FA]い[FA]うが{br}ないのでピラーニャ・プレタ[FB]ヌ[F9]はの{br}[FA]d[FB]＆の[FA]○にも[F9]プ[F9]Cされている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87DA23",
+  "addr": "87:DA23",
+  "len": 48,
+  "jp": "この[F9]つ[FB]せの[F9]v[FA]けには[F9]できな[FA]え[FA]お[F9]X[F9]Yが{br}[F9]hわっているという[F9]Nも[FC]ぜれている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87DA53",
+  "addr": "87:DA53",
+  "len": 13,
+  "jp": "[FA]え[FA]お[F9]X[F9]Yババリア{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87DA60",
+  "addr": "87:DA60",
+  "len": 24,
+  "jp": "[FA]え[FA]お[F9]X[F9]Yババリアの[F9]つ[FB]せが[FA]グ[F9]8。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87DA78",
+  "addr": "87:DA78",
+  "len": 78,
+  "jp": "hワhワ{br}ヨーロッパからやって[FA]はた[FA]え[FA]お[F9]X[F9]Y{br}『ババリア』が[FB]マこす[F9]つ[FB]せが[FA]グ[F9]8。{br}[FA]J[FA]K[FA]ぁの[FB]ヨ[FC]e[F9]つ[FB]せにも[F9]h[F9]iとの[FB]り[FA]4。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87DAC6",
+  "addr": "87:DAC6",
+  "len": 40,
+  "jp": "[F9]め[FB][FA]では、ババリア[FA]O[FA]hの[FA]○の{br}[FA]ス[FB]プチームを[F9]X[F9]Yする[F9]ヂ[F9][FA]。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87DAEE",
+  "addr": "87:DAEE",
+  "len": 12,
+  "jp": "Bモンスターを[F9]C[FB]い{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87DAFA",
+  "addr": "87:DAFA",
+  "len": 47,
+  "jp": "スラム[FA]ぁでBモンスター[FA]ぱ[F9]ソを[F9]C[FB]い。{br}     [F9]8[FA]ノ[F9]は[FC]エクスリ[FA]ものサムソン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87DB29",
+  "addr": "87:DB29",
+  "len": 71,
+  "jp": "iをiマ{br}[FA]ダ[F9]せの[F9]ダ[FC]オ、エリア3のスラム[FA]ぁにある{br}[FB]エ[FB]8でバイオモンスターどもを[F9]ヌたぜ。{br}きっと[F9]{end}らの[F9]6があるに[F9]ネいねぇ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87DB70",
+  "addr": "87:DB70",
+  "len": 58,
+  "jp": "ダチは[F9]{end}らを[F9]ケまえようとしたけど、{br}[F9]ンり[FC]せちにあって[F9]Dられちまった。{br}いつかダチのカタキを[F9]ヲってやる！{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87DBAA",
+  "addr": "87:DBAA",
+  "len": 12,
+  "jp": "Fドームの[FA]ヅ[FC]カ[F9]は{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87DBB6",
+  "addr": "87:DBB6",
+  "len": 46,
+  "jp": "ファンタジードームの[FA]ヅ[FC]カ[F9]はの[F9]N。{br}         [F9]8[FA]ノ[F9]は[FC]エ[F9]B[FC]けのトム{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87DBE4",
+  "addr": "87:DBE4",
+  "len": 67,
+  "jp": "iu{br}エリア5にあるファンタジードームの{br}[FA]ヅ[FC]カ[F9]はは、[FC]ぞ[FC]キと[F9]し[FC]クの[F9]「なんだ。{br}[FA]2には[F9]Fさんと[F9][FA][FA]どがいるのにね。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87DC27",
+  "addr": "87:DC27",
+  "len": 8,
+  "jp": "あぁ、エビータ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87DC2F",
+  "addr": "87:DC2F",
+  "len": 44,
+  "jp": "エビータ、いつか[FB]ごり[F9]ュかせてやるぜ。{br}          [F9]8[FA]ノ[F9]は[FC]エドミンゴ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87DC5B",
+  "addr": "87:DC5B",
+  "len": 66,
+  "jp": "jス{br}カフェに[F9]こくといつも[F9]Eは[F9]2[F9]けきり。{br}[F9]ま[F9]aデートに[FB]びっても、つれない[F9]ン[F9]つ{br}ばかりだけど、いつか[F9]ヤず・・・。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87DC9D",
+  "addr": "87:DC9D",
+  "len": 12,
+  "jp": "テロ[FB]ギ[FB]グの[FB]り[FA]4{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87DCA9",
+  "addr": "87:DCA9",
+  "len": 46,
+  "jp": "テロ[FB]ギ[FB]グの[FB]ス[F9]ソについての[FB]り[FA]4。{br}    [F9]8[FA]ノ[F9]は[FC]エミサンガ[FA] りのアドン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87DCD7",
+  "addr": "87:DCD7",
+  "len": 62,
+  "jp": "jjkと{br}[F9]ガ、[FA]ほ[F9]そをにぎわせているテロ[FB]ギ[FB]グの{br}[F9]つだけど、どうやら[F9]{end}らの[FB]ス[F9]ソは{br}バイオモンスターらしいぜ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87DD15",
+  "addr": "87:DD15",
+  "len": 38,
+  "jp": "まったく[F9]）ろしい[F9]かだよな。{br}バケモノ[FA]たが[F9]け[F9]そを[FB]ぢうんだからよ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87DD3B",
+  "addr": "87:DD3B",
+  "len": 11,
+  "jp": "VRゲーセンが[FA]ごみ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87DD46",
+  "addr": "87:DD46",
+  "len": 40,
+  "jp": "VRゲーセンがいきなり[FA]ご[FA]％。{br}          [F9]8[FA]ノ[F9]は[FC]エハイエナ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87DD6E",
+  "addr": "87:DD6E",
+  "len": 66,
+  "jp": "kミ{br}エリア7のVRゲームセンターが[FA]ご[FA]％[F9]（{br}なんスよ。[F9]まだかホストのメンテナンス{br}とかいう[F9]かなんスけど、[F9]ぼ[F9]ぱかなぁ？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87DDB0",
+  "addr": "87:DDB0",
+  "len": 13,
+  "jp": "チャイナタウンの[F9]つ[FB]せ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87DDBD",
+  "addr": "87:DDBD",
+  "len": 43,
+  "jp": "チャイニーズマフィア[FB]ぢ[FB]い[F9]つ[FB]せ。{br}          [F9]8[FA]ノ[F9]は[FC]エカルロス{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87DDE8",
+  "addr": "87:DDE8",
+  "len": 60,
+  "jp": "k＋lも{br}この[F9]そのチャイニーズマフィアの[F9]ぼ[F9]ねが{br}[FB]ぢわれた[F9]つ[FB]せだけど、マフィア[F9]f[FA]tの{br}[FB]ぅ[FA]uらしいぜ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87DE24",
+  "addr": "87:DE24",
+  "len": 65,
+  "jp": "これで[F9]L[FA]ほ[FA]まの[F9]ヅ[F9]h[F9]iも[F9]みわるな。{br}それにしてもよ、[F9]2[FB]k[F9]l[F9]Dしだって{br}いうんだから[F9]ぼ[F9]ぱに[F9]）ろしいよな。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87DE65",
+  "addr": "87:DE65",
+  "len": 9,
+  "jp": "ディルコアの[F9]N{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87DE6E",
+  "addr": "87:DE6E",
+  "len": 47,
+  "jp": "ディルコアでのドラッグ[FA] [FA]わの[FB]り[FA]4。{br}         [F9]8[FA]ノ[F9]は[FC]エ[F9]B[FC]けのトム{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87DE9D",
+  "addr": "87:DE9D",
+  "len": 70,
+  "jp": "lュ{br}ディルコアじゃあ[FA]ガの[F9]（でドラッグの{br}[FA] [FA]わをやっているって[F9]Nだよ。この[F9]その{br}[F9]め[FB][FA]の[FB]っ[FB]ては[FA]ク[FA]Mだったらしいけど。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87DEE3",
+  "addr": "87:DEE3",
+  "len": 6,
+  "jp": "ハリケイン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87DEE9",
+  "addr": "87:DEE9",
+  "len": 40,
+  "jp": "ハリケインを[FC]ぜしているヤツ。{br}      [F9]8[FA]ノ[F9]は[FC]エチクリ[FA]もブラウン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87DF11",
+  "addr": "87:DF11",
+  "len": 55,
+  "jp": "mて{br}ダチから[F9]きいたんだが『ハリケイン』を{br}さばいているのは『バイビジブル』と{br}『ババリア』なんだってよ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87DF48",
+  "addr": "87:DF48",
+  "len": 17,
+  "jp": "ドラッグ[F9]と[F9]なの[FB]ろし[F9]な[F9] {end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87DF59",
+  "addr": "87:DF59",
+  "len": 43,
+  "jp": "[FA]J[FA]Kの[F9]ホ[F9]マにドラッグ[F9]と[F9]な。{br}          [F9]8[FA]ノ[F9]は[FC]エハイエナ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87DF84",
+  "addr": "87:DF84",
+  "len": 41,
+  "jp": "mゾmー{br}[FA]J[FA]K[FA]ぁのどこかにマフィアの{br}ドラッグ[F9]と[F9]ながあるらしいッスよ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87DFAD",
+  "addr": "87:DFAD",
+  "len": 43,
+  "jp": "[F9]までも[FA]J[FA]Kの[F9]（のコンテナから[F9]ホ[F9]マに{br}[F9]こける[F9]て[FB]らがあるみたいッスよ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87DFD8",
+  "addr": "87:DFD8",
+  "len": 12,
+  "jp": "ドラッグの[FB]5[FA]ねがり{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87DFE4",
+  "addr": "87:DFE4",
+  "len": 49,
+  "jp": "[FA]ーの[F9]4[F9]5[F9]つ[FB]せでドラッグが[FB]5[FA]ねがり。{br}      [F9]8[FA]ノ[F9]は[FC]エチクリ[FA]もブラウン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E015",
+  "addr": "87:E015",
+  "len": 66,
+  "jp": "nのnカ{br}[FA]J[FA]K[FA]ぁで[FA]J[FA]Kの[F9]4[F9]5[F9]つ[FB]せがあっただろ？{br}あの[F9]ホ[F9]マにババリアのドラッグ[F9]と[F9]なが{br}あったらしいんだよ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E057",
+  "addr": "87:E057",
+  "len": 57,
+  "jp": "それがぶっとばされちまったもんだから{br}[FA]ぺ[F9]なはバイビジブルがシメてるぜ。{br}ドラッグも[FB]5[FA]ねがりしちまうしよ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E090",
+  "addr": "87:E090",
+  "len": 19,
+  "jp": "スラム[FA]ぁでモンスターを[F9]ヌ[FA]クった{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E0A3",
+  "addr": "87:E0A3",
+  "len": 42,
+  "jp": "バイオモンスターが[FB]わえちまった？{br}     [F9]8[FA]ノ[F9]は[FC]エクスリ[FA]ものサムソン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E0CD",
+  "addr": "87:E0CD",
+  "len": 70,
+  "jp": "nZoつ{br}スラム[FA]ぁでバイオモンスターらしい[F9]{end}を{br}[F9]ヌつけたんで、[FA]けをつけたんだけど、{br}[FB]エ[FB]8に[F9]ふっていったところで[F9]ヌ[FA]クった。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E113",
+  "addr": "87:E113",
+  "len": 52,
+  "jp": "[FA]N[FA]Oあそこに[F9]まかあるハズなんだ。{br}でなかったら、[FB]た[FA]カ[FB]わえちまうなんて{br}[FA]N[FA]Oに[F9]みだぜ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E147",
+  "addr": "87:E147",
+  "len": 16,
+  "jp": "バイオモンスターも[FC]ぃ[FB]ル[F9]は{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E157",
+  "addr": "87:E157",
+  "len": 45,
+  "jp": "バイオモンスターも[FC]ぃ[FB]ル[F9]はではないか。{br}        [F9]8[FA]ノ[F9]は[FC]エクビチェック{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E184",
+  "addr": "87:E184",
+  "len": 73,
+  "jp": "oゾoゾ{br}バイオモンスターが[F9]け[F9]その[FA]ぅ[F9]ソ[F9]っ[F9]3に{br}よって[FA]ョみ[F9]いされたものならば、[FA]Cらは{br}[FC]ぃ[FB]ル[F9]はと[F9]あべるのではないだろうか。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E1CD",
+  "addr": "87:E1CD",
+  "len": 68,
+  "jp": "[FA]Cらが[FA]p[FB]い[FA]）な[F9]こ[F9]ーを[F9]ヲるのも、{br}[FA]ら[F9]＆[F9]gを[FA]エる[FA]○ではないのか。[F9]『[F9]』は{br}もっと[FA]Cらの[F9]つをよく[F9]ゃるべきだ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E211",
+  "addr": "87:E211",
+  "len": 13,
+  "jp": "CTIのエライさんの[F9]N{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E21E",
+  "addr": "87:E21E",
+  "len": 48,
+  "jp": "CTI[FB]ね[FA]8[F9]ねの[F9]ね[FA]ャさんって・・・。{br}         [F9]8[FA]ノ[F9]は[FC]エ[F9]B[FC]けのトム{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E24E",
+  "addr": "87:E24E",
+  "len": 66,
+  "jp": "pょ{br}CTI[FB]ね[FA]8[F9]ねの[F9]ね[FA]ャなんだけど、{br}あいつ、[F9]Fさんと3[F9]けの[F9][FA][FA]どがいるのに{br}19[FA]Vの[F9]d[F9]けがいるんだってよ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E290",
+  "addr": "87:E290",
+  "len": 12,
+  "jp": "[F9]け[F9]ソ[F9]っ[F9]3の[F9]か{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E29C",
+  "addr": "87:E29C",
+  "len": 46,
+  "jp": "[F9]け[F9]ソ[F9]っ[F9]3をやってる[FB]チ[FA]ユの[F9]か。{br}    [F9]8[FA]ノ[F9]は[FC]エミサンガ[FA] りのアドン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E2CA",
+  "addr": "87:E2CA",
+  "len": 68,
+  "jp": "pWqす{br}この[FA]ぁのどこかに、いろんな[F9] から{br}さらって[FA]はた[F9]け[F9]そを[F9]メって、おかしな{br}[F9]っ[F9]3をやってる[FB]チ[FA]ユがあるらしいぜ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E30E",
+  "addr": "87:E30E",
+  "len": 38,
+  "jp": "バイオモンスターはそういった[F9]っ[F9]3から{br}[FA]ぅまれた[FA]ぅき[F9]Oなのかもな。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E334",
+  "addr": "87:E334",
+  "len": 14,
+  "jp": "ナチュラルパークの[F9]れ[FA]づ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E342",
+  "addr": "87:E342",
+  "len": 46,
+  "jp": "ナチュラルパークの[F9]れ[FA]づが[F9]テになる[F9]K。{br}           [F9]8[FA]ノ[F9]は[FC]エポポス{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E370",
+  "addr": "87:E370",
+  "len": 66,
+  "jp": "qメ{br}ナチュラルパークの[F9]Fにいる、[FA]ボ[FC]iを{br}[F9]ィった[FA]づの[F9][FA]がとても[F9]テになるんです。{br}[F9]2[F9]けで[F9]まをしているんでしょう？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E3B2",
+  "addr": "87:E3B2",
+  "len": 15,
+  "jp": "[F9]D[F9]けランナーに[FB]ぢわれた{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E3C1",
+  "addr": "87:E3C1",
+  "len": 46,
+  "jp": "とんでもなく[FA]jいランナーに[FB]ぢわれた。{br}      [F9]8[FA]ノ[F9]は[FC]エ[F9]2ッ[F9]Cのスネイク{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E3EF",
+  "addr": "87:E3EF",
+  "len": 59,
+  "jp": "q○rる{br}[FA]J[FA]K[FA]ぁでランナーを[F9]メう[F9]ち[F9]つをしてたら{br}いきなり[FB]こいボディのランナーが{br}[FB]ぢって[FA]はやがった。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E42A",
+  "addr": "87:E42A",
+  "len": 61,
+  "jp": "あっと[F9]カう[F9]そにランナーはスクラップに{br}なっちまったよ。[F9]ぅは[F9]％かったけど、{br}そいつには[F9]テをつけた[F9]さが[FA]ゆいぜ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E467",
+  "addr": "87:E467",
+  "len": 11,
+  "jp": "デイモンの[FA]＆し[F9]さ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E472",
+  "addr": "87:E472",
+  "len": 47,
+  "jp": "デイモンの[FA]＆し[F9]さを[F9]ウえてやるぜ。{br}        [F9]8[FA]ノ[F9]は[FC]エ[F9]し[F9]ァ[FA]『のジョン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E4A1",
+  "addr": "87:E4A1",
+  "len": 70,
+  "jp": "r3ru{br}デイモンに[FB]ぁ[F9]ゲがかかったんで、[F9]l[F9]{end}を{br}[FA]＆そうと[F9]ヤ[F9]ァになっているようだな。{br}[F9]ぅが[F9]2つ[FA]ゆい[F9]つを[F9]ウえてやろう。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E4E7",
+  "addr": "87:E4E7",
+  "len": 64,
+  "jp": "[F9]{end}と[FA]デう[F9]＝には、アセらない[F9]つだ。{br}じっくり[FA]デっていれば、[F9]ヤずチャンスが{br}[F9]ヌえて[FA]はる。まぁ、[FA]だ[FA]ぢる[F9]つだな。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E527",
+  "addr": "87:E527",
+  "len": 9,
+  "jp": "[F9]！[FA]x[F9]つ[FB]せ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E530",
+  "addr": "87:E530",
+  "len": 43,
+  "jp": "[F9]！[FA]x[F9]つ[FB]せがおきたらしいッスよ。{br}          [F9]8[FA]ノ[F9]は[FC]エハイエナ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E55B",
+  "addr": "87:E55B",
+  "len": 65,
+  "jp": "sス{br}CTIが[F9]ケまえていた[FA]え[FA]お[F9]X[F9]Yの[F9]け[F9]そが{br}[F9]！[FA]xしたらしいッスよ。{br}CTIはこの[F9]つを[FB]V[F9]ャしてないスけど。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E59C",
+  "addr": "87:E59C",
+  "len": 13,
+  "jp": "[FA]j[F9]ヅな[FB]で[FC]ぱの[F9]N{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E5A9",
+  "addr": "87:E5A9",
+  "len": 47,
+  "jp": "どこかに[FA]j[F9]ヅな[FB]で[FC]ぱがあるという[F9]N。{br}     [F9]8[FA]ノ[F9]は[FC]エクスリ[FA]ものサムソン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E5D8",
+  "addr": "87:E5D8",
+  "len": 55,
+  "jp": "sktせ{br}エリア13のパーツショップとかでも{br}[FA] ってないような[FA]j[F9]ヅな[FB]で[FC]ぱがどこかに{br}あるらしいぜ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E60F",
+  "addr": "87:E60F",
+  "len": 41,
+  "jp": "[F9]までも、その[FB]で[FC]ぱには『ギガイアス』{br}とかいう[F9]ぇ[F9]むがついているらしいぜ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E638",
+  "addr": "87:E638",
+  "len": 11,
+  "jp": "[F9]L[FA]ほ[FA]まの[F9]ーき{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E643",
+  "addr": "87:E643",
+  "len": 45,
+  "jp": "[F9]ら[F9]りの[F9]L[FA]ほ[FA]まの[F9]ーきについて。{br}      [F9]8[FA]ノ[F9]は[FC]エチクリ[FA]もブラウン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E670",
+  "addr": "87:E670",
+  "len": 63,
+  "jp": "tメ{br}[F9]ら[F9]り、[F9]L[FA]ほ[FA]まの[F9]さが[FB]ゼがしいぜ。{br}どうやら、ババリアの[F9]{end}らが{br}[F9]まかデカイ[F9]つを[FB]ィんでいるみたいだぜ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E6AF",
+  "addr": "87:E6AF",
+  "len": 16,
+  "jp": "[F9]と[F9]な[F9]ホ[FC]ジの[F9]ホ[F9]マ[F9]ム{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E6BF",
+  "addr": "87:E6BF",
+  "len": 46,
+  "jp": "[F9]ホ[F9]マ[F9]ムにはモンスターがたくさんいた。{br}     [F9]8[FA]ノ[F9]は[FC]エクスリ[FA]ものサムソン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E6ED",
+  "addr": "87:E6ED",
+  "len": 67,
+  "jp": "t＆{br}[F9]と[F9]な[F9]ホ[FC]ジの[F9]ホ[F9]マで、ウラル[F9]と[F9]なへ{br}つながっている[F9]マ[F9]ミ[F9]ムを[F9]ヌつけたけど{br}モンスターがいて[F9]{endFE}めなかったぜ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E730",
+  "addr": "87:E730",
+  "len": 18,
+  "jp": "[FA]チ[FC]メ[FC]エ24 [F9]だ[FB]プ[FC]エ[F9]サ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E742",
+  "addr": "87:E742",
+  "len": 72,
+  "jp": "[F9]ぼ[FB]ブの[F9]く[F9]け[FB]Vで、[F9]r[F9]ム[F9]s[FA]Pちの[FC]モ[FC]ヤ。{br}18[FA]Vで[F9]ラに[F9]ふ[FB]じするが、5[FA]チ[FA]けに{br}ある[F9]つ[FB]せをきっかけに[FB]ず[FB]じする。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E78A",
+  "addr": "87:E78A",
+  "len": 18,
+  "jp": "[FA]チ[FC]メ[FC]エ22 [F9]だ[FB]プ[FC]エ[FA]づ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E79C",
+  "addr": "87:E79C",
+  "len": 44,
+  "jp": "{c0C:01}の[F9]c[F9]げ[F9]は。{br}チャイニーズマフィア『[F9]b[F9]S』のボス、{br}タオの[F9]2[F9]け[F9]R。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E7C8",
+  "addr": "87:E7C8",
+  "len": 60,
+  "jp": "{c0C:01}の[F9]c[F9]げ[F9]は。[F9]シ[F9]c[F9]Wの[F9]む[F9]た、{br}[FA]や[F9]qや[F9]X[F9]Y『[F9]b[F9]S』の[F9]ね[F9]マ[F9]gと[FA]たに{br}[F9]D[FB]ルされる。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E804",
+  "addr": "87:E804",
+  "len": 18,
+  "jp": "[FA]チ[FC]メ[FC]エ55 [F9]だ[FB]プ[FC]エ[F9]サ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E816",
+  "addr": "87:E816",
+  "len": 62,
+  "jp": "ジャンクヤードにいくつかのガレージを{br}[F9]ィつランナーの[FC]は[FA]シ[FA]も。{c0C:01}に{br}[FA]ら[F9]＆のガレージの[F9]2[F9]ねを[F9]ギしている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E854",
+  "addr": "87:E854",
+  "len": 53,
+  "jp": "[FC]のの[F9]ひつランナーの[FC]は[FA]シ[FA]も。{br}[FA]キ[FB]ヂはレジスタンスと[FA]たにエリア1の{br}[F9]ホ[F9]マに[FB]オっている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E889",
+  "addr": "87:E889",
+  "len": 18,
+  "jp": "[FA]チ[FC]メ[FC]エ57 [F9]だ[FB]プ[FC]エ[F9]サ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E89B",
+  "addr": "87:E89B",
+  "len": 52,
+  "jp": "エリア11にあるチャイナタウンを{br}[F9]ごねる[F9]X[F9]Y『[F9]b[F9]S』のボス。{br}アイリーンの[FA]や[F9]qでもある。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E8CF",
+  "addr": "87:E8CF",
+  "len": 61,
+  "jp": "エリア11にあるチャイナタウンを{br}[F9]ごねる[F9]X[F9]Y『[F9]b[F9]S』のボスだったが、{br}[F9]Rのアイリーンと[FA]たに[F9]D[FB]ルされる。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E90C",
+  "addr": "87:E90C",
+  "len": 18,
+  "jp": "[FA]チ[FC]メ[FC]エ41 [F9]だ[FB]プ[FC]エ[FA]づ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E91E",
+  "addr": "87:E91E",
+  "len": 64,
+  "jp": "エリア2にある[F9]r[F9]ム[F9]sの[F9]s[FA]ャ。{br}[F9]r[F9]ム[F9]s[F9]むに[FA]ブてられていた{c0C:01}を{br}[FA]Pてた。{c0C:01}の[FA]ュ[F9]q[FA]）な[FB]I[FB]ヂ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E95E",
+  "addr": "87:E95E",
+  "len": 20,
+  "jp": "[FA]チ[FC]メ[FC]エ[F9]し[F9]お [F9]だ[FB]プ[FC]エなし{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E972",
+  "addr": "87:E972",
+  "len": 56,
+  "jp": "ランナーとパイロットのパイプ[F9]ぺを{br}[FC]なたすナビゲーションロボット。{br}リフがスクラップ[FA]オき[F9]なで[F9]ヌつけた。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E9AA",
+  "addr": "87:E9AA",
+  "len": 18,
+  "jp": "[FA]チ[FC]メ[FC]エ18 [F9]だ[FB]プ[FC]エ[FA]づ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E9BC",
+  "addr": "87:E9BC",
+  "len": 59,
+  "jp": "[FA]づだてらにランナーを[F9]メう[F9]ば[F9]ア。{br}[FA]ニ[F9]れオテンバだが、カワイイ[FA]づ[F9]だ。{br}サイコダイブを[FA]ぉ[F9]ペとしている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87E9F7",
+  "addr": "87:E9F7",
+  "len": 20,
+  "jp": "[FA]チ[FC]メ[FC]エ[F9]し[F9]お [F9]だ[FB]プ[FC]エなし{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87EA0B",
+  "addr": "87:EA0B",
+  "len": 53,
+  "jp": "イオンのパートナーをつとめる{br}ナビゲーションロボットで、[FA]づ[F9]だ[FC]ミの{br}[F9]け[FA]トが[FA]ナり[F9]ずまれている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87EA40",
+  "addr": "87:EA40",
+  "len": 18,
+  "jp": "[FA]チ[FC]メ[FC]エ44 [F9]だ[FB]プ[FC]エ[F9]サ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87EA52",
+  "addr": "87:EA52",
+  "len": 56,
+  "jp": "CTI[FB]ね[FA]8[F9]ねの[F9]ね[FA]ャ。{br}[F9]t[FA]い[F9]はだが[FA]ら[F9]＆より[F9]ひ[F9]なの[FC]ノい[F9]け[F9]そには{br}[FA]ゥ[F9]aが[F9]できい。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87EA8A",
+  "addr": "87:EA8A",
+  "len": 68,
+  "jp": "CTI[FB]ね[FA]8[F9]ねの[F9]ね[FA]ャだったが、{br}ババリアに[F9]ヲり[F9]ふって[F9]ス[FA]ャのポストに。{br}[F9]ぼ[F9]けは[F9]H[F9]Iされた[F9]つに[F9]テづいていない。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87EACE",
+  "addr": "87:EACE",
+  "len": 18,
+  "jp": "[FA]チ[FC]メ[FC]エ26 [F9]だ[FB]プ[FC]エ[F9]サ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87EAE0",
+  "addr": "87:EAE0",
+  "len": 47,
+  "jp": "CTI[FB]ね[FA]8[F9]ス[F9]や。{br}CTIと{c0C:01}との[FC]ヨ[F9]Jし[F9]ぺ。{br}[F9]っは[F9]f[F9]だ[F9]d[F9]はである。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87EB0F",
+  "addr": "87:EB0F",
+  "len": 50,
+  "jp": "[F9]ヨCTI[FB]ね[FA]8[F9]ス[F9]や。{br}ババリアのCTI[FB]カ[FC]リの[F9]ヴに、{br}グロリアと[FA]たにCTIを[F9]いる。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87EB41",
+  "addr": "87:EB41",
+  "len": 18,
+  "jp": "[FA]チ[FC]メ[FC]エ40 [F9]だ[FB]プ[FC]エ[FA]づ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87EB53",
+  "addr": "87:EB53",
+  "len": 58,
+  "jp": "CTI[FB]u[F9]ゼ[FB]r[F9]オ[F9]ス[F9]ス[FA]ャ。{br}[FB]し[FB]さ『ピラーニャ・プレタ』に[FA]Oして{br}[FA]ス[FB]プな[F9]ツ[FB]りを[F9]ィっている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87EB8D",
+  "addr": "87:EB8D",
+  "len": 62,
+  "jp": "[F9]ヨCTI[FB]u[F9]ゼ[FB]r[F9]オ[F9]ス[F9]ス[FA]ャ。{br}[FA]キ[FB]ヂは[FA]ぁを[FB]カ[FC]リしたババリアに[FA]Oして{br}[FA]y[FB]ぅ[FB]ネ[F9]ーを[F9]こっている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87EBCB",
+  "addr": "87:EBCB",
+  "len": 20,
+  "jp": "[FA]チ[FC]メ[FC]エ[F9]し[F9]お [F9]だ[FB]プ[FC]エ[F9]サ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87EBDF",
+  "addr": "87:EBDF",
+  "len": 59,
+  "jp": "バイオモンスターを[FB]ヅいてテロ[FB]ネ[F9]ーを{br}[F9]こっている、[FB]ガのバイオモンスター。{br}ライオンのようなたてがみを[F9]ィつ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87EC1A",
+  "addr": "87:EC1A",
+  "len": 60,
+  "jp": "ババリアに[FA]O[FB]ぅするレジスタンスを{br}[F9]X[F9]Yしているバイオモンスター。{br}[FA]キ[FB]ヂは[F9]ホ[F9]マアジトに[FB]オ[FC]ルしている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87EC56",
+  "addr": "87:EC56",
+  "len": 20,
+  "jp": "[FA]チ[FC]メ[FC]エ[F9]し[F9]お [F9]だ[FB]プ[FC]エ[F9]サ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87EC6A",
+  "addr": "87:EC6A",
+  "len": 54,
+  "jp": "[FA]え[FA]お[FB]ギ[FB]グ『ババリア』のボス。{br}[FB]0[FA]ヘ[F9]はの[F9]2[FA]セもあり、{br}バイオ[F9]0[F9]1に[F9]ヅを[F9]ふれている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87ECA0",
+  "addr": "87:ECA0",
+  "len": 20,
+  "jp": "[FA]チ[FC]メ[FC]エ[F9]し[F9]お [F9]だ[FB]プ[FC]エ[F9]サ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87ECB4",
+  "addr": "87:ECB4",
+  "len": 54,
+  "jp": "[F9]ラ[F9]＝[FA]び、{c0C:01}と[F9]fじ[F9]ね[FB]じに{br}[F9] [FC]ソしていた[FA]デ[FA]ジ。{br}{c0C:01}とはウマが[F9]ゼう[F9]け[F9]そだった。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87ECEA",
+  "addr": "87:ECEA",
+  "len": 18,
+  "jp": "[FA]チ[FC]メ[FC]エ21 [F9]だ[FB]プ[FC]エ[FA]づ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87ECFC",
+  "addr": "87:ECFC",
+  "len": 42,
+  "jp": "ソリッドシティで1[F9]ぬの[F9]け[F9]テ[FC]レ[F9]ヒ。{br}アイリーンにそっくりな[FA]ヂをしている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87ED26",
+  "addr": "87:ED26",
+  "len": 18,
+  "jp": "[FA]チ[FC]メ[FC]エ46 [F9]だ[FB]プ[FC]エ[F9]サ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87ED38",
+  "addr": "87:ED38",
+  "len": 71,
+  "jp": "[F9]ヨ[FC]げ[FA]sで、[FB]ュ[F9]2[FB]ちから[FA]{endFE}いた[FA]けに{br}ババリアに[FA]『を[FA]オく。[F9]ぞ[F9]ヅの[F9]ぢさを{br}[FA]わわれ、[F9]っ[F9]こ[F9]ね[FB]じを[FB]ヅいるまでになる。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87ED7F",
+  "addr": "87:ED7F",
+  "len": 18,
+  "jp": "[FA]チ[FC]メ[FC]エ26 [F9]だ[FB]プ[FC]エ[F9]サ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87ED91",
+  "addr": "87:ED91",
+  "len": 33,
+  "jp": "[FB]ッい[FB]く[F9]るの[FB]こ[F9]け。{br}ドラッグについて[F9]おしい[FB]ガの[F9]サ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87EDB2",
+  "addr": "87:EDB2",
+  "len": 38,
+  "jp": "[FA]え[FA]お[F9]X[F9]Y『バイビジブル』の[F9]2[F9]や。{br}ランナーの[FA]レいも[FA]ぉ[F9]ペ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87EDD8",
+  "addr": "87:EDD8",
+  "len": 18,
+  "jp": "[FA]チ[FC]メ[FC]エ45 [F9]だ[FB]プ[FC]エ[F9]サ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87EDEA",
+  "addr": "87:EDEA",
+  "len": 62,
+  "jp": "[FA]え[FA]お[F9]X[F9]Y『バイビジブル』のボスだが、{br}[F9]っはCTIのエージェント。{br}グロリア[F9][F9][FC]ソの[F9]ね[F9]マとして[F9]ーいていた。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87EE28",
+  "addr": "87:EE28",
+  "len": 20,
+  "jp": "[FA]チ[FC]メ[FC]エ[F9]し[F9]お [F9]だ[FB]プ[FC]エ[F9]サ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87EE3C",
+  "addr": "87:EE3C",
+  "len": 58,
+  "jp": "『ババリア』の[F9]Dし[FA]も。{br}[F9]X[F9]Yの[F9]。[FC]がで『[F9]b[F9]S』を[FB]ぢ[FB]い、{br}タオやアイリーンを[F9]D[FB]ルした[FA]え[F9]け。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87EE76",
+  "addr": "87:EE76",
+  "len": 20,
+  "jp": "[FA]チ[FC]メ[FC]エ[F9]し[F9]お [F9]だ[FB]プ[FC]エ[F9]サ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87EE8A",
+  "addr": "87:EE8A",
+  "len": 58,
+  "jp": "『デイモン』の[FA]ユ[FA]b[F9]は。{br}[FA]」[F9]む、カークの[FB]ナの[F9]く[F9]けと[FA]たに{br}[FB]9[FA]ほ[FA]びランナーの[F9]モ[F9]8をしていた。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87EF56",
+  "addr": "87:EF56",
+  "len": 59,
+  "jp": "[F9]め[F9]もロボット。[F9]2[FA]コにも[FC]ケく[F9]メわれている。{br}[FA]デ[FB]シ[F9]Iに[F9]、られたものではないので、あまり{br}[FA]jくない。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87EF91",
+  "addr": "87:EF91",
+  "len": 41,
+  "jp": "DMA−01を[FA]j[FB]ぐしたタイプ。{br}[FA]デ[FB]シ[F9]ぞ[F9]ヅの[F9]ュ[FA]ねがはかられている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87EFBA",
+  "addr": "87:EFBA",
+  "len": 41,
+  "jp": "DMAシリーズの[F9]ら[F9]わタイプ。{br}[FA]p[FB]い[F9]Iのアームが[F9]ヲり[FA]ゲけられている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87EFE3",
+  "addr": "87:EFE3",
+  "len": 71,
+  "jp": "[FA]ぺ[FC]コのランナー。[FB]で[F9]▼を[FA]ゲければ[F9]ひ[F9]ハに{br}[FA]デ[FB]シ[F9]Iとして[F9]メえる[FA]○、[F9]モ[FA]％したての[F9]ば[F9]ア{br}などには[F9]づ[FA]るがられている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87F02A",
+  "addr": "87:F02A",
+  "len": 73,
+  "jp": "バイオ[FA]l[FA]mとランナー[FA]l[FA]mから[F9]、られた{br}バイオランナーとでも[F9]カうべき[F9]O。[F9][F8][F9]Bい{br}[F9]ーきを[FA]ぅかした[FA]p[FB]いを[FA]ぉ[F9]ペとしている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87F073",
+  "addr": "87:F073",
+  "len": 45,
+  "jp": "[F9]ヨ[F9]』は[F9]ラ[F9]つ[F9]Iに[F9]モ[F9]8されたランナー。なめ{br}らかな[F9]の[F9]ヌのフォルムを[F9]ィつ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87F0A0",
+  "addr": "87:F0A0",
+  "len": 64,
+  "jp": "ババリアのランナー。[F9]バ[F9]ー[F9]だに[F9]づ[FB]タをおいた{br}[FA]ユ[FA]bがなされている。[F9]ヘ[FB]ぶでのスパイ[F9]こ[F9]ーを{br}[FA]ぉ[F9]ペにしている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87F0E0",
+  "addr": "87:F0E0",
+  "len": 40,
+  "jp": "[FC]セ[FA]ョタイプのランナー。[FB]ッ[FC]セ[FB]ぐせずに[F9]バ[F9]ー[F9]だ{br}を[F9]−[FC]ロしている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87F108",
+  "addr": "87:F108",
+  "len": 41,
+  "jp": "ババリアのランナー。ジャンプ[F9]ヅを[FA]ねげる[FA]○{br}に[FC]ワ[F9]ねが[FA]j[FB]ぐされている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87F131",
+  "addr": "87:F131",
+  "len": 38,
+  "jp": "ババリアのランナー。[FA]ャ[F9]＝[F9]その[FA]デ[FB]シを[FA]{end}えて{br}[FA]ユ[FA]bされている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87F157",
+  "addr": "87:F157",
+  "len": 51,
+  "jp": "[F9]ニのランナーを[FC]リ[FA]＆する、[F9]ぢ[F9]だ[F9]ぞランナー。{br}[F9]ポ[F9]ねに[FB]ぶ[FA]らのメカニズムを[F9]ィっている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87F18A",
+  "addr": "87:F18A",
+  "len": 43,
+  "jp": "ババリアのランナー。[FC]の[F9]ねが[FA]j[FB]ぐされていて{br}[FA]ト[FB]シ[FA]デを[FA]ぉ[F9]ペにしている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87F1B5",
+  "addr": "87:F1B5",
+  "len": 42,
+  "jp": "バイオ[FA]l[FA]mを[F9]ヲり[F9]ふれて[F9]、られたバイオラン{br}ナー。[F9]エ[F9]けで[F9]ー[F9]、する。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87F1DF",
+  "addr": "87:F1DF",
+  "len": 46,
+  "jp": "[FB]れ[F9]ー[FC]テ[FC]ぐのようなメカ。[FA]デ[FB]シ[F9]Iに[F9]、られた[FA]○{br}[FB]で[F9]▼があらわになっている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87F20D",
+  "addr": "87:F20D",
+  "len": 44,
+  "jp": "ジャスティスで[F9]エ[FA]ちを[FC]ヲっているランナー。{br}[FA]ト[FB]シ[FA]l[FA]デを[FA]ぉ[F9]ペにしている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87F239",
+  "addr": "87:F239",
+  "len": 50,
+  "jp": "[F9]ラ[F9]つ[F9]Iに[F9]モ[F9]8された[F9]づ[FC]セ[FB]Lランナー。[F9]で[FC]ミ[FB]ぐ{br}されている[F9]＆、[FB]ヨ[F9]ヅが[FA]jい。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87F26B",
+  "addr": "87:F26B",
+  "len": 59,
+  "jp": "ハロルド[F9]で[FC]ンの[F9]メう[F9]ラ[F9]Iランナー。[FB]ど[FC]のに{br}ガトリングガン、[FB]ど[F9]wにミサイルポッドを{br}[F9]▼[F9]もしている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87F2A6",
+  "addr": "87:F2A6",
+  "len": 43,
+  "jp": "バイジブルのレクターが[F9]メうランナー。{br}デザインから[F9]タて[FA]ス[F9]プで[F9]、られている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87F2D1",
+  "addr": "87:F2D1",
+  "len": 41,
+  "jp": "バイジブルのブランドルが[F9]メうランナー。{br}やはりこれも[FA]ス[F9]プで[F9]、られている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87F2FA",
+  "addr": "87:F2FA",
+  "len": 62,
+  "jp": "[FA]づ[F9]ば[F9]アイオンが[F9]メうランナー。ナビロボは{br}パートナーのミネルバ。ラヴィアンをベー{br}スにしてチューンアップされている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87F338",
+  "addr": "87:F338",
+  "len": 41,
+  "jp": "ライオンのような[F9]ッのバイオモンスター。{br}たてがみが[FC]ガ[F9]ヒのようになっている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87F361",
+  "addr": "87:F361",
+  "len": 38,
+  "jp": "イヌの[FB]C[F9]G[F9][FA]に[F9]ヒを[FB]tえて[F9]、られた[FC]ギ[FB]ゾの{br}バイオモンスター。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87F387",
+  "addr": "87:F387",
+  "len": 49,
+  "jp": "マウンテンゴリラの[FB]C[F9]G[F9][FA]を[F9]M[F9]、して[F9]、ら{br}れたバイオモンスター。[FB]が[F9]ヅの[F9]ィち[F9]く。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87F3B8",
+  "addr": "87:F3B8",
+  "len": 46,
+  "jp": "バイオ[F9]0[F9]1[F9] から[F9]コげ[F9]いしたバイオモンス{br}ターの[F9]2[FC]ず。[F9]ぢい[F9]ゃ[F9]ぞを[F9]ィつ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87F3E6",
+  "addr": "87:F3E6",
+  "len": 37,
+  "jp": "ワーウルフのような[F9]ッをしたバイオモンス{br}ター。[F9]ぢい[F9]ゃ[F9]ぞを[F9]ィつ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87F40B",
+  "addr": "87:F40B",
+  "len": 44,
+  "jp": "トカゲと[F9]け[F9]その[F9]（[F9]その[F9]ッをしたバイオモン{br}スター。[FA]ャいシッポを[F9]ィっている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87F437",
+  "addr": "87:F437",
+  "len": 51,
+  "jp": "[F9]け[F9]その[FB]C[F9]G[F9][FA]を[F9]M[F9]、して[F9]、られたバイオモ{br}ンスター。[F9]ソの[F9]ャ[FA]セがドロドロしている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87F46A",
+  "addr": "87:F46A",
+  "len": 49,
+  "jp": "バイオ[FA]l[FA]mとランナー[FA]l[FA]mを[F9]Xみ[F9]ゼわせて{br}[F9]、られた[F9]っ[F9]3タイプのバイオモンスター。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87F49B",
+  "addr": "87:F49B",
+  "len": 45,
+  "jp": "ドロ[F9]け[FA]aのような[F9]ッのバイオモンスター。{br}[F9]ソの[FC]ざ[F9]ね[F9]＆があいまいになっている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87F4C8",
+  "addr": "87:F4C8",
+  "len": 43,
+  "jp": "コウモリのような[FB]ゾを[F9]ィったバイオモンス{br}ター。[F9]bい[F9]な[F9] に[FA]ぅ[F9]Pしている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87F4F3",
+  "addr": "87:F4F3",
+  "len": 43,
+  "jp": "トカゲのような[F9]ッのバイオモンスター。{br}[F9]ソのトゲが[FA]j[F9]ヅな[FB]で[FC]ぱになっている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87F51E",
+  "addr": "87:F51E",
+  "len": 44,
+  "jp": "バイオモンスターの[F9]（でもかなり[F9]ぢい[F9]ゃ[F9]ぞ{br}を[F9]ィっている。[F9]ヒ[F9]ゴがやや[FA]ャい。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87F54A",
+  "addr": "87:F54A",
+  "len": 45,
+  "jp": "[FC]グ[F9]でなカブトガニのような[F9]ッのバイオモン{br}スター。たくさんの[F9][FA][FA]どを[FA]ョみ[F9]いす。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87F577",
+  "addr": "87:F577",
+  "len": 41,
+  "jp": "フィクションの[FA]ほ[FA]まの[FA]ぅ[F9]O、ドラゴンの{br}ような[F9]ッをしたバイオモンスター。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87F5A0",
+  "addr": "87:F5A0",
+  "len": 55,
+  "jp": "バイオモンスターばかりで[FA]サ[FB]6された{br}テロリスト[FB]ギ[FB]グのリーダー。{br}ランナー[FC]mの[FA]jさを[F9]ィっている。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "database_87F5D7",
+  "addr": "87:F5D7",
+  "len": 63,
+  "jp": "[F9]づ[FC]セ[FB]Lランナー。[FC]す[FB]ぞ[F9]ヅに[F9]づ[FB]タを[FA]オいた{br}[FA]ユ[FA]bになっている。{br}ただしその[FA]びわりに、[F9]バ[F9]ー[F9]だに[FC]」る。{end}",
+  "en": "",
+  "notes": ""
+ }
+]

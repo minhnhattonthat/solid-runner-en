@@ -1,0 +1,306 @@
+[
+ {
+  "id": "loose_908366",
+  "addr": "90:8366",
+  "len": 20,
+  "jp": "[FC] [FB]ヤカートリッジの[FA]G[FA]H[F9]？[FC]シ{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "loose_9083EB",
+  "addr": "90:83EB",
+  "len": 28,
+  "jp": "おおっと、{c0C:02}{br}このままリタイアしてしまうのかぁ！！{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "loose_908409",
+  "addr": "90:8409",
+  "len": 16,
+  "jp": "  リタイアする{br}  [FA]グける{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "loose_908499",
+  "addr": "90:8499",
+  "len": 10,
+  "jp": "がんばってくれよ！{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "loose_90DD15",
+  "addr": "90:DD15",
+  "len": 18,
+  "jp": "「[FA]ちニ[FA]p[FB]いガ[F9]ぱタリマシタ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "loose_90DD76",
+  "addr": "90:DD76",
+  "len": 18,
+  "jp": "「コチラノ[FA]p[FB]いガ[F9]のレマシタ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "loose_90DDF4",
+  "addr": "90:DDF4",
+  "len": 21,
+  "jp": "「コンディションイエロー、[F9]プ[F9]ペしろ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "loose_90DFF0",
+  "addr": "90:DFF0",
+  "len": 18,
+  "jp": "「[F9]▼[FC]ひガ[FB]ウニ[FA]▼サレマシタ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "loose_90E020",
+  "addr": "90:E020",
+  "len": 23,
+  "jp": "「[F9]ベ[F9]ボ[FB]ぉ[F9]aガ[F9]マガッテシマイマシタ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "loose_90E05A",
+  "addr": "90:E05A",
+  "len": 28,
+  "jp": "「[F9]。[F9]（[FB]ヅト[F9]ぐ[FC]ぽ[FB]ヅガ[F9]マガッテシマイマシタ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "loose_90E07A",
+  "addr": "90:E07A",
+  "len": 17,
+  "jp": "「[F9]▼[FC]ひが[FB]ヨで[FC]rかれたぞ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "loose_90E08F",
+  "addr": "90:E08F",
+  "len": 18,
+  "jp": "「[F9]▼[FC]ひガ[FB]ヨデ[FC]rカレマシタ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "loose_90E0BD",
+  "addr": "90:E0BD",
+  "len": 21,
+  "jp": "「[FA]ちノ[F9]▼[FC]ひヲ[FB]ウデ[FB]うラセマシタ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "loose_90E15C",
+  "addr": "90:E15C",
+  "len": 21,
+  "jp": "「[FA]ちノ[F9]▼[FC]ひヲ[FB]ヨデ[FB]うラセマシタ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "loose_90E22C",
+  "addr": "90:E22C",
+  "len": 24,
+  "jp": "「[FA]ちカラノ[FA]p[FB]いハ[F9]エ[FB]＝[FB]ぐサレマシタ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "loose_90E46D",
+  "addr": "90:E46D",
+  "len": 13,
+  "jp": "{c18}を[F9]ヒに[F9]ふれました{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "loose_90E47E",
+  "addr": "90:E47E",
+  "len": 19,
+  "jp": "[F9]メ[F9]I[F9]ぜ[F9]ぞな{c18}を[F9]8[F9]ヌした{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "loose_90E733",
+  "addr": "90:E733",
+  "len": 21,
+  "jp": "[FA]デ[FB]シレベルが{c04:01831800}になりました{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "loose_918BAD",
+  "addr": "91:8BAD",
+  "len": 13,
+  "jp": "{c0C:01}「[F9]ガだ、イオン！{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "loose_918BBF",
+  "addr": "91:8BBF",
+  "len": 22,
+  "jp": "イオン「ミネルバ、サイコダイブ[F9]モ[F9]イよ！{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "loose_918BDA",
+  "addr": "91:8BDA",
+  "len": 36,
+  "jp": "ミネルバ「[F9]ゅ[F9]ょ[FA]▲[F9]そにアクセス。{br}サイコダイブ、スタートします。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "loose_919653",
+  "addr": "91:9653",
+  "len": 54,
+  "jp": "バイスハイト「やるではないか。なるほど、{br}[FB]へ[F9]ヂのランナーには[FA]ーのシステムが[FC]P[FC]Q{br}されているのか。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "loose_9196F1",
+  "addr": "91:96F1",
+  "len": 69,
+  "jp": "バイスハイト「フハハハハ、[F9]エ[FB]モだ[F9]エ[FB]モだ。{br}[F9]Kの[F9]ソは[FA]ギにエネルギーの[FA]ど[FC]Rを[F9]ぶけている{br}のだ。[F9]Kを[FA]＆す[F9]つはできぬ。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "loose_9198D4",
+  "addr": "91:98D4",
+  "len": 59,
+  "jp": "「{c0C:01}、バイスハイトへのエネルギー{br}[FA]ど[FC]R[F9]ヨはストップさせたわ。もうこれで、{br}あいつは[F9]ぐ[FB]Gできないハズよ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "loose_938374",
+  "addr": "93:8374",
+  "len": 22,
+  "jp": "「いつまでこんな[F9]つが[FA]グくのかねぇ[F9]Q。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "loose_93E92A",
+  "addr": "93:E92A",
+  "len": 18,
+  "jp": "「ババリアのボスの[F9]ぇ[F9]むは[F9]Q。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "loose_93E944",
+  "addr": "93:E944",
+  "len": 73,
+  "jp": "バ・{c1A:3C}イ・{c1A:32}ス・{c1A:28}ハ・{c1A:1E}イ・{c1A:14}ト！？{c1A:3C}{br}ミネルバ！ サイコダイブ[F9]（[F9]ほ。{br}[F9]ガすぐ[F9]ゅ[F9]ょ[FA]▲[F9]そから[FB] けるわよ！！{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "loose_93EED3",
+  "addr": "93:EED3",
+  "len": 10,
+  "jp": "[FA]ハA000じゃ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "loose_94A435",
+  "addr": "94:A435",
+  "len": 26,
+  "jp": "カーク「イオンのランナー、{br}ブリガンティアじゃな。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "loose_9583F7",
+  "addr": "95:83F7",
+  "len": 11,
+  "jp": "  はい{br}  いいえ{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "loose_97B8AE",
+  "addr": "97:B8AE",
+  "len": 85,
+  "jp": "{c0C:01}「ピラーニャプレタ[FA]d[FB]＆の[FA]○の{br}[FB]C[F9]G[F9][FA][F9]Xみ[FA]Hえ[F9]っ[F9]3の[FA]4[F9]9[F9]Q[F9]っ[F9]3[FA]ク[FA]Mにより{br}バイオハザード[F9]8[FA]ぅ。[FA]d[FB]＆[FA]{br}は[FA]を[FA]カ[F9]し[F9]す？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "loose_97B90A",
+  "addr": "97:B90A",
+  "len": 40,
+  "jp": "やっぱり[F9]{end}ら、[FC]ざ[F9]ホの[FB]チ[FA]ユであの[FB]さ[F9]テの[F9]0[F9]1{br}をしていたんだな。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "loose_97B933",
+  "addr": "97:B933",
+  "len": 59,
+  "jp": "カーク「じゃが、[F9]まの[FA]○じゃ。まさか[F9]ぼ[F9]ぱに{br}[F9]{end}らが[F9]け[F9]ヂの[FA]○に[F9]0[F9]1をしているとは、[FA]{end}え{br}られんぞ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "loose_A99B2A",
+  "addr": "A9:9B2A",
+  "len": 46,
+  "jp": "カーク「[F9]ヨ[F9]てりにするように[F9]べまれたのは{br}[FB]a[FB]cゾーンの[F9]さのコンピューターじゃぞ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "loose_A9FEEC",
+  "addr": "A9:FEEC",
+  "len": 33,
+  "jp": "[FB]ジ[F9]すコントロールパネルがあります。{br}スイッチを[F9]ふれますか？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "loose_A9FF0E",
+  "addr": "A9:FF0E",
+  "len": 15,
+  "jp": "  [F9]ふれる{br}  やめておく{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "loose_A9FF4F",
+  "addr": "A9:FF4F",
+  "len": 33,
+  "jp": "[FB]ジ[F9]すコントロールパネルがあります。{br}スイッチを[FA]ウりますか？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "loose_A9FF71",
+  "addr": "A9:FF71",
+  "len": 14,
+  "jp": "  [FA]ウる{br}  やめておく{endFE}",
+  "en": "",
+  "notes": ""
+ }
+]

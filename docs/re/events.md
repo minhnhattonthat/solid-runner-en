@@ -32,7 +32,7 @@ Other ops seen around a dialogue: `0E aa bb` (open window with portraits aa-1 / 
 ## Disassembler (verified: `tools/events.py`, `tests/test_events.py`)
 
 Every opcode length and flow op is in `events.py` (`VM_LEN`, comments name the handlers). Recursive descent from all
-roots reaches 2828 entries / 22k instructions / 2876 inline texts with no invalid opcode and no overlapping
+roots (orphans below included) reaches 3011 entries / 23k instructions / 3172 inline texts with no invalid opcode and no overlapping
 instructions; every text roundtrips. Flow: `00` end, `01` park (81:C500: wait FF + flag; nothing after it runs
 unless jumped to), `41` return, `40 p24` call, `42 p16` / `43 p24` jump, `30-37` conditional branches (target16 at
 +5/+7/+4/+6/+4), `45 addr24` switch on a byte with a table of p16 after it (no count: `SWITCH_COUNT` fixes two),
@@ -49,8 +49,13 @@ Roots (`map_entries`, `native_entries`):
   +1; routines A7:F10F/A7:F11E run the VM script at +4 (`TILE_SCRIPT`). Most NPC dialogue comes from here.
 - **Native code**: `$3E-$40` immediates before JSL A7:F1AC (or handler 81:D443 via 80:D813); `$3B-$3D` immediates
   before 81:C13C/C14A (thread) or 81:C266 (spawn the object record there).
-- Not yet reached (phase 4 coverage report): a few scripts with no root found (e.g. 94:A430, 97:B89D, 95:99B1) and
-  native-pointer string lists in the script banks (Turbo File messages 92:AE85-B28C, objectives 92:9700-99B8).
+- **Orphans** (`orphan_entries`, guesses checked by decode): scripts with no root found get one if a 16-bit word in
+  the bank or the byte after a known end op points at them and their chain decodes with every text reading as
+  prose; or, last, a text-op byte (17/18/19/1A) whose text has no latin and from which `sync()` walks back, op by op,
+  to a text terminator or known instruction end (a bare text-op byte is often an argument or inside a text;
+  `LATE_SKIP` lists the ones checked by hand). Result: 3011 entries, 3172 texts, 0 bad, 0 overlaps.
+- Texts no root reaches (mostly after native code, banks 90/91/93/97/A9) are in `tools/strings.py` `loose`, by
+  address: their roots are still unknown (see `coverage.py`).
 
 ## Map loading, story state, battles (verified by the phase-2 warp tool, `tools/debug/`)
 

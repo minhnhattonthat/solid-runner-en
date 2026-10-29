@@ -1,0 +1,19 @@
+# Prose-like runs tools/coverage.py reports that are data, not text: `AAAAAA reason` (address as coverage.py prints it)
+83C1BC repeated byte pairs (TITI...), table data
+83C4E1 00-separated bytes (map/tile data)
+83C610 00-separated bytes (map/tile data)
+83E5DB 00/01 grid, layout data
+90B4BD 00-separated bytes, F8 without a code: data
+90B53D same as 90B4BD
+90C8EF 00-separated bytes, F8 without a code: data
+90C936 same as 90C8EF
+90C97D same as 90C8EF
+90CD1F same as 90C8EF
+90CD6D same as 90C8EF
+91AFDD 00-separated repeated bytes, data
+91B088 00-separated bytes, F8 without a code: data
+92B31B kana-order run (サシスセソ) then repeated bytes: a table after the Turbo File texts
+93BF56 00-separated bytes, data
+95B61E 00-separated bytes, data
+96D9F1 data (latin + 00)
+97FA16 00-separated bytes, data

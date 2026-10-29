@@ -1,9 +1,9 @@
 """Coverage: Japanese prose in the ROM that no extracted string covers.
 
-Scans the text banks for terminated strings (FD/FE/FF) that read as sentences: >= 8 characters, >= 50% hiragana or
-punctuation (events.prose) and at least one of 「、。. Everything found must be covered by script/ or listed with a
-reason in script/not_text.txt (`AAAAAA reason`). Menus and names are too short to gate here; the marker build checks
-them on screen.
+Scans the text banks for terminated strings (FD/FE/FF) that read as Japanese: >= 8 characters whose mean character
+bigram log-probability, under a model of the event script, is above GATE. Everything found must be covered by
+script/ or listed with a reason in script/not_text.txt (`AAAAAA reason`); tests/test_coverage.py gates this. Short
+menus and names score too low to gate here; the marker build checks them on screen.
 
     python -X utf8 tools/coverage.py [--all]     # list uncovered prose; exit 1 if any
 """
@@ -57,7 +57,7 @@ class Bigrams:
         from collections import Counter
         self.uni, self.bi = Counter(), Counter()
         p, n = 0, len(rom)
-        for f in sorted((ROOT / "script").rglob("*.json")):
+        for f in sorted((ROOT / "script" / "events").glob("*.json")):  # not lists/: strings.py filters with this
             for e in json.loads(f.read_text(encoding="utf-8")):
                 bank, lo = e["addr"].split(":")
                 o = off(int(bank + lo, 16))

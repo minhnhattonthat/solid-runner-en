@@ -1,0 +1,346 @@
+[
+ {
+  "id": "turbo_92AEBC",
+  "addr": "92:AEBC",
+  "len": 57,
+  "jp": " ターボファイルが[FA]ゾ[FA]ェ[FB]ぐされていません{br}{br}      [FA]ゾ[FA]ェ[FB]ぐしますか？{br}      はい   いいえ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92AEF5",
+  "addr": "92:AEF5",
+  "len": 22,
+  "jp": "      [FA]ゾ[FA]ェ[FB]ぐ[F9]（です・・・{br}{br}{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92AF0B",
+  "addr": "92:AF0B",
+  "len": 53,
+  "jp": "       バックアップ{br}       ロード{br}       [FC]W[FB]ず{br}       ファイルチェック{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92AF40",
+  "addr": "92:AF40",
+  "len": 20,
+  "jp": "      [FA]{endFD}[F9]オ[F9]（です・・・{br}{br}{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92AF54",
+  "addr": "92:AF54",
+  "len": 38,
+  "jp": "    ターボファイルを[FB] いたり{br}    [F9]ゅ[F9]ゥを[FA]ウらないで[F9]マさい{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92AF7A",
+  "addr": "92:AF7A",
+  "len": 7,
+  "jp": "   ロード{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92AF81",
+  "addr": "92:AF81",
+  "len": 9,
+  "jp": "    [FC]W[FB]ず{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92AF8A",
+  "addr": "92:AF8A",
+  "len": 32,
+  "jp": " このファイルを[FC]W[FB]ずしますか？{br}{br}    はい   いいえ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92AFAA",
+  "addr": "92:AFAA",
+  "len": 20,
+  "jp": "      [FC]W[FB]ず[F9]（です・・・{br}{br}{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92AFBE",
+  "addr": "92:AFBE",
+  "len": 18,
+  "jp": "    ファイルが[F9]ヌつかりません{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92AFD0",
+  "addr": "92:AFD0",
+  "len": 20,
+  "jp": "  バックアップ[F9]ヨを[FA]ハんでください{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92AFE4",
+  "addr": "92:AFE4",
+  "len": 20,
+  "jp": "  バックアップ[FA]ダを[FA]ハんでください{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92AFF8",
+  "addr": "92:AFF8",
+  "len": 9,
+  "jp": "  バックアップ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92B001",
+  "addr": "92:B001",
+  "len": 20,
+  "jp": "    バックアップ[F9]（です・・・{br}{br}{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92B015",
+  "addr": "92:B015",
+  "len": 18,
+  "jp": "     ロード[F9]（です・・・{br}{br}{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92B027",
+  "addr": "92:B027",
+  "len": 33,
+  "jp": "  このファイルを[FA]ね[FC]キきしますか？{br}    はい   いいえ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92B048",
+  "addr": "92:B048",
+  "len": 32,
+  "jp": "  このファイルを[FC]W[FB]ずしますか？{br}    はい   いいえ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92B068",
+  "addr": "92:B068",
+  "len": 31,
+  "jp": "  このファイルをロードしますか？{br}    はい   いいえ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92B087",
+  "addr": "92:B087",
+  "len": 22,
+  "jp": "    ファイルチェック[F9]（です・・・{br}{br}{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92B09D",
+  "addr": "92:B09D",
+  "len": 18,
+  "jp": "    [FB][F9][FA]ギはありませんでした{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92B0AF",
+  "addr": "92:B0AF",
+  "len": 90,
+  "jp": "     [FB][F9][FA]ギが[F9]8[F9]ヌされました{br} メンテナンスを[F9]っ[F9]こすると[FB][F9][FA]ギファイル{br} は[FC]W[FB]ずされます{br}   メンテナンスを[F9]っ[F9]こしますか？{br}      はい   いいえ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92B109",
+  "addr": "92:B109",
+  "len": 20,
+  "jp": "    メンテナンス[F9]（です・・・{br}{br}{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92B11D",
+  "addr": "92:B11D",
+  "len": 19,
+  "jp": "  スタートボタンを[F9]」してください{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92B130",
+  "addr": "92:B130",
+  "len": 33,
+  "jp": "    [F9]っ[FB]ヂしないファンクションを{br}    [F9]っ[F9]こしました{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92B151",
+  "addr": "92:B151",
+  "len": 19,
+  "jp": "     シグネチャーが[FB][F9][FA]ギです{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92B164",
+  "addr": "92:B164",
+  "len": 23,
+  "jp": "   [FB][F9][FA]ギなアドレスが[FC]0[FA]さされました{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92B17B",
+  "addr": "92:B17B",
+  "len": 20,
+  "jp": "    I・Oエラーが[F9]8[FA]ぅしました{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92B18F",
+  "addr": "92:B18F",
+  "len": 19,
+  "jp": "   カセット[F9]ぇにエラーがあります{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92B1A2",
+  "addr": "92:B1A2",
+  "len": 19,
+  "jp": "   ファイル[F9]ぇにエラーがあります{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92B1B5",
+  "addr": "92:B1B5",
+  "len": 19,
+  "jp": "  ファイルヘッダにエラーがあります{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92B1C8",
+  "addr": "92:B1C8",
+  "len": 22,
+  "jp": "  ファイルを[FA]ね[FC]キきしようとしています{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92B1DE",
+  "addr": "92:B1DE",
+  "len": 20,
+  "jp": "    データ[FC]セが1Mを[FC]っえました{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92B1F2",
+  "addr": "92:B1F2",
+  "len": 19,
+  "jp": "     ファイルが[FB]I[FB]ヂしません{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92B205",
+  "addr": "92:B205",
+  "len": 21,
+  "jp": "  チェックサムエラーが[F9]8[FA]ぅしました{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92B21A",
+  "addr": "92:B21A",
+  "len": 21,
+  "jp": "  アクセスワークにアクシデント[F9]8[FA]ぅ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92B22F",
+  "addr": "92:B22F",
+  "len": 19,
+  "jp": "    このファイルは[FA]Qれています{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92B242",
+  "addr": "92:B242",
+  "len": 22,
+  "jp": "  ファイルアクセスの[FB][F8][F9]ぬが[F9]ネいます{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92B258",
+  "addr": "92:B258",
+  "len": 20,
+  "jp": "  ターボファイルがつながっていません{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92B26C",
+  "addr": "92:B26C",
+  "len": 32,
+  "jp": " ターボファイルのプロテクトスイッチを{br} OFFにしてください{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92B28C",
+  "addr": "92:B28C",
+  "len": 23,
+  "jp": " バッテリーの[FA][F9][FC]セが[F9]れなくなっています{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92B2A3",
+  "addr": "92:B2A3",
+  "len": 23,
+  "jp": " ターボファイルが[FA]ゾ[FA]ェ[FB]ぐされていません{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_92B2BA",
+  "addr": "92:B2BA",
+  "len": 20,
+  "jp": "    メンテナンスで[FB][F9][FA]ギ[F9]8[F9]ヌ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "turbo_929F06",
+  "addr": "92:9F06",
+  "len": 12,
+  "jp": "[FA]ハデータがありません{end}",
+  "en": "",
+  "notes": ""
+ }
+]

@@ -1,0 +1,306 @@
+[
+ {
+  "id": "runners_82A1C9",
+  "addr": "82:A1C9",
+  "len": 7,
+  "jp": "DMA−01{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runners_82A1D0",
+  "addr": "82:A1D0",
+  "len": 7,
+  "jp": "DMA−02{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runners_82A1D7",
+  "addr": "82:A1D7",
+  "len": 7,
+  "jp": "DMA−03{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runners_82A1DE",
+  "addr": "82:A1DE",
+  "len": 6,
+  "jp": "ラヴィアン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runners_82A1E4",
+  "addr": "82:A1E4",
+  "len": 8,
+  "jp": "マッドキャット{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runners_82A1EC",
+  "addr": "82:A1EC",
+  "len": 6,
+  "jp": "エミネンス{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runners_82A1F2",
+  "addr": "82:A1F2",
+  "len": 9,
+  "jp": "ミーティアリック{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runners_82A1FB",
+  "addr": "82:A1FB",
+  "len": 4,
+  "jp": "ゲイル{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runners_82A1FF",
+  "addr": "82:A1FF",
+  "len": 6,
+  "jp": "デフィート{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runners_82A205",
+  "addr": "82:A205",
+  "len": 5,
+  "jp": "ドーガン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runners_82A20A",
+  "addr": "82:A20A",
+  "len": 5,
+  "jp": "デイモン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runners_82A20F",
+  "addr": "82:A20F",
+  "len": 4,
+  "jp": "セイヂ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runners_82A213",
+  "addr": "82:A213",
+  "len": 6,
+  "jp": "クリムゾン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runners_82A219",
+  "addr": "82:A219",
+  "len": 8,
+  "jp": "ワイルドハート{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runners_82A221",
+  "addr": "82:A221",
+  "len": 9,
+  "jp": "ヌーヴェルバーグ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runners_82A22A",
+  "addr": "82:A22A",
+  "len": 5,
+  "jp": "ガシップ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runners_82A22F",
+  "addr": "82:A22F",
+  "len": 5,
+  "jp": "メルゴス{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runners_82A234",
+  "addr": "82:A234",
+  "len": 6,
+  "jp": "アマデウス{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runners_82A23A",
+  "addr": "82:A23A",
+  "len": 7,
+  "jp": "ノウブルネス{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runners_82A241",
+  "addr": "82:A241",
+  "len": 6,
+  "jp": "ファントム{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runners_82A247",
+  "addr": "82:A247",
+  "len": 8,
+  "jp": "ブリガンティア{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runners_82A24F",
+  "addr": "82:A24F",
+  "len": 9,
+  "jp": "グリープハンター{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runners_82A258",
+  "addr": "82:A258",
+  "len": 8,
+  "jp": "マッディドッグ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runners_82A260",
+  "addr": "82:A260",
+  "len": 8,
+  "jp": "ウォー・クライ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runners_82A268",
+  "addr": "82:A268",
+  "len": 6,
+  "jp": "グレゴリー{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runners_82A26E",
+  "addr": "82:A26E",
+  "len": 6,
+  "jp": "アキューサ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runners_82A274",
+  "addr": "82:A274",
+  "len": 5,
+  "jp": "リザウガ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runners_82A279",
+  "addr": "82:A279",
+  "len": 8,
+  "jp": "ツイン・ヘッド{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runners_82A281",
+  "addr": "82:A281",
+  "len": 5,
+  "jp": "BR−1{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runners_82A286",
+  "addr": "82:A286",
+  "len": 5,
+  "jp": "ネイバル{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runners_82A28B",
+  "addr": "82:A28B",
+  "len": 5,
+  "jp": "ブーギー{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runners_82A290",
+  "addr": "82:A290",
+  "len": 8,
+  "jp": "ピースリザード{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runners_82A298",
+  "addr": "82:A298",
+  "len": 5,
+  "jp": "ジェンス{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runners_82A29D",
+  "addr": "82:A29D",
+  "len": 6,
+  "jp": "スケルター{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runners_82A2A3",
+  "addr": "82:A2A3",
+  "len": 9,
+  "jp": "ファイアドレイク{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runners_82A2AC",
+  "addr": "82:A2AC",
+  "len": 9,
+  "jp": "ネオバイスハイト{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runners_82A2B5",
+  "addr": "82:A2B5",
+  "len": 5,
+  "jp": "ラオエル{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runners_82A2BA",
+  "addr": "82:A2BA",
+  "len": 7,
+  "jp": "CTICPU{end}",
+  "en": "",
+  "notes": ""
+ }
+]

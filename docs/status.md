@@ -2,23 +2,23 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 4 (extract) in progress. Done-when still open: coverage (`tools/coverage.py` lists 554 uncovered
-  prose strings, about half noise) and the non-VM string lists.
-- **Done (phase 4 so far):** `tools/events.py` VM disassembler (`docs/re/events.md` "Disassembler": every opcode,
-  room scripts, NPC/tile record tables, native roots, validated orphan roots; 3112 inline texts, 0 bad ops, 0
-  overlaps). "Second script format" in $87/$91 is the same VM. `tools/extract.py` dumps `script/events/BB.json`
-  (id `ev_<addr>`, jp/en/len/op; never drops an `en`, `--check` for staleness). Tests: `test_events.py`,
-  `test_extract.py` (roundtrip of every entry, dump up to date).
-- **Next (phase 4):** (1) more VM roots: unreached scripts still visible in `coverage.py` (e.g. A5:A315-A8xx cutscene,
-  95:99CC bar/NPC talk, 93:E7DC, 97:B89D, 94:A430); find who starts them (watch $7E:B297 writes with
-  `lua/probes/watch.lua` in a warp scene, or 16/24-bit refs). (2) `tools/strings.py` + `script/lists/*.json` for
-  native string lists: menus $82 [01448F-] and 82:C8B6 table, items/parts/locations $83 (`text.md`), names
-  87:EEF4, info database 87:CD6D-F59F, Turbo File 92:AE85-B28C (16-bit table at 92:AE6E), mission list
-  92:96F0-99B8, equipment text 93:B29D-B863 (tables 93:B32A, 93:C365), intro crawl 92:8F1F; then pointer tables.
-  (3) `script/not_text.txt` for the noise `coverage.py` reports (map headers `…のXギピ`, `{br}りザそ…「ゲの`
-  object data); then add `coverage.py` to `tools/check.py`. (4) Kanji: 925 distinct codes used; template-match
-  the font cells against a system font, then reviewer subagents (`references/pipeline.md` §Extract encoding) -
-  needed before phase 6, `jp` shows kanji as `[F9]x` until then.
+- **Phase:** 4 (extract) done; next is phase 5 (engine spike + marker build).
+- **Done (phase 4):** `tools/events.py` VM disassembler (`docs/re/events.md` "Disassembler": every opcode, room
+  scripts, NPC/tile record tables, native roots, orphan roots incl. text-op roots synced to op boundaries; 3172
+  inline texts, 0 bad ops, 0 overlaps). "Second script format" in $87/$91 is the same VM. `tools/strings.py`: 20
+  native lists (menus, runner/character names, items, parts, places, info menus + database, intro crawl, missions,
+  Turbo File, equipment, help, name-entry charset, status labels) plus `loose` VM texts no root reaches, by address
+  (`docs/re/text.md` "Where the text is" lists the pointer tables). `tools/extract.py` dumps `script/events/BB.json`
+  and `script/lists/NAME.json` (4057 strings; id `ev_<addr>` / `<list>_<addr>`; never drops an `en`, `--check`).
+  `tools/coverage.py`: uncovered terminated runs whose character-bigram score (model of the event script) passes
+  `GATE`; 0 left, data runs listed in `script/not_text.txt`. Tests: `test_events.py`, `test_extract.py` (roundtrip
+  of every entry, dump current), `test_coverage.py` (no uncovered prose, no overlaps, gate sanity).
+- **Next (phase 5):** marker build per skill; it will show which list starts are wrong (some ranges are guesses at
+  the edges, see `text.md`) and which on-screen text is still Japanese (short menus below the coverage gate:
+  `coverage.py` with `GATE=-5.6` lists ~70 more runs, nearly all data). Kanji: 925 distinct codes used, `jp` shows
+  them as `[F9]x`; template-match the font cells against a system font, then reviewer subagents
+  (`references/pipeline.md` §Recon 4) - needed before phase 6 (translation). `loose` texts still need their roots
+  found (watch $7E:B297 writes) before phase 7 relocates scripts.
 - **Done (phase 3):** `tools/build.py` (dump check, logged `put()` writes, checksum, build/writes.txt; no edits yet),
   `lz.compress` + `lz.blocks`, 3 MiB checksum fix in `tools/bps.py`. `tests/test_identity.py`: build byte-identical
   and romdiff-clean, checksum reproduces the header, all 1361 LZ blocks repack (same data, never bigger). Smoke ok.

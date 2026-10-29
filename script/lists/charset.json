@@ -1,0 +1,122 @@
+[
+ {
+  "id": "charset_93CC7E",
+  "addr": "93:CC7E",
+  "len": 11,
+  "jp": "サシスセソタチツテト{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "charset_93CC89",
+  "addr": "93:CC89",
+  "len": 11,
+  "jp": "ナニヌネノハヒフヘホ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "charset_93CC94",
+  "addr": "93:CC94",
+  "len": 11,
+  "jp": "マミムメモヤユヨ  {end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "charset_93CC9F",
+  "addr": "93:CC9F",
+  "len": 11,
+  "jp": "ラリルレロワヲン  {end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "charset_93CCAA",
+  "addr": "93:CCAA",
+  "len": 11,
+  "jp": "ガギグゲゴザジズゼゾ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "charset_93CCB5",
+  "addr": "93:CCB5",
+  "len": 11,
+  "jp": "ダヂヅデドバビブベボ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "charset_93CCC0",
+  "addr": "93:CCC0",
+  "len": 11,
+  "jp": "パピプペポァィゥェォ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "charset_93CCCB",
+  "addr": "93:CCCB",
+  "len": 11,
+  "jp": "ッャュョヴー？！・ {end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "charset_93CCD6",
+  "addr": "93:CCD6",
+  "len": 11,
+  "jp": "0123456789{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "charset_93CCE1",
+  "addr": "93:CCE1",
+  "len": 11,
+  "jp": "ABCDEFGHIJ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "charset_93CCEC",
+  "addr": "93:CCEC",
+  "len": 11,
+  "jp": "KLMNOPQRST{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "charset_93CCF7",
+  "addr": "93:CCF7",
+  "len": 11,
+  "jp": "UVWXYZ    {end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "charset_93CD02",
+  "addr": "93:CD02",
+  "len": 11,
+  "jp": "abcdefghij{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "charset_93CD0D",
+  "addr": "93:CD0D",
+  "len": 11,
+  "jp": "klmnopqrst{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "charset_93CD18",
+  "addr": "93:CD18",
+  "len": 11,
+  "jp": "uvwxyz    {end}",
+  "en": "",
+  "notes": ""
+ }
+]

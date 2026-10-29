@@ -1,0 +1,1346 @@
+[
+ {
+  "id": "parts_83A642",
+  "addr": "83:A642",
+  "len": 8,
+  "jp": "ウィリスRY1{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A64A",
+  "addr": "83:A64A",
+  "len": 8,
+  "jp": "ウィリスRY2{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A652",
+  "addr": "83:A652",
+  "len": 8,
+  "jp": "ウィリスRY3{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A65A",
+  "addr": "83:A65A",
+  "len": 8,
+  "jp": "ウィリスRY4{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A662",
+  "addr": "83:A662",
+  "len": 8,
+  "jp": "レイヴンRY1{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A66A",
+  "addr": "83:A66A",
+  "len": 8,
+  "jp": "レイヴンRY2{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A672",
+  "addr": "83:A672",
+  "len": 8,
+  "jp": "レイヴンRY3{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A67A",
+  "addr": "83:A67A",
+  "len": 8,
+  "jp": "レイヴンRY4{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A682",
+  "addr": "83:A682",
+  "len": 9,
+  "jp": "ニーメイヤRY1{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A68B",
+  "addr": "83:A68B",
+  "len": 9,
+  "jp": "ニーメイヤRY2{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A694",
+  "addr": "83:A694",
+  "len": 9,
+  "jp": "ニーメイヤRY3{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A69D",
+  "addr": "83:A69D",
+  "len": 9,
+  "jp": "ニーメイヤRY4{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A6A6",
+  "addr": "83:A6A6",
+  "len": 8,
+  "jp": "ガーシュRY1{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A6AE",
+  "addr": "83:A6AE",
+  "len": 8,
+  "jp": "ガーシュRY2{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A6B6",
+  "addr": "83:A6B6",
+  "len": 8,
+  "jp": "ガーシュRY3{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A6BE",
+  "addr": "83:A6BE",
+  "len": 8,
+  "jp": "ギガイアスRY{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A6C6",
+  "addr": "83:A6C6",
+  "len": 9,
+  "jp": "ニーメイヤMG1{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A6CF",
+  "addr": "83:A6CF",
+  "len": 9,
+  "jp": "ニーメイヤMG2{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A6D8",
+  "addr": "83:A6D8",
+  "len": 9,
+  "jp": "ニーメイヤMG3{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A6E1",
+  "addr": "83:A6E1",
+  "len": 9,
+  "jp": "ニーメイヤMG4{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A6EA",
+  "addr": "83:A6EA",
+  "len": 8,
+  "jp": "スワロー1MG{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A6F2",
+  "addr": "83:A6F2",
+  "len": 8,
+  "jp": "コンドル2MG{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A6FA",
+  "addr": "83:A6FA",
+  "len": 8,
+  "jp": "イーグル3MG{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A702",
+  "addr": "83:A702",
+  "len": 8,
+  "jp": "ギガイアスMG{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A70A",
+  "addr": "83:A70A",
+  "len": 8,
+  "jp": "レイヴンSG1{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A712",
+  "addr": "83:A712",
+  "len": 8,
+  "jp": "レイヴンSG2{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A71A",
+  "addr": "83:A71A",
+  "len": 8,
+  "jp": "レイヴンSG3{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A722",
+  "addr": "83:A722",
+  "len": 7,
+  "jp": "ポルド1SG{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A729",
+  "addr": "83:A729",
+  "len": 7,
+  "jp": "ポルド2SG{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A730",
+  "addr": "83:A730",
+  "len": 7,
+  "jp": "ポルド3SG{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A737",
+  "addr": "83:A737",
+  "len": 7,
+  "jp": "AS−1GG{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A73E",
+  "addr": "83:A73E",
+  "len": 7,
+  "jp": "AS−2GG{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A745",
+  "addr": "83:A745",
+  "len": 7,
+  "jp": "AS−3GG{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A74C",
+  "addr": "83:A74C",
+  "len": 7,
+  "jp": "オーク1GG{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A753",
+  "addr": "83:A753",
+  "len": 7,
+  "jp": "ノーム2GG{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A75A",
+  "addr": "83:A75A",
+  "len": 7,
+  "jp": "エルフ3GG{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A761",
+  "addr": "83:A761",
+  "len": 8,
+  "jp": "ウィリスBZ1{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A769",
+  "addr": "83:A769",
+  "len": 8,
+  "jp": "ウィリスBZ2{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A771",
+  "addr": "83:A771",
+  "len": 8,
+  "jp": "ウィリスBZ3{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A779",
+  "addr": "83:A779",
+  "len": 8,
+  "jp": "ウィリスBZ4{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A781",
+  "addr": "83:A781",
+  "len": 8,
+  "jp": "ゴーントBZ1{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A789",
+  "addr": "83:A789",
+  "len": 8,
+  "jp": "ゴーントBZ2{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A791",
+  "addr": "83:A791",
+  "len": 8,
+  "jp": "ゴーントBZ3{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A799",
+  "addr": "83:A799",
+  "len": 8,
+  "jp": "ゴーントBZ4{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A7A1",
+  "addr": "83:A7A1",
+  "len": 8,
+  "jp": "レイジア1MS{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A7A9",
+  "addr": "83:A7A9",
+  "len": 8,
+  "jp": "レイジア2MS{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A7B1",
+  "addr": "83:A7B1",
+  "len": 8,
+  "jp": "レイジア3MS{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A7B9",
+  "addr": "83:A7B9",
+  "len": 8,
+  "jp": "レイジア4MS{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A7C1",
+  "addr": "83:A7C1",
+  "len": 8,
+  "jp": "ベグルド1MS{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A7C9",
+  "addr": "83:A7C9",
+  "len": 8,
+  "jp": "ベグルド2MS{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A7D1",
+  "addr": "83:A7D1",
+  "len": 8,
+  "jp": "ベグルド3MS{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A7D9",
+  "addr": "83:A7D9",
+  "len": 8,
+  "jp": "ベグルド4MS{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A7E1",
+  "addr": "83:A7E1",
+  "len": 8,
+  "jp": "LPーF1MS{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A7E9",
+  "addr": "83:A7E9",
+  "len": 8,
+  "jp": "LPーH2MS{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A7F1",
+  "addr": "83:A7F1",
+  "len": 8,
+  "jp": "LPーJ3MS{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A7F9",
+  "addr": "83:A7F9",
+  "len": 8,
+  "jp": "ギガイアスMS{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A801",
+  "addr": "83:A801",
+  "len": 8,
+  "jp": "ジョブズ1GP{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A809",
+  "addr": "83:A809",
+  "len": 8,
+  "jp": "ジョブズ2GP{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A811",
+  "addr": "83:A811",
+  "len": 8,
+  "jp": "ジョブズ3GP{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A819",
+  "addr": "83:A819",
+  "len": 8,
+  "jp": "ジョブズ4GP{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A821",
+  "addr": "83:A821",
+  "len": 8,
+  "jp": "PBトレント1{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A829",
+  "addr": "83:A829",
+  "len": 8,
+  "jp": "PBトレント2{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A831",
+  "addr": "83:A831",
+  "len": 8,
+  "jp": "PBトレント3{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A839",
+  "addr": "83:A839",
+  "len": 8,
+  "jp": "PBトレント4{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A841",
+  "addr": "83:A841",
+  "len": 7,
+  "jp": "ASベレム1{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A848",
+  "addr": "83:A848",
+  "len": 7,
+  "jp": "ASベレム2{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A84F",
+  "addr": "83:A84F",
+  "len": 7,
+  "jp": "ASベレム3{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A856",
+  "addr": "83:A856",
+  "len": 7,
+  "jp": "ASベレム4{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A85D",
+  "addr": "83:A85D",
+  "len": 8,
+  "jp": "SN1ライデン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A865",
+  "addr": "83:A865",
+  "len": 8,
+  "jp": "SN2ライジン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A86D",
+  "addr": "83:A86D",
+  "len": 9,
+  "jp": "SN3ライリュウ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A876",
+  "addr": "83:A876",
+  "len": 8,
+  "jp": "SN4ライオウ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A87E",
+  "addr": "83:A87E",
+  "len": 8,
+  "jp": "MPナパーム1{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A886",
+  "addr": "83:A886",
+  "len": 8,
+  "jp": "MPナパーム2{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A88E",
+  "addr": "83:A88E",
+  "len": 8,
+  "jp": "MPナパーム3{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A896",
+  "addr": "83:A896",
+  "len": 8,
+  "jp": "MPアシッド1{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A89E",
+  "addr": "83:A89E",
+  "len": 8,
+  "jp": "MPアシッド2{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A8A6",
+  "addr": "83:A8A6",
+  "len": 8,
+  "jp": "MPアシッド3{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A8AE",
+  "addr": "83:A8AE",
+  "len": 8,
+  "jp": "MPポイズン1{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A8B6",
+  "addr": "83:A8B6",
+  "len": 8,
+  "jp": "MPポイズン2{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A8BE",
+  "addr": "83:A8BE",
+  "len": 8,
+  "jp": "MPポイズン3{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A8C6",
+  "addr": "83:A8C6",
+  "len": 6,
+  "jp": "チェイン1{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A8CC",
+  "addr": "83:A8CC",
+  "len": 6,
+  "jp": "チェイン2{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A8D2",
+  "addr": "83:A8D2",
+  "len": 6,
+  "jp": "チェイン3{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A8D8",
+  "addr": "83:A8D8",
+  "len": 17,
+  "jp": "[F9]ヲり[FA]レいが[F9]フ[F9]ヘなライフル{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A8E9",
+  "addr": "83:A8E9",
+  "len": 16,
+  "jp": "[FC]は[FA]ゆ・[FA]j[FB]ぐしたライフル{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A8F9",
+  "addr": "83:A8F9",
+  "len": 15,
+  "jp": "[FA]ノ[F9]べ[F9]だの[F9]ぢいライフル{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A908",
+  "addr": "83:A908",
+  "len": 19,
+  "jp": "[F9]。[F9]（[FB]ヅの[F9]ぢい[FA]ス[F9]プライフル{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A91B",
+  "addr": "83:A91B",
+  "len": 19,
+  "jp": "[F9]2[FA]コ[F9]ュけの[F9]ヘ[F9]8[F9]Wライフル{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A92E",
+  "addr": "83:A92E",
+  "len": 20,
+  "jp": "[FA]p[FB]い[F9]ヅに[F9]づ[FB]タをおいたライフル{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A942",
+  "addr": "83:A942",
+  "len": 21,
+  "jp": "[FA]j[F9]ヅだが[F9]。[F9]（[FB]ヅの[FC]ノいライフル{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A957",
+  "addr": "83:A957",
+  "len": 18,
+  "jp": "レイヴン[FA]ヴの[F9]ら[F9]ぢ[FB]Lライフル{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A969",
+  "addr": "83:A969",
+  "len": 19,
+  "jp": "ニーメイヤ[FA]ヴの[F9]ぢ[F9]だ[F9]ぞライフル{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A97C",
+  "addr": "83:A97C",
+  "len": 17,
+  "jp": "RY1の[FA]け[FC]づタイプのライフル{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A98D",
+  "addr": "83:A98D",
+  "len": 19,
+  "jp": "[FA]8[FA]さした[F9]ぞ[F9]ヅを[F9]ィつライフル{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A9A0",
+  "addr": "83:A9A0",
+  "len": 17,
+  "jp": "[F9]うし[F9]＆ない[F9]だ[F9]ぞのライフル{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A9B1",
+  "addr": "83:A9B1",
+  "len": 22,
+  "jp": "[F9]。[F9]（[FB]ヅより[FA]p[FB]い[F9]ヅ[F9]。のライフル{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A9C7",
+  "addr": "83:A9C7",
+  "len": 17,
+  "jp": "[FA]p[FB]い[F9]ヅだけは[F9]ぢいライフル{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A9D8",
+  "addr": "83:A9D8",
+  "len": 19,
+  "jp": "[FA]p[FB]い[F9]ヅならば[F9]Qというライフル{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A9EB",
+  "addr": "83:A9EB",
+  "len": 17,
+  "jp": "[FA]Qれやすいが[FA]j[F9]ヅなライフル{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83A9FC",
+  "addr": "83:A9FC",
+  "len": 13,
+  "jp": "[FA]び[F9]ャ[FA]）なマシンガン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AA09",
+  "addr": "83:AA09",
+  "len": 13,
+  "jp": "ベストセラーのマシンガン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AA16",
+  "addr": "83:AA16",
+  "len": 16,
+  "jp": "MG2を[FC]は[FA]ゆしたマシンガン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AA26",
+  "addr": "83:AA26",
+  "len": 13,
+  "jp": "[F9]ぢ[F9]だ[F9]ぞのマシンガン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AA33",
+  "addr": "83:AA33",
+  "len": 18,
+  "jp": "アニル[FA]ヴの[F9]ぢ[F9]だ[F9]ぞマシンガン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AA45",
+  "addr": "83:AA45",
+  "len": 14,
+  "jp": "バランスの[FA]ゆいマシンガン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AA53",
+  "addr": "83:AA53",
+  "len": 14,
+  "jp": "めっちゃイケてるマシンガン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AA61",
+  "addr": "83:AA61",
+  "len": 18,
+  "jp": "[FA]Qれやすいが[FA]j[F9]ヅなマシンガン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AA73",
+  "addr": "83:AA73",
+  "len": 21,
+  "jp": "[FC]ケ[FB]を[FA]ペに[FC] を[F9]8[FC]{br}する[FB]で[FC]ぱ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AA88",
+  "addr": "83:AA88",
+  "len": 17,
+  "jp": "SG1を[FA]j[FB]ぐしたショットガン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AA99",
+  "addr": "83:AA99",
+  "len": 18,
+  "jp": "[FA]8[FA]さした[F9]だ[F9]ぞのショットガン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AAAB",
+  "addr": "83:AAAB",
+  "len": 17,
+  "jp": "[F9]。[F9]（[FB]ヅの[F9]ぢいショットガン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AABC",
+  "addr": "83:AABC",
+  "len": 15,
+  "jp": "[F9]け[F9]テの[F9]ぢいショットガン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AACB",
+  "addr": "83:AACB",
+  "len": 19,
+  "jp": "[F9]ぢ[F9]。[F9]（[FB]ヅを[FC]ヲるショットガン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AADE",
+  "addr": "83:AADE",
+  "len": 22,
+  "jp": "[FA]j[F9]ヅなりゅう[FC] を[F9]8[FC]{br}する[FB]で[FC]ぱ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AAF4",
+  "addr": "83:AAF4",
+  "len": 15,
+  "jp": "ロングセラーのグレネードガン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AB03",
+  "addr": "83:AB03",
+  "len": 18,
+  "jp": "[FB]え[FA]ゆい[F9]だ[F9]ぞのグレネードガン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AB15",
+  "addr": "83:AB15",
+  "len": 14,
+  "jp": "アニル[FA]ヴのグレネードガン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AB23",
+  "addr": "83:AB23",
+  "len": 16,
+  "jp": "[F9]け[F9]テの[F9]ぢいグレネードガン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AB33",
+  "addr": "83:AB33",
+  "len": 16,
+  "jp": "[F9]ら[FA]タタイプのグレネードガン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AB43",
+  "addr": "83:AB43",
+  "len": 18,
+  "jp": "ロケット[FC] を[F9]8[FC]{br}する[FB]で[FC]ぱ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AB55",
+  "addr": "83:AB55",
+  "len": 16,
+  "jp": "ウィリス[FA]ヴの[FA]さ[F9]ぬバズーカ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AB65",
+  "addr": "83:AB65",
+  "len": 21,
+  "jp": "[FA]み[FA]トに[F9]ヌ[F9]ゼった[F9]だ[F9]ぞのバズーカ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AB7A",
+  "addr": "83:AB7A",
+  "len": 19,
+  "jp": "[F9]ぢ[FB]ヘ[F9]ヅ、[F9]ぢ[F9]だ[F9]ぞのバズーカ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AB8D",
+  "addr": "83:AB8D",
+  "len": 14,
+  "jp": "ゴーント[FA]ヴ[FA]ゾのバズーカ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AB9B",
+  "addr": "83:AB9B",
+  "len": 13,
+  "jp": "バランスのとれたバズーカ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83ABA8",
+  "addr": "83:ABA8",
+  "len": 16,
+  "jp": "[FA]p[FB]い[F9]ヅに[FB]Qれたバズーカ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83ABB8",
+  "addr": "83:ABB8",
+  "len": 18,
+  "jp": "[F9]ぱたりにくいが[FA]j[F9]ヅなバズーカ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83ABCA",
+  "addr": "83:ABCA",
+  "len": 16,
+  "jp": "ミサイルを[F9]8[FC]{br}する[FB]で[FC]ぱ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83ABDA",
+  "addr": "83:ABDA",
+  "len": 15,
+  "jp": "[FC]は[FA]ゆされたミサイルポッド{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83ABE9",
+  "addr": "83:ABE9",
+  "len": 18,
+  "jp": "[FA]p[FB]い[F9]ヅの[F9]ぢいミサイルポッド{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83ABFB",
+  "addr": "83:ABFB",
+  "len": 13,
+  "jp": "[FA]j[F9]ヅなミサイルポッド{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AC08",
+  "addr": "83:AC08",
+  "len": 20,
+  "jp": "[FA]8[FA]みで[F9]ぢ[F9]だ[F9]ぞなミサイルポッド{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AC1C",
+  "addr": "83:AC1C",
+  "len": 15,
+  "jp": "スタンダードなミサイルポッド{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AC2B",
+  "addr": "83:AC2B",
+  "len": 16,
+  "jp": "バランスの[FA]ゆいミサイルポッド{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AC3B",
+  "addr": "83:AC3B",
+  "len": 19,
+  "jp": "ベグルド[FA]ヴ[FA]ら[FC]ろのミサイルポッド{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AC4E",
+  "addr": "83:AC4E",
+  "len": 16,
+  "jp": "グレードの[F9]ぢいミサイルポッド{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AC5E",
+  "addr": "83:AC5E",
+  "len": 18,
+  "jp": "[F9]。[F9]（[FB]ヅの[F9]ぢいミサイルポッド{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AC70",
+  "addr": "83:AC70",
+  "len": 17,
+  "jp": "LP[FC]』[F9]ら[FA]jのミサイルポッド{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AC81",
+  "addr": "83:AC81",
+  "len": 16,
+  "jp": "とても[FA]j[F9]ヅなミサイルポッド{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AC91",
+  "addr": "83:AC91",
+  "len": 19,
+  "jp": "[F9]で[FC]セの[FC] を[F9]8[FC]{br}する[FB]で[FC]ぱ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83ACA4",
+  "addr": "83:ACA4",
+  "len": 17,
+  "jp": "[F9]タ[F9]ソを[FC]は[FA]ゆしたガンポッド{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83ACB5",
+  "addr": "83:ACB5",
+  "len": 18,
+  "jp": "ジョブス[FA]ヴ3[FA]び[F9]Cのガンポッド{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83ACC7",
+  "addr": "83:ACC7",
+  "len": 18,
+  "jp": "ガンポッドの[F9]ら[F9]ぢ[F9]だ[F9]ぞタイプ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83ACD9",
+  "addr": "83:ACD9",
+  "len": 19,
+  "jp": "[F9]ぢ[FB]ぉでクイを[FB]いち[F9]いす[FB]で[FC]ぱ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83ACEC",
+  "addr": "83:ACEC",
+  "len": 17,
+  "jp": "パイルバンカーの[F9]け[F9]テ[FB]ラ[F9]ョ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83ACFD",
+  "addr": "83:ACFD",
+  "len": 15,
+  "jp": "[F9]ぢ[FB]ヘ[F9]ヅのパイルバンカー{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AD0C",
+  "addr": "83:AD0C",
+  "len": 15,
+  "jp": "[F9]サはやっぱりパイルバンカー{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AD1B",
+  "addr": "83:AD1B",
+  "len": 17,
+  "jp": "[FC]のに[FA]ゲけるトゲ[FA]ィの[FB]で[FC]ぱ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AD2C",
+  "addr": "83:AD2C",
+  "len": 19,
+  "jp": "[FA]8[FA]みで[F9]メいやすいアームスパイク{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AD3F",
+  "addr": "83:AD3F",
+  "len": 19,
+  "jp": "[F9]。[F9]（[FB]ヅの[FB]Qれたアームスパイク{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AD52",
+  "addr": "83:AD52",
+  "len": 17,
+  "jp": "アームスパイクの[F9]ら[F9]ぢ[FB]L[F9]ョ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AD63",
+  "addr": "83:AD63",
+  "len": 19,
+  "jp": "ヒット[F9]＝に[F9]ゅ[FC]ぜを[FC]ぜす[FB]で[FC]ぱ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AD76",
+  "addr": "83:AD76",
+  "len": 15,
+  "jp": "[FC]は[FA]ゆされたスタンナックル{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AD85",
+  "addr": "83:AD85",
+  "len": 14,
+  "jp": "[FA] れ[FB]zのスタンナックル{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AD93",
+  "addr": "83:AD93",
+  "len": 13,
+  "jp": "[F9]ら[FA]jのスタンナックル{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83ADA0",
+  "addr": "83:ADA0",
+  "len": 14,
+  "jp": "[FA]ちを[FB]ヨに[FA]0む[FB]で[FC]ぱ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83ADAE",
+  "addr": "83:ADAE",
+  "len": 14,
+  "jp": "ナパーム1の[FC]は[FA]ゆタイプ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83ADBC",
+  "addr": "83:ADBC",
+  "len": 15,
+  "jp": "[FA]（[FA]ギに[FA]j[F9]ヅなナパーム{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83ADCB",
+  "addr": "83:ADCB",
+  "len": 18,
+  "jp": "[FC]ゃで[F9]▼[FC]ひを[FB]うらせる[FB]で[FC]ぱ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83ADDD",
+  "addr": "83:ADDD",
+  "len": 15,
+  "jp": "[FA]j[F9]ヅな[FC]ゃを[F9]8[FC]{br}する{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83ADEC",
+  "addr": "83:ADEC",
+  "len": 18,
+  "jp": "[FC]ゃに[FB]うい[FA]ちにはこれで[F9]oまり{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83ADFE",
+  "addr": "83:ADFE",
+  "len": 15,
+  "jp": "[F9]▼[FC]ひをくさらせる[FB]で[FC]ぱ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AE0D",
+  "addr": "83:AE0D",
+  "len": 18,
+  "jp": "[FB]ウ[FB]ヤの[FB]ヘ[F9]ヅを[F9]ぢめたタイプ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AE1F",
+  "addr": "83:AE1F",
+  "len": 15,
+  "jp": "[F9]▼[FC] [FA]ぱをふやしたタイプ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AE2E",
+  "addr": "83:AE2E",
+  "len": 16,
+  "jp": "[FA]ちの[F9]ーきを[F9]ほめる[FB]で[FC]ぱ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AE3E",
+  "addr": "83:AE3E",
+  "len": 17,
+  "jp": "[FA]p[FB]い[F9]ヅを[FC]は[FA]ゆしたタイプ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "parts_83AE4F",
+  "addr": "83:AE4F",
+  "len": 16,
+  "jp": "[F9]ら[FA]タにして[F9]ら[FA]jのタイプ{end}",
+  "en": "",
+  "notes": ""
+ }
+]

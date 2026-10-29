@@ -361,7 +361,8 @@ def no_latin(rom, a):
 
 def sync(rom, a, ends):
     """Start of the op run that leads to the text op at a: the nearest point in the 48 bytes before it (after a text
-    terminator or a known instruction) whose op-by-op decode lands exactly on a. None if there is none, so a text op
+    terminator or a known instruction) whose op-by-op decode lands exactly on a. (Taking RTS/RTL as boundaries too
+    misaligned bank 91, where 60 is a common argument.) None if there is none, so a text op
     byte inside a text or an argument (`ソあぐす{br}フぬ「` = 5F 02 30 0E 00 2A 18) is not taken as a root."""
     for s in range(a, a - 48, -1):
         if not (rom[off(s) - 1] >= 0xFD or s in ends):
@@ -406,7 +407,7 @@ def chain(rom, a, code):
 
 # banks whose scripts the roots reach, plus 87/90/91 (psycho-dive, battle and info scripts reached from native
 # tables); 98-9D and 9F hold no reachable script, and data there passes the chain test.
-ORPHAN_BANKS = {0x87, 0x90, 0x91, 0x92, 0x93, 0x94, 0x95, 0x96, 0x97, 0x9E, 0xA5, 0xA8, 0xA9, 0xAD}
+ORPHAN_BANKS = {0x83, 0x87, 0x90, 0x91, 0x92, 0x93, 0x94, 0x95, 0x96, 0x97, 0x9E, 0xA5, 0xA8, 0xA9, 0xAD}
 # text-op roots that pass the orphan test but are data or start inside a real text (checked by hand)
 LATE_SKIP = {0x90BF33, 0x90BF3A, 0x90BF41, 0x90BF50, 0x90BF5F, 0x90BF6E, 0x90BF7D,  # table rows `ぬュさ、ゅフザぬビあ6`
              0x919E06}  # op byte in the bytes before the real op at 919E0D

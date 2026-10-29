@@ -81,7 +81,14 @@ bottom right when more follows. Width gate is phase 5.
 | Info/database and other long texts | bank $87 [03C3B4-03F59F] | FF-terminated; some preceded by 2-3 bytes of another script format (`たぬ「…`) | guess |
 | Battle(?) dialogue | bank $91 [088BBA-08A5D5] (`イオン「ミネルバ、サイコダイブ…`) | text with a short non-text prefix per line (different VM?) | guess |
 
-The list comes from two heuristic scans (VM text opcodes; FF-terminated runs in banks $80-$91) plus textlog runs; the
-scratch scanners are not exact. Phase 4 replaces the heuristics with the VM disassembler (events) and the pointer
-tables behind each list (find the reader with `textlog.lua` / `watch.lua`), and checks coverage with a full
-`textlog.lua` tour. Banks $80-$91 hold code and tables mixed with these lists: never treat a whole bank as text.
+Phase 4 (verified by roundtrip and `tests/test_coverage.py`): the event texts come from the VM disassembler
+(`events.py`, `script/events/`); everything else is in `tools/strings.py` -> `script/lists/<name>.json`, one entry
+per FD/FE/FF-terminated string in hand-checked ranges. Bank $91 "battle dialogue" turned out to be the same VM
+(psycho-dive scenes). Pointer tables found so far (16-bit, same bank): runners 82:A17F, requests 82:C8B6, locations
+83:B41E (74), info menu 87:8558, names 87:EEC6 (19), database records 87:C76F/C771/C773 (stride 7) and 87:C968
+(stride 4), missions 92:9683, Turbo File 92:AE6E, equipment 93:B32A/93:B36A, help 93:C365. Other lists (status
+labels, "N件の情報があります" counters, robot battle messages) are loaded by code immediates, often right after an
+RTS/RTL (`60`/`6B`) with the string inline in the code bank. Phase 7 needs the reader of every list that is not
+relocated in place. Some ranges are guesses at the edges (equipment labels at 93:B248/B274/B291 have no terminator
+between labels; database records start with 2-6 bytes such as `RゆRエ{br}` that may be data): the marker build
+checks them on screen. Banks $80-$93 hold code and tables mixed with these lists: never treat a whole bank as text.

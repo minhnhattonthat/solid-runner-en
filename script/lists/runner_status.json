@@ -1,0 +1,42 @@
+[
+ {
+  "id": "runner_status_87B1ED",
+  "addr": "87:B1ED",
+  "len": 11,
+  "jp": "HP[FC]エ{c04:02310170}{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runner_status_87B1F8",
+  "addr": "87:B1F8",
+  "len": 15,
+  "jp": "[FA]p[FB]い[F9]ヅ[FC]エ{c04:01310170}{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runner_status_87B207",
+  "addr": "87:B207",
+  "len": 15,
+  "jp": "[FC]ぼ[FB]キ[F9]ヅ[FC]エ{c04:01320170}{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runner_status_87B216",
+  "addr": "87:B216",
+  "len": 17,
+  "jp": "[F9]ベ[F9]ボ[FB]ぉ[F9]a[FC]エ{c04:01330170}{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "runner_status_87B2F9",
+  "addr": "87:B2F9",
+  "len": 66,
+  "jp": "メディア[FC]エS−MD{br}  [FC]あ[FC]セ[FC]エ128GB{br}[F9]、[FB]6[F9]た[FC]エ20XX[FA]チ1[FA]ゅ24[F9]た{br}  [FC]ソ[F9]だ[FC]エ[FC]キき[F9]ずみ[F9]し[F9]ぜ{end}",
+  "en": "",
+  "notes": ""
+ }
+]
