@@ -85,7 +85,7 @@ def main():
             stale.append(rel)
             if not a.check:
                 path.parent.mkdir(parents=True, exist_ok=True)
-                path.write_text(text, encoding="utf-8")
+                path.write_text(text, encoding="utf-8", newline="\n")
     n = sum(len(v) for v in files.values())
     print(f"{n} strings in {len(files)} files; {'stale' if a.check else 'written'}: {len(stale)}")
     if a.check and stale:
