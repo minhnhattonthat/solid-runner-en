@@ -156,9 +156,22 @@ vwf_draw:
     LDA $4216
     STA !px
     SEP #$20
+    JSR vwf_pos
+    LDA $18BA               ; px is a strip start here: vwf_pos's .edge gave column 10 of the strip before, but
+    CMP #10                 ; this wrap wants column 0 of the next (item list rows all landed on row 1)
+    BNE .done
+    STZ $18BA
+    STZ !col
+    LDA $18BB
+    CLC
+    ADC #2
+    STA $18BB
+    STA !rowout
+    BRA .done
 .pos:
     JSR vwf_pos
-    LDA #$00                ; B = 0 on return, as the original draw leaves it: the typewriter's next
+.done:
+    LDA #$00               ; B = 0 on return, as the original draw leaves it: the typewriter's next
     XBA                     ; JSL $809DB2 (84:A856) takes its DMA size from 16-bit A
     PLY
     PLX

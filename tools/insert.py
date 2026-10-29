@@ -245,6 +245,38 @@ def table_slots(rom, kind, o):
     return [off(a) + i for i in range(0, off(b) - off(a) - 1, 2) if rom[off(a) + i:off(a) + i + 2] == want]
 
 
+# The battle HUD (82:A170 LDA $A17F,y / 82:A175 LDA $A180,y, bank 82, 8x8 font at 8 px a letter) holds 9 letters;
+# it reads a copy of the runners table where the longer names point at these short forms (D13). Dialogue ({c12},
+# 84:ABF6) and 87:BA05 keep the full names.
+HUD_OPS = (0x82A171, 0x82A176)
+HUD_NAMES = {"runners_82A221": "N. Vague", "runners_82A24F": "G. Hunter", "runners_82A290": "P. Lizard",
+             "runners_82A2AC": "Weissheit"}
+HUD_MAX = 9
+
+
+def hud_table(rom, writes, space, en_t):
+    a, b = TABLES["runners"]
+    t0 = off(a)
+    tab = bytearray(rom[t0:off(b)])
+    for o, d, who in writes:  # the table words plan() just repointed
+        if who.startswith("table runners_"):
+            tab[o - t0:o - t0 + 2] = d
+    byid = {e["id"]: e for k, e in entries() if k == "runners"}
+    for eid, name in HUD_NAMES.items():
+        assert len(name) <= HUD_MAX, eid
+        e = byid[eid]
+        o = off(e["addr"])
+        d = en_t.encode(name) + rom[o + e["len"] - 1:o + e["len"]]
+        p = space.alloc(len(d), a >> 16)
+        writes.append((p, d, "en hud " + eid))
+        for w in table_slots(rom, "runners", o):
+            tab[w - t0:w - t0 + 2] = (cpu(p) & 0xFFFF).to_bytes(2, "little")
+    p = space.alloc(len(tab), a >> 16)
+    writes.append((p, bytes(tab), "table runners_hud"))
+    for i, op in enumerate(HUD_OPS):
+        writes.append((off(op), ((cpu(p) + i) & 0xFFFF).to_bytes(2, "little"), "table runners_hud op"))
+
+
 def plan(rom):
     """[(file offset, bytes, writer)] for the whole script, and a report."""
     en_t = Table.load(EN_TBL)
@@ -311,6 +343,7 @@ def plan(rom):
             if slot:
                 writes.append((o, slot, "slot " + e["id"]))
             p += len(d)
+    hud_table(rom, writes, space, en_t)
     report["free_left"] = space.left()
     report["free_total"] = space.size
     return writes, report
@@ -333,7 +366,7 @@ def allowed(rom):
         ok.update(range(off(a), off(b)))
     for s, e in Space(rom).free:
         ok.update(range(s, e))
-    for s, n in ASM_SITES + [FONT, (0x7FDC, 4)]:
+    for s, n in ASM_SITES + [FONT, (0x7FDC, 4)] + [(off(op), 2) for op in HUD_OPS]:
         ok.update(range(s, s + n))
     import gfx
     import winmap

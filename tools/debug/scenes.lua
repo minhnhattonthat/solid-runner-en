@@ -64,7 +64,7 @@ S.list = {
   shop_buy_count = { area = 0x16, room = 0x09, keys = { { 1200, "a" }, { 1260, "a" }, { 1320, "a" } }, frames = 3200 },
   shop_buy_weapons = { area = 0x16, room = 0x09, keys = { { 1200, "a" }, { 1260, "down" }, { 1300, "a" } }, frames = 3100 },
   -- intro, endings, credits (area $17)
-  staff_intro = { area = 0x17, room = 0x00 },
+  staff_intro = { area = 0x17, room = 0x00 },  -- the staff roll (English in the original); `credits` = intro crawl
   ending_a = { area = 0x17, room = 0x01, frames = 3000 },
   ending_b = { area = 0x17, room = 0x02, frames = 3000 },
   cutscene_17_03 = { area = 0x17, room = 0x03 },
@@ -125,9 +125,10 @@ S.list = {
   vm_9EB3BE = vmtext(0x9EB3BE),  -- elevator 1F-3F + Next Page
   vm_A8ECF1 = vmtext(0xA8ECF1),  -- elevator basement floors
   vm_A9EF82 = vmtext(0xA9EF82),  -- keypad digits
-  vm_91940C = vmtext(0x91940C),
-  vm_95A2A9 = vmtext(0x95A2A9),
-  vm_979F07 = vmtext(0x979F07),
+  -- these three keep their first names; their text op is later (insert.HEADS): the bytes before it are VM ops
+  vm_91940C = vmtext(0x919419),
+  vm_95A2A9 = vmtext(0x95A2B0),
+  vm_979F07 = vmtext(0x979F1C),
   -- scripted battles: op 7D records {id, formation, callback} found in the event banks
   battle_97DFE8 = battle(0xE8, 0xDF, 0x97),
   battle_9E87F3 = battle(0xF3, 0x87, 0x9E),
