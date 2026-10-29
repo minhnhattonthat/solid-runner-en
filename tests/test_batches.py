@@ -1,6 +1,4 @@
 """batches.py: width model, wrap, whole-run term match, and every merged English entry still fits its box."""
-import json
-import re
 import sys
 from pathlib import Path
 
@@ -24,44 +22,42 @@ def test_term_match_whole_runs():
     assert not batches.has_term("タイミング", "ミン")
 
 
-def sliced_errors(text, cols, b):
-    """Items of a sliced menu as laid out by insert.english(): each must end before the next item's column."""
-    errs, items = [], re.split(r"\{tab:([0-9A-F]{2})\}", text)
-    starts = [cols[0] if isinstance(cols[0], int) else 0] + [int(c, 16) for c in items[1::2]]
-    for i, item in enumerate(items[0::2]):
-        room = 12 * ((starts[i + 1] if i + 1 < len(starts) else starts[i] + (starts[i] - starts[i - 1] if i else 99))
-                     - starts[i])
-        if batches.width(item) > room:
-            errs.append(f"{item!r} {batches.width(item)}px > {room}px")
-    return errs
+def test_honorifics():
+    sign = "『アンナ＝ケリー様 ひかえ室』"
+    assert batches.honorific_errors(sign, "Anna Kelly - Dressing Room")
+    assert not batches.honorific_errors(sign, "Anna Kelly-sama - Dressing Room")
+    assert batches.honorific_errors("「{c0C:01}さん、{c0C:01}さん…", "{c0C:01}-san, {c0C:01}...")
+    for jp in ("貴様！", "皆さん", "探偵さん", "イオン姉ちゃん", "タレントさん"):  # words, not name + honorific
+        assert not batches.honorific_errors(jp, "x"), jp
+
+
+def test_oversized_sliced_item_fails_check(monkeypatch):
+    """A sliced menu item wider than its column is an error in check (and so refused by merge), not a warning."""
+    eid = "equip_938D8A"
+    e = next(e for _, e in insert.entries() if e["id"] == eid)
+    assert eid not in batches.engine_todo()
+    jp = batches.END.sub("", e["jp"]).replace("{br}", " / ")
+    en = batches.END.sub("", e["en"]) + "W" * 200
+    rows = {"x.tsv": [[eid, "-", "menu", "-", jp]], "x.out.tsv": [[eid, en]]}
+    monkeypatch.setattr(batches, "read_tsv", lambda path, cols: rows[path.name])
+    monkeypatch.setattr(batches, "TL", type("P", (), {"__truediv__": lambda s, n: type(
+        "F", (), {"name": n, "exists": lambda s: True, "relative_to": lambda s, r: n})()})())
+    errs, _ = batches.check("x")
+    assert any(eid in x and "px" in x for x in errs), errs
 
 
 def test_inserted_text_fits():
-    """Every English entry, as tools/insert.py encodes it (tabs, restored indents), fits its box: the phase 7 lint.
-    engine_todo ids are known overflows waiting for a wider box (script/engine_todo.txt)."""
-    cells = {k: v for k, v in json.loads(insert.CELLS.read_text(encoding="utf-8")).items() if not k.startswith("#")}
+    """Every English entry, as tools/insert.py encodes it (tabs, restored indents), fits its box and keeps its
+    honorifics: the phase 7 lint. engine_todo ids are known overflows waiting for a wider box."""
+    cells = insert.load_cells()
     todo, bad = batches.engine_todo(), []
     for _, e in insert.entries():
         if not e["en"]:
             continue
-        b = batches.box(e["id"], e["jp"])
-        text = batches.END.sub("", insert.english(e, cells))
-        if e["id"] in cells and all(isinstance(c, int) for c in cells[e["id"]]):
-            errs = sliced_errors(text, cells[e["id"]], b)
-        elif e["id"] in cells:  # a menu laid out in lines: each label fits its column, no more lines than the JP
-            jl = batches.END.sub("", e["jp"]).split("{br}")
-            lines = text.split("{br}")
-            errs = [s for ln in lines for s in re.split(r"\{tab:..\}", ln) if batches.width(s) > b["px"]]
-            errs += ["lines"] if len(lines) > len(jl) else []
-        else:
-            lines = text.split("{br}")
-            errs = [ln for ln in lines if batches.width(ln) > b["px"]] + (["lines"] if len(lines) > b["lines"] else [])
-        if b.get("chars") and len(batches.plain(e["en"])) > b["chars"]:
-            errs.append(f"{len(batches.plain(e['en']))} letters > name buffer {b['chars']}")
-        if batches.codes(e["jp"]) != batches.codes(e["en"]):
-            errs.append("control codes differ from the JP")
-        if errs and e["id"] not in todo:
-            bad.append((e["id"], errs))
+        errs = insert.fit_errors(e, cells)
+        hon = batches.honorific_errors(e["jp"], e["en"])
+        if errs and e["id"] not in todo or hon:
+            bad.append((e["id"], errs + hon))
         if not errs and e["id"] in todo:
             bad.append((e["id"], "fits now: delete it from script/engine_todo.txt"))
     assert not bad, f"{len(bad)} entries: {bad[:40]}"

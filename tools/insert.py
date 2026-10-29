@@ -28,6 +28,9 @@ TAILS = [0x86, 0xD7, 0xAF, 0x91, 0x94, 0xB9, 0xC7, 0xCB, 0xD2, 0xB3]  # bank tai
 MARGIN = 16                         # bytes left after the last data byte of a tail
 TABLES = {"names": (0x87EEC4, 0x87EEEC), "runners": (0x82A17F, 0x82A1C9)}  # list -> its 16-bit pointer table
 IN_PLACE = {"charset", "default_names"}  # name-entry grid (indexed by cell), defaults copied into name buffers
+# the new game's default names, extracted with places2: copied byte for byte into $1AC3/$1AC9/$1ACF, so in place too
+# (a jump slot there put F8 20 into the name buffer and {c0C:xx} printed other text)
+NAME_DEFAULTS = {"places2_93C163", "places2_93C169", "places2_93C20B"}
 TAB = "{tab:%02X}"
 
 
@@ -54,8 +57,9 @@ def entries():
     their slot moved to the real string start."""
     out = []
     for f in sorted((ROOT / "script").glob("*/*.json")):
-        kind = "events" if f.parent.name == "events" else f.stem
+        lst = "events" if f.parent.name == "events" else f.stem
         for e in json.loads(f.read_text(encoding="utf-8")):
+            kind = "default_names" if e["id"] in NAME_DEFAULTS else lst
             if e["id"] in HEADS:
                 h = HEADS[e["id"]]
                 e = dict(e, addr=f"{h >> 16:02X}:{h & 0xFFFF:04X}", len=e["len"] + off(e["addr"]) - off(h))
@@ -116,6 +120,46 @@ def layout(jp, en, px=240):
     return "{br}".join(out) + tail
 
 
+def load_cells():
+    return {k: v for k, v in json.loads(CELLS.read_text(encoding="utf-8")).items() if not k.startswith("#")}
+
+
+def sliced_errors(text, cols):
+    """Items of a sliced menu as laid out by english(): each must end before the next item's column."""
+    import batches
+    errs, items = [], re.split(r"\{tab:([0-9A-F]{2})\}", text)
+    starts = [cols[0] if isinstance(cols[0], int) else 0] + [int(c, 16) for c in items[1::2]]
+    for i, item in enumerate(items[0::2]):
+        room = 12 * ((starts[i + 1] if i + 1 < len(starts) else starts[i] + (starts[i] - starts[i - 1] if i else 99))
+                     - starts[i])
+        if batches.width(item) > room:
+            errs.append(f"{item!r} {batches.width(item)}px > {room}px")
+    return errs
+
+
+def fit_errors(e, cells):
+    """Width/line errors of entry e's English as it is encoded (tabs, restored indents): the phase 7 lint, also run
+    by batches.py check on sliced menus. script/engine_todo.txt lists the known overflows; callers decide."""
+    import batches
+    b = batches.box(e["id"], e["jp"])
+    text = batches.END.sub("", english(e, cells))
+    if e["id"] in cells and all(isinstance(c, int) for c in cells[e["id"]]):
+        errs = sliced_errors(text, cells[e["id"]])
+    elif e["id"] in cells:  # a menu laid out in lines: each label fits its column, no more lines than the JP
+        jl = batches.END.sub("", e["jp"]).split("{br}")
+        lines = text.split("{br}")
+        errs = [s for ln in lines for s in re.split(r"\{tab:..\}", ln) if batches.width(s) > b["px"]]
+        errs += ["lines"] if len(lines) > len(jl) else []
+    else:
+        lines = text.split("{br}")
+        errs = [ln for ln in lines if batches.width(ln) > b["px"]] + (["lines"] if len(lines) > b["lines"] else [])
+    if b.get("chars") and len(batches.plain(e["en"])) > b["chars"]:
+        errs.append(f"{len(batches.plain(e['en']))} letters > name buffer {b['chars']}")
+    if batches.codes(e["jp"]) != batches.codes(e["en"]):
+        errs.append("control codes differ from the JP")
+    return errs
+
+
 class Space:
     """First-fit allocator over free ranges [start, end) of file offsets, one bank each."""
 
@@ -171,7 +215,7 @@ def table_slots(rom, kind, o):
 def plan(rom):
     """[(file offset, bytes, writer)] for the whole script, and a report."""
     en_t = Table.load(EN_TBL)
-    cells = {k: v for k, v in json.loads(CELLS.read_text(encoding="utf-8")).items() if not k.startswith("#")}
+    cells = load_cells()
     space = Space(rom)
     writes, report = [], {"jump": 0, "jump16": 0, "table": 0, "in_place": 0, "skipped": []}
     todo = [(k, e) for k, e in entries() if e["en"]]

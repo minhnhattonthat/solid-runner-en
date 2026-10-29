@@ -174,6 +174,23 @@ def has_term(jp, term):
     return False
 
 
+# D1: honorifics after a person's name stay as -san/-sama/-kun/-chan. Names = a whole katakana run or a name
+# variable; kanji before the suffix are ordinary words (貴様, 皆さん, 探偵さん "Detective", 姉ちゃん "Big Sis").
+HONORIFIC = {"さん": "-san", "様": "-sama", "くん": "-kun", "ちゃん": "-chan"}
+HON_RE = re.compile(r"(\{c0C:0[0-2]\}|(?<![゠-ヿ])[゠-ヿ]+)(さん|様|くん|ちゃん)")
+HON_COMMON = {"タレント", "コンピ", "ニイ", "エライ"}  # katakana common nouns / nicknames, not names (glossary.md)
+
+
+def honorific_errors(jp, en):
+    """One -suffix in the English for every name+honorific in the JP."""
+    need = {}
+    for m in HON_RE.finditer(jp):
+        if m.group(1) not in HON_COMMON:
+            need[m.group(2)] = need.get(m.group(2), 0) + 1
+    return [f"honorific: {n} x {j} in the JP, {en.count(HONORIFIC[j])} x {HONORIFIC[j]!r} in the English (D1)"
+            for j, n in need.items() if en.count(HONORIFIC[j]) < n]
+
+
 # ---- split ----
 
 def split():
@@ -299,6 +316,8 @@ def check(name, quiet=False):
             errs.append(f"{eid}: not in this batch")
     enc = adv()
     gl = glossary()
+    import insert
+    cells = insert.load_cells()
     jp_of = {r[0]: r[4] for r in src}
     for eid, en in got.items():
         if eid not in jp_of:
@@ -325,13 +344,17 @@ def check(name, quiet=False):
             for a in avoid:
                 if re.search(r"\b" + re.escape(a) + r"\b", en):
                     e.append(f"glossary: avoid {a!r} (use {t!r})")
+        e += honorific_errors(jp, en)
         b = box(eid, jp.replace(" / ", "{br}"))
-        # sliced cell widths are the JP layout (phase 7 relays the cells); engine_todo ids wait for a wider box
-        if b.get("sliced") or eid in engine_todo():
-            for x in fit_errors(en, b):
-                print(f"  warning {eid}: {x} (phase 7 layout)")
+        if eid in cells:  # sliced menus: measured as tools/insert.py lays the items out (cells.json columns)
+            fit = insert.fit_errors({"id": eid, "jp": jp.replace(" / ", "{br}"), "en": en}, cells)
         else:
-            e += fit_errors(en, b)
+            fit = fit_errors(en, b)
+        if eid in engine_todo():  # an explicit, per-id deferral with the engine work it waits for
+            for x in fit:
+                print(f"  warning {eid}: {x} (engine_todo: {engine_todo()[eid]})")
+        else:
+            e += fit
         errs += [f"{eid}: {x}" for x in e]
     return errs, got
 

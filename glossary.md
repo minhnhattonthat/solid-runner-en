@@ -218,7 +218,9 @@ spaces round the slash: " / " is a forced line break).
 - wave 1: honorifics per D1 everywhere, no English substitutes: 〜さん -san (Mr./Ms. never), 〜様 -sama (バイスハイト様
   Weissheit-sama, カーク様 Kirk-sama; not "Lord"), 〜くん -kun, 〜ちゃん -chan. 探偵さん "Detective". Remin (a little girl) to
   Shu お兄ちゃん "big brother", to Ion イオンお姉ちゃん "Big Sis Ion". お嬢さん (Dark Dragon men, Irene) "miss" to her,
-  "the young miss" about her.
+  "the young miss" about her. Signs too: 『アンナ＝ケリー様 ひかえ室』 "Anna Kelly-sama - Dressing Room". `batches.py check`
+  and the lint require one -suffix per katakana name or name variable + honorific; katakana words that are not names
+  (タレントさん "celebrity", コンピちゃん, ニイさん "handsome", エライさん "bigwig") are listed in `batches.HON_COMMON`.
 - wave 1: American spelling throughout (organization, realize, fertilize, Dr.).
 - wave 1: machine speech (katakana-only lines of robots, runner computers, Weissheit's machine voice) in ALL CAPS,
   clipped, no contractions ("ATTACK HIT. DAMAGE INFLICTED."). Hiragana lines of the same speaker: normal case.

@@ -1,5 +1,4 @@
 """Phase 7: the English build (tools/insert.py through tools/build.py), audited at ROM level."""
-import json
 import sys
 from pathlib import Path
 
@@ -41,7 +40,7 @@ def test_every_slot_reaches_its_english(built):
     from tbl import Table
     rom, out, _ = built
     en = Table.load(insert.EN_TBL)
-    cells = {k: v for k, v in json.loads(insert.CELLS.read_text(encoding="utf-8")).items() if not k.startswith("#")}
+    cells = insert.load_cells()
     seen, bad = 0, []
     for kind, e in insert.entries():
         if not e["en"] or kind in insert.IN_PLACE:
@@ -63,6 +62,16 @@ def test_every_slot_reaches_its_english(built):
         seen += 1
     assert not bad, bad[:5]
     assert seen > 4000
+
+
+def test_name_defaults_hold_no_codes(built):
+    """Default names are copied byte for byte into the name buffers that {c0C:xx} prints: never a jump slot."""
+    import insert
+    _, out, _ = built
+    for kind, e in insert.entries():
+        if kind == "default_names":
+            o = insert.off(e["addr"])
+            assert 0xF8 not in out[o:o + e["len"]], e["id"]
 
 
 def test_jump_codes_in_the_control_table(built):

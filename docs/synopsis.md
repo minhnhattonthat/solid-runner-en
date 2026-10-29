@@ -25,7 +25,7 @@ Name proposals: `work/tl/terms_proposed.tsv`. Honorifics stay (`{name}-san`), We
   Rachel "Sister" (behind her back "the old bag" 婆さん/ババア). His runner: {c0C:02} (default Grandil).
 - **Irene** (アイリーン): Shu's fiancee, 22, Tao's only daughter. Warm, teasing, feminine; "Papa". Dies early (Part 1)
   but haunts the whole story (dreams, a vision that stops Shu killing Raoel, ev_A9B561).
-- **Tao** (タオ): boss of Anryu (暗龍), the Chinatown "Chinese mafia" (his men insist it is more a business
+- **Tao** (タオ): boss of the Dark Dragon (暗龍), the Chinatown "Chinese mafia" (his men insist it is more a business
   association, ev_958ED3). Proud, old-fashioned [わし]; deferential to Sister Rachel. Killed with Irene.
 - **Sister Rachel** (シスターレイチェル; nuns say レイチェル院長): head of the convent in Area 2, 41. Raised Shu and Nora.
   Very polite [わたくし], pious, and expert at guilt-tripping Shu with embarrassing childhood stories.
@@ -69,7 +69,7 @@ Name proposals: `work/tl/terms_proposed.tsv`. Honorifics stay (`{name}-san`), We
 ## Organisations and recurring places
 - **Bavaria** (ババリア): German-born crime syndicate (drugs, smuggled military runners), moving into Solid City and
   building secret bio-labs; its runners use unique parts (Riff's clue, ev_ADB233).
-- **Anryu** (暗龍): Tao's organisation; wiped out by Bavaria. **Bivisible** (バイビジブル): rival gang to Bavaria.
+- **Dark Dragon** (暗龍): Tao's organisation; wiped out by Bavaria. **Bivisible** (バイビジブル): rival gang to Bavaria.
 - **CTI**: the city/state administration (quiz glosses it 中央科学局, ev_9EFBC6); Security Division (Costa),
   Integrated Management Bureau (Gloria). **SCBC**: TV station in Area 7. **Catala Company**: shady real-estate firm.
 - **Resistance** (レジスタンス): humans and bio-monsters fighting Weissheit in Part 4.
@@ -98,7 +98,7 @@ rookie fires; the child dies (ev_ADBB8F..ADBFF7). Irene wakes him: "It wasn't yo
   (ev_96DECD..96E987, ev_96CAE1..96CE5D). The monster spoke: it shared Remin's suffering (Piranha Preta).
 - **Job: Hunting.** Costa (phone, ev_87C09C) hires Shu to clear the Area 3 sewers; Theo briefs him; boss Lizauga;
   a mysterious half-human figure escapes (ev_96F3F9..96F986).
-- **Massacre.** Tao's call for help (ev_87C010); Anryu HQ in flames, Tao dies asking Shu to save Irene, she dies
+- **Massacre.** Tao's call for help (ev_87C010); Dark Dragon HQ in flames, Tao dies asking Shu to save Irene, she dies
   under the collapsed ceiling - the night before the wedding (ev_9592C3..95960B).
 
 ### Part 2 (guess): revenge begins
@@ -138,7 +138,7 @@ rookie fires; the child dies (ev_ADBB8F..ADBFF7). Irene wakes him: "It wasn't yo
   killing Garcia (ev_919EF5..91A677).
 - **Job: Psycho Dive.** At the hospital Ion dives into Garcia's brain; the boss's name is "Weissheit" (ev_949AC6..
   949EEA, loose_93E944); Ion freezes ("he killed my mama and papa"). Theo takes Garcia into CTI custody (choice
-  ev_949FF8). Info menu on Garcia / Anryu / Bavaria (ev_93E466..93E8A9).
+  ev_949FF8). Info menu on Garcia / Dark Dragon / Bavaria (ev_93E466..93E8A9).
 - **Job: The Enemy Before Me.** Bavaria hideout in Area 2 (ev_9EBEEC). Ion and Raoel turn up; **SPOILER** Ion's past:
   Weissheit ordered her scientist mother's egg fertilised with his sperm; her mother's lover swapped in his own; Weissheit
   killed him; Dr Carlo Kitty raised her (ev_9EA0E1..9EA2BC, ev_9EAA85..9EACAD). Weissheit flees; Garcia, sprung from
