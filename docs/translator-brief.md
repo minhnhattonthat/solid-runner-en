@@ -8,7 +8,8 @@ the next. Do all translation yourself; do not dispatch subagents.
 
 ## Read first
 1. `docs/style-reference.md` - speech layout, character voices, approved example pairs. Match this voice.
-2. `build/terms_<batch>.txt` - binding glossary rows for this batch (full table in `glossary.md` if you need more).
+2. `build/terms_<batch>.txt` - binding glossary rows for this batch (the check enforces them), and the "Common
+   words" and "Other runner names" sections of `glossary.md` (guidance for generic words, stats, slots, weapons).
 3. `docs/synopsis.md` - plot, who is who, the late reveals (marked SPOILER). Don't give a reveal away early.
 
 ## Input: `work/tl/<batch>.tsv`
