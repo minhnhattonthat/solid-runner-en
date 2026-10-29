@@ -13,19 +13,30 @@ Updated at the end of every session. Keep it to what the next session needs; his
   15000 frames (English types ~2x longer; A doesn't skip typing). Rewordings to fit 2-cell items (full words, not
   abbreviations): Discard -> Drop (item_cmds), Normal -> Mid (message speed), Magazine -> Ammo (shop parts view).
   Heads fixed (`insert.HEADS`, slot starts at the real op-18 text): ev_959A59, ev_959C40, ev_A8C91E (full EN).
-  Last build 2026-10-30 05:11, sha1 94b1a7b8..., smoke ok; `tools/check.py` 30 passed.
+  Phase 6 review (`.harness/reviews/solid-runner-en-phase6.md`) fixed: -sama on the 4 dressing-room signs;
+  `batches.py check` has an honorific check (`honorific_errors`, D1; katakana words that aren't names in
+  `HON_COMMON`) and measures sliced menus with `insert.fit_errors` (the lint's own layout), only `engine_todo` ids
+  are warnings (regression tests in `test_batches.py`); synopsis says Dark Dragon. `work/tl/b006`/`b036.out.tsv`
+  synced with the script (all 36 batches check OK).
+  Name bug fixed: places2_93C163/69/20B are the new game's default names (`insert.NAME_DEFAULTS`, in place); a jump
+  slot there had put `F8 20` into the name buffer and `{c0C:xx}` printed other text. D11 done without relocating the
+  buffers: default names pack letter pairs into one glyph (`font.DIGRAPHS` Er/sk/Gr, codes 03-05): "Erskine" in 5
+  codes, "Grandil" in 6, seen in game (name entry, "Shu Erskine" in dialogue). Name-entry grid's first row
+  (93:CC73, missed by extraction) added; grid = A-Z, a-z, punctuation, digits. Tao pilot seen in game
+  (`work/qa/pilot`, scene `opening_talk`; docs/style-reference.md).
+  Last build 2026-10-30 05:36, sha1 103d2f2be084..., smoke ok; `tools/check.py` 33 passed.
 - **Phase 7 left (next session, in this order):**
-  1. `script/engine_todo.txt` (20 known overflows the lint exempts): sliced menus show the bitmap in rows of N cells
+  1. `script/engine_todo.txt` (15 known overflows the lint exempts): sliced menus show the bitmap in rows of N cells
      (setup labels 4, tune menu 4, data submenu 2; battle keys code-placed, unseen): find the window tilemap builder's
      row width and widen it (one routine for all?), move the setup part names right; tune_armor 54 px, slot labels
-     36 px, results title 120 px; name buffers (D11): $1AC3/$1AC9/$1ACF (5/5/6 + FF, money at $1AD6) are read by
-     F8 0C (handler 84:AB89), the name entry, save/load and the 8x8 save-slot line; defaults `default_names` are
-     skipped by insert (kept JP) until then.
+     36 px, results title 120 px. The 8x8 save-slot line (name / TIME / LV) still draws English codes with the
+     8x8 kana font: find its font and draw Latin letters (and the 3 digraph codes) there.
   2. Heads still JP: ev_93827B (real start 93:8267 `店のオヤジ「…`, after a `12` op, not a text op: find what reads
      it) and ev_97BA44 (news headline); garbage entries ev_91940D, ev_92DE77, ev_95A2AA, ev_96DB26, ev_96DBF8,
      ev_979F08, ev_A8D233, loose_93EED3, turbo_929F06, places2_93C015 (inserted as translated; check in game).
-  3. In game: elevators (` | ` columns), A5 countdown, info_data submenu, battle key config, Riff's tune-up, name
-     entry grid (charset in place, letters drawn proportional: cursor cells may not line up).
+  3. In game: elevators (` | ` columns), A5 countdown, info_data submenu, battle key config, Riff's tune-up, save
+     slot line. Name entry grid seen: letters line up with the cursor cells well enough.
+  Note: `run_scenes.py` defaults to the original ROM; pass `--rom build/solid_runner_en.sfc` for the English.
   4. `{c1C:xx}` slow-print timing; typing speed (English ~2x glyphs; maybe halve the per-glyph delay).
 - **Phase 6 result:** all 4079 non-empty entries have `en` in `script/*.json` (wrapped with `{br}` by pixel width,
   end code copied from the JP; sliced menus keep ` | ` between cells). 36 batches, all `batches.py check` OK; 9
