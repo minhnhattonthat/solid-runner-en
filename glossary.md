@@ -194,7 +194,7 @@ Other runner names (runners list, once each): ラヴィアン Lavian, マッド�
 バーサティリティー Versatility. Weapons once each: スワロー Swallow, コンドル Condor, イーグル Eagle, ポルド Pold,
 オーク Orc, ノーム Gnome, エルフ Elf, ライデン Raiden, ライジン Raijin, ライリュウ Rairyu, ライオウ Raio.
 Missions: 母と娘 Mother and Daughter, 少女の夢 A Girl's Dream, ハンティング Hunting, 宣戦布告 Declaration of War,
-失敗作 The Failure, 眼前の敵 The Enemy Before Me, 帰らなかった男 The Man Who Never Came Home, 黄金のたてがみ Golden
+失敗作 The Failure, 眼前の敵 The Enemy Before Me, 帰らなかった男 The Man Who Didn't Return (fits the results line), 黄金のたてがみ Golden
 Mane, アイドルのアイドル The Idol's Idol. Episode card 第4部エピソード「破壊・誕生」 Part 4: Destruction/Birth (no
 spaces round the slash: " / " is a forced line break).
 

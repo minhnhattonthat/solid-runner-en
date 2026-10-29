@@ -98,19 +98,21 @@ VARIANTS = {
                    "how": "measured: sound / message speed submenu x 171 to frame 226 (work/play/config/0001, 0004)"},
     "config_keys": {"sliced": True, "px": 152, "ids": ["menu_82C554"],
                     "how": "measured: area map key config labels x 38 to the key letter at 192 (config/0005)"},
-    "battle_keys": {"sliced": True, "px": 50, "ids": ["menu_82C574"],
-                    "items": [50, 50, 55, 55, 104, 55, 104],
-                    "how": "measured: battle key config (config/0006), labels code-placed in two columns: left x 38 "
-                           "to key at 90, right x 166 to key at 223; overboost / item menu x 38 to key at 144"},
+    "battle_keys": {"sliced": True, "px": 72, "ids": ["menu_82C574"],
+                    "items": [72, 48, 80, 48, 72, 32, 72],
+                    "how": "phase 7 layout (tools/winmap.py battle_keys, cells.json): left column labels 72-80 px "
+                           "before the key at col 13, right column 48 px (Guard 32) before the key at col 25"},
     "mission_report": {"px": 160, "lines": 2, "ranges": [("missions", 0x92973B, 0x9299C7)],
                        "how": "measured: results (original) report lines x 80-247 after the `report:` label; phase 7 "
                               "rework of the code-positioned fields may widen it"},
-    "results_labels": {"px": 80, "lines": 1, "ids": ["results_92960A", "results_929611", "results_92961B"],
+    "results_labels": {"px": 80, "lines": 1, "ids": ["results_929611", "results_92961B"],
                        "how": "measured: results (work/play/results/0000.png) labels x 40, value right-aligned to "
                               "x 195 (6-cell value from x 123)"},
-    "results": {"px": 120, "lines": 1, "lists": ["results", "missions"],
-                "how": "measured: results line `Mission 'name' complete` x 8-247 shared by prefix, mission name and "
-                       "suffix (code-placed: phase 7 makes it one string); 120 for the name, the rest for the two"},
+    "results_report_label": {"px": 30, "lines": 1, "ids": ["results_92960A"],
+                             "how": "seen: results (work/qa/scenes/results.png) label x 8, report body from x 38"},
+    "results": {"px": 240, "lines": 1, "lists": ["results", "missions"],
+                "how": "measured: results line x 8-247; each mission name holds the whole `Mission 'name' Complete` "
+                       "(prefix and suffix empty: separate prints collided)"},
     "runners": {"px": 120, "lines": 1, "lists": ["runners"],
                 "how": "measured (derived): {c12} inserts it into the dialogue line `{c0C:02} VS {c12}.` (91.json): "
                        "240 - runner name field 90 - ' VS ' 24 - '.' 6. 87:BA05 also loads it for a screen not seen"},

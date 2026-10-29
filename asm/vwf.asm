@@ -334,7 +334,12 @@ vwf_plot:
     STZ !M+1
     STZ !M+2
     LDX !w
-    INX
+    LDA $18B8               ; first glyph of a string/line in overwrite mode: clear its whole 12 px cell from its
+    ORA $18B9               ; first column, as the original's fixed pitch did (config: a key letter redrawn
+    STA !tmp                ; over another left the old one's stem, X + A read as K)
+    BNE +
+    LDX #11
++   INX
 -   SEC
     ROR !M
     ROR !M+1
@@ -364,6 +369,15 @@ vwf_plot:
     ROR
     AND !M+2
     STA !MC+2
+    LDA !tmp
+    BNE +
+    LDA !M                  ; first glyph: MC = M (12 px from sh)
+    STA !MC
+    LDA !M+1
+    STA !MC+1
+    LDA !M+2
+    STA !MC+2
++
     ; the three tile offsets: tile t = px/8 .. t+2 through vwf_tiles, plus the line's first strip * 256
     REP #$30
     LDA !row

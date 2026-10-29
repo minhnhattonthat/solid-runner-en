@@ -1,7 +1,3 @@
 # Entries whose English keeps full names/terms (D4) but outgrows the box measured for the JP: phase 7 widens the
 # box, cell or buffer, then deletes the line here. batches.py check reports their width as a warning, not an error.
 # id	what phase 7 must do
-missions_9296FB	results 120 px < The Man Who Never Came Home
-# sliced menus: the window shows the text bitmap in rows of N cells (verified on menu_setup: each row is a 4-cell
-# run of one linear string), so an item can't pass its row without a wider row in the window's tilemap builder
-menu_82C574	battle_keys labels code-placed (budgets 50/50/55/55/104/55/104), not seen with the English yet

@@ -111,7 +111,7 @@ rookie fires; the child dies (ev_ADBB8F..ADBFF7). Irene wakes him: "It wasn't yo
   Shu's guilt over the child; Shu kills him (ev_919153..919337); Shu apologises to Kirk (ev_919365).
 - **Job: Declaration of War.** Shu decides to hit Bavaria (ev_ADC9FA); Riff gives explosives (ev_ADA6AE); drug factory
   under the Area 11 warehouses is blown up; Raoel watches: "you hate Bavaria too?" (ev_96AFD3..96B76A).
-- **Job: The Man Who Never Came Home.** Sharon Crane's husband David vanished at the closed Ural Factory
+- **Job: The Man Who Didn't Return.** Sharon Crane's husband David vanished at the closed Ural Factory
   (ev_95BD9D..95C247). Under it: a Bavaria lab using workers as test subjects; password 3102; David, mutated, begs to
   die; Shu delivers his pendant and tells Sharon to leave town (ev_A9E3F5..A9FBFE, ev_95C319..95C754).
 - **Job: Golden Mane.** Bowman's Fantasy Dome: 20 Firedrakes, then a hacked computer; Raoel was behind it, scouting

@@ -4,7 +4,7 @@
   "addr": "92:96A3",
   "len": 6,
   "jp": "母と娘{end}",
-  "en": "Mother and Daughter{end}",
+  "en": "Mission 'Mother and Daughter' Complete{end}",
   "notes": ""
  },
  {
@@ -12,7 +12,7 @@
   "addr": "92:96A9",
   "len": 8,
   "jp": "少女の夢{end}",
-  "en": "A Girl's Dream{end}",
+  "en": "Mission 'A Girl's Dream' Complete{end}",
   "notes": ""
  },
  {
@@ -20,7 +20,7 @@
   "addr": "92:96B1",
   "len": 7,
   "jp": "ハンティング{end}",
-  "en": "Hunting{end}",
+  "en": "Mission 'Hunting' Complete{end}",
   "notes": ""
  },
  {
@@ -28,7 +28,7 @@
   "addr": "92:96B8",
   "len": 6,
   "jp": "ハリケイン{end}",
-  "en": "Hurricane{end}",
+  "en": "Mission 'Hurricane' Complete{end}",
   "notes": ""
  },
  {
@@ -36,7 +36,7 @@
   "addr": "92:96BE",
   "len": 9,
   "jp": "宣戦布告{end}",
-  "en": "Declaration of War{end}",
+  "en": "Mission 'Declaration of War' Complete{end}",
   "notes": ""
  },
  {
@@ -44,7 +44,7 @@
   "addr": "92:96C7",
   "len": 7,
   "jp": "失敗作{end}",
-  "en": "The Failure{end}",
+  "en": "Mission 'The Failure' Complete{end}",
   "notes": ""
  },
  {
@@ -52,7 +52,7 @@
   "addr": "92:96CE",
   "len": 10,
   "jp": "ピラーニャ・プレタ{end}",
-  "en": "Piranha Preta{end}",
+  "en": "Mission 'Piranha Preta' Complete{end}",
   "notes": ""
  },
  {
@@ -60,7 +60,7 @@
   "addr": "92:96D8",
   "len": 5,
   "jp": "デイモン{end}",
-  "en": "Daemon{end}",
+  "en": "Mission 'Daemon' Complete{end}",
   "notes": ""
  },
  {
@@ -68,7 +68,7 @@
   "addr": "92:96DD",
   "len": 7,
   "jp": "ジャスティス{end}",
-  "en": "Justice{end}",
+  "en": "Mission 'Justice' Complete{end}",
   "notes": ""
  },
  {
@@ -76,7 +76,7 @@
   "addr": "92:96E4",
   "len": 8,
   "jp": "眼前の敵{end}",
-  "en": "The Enemy Before Me{end}",
+  "en": "Mission 'The Enemy Before Me' Complete{end}",
   "notes": ""
  },
  {
@@ -84,7 +84,7 @@
   "addr": "92:96EC",
   "len": 7,
   "jp": "サイコダイブ{end}",
-  "en": "Psycho Dive{end}",
+  "en": "Mission 'Psycho Dive' Complete{end}",
   "notes": ""
  },
  {
@@ -92,7 +92,7 @@
   "addr": "92:96F3",
   "len": 8,
   "jp": "悪魔の力{end}",
-  "en": "The Devil's Power{end}",
+  "en": "Mission 'The Devil's Power' Complete{end}",
   "notes": ""
  },
  {
@@ -100,15 +100,15 @@
   "addr": "92:96FB",
   "len": 10,
   "jp": "帰らなかった男{end}",
-  "en": "The Man Who Never{br}Came Home{end}",
-  "notes": ""
+  "en": "Mission 'The Man Who Didn't Return' Complete{end}",
+  "notes": "mission names hold the whole results line (results_9295FD/929604 empty); 'Never Came Home' outgrew 240 px"
  },
  {
   "id": "missions_929705",
   "addr": "92:9705",
   "len": 10,
   "jp": "黄金のたてがみ{end}",
-  "en": "Golden Mane{end}",
+  "en": "Mission 'Golden Mane' Complete{end}",
   "notes": ""
  },
  {
@@ -116,7 +116,7 @@
   "addr": "92:970F",
   "len": 10,
   "jp": "アイドルのアイドル{end}",
-  "en": "The Idol's Idol{end}",
+  "en": "Mission 'The Idol's Idol' Complete{end}",
   "notes": ""
  },
  {

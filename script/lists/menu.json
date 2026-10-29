@@ -116,7 +116,7 @@
   "addr": "82:C574",
   "len": 53,
   "jp": "左肩攻撃左腕攻撃右肩攻撃右腕攻撃オーバーブースト防御アイテムメニュー{end}",
-  "en": "Left Shoulder Attack | Left Arm Attack | Right Shoulder Attack | Right Arm Attack | Overboost | Guard | Item Menu{end}",
-  "notes": ""
+  "en": "Left Shoulder | Left Arm | Right Shoulder | Right Arm | Overboost | Guard | Item Menu{end}",
+  "notes": "battle key config: 'Attack' dropped, two columns of 72/48 px beside the key letters (tools/winmap.py battle_keys)"
  }
 ]

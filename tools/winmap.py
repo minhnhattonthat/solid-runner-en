@@ -133,7 +133,28 @@ def tune(rows):
     return rows
 
 
-EDITS = {3: [setup], 0: [setup_slot, data_submenu], 2: [tune]}
+def battle_keys(rows):
+    """Config > battle key config (sheet 9C_01 rows 26-42, 28 wide). Labels (menu_82C574, one run over strips
+    $14-$1A, run tile T = strip $14 + 2 * (T // 15), tile T % 15) were 4-cell slices; the English run puts them at
+    px 0 / 72 / 120 / 216 / 264 / 336 / 384 (cells.json). Left column labels at cols 2-11, their keys (strips $1C/$1E,
+    drawn at cells 0, 2, 4, 6 / 0, 2) move from cols 9 / 15 to 13; right column labels from col 18, keys at 25 as
+    before. Guard stays at col 21 (its cursor)."""
+    run = lambda t, half: text(0x14 + 2 * (t // 15), t % 15, half)  # noqa: E731
+    lines = [((0, 9), (0x1C, 0), (9, 6), 18, (0x1C, 3)), ((15, 10), (0x1C, 6), (27, 6), 18, (0x1C, 9)),
+             ((33, 9), (0x1C, 12), (42, 4), 21, (0x1E, 0)), ((48, 9), (0x1E, 3), None, 0, None)]
+    for k, (left, lkey, right, rcol, rkey) in enumerate(lines):
+        for half in (0, 1):
+            r = rows[29 + 3 * k + half]
+            r[1:27] = [BLANK] * 26
+            r[2:2 + left[1]] = [run(left[0] + t, half) for t in range(left[1])]
+            r[13:15] = [text(lkey[0], lkey[1] + t, half) for t in range(2)]
+            if right:
+                r[rcol:rcol + right[1]] = [run(right[0] + t, half) for t in range(right[1])]
+                r[25:27] = [text(rkey[0], rkey[1] + t, half) for t in range(2)]
+    return rows
+
+
+EDITS = {3: [setup], 0: [setup_slot, data_submenu], 1: [battle_keys], 2: [tune]}
 
 
 def plan(rom):
