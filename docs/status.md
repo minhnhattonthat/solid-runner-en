@@ -32,14 +32,26 @@ Updated at the end of every session. Keep it to what the next session needs; his
   wider info>data submenu). Scenes added for it: info_status/requests/data, data_info_list/page,
   data_people_list/page, requests_view, item_use, setup_slot (`ready_flags` = SRAM unlock bits written when the
   field is ready).
+- **Session 2026-10-30 (b):** 210 of the 225 `guess` entries measured (`fields.VARIANTS`: parts_desc 182 one line,
+  config 100 / config_sub 54 / config_keys 152 / battle_keys 50-104 per item, results 120 + results_labels 80,
+  runners 120 derived from `{c0C:02} VS {c12}.`, info terminal variants, runner_data 164x4, people_stats,
+  save_places 154, third_name 90/6). New scenes: `info_terminal`, `info_terminal_1..4` (request/news/info/data
+  library), `runner_status`, `save_game` ($7E:1812 = save mode; fills slot 1), `tune_shop` (Riff, partial). Missed
+  text found by the tour, now extracted: 87:87B8 (Latin terminal menu), 87:91FE, 87:A920; the data-analysis pages
+  87:B667.. (VM thread 87:B665 via JSL 81:D4B5, a root form now in `events.native_entries`; the old orphan entry
+  ev_87B670 started mid-page). 4080 entries. `warp.lua` blanks SRAM at power-on: Mesen keeps
+  `tools/mesen/Saves/<rom>.srm` across runs, and after a save the title landed on CONTINUE and warps failed.
+  Details: `docs/re/text.md` "Phase 5 corrections". Interactive measuring used `play.py` sessions in `work/play/`
+  (shop, setup, config, results, save, tune) from `work/states/*.mss` on the original ROM.
 - **Left in phase 5:**
-  1. 225 entries still use variants tagged `guess` (screens not reached): parts descriptions, config submenus
-     (menu_config + A), Results labels/mission names (code-positioned: phase 7 reworks the line), runners list,
-     info terminal (info list 87:8558 + runner_status: an object in some town room; find it with the object tables,
-     `docs/re/events.md`), save-slot places (needs a save: save from the save menu in a scene first), equipment texts
-     (93:B33D...), third name ($1ACF). Measure each with a scene + `tools/ruler.py` and change its `how`.
-  2. Kanji table (925 codes, see phase 4 notes below): needed before phase 6.
-  3. Second renderer 84:B017 (screen unknown, `docs/re/text.md`): a tour hook on 84:B017 over all scenes finds it.
+  1. 15 entries still `guess`: `equip_other` (14: Riff's tune-up texts 93:B33D/B376, index $1019 = menu row
+     $180E, switch 93:A63C case 1 -> 93:AB34 -> 93:AC2A/AD9A; scene `tune_shop` injects `43 93A5AE` but the opening
+     thread keeps running, so its menu was not reached: try the object in area 1C room 00 (record A8:8037, script
+     A8:850D tests $70:0041/$70:0042 bit 5) with those flags set, walk to Riff, press A, pick row 2) and
+     `info_choice` (87:9681 accept/cancel: needs an open request, see requests_view flags).
+  2. Kanji table (925 codes, see phase 4 notes below): needed before phase 6. **Do this first next session.**
+  3. Second renderer 84:B017: not hit by the save screen (its slot line is the 8x8 font). The all-scene tour with
+     `--script tools/lua/cpulog.lua --var "PCS={0x84B017}"` (out work/qa/b017) was stopped for the SRAM fix: rerun.
 - **Done (phase 4):** `tools/events.py` VM disassembler (`docs/re/events.md` "Disassembler": every opcode, room
   scripts, NPC/tile record tables, native roots, orphan roots incl. text-op roots synced to op boundaries; 3172
   inline texts, 0 bad ops, 0 overlaps). "Second script format" in $87/$91 is the same VM. `tools/strings.py`: 20

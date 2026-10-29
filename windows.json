@@ -77,9 +77,9 @@
    "how": "measured: setup_slot header x 150 to frame 240 (menu_setup x 72-164, slot list x 118-236, shop_parts_view x 8-247)"
   },
   "parts_desc": {
-   "px": 240,
+   "px": 182,
    "lines": 1,
-   "how": "guess: bottom box like shop_parts_view (x 8-247); not seen on screen yet"
+   "how": "measured: shop weapon list (work/play/shop/0003.png) bottom box line 1 from x 8, the weapon sprite from x 192; the JP {br} is not honoured there (one line): write none"
   },
   "slot_label": {
    "px": 36,
@@ -161,34 +161,97 @@
   },
   "config": {
    "sliced": true,
-   "px": 96,
-   "how": "guess: menu_config window x 24 to frame 124; row slicing not read yet"
+   "px": 100,
+   "how": "measured: menu_config rows x 24 to frame 128 (work/play/config/0000.png)"
+  },
+  "config_sub": {
+   "sliced": true,
+   "px": 54,
+   "how": "measured: sound / message speed submenu x 171 to frame 226 (work/play/config/0001, 0004)"
+  },
+  "config_keys": {
+   "sliced": true,
+   "px": 152,
+   "how": "measured: area map key config labels x 38 to the key letter at 192 (config/0005)"
+  },
+  "battle_keys": {
+   "sliced": true,
+   "px": 50,
+   "items": [
+    50,
+    50,
+    55,
+    55,
+    104,
+    55,
+    104
+   ],
+   "how": "measured: battle key config (config/0006), labels code-placed in two columns: left x 38 to key at 90, right x 166 to key at 223; overboost / item menu x 38 to key at 144"
   },
   "mission_report": {
    "px": 160,
    "lines": 2,
    "how": "measured: results (original) report lines x 80-247 after the `report:` label; phase 7 rework of the code-positioned fields may widen it"
   },
+  "results_labels": {
+   "px": 80,
+   "lines": 1,
+   "how": "measured: results (work/play/results/0000.png) labels x 40, value right-aligned to x 195 (6-cell value from x 123)"
+  },
   "results": {
    "px": 120,
    "lines": 1,
-   "how": "guess: code-positioned fields (results shot: label x 8, mission name, reward values at x 112-120); phase 7 reworks the line into one string"
+   "how": "measured: results line `Mission 'name' complete` x 8-247 shared by prefix, mission name and suffix (code-placed: phase 7 makes it one string); 120 for the name, the rest for the two"
   },
   "runners": {
-   "px": 88,
+   "px": 120,
    "lines": 1,
-   "how": "guess: screen not found; like part names"
+   "how": "measured (derived): {c12} inserts it into the dialogue line `{c0C:02} VS {c12}.` (91.json): 240 - runner name field 90 - ' VS ' 24 - '.' 6. 87:BA05 also loads it for a screen not seen"
   },
   "info_terminal": {
-   "px": 212,
+   "px": 240,
    "lines": 2,
-   "how": "guess: info terminal (87:8558) not reached; like the database boxes"
+   "how": "measured: info_terminal help box x 8-247, 2 rows"
   },
-  "save_places": {
+  "info_status": {
+   "px": 184,
+   "lines": 1,
+   "how": "measured: info_terminal_1..4 list box top row x 8 to the price at x 194"
+  },
+  "info_menu_en": {
+   "px": 144,
+   "lines": 5,
+   "how": "measured: info_terminal menu x 96 to the bar end at 240 (Latin in the original)"
+  },
+  "info_price": {
+   "px": 56,
+   "lines": 1,
+   "how": "measured: info_terminal_1 price x 196 to frame 252"
+  },
+  "data_tabs": {
+   "sliced": true,
+   "px": 62,
+   "how": "measured: info_terminal_4 column heads at x 24, 88, 152"
+  },
+  "info_choice": {
+   "sliced": true,
+   "px": 140,
+   "how": "guess: accept at cell 0, cancel at cell 12 of the list row; screen needs a request"
+  },
+  "runner_data": {
+   "px": 164,
+   "lines": 4,
+   "how": "measured: runner_status data box x 78 to frame 244, 4 rows"
+  },
+  "people_stats": {
    "px": 212,
    "lines": 1,
-   "centred": true,
-   "how": "guess: save slots (no save at new game); slot frame x 28-240"
+   "how": "measured: people page box (data_people_page x 24 to 238); 87:B1DE draws these after a people page"
+  },
+  "save_places": {
+   "px": 154,
+   "lines": 1,
+   "how": "measured: save_game slot (work/qa/savegame) place x 80 to frame 236, left-aligned; the slot's name/TIME/LV line is the 8x8 font (name x 72 to TIME at 152: 10 cells)"
   },
   "equip_other": {
    "px": 212,
@@ -196,10 +259,10 @@
    "how": "guess: equipment texts not seen on screen (save/shop ones have their own variants)"
   },
   "third_name": {
-   "px": 66,
+   "px": 90,
    "lines": 1,
    "chars": 6,
-   "how": "guess: buffer $1ACF (6 glyphs + FF); screen not seen"
+   "how": "measured: runner name ($1ACF, 6 glyphs + FF) in name_entry_a x 144 to frame 236"
   },
   "data_submenu": {
    "sliced": true,
@@ -1651,7 +1714,7 @@
    "variant": "family_name"
   },
   "default_names_93CB38": {
-   "px": 66,
+   "px": 90,
    "how": "variant",
    "variant": "third_name"
   },
@@ -1801,10 +1864,11 @@
    "how": "variant",
    "variant": "dialogue"
   },
-  "ev_87B670": {
+  "ev_87B667": {
    "px": 240,
    "how": "variant",
-   "variant": "dialogue"
+   "variant": "dialogue",
+   "scene": "runner_status"
   },
   "ev_87B6A1": {
    "px": 240,
@@ -17733,89 +17797,115 @@
    "variant": "help_line"
   },
   "info_878562": {
-   "px": 212,
+   "px": 240,
    "how": "variant",
-   "variant": "info_terminal"
+   "variant": "info_terminal",
+   "scene": "info_terminal"
   },
   "info_87857A": {
-   "px": 212,
+   "px": 240,
    "how": "variant",
-   "variant": "info_terminal"
+   "variant": "info_terminal",
+   "scene": "info_terminal_2"
   },
   "info_878593": {
-   "px": 212,
+   "px": 240,
    "how": "variant",
-   "variant": "info_terminal"
+   "variant": "info_terminal",
+   "scene": "info_terminal_3"
   },
   "info_8785B0": {
-   "px": 212,
+   "px": 240,
    "how": "variant",
-   "variant": "info_terminal"
+   "variant": "info_terminal",
+   "scene": "info_terminal_4"
   },
   "info_8785D6": {
-   "px": 212,
+   "px": 240,
    "how": "variant",
    "variant": "info_terminal"
+  },
+  "info_8787B8": {
+   "px": 144,
+   "how": "variant",
+   "variant": "info_menu_en",
+   "scene": "info_terminal"
   },
   "info_878FB4": {
-   "px": 212,
+   "px": 184,
    "how": "variant",
-   "variant": "info_terminal"
+   "variant": "info_status"
   },
   "info_879147": {
-   "px": 212,
+   "px": 184,
    "how": "variant",
-   "variant": "info_terminal"
+   "variant": "info_status"
   },
   "info_87915A": {
-   "px": 212,
+   "px": 184,
    "how": "variant",
-   "variant": "info_terminal"
+   "variant": "info_status",
+   "scene": "info_terminal_1"
+  },
+  "info_8791FE": {
+   "px": 56,
+   "how": "variant",
+   "variant": "info_price",
+   "scene": "info_terminal_1"
   },
   "info_8794E8": {
-   "px": 212,
+   "px": 184,
    "how": "variant",
-   "variant": "info_terminal"
+   "variant": "info_status"
   },
   "info_879681": {
-   "px": 212,
+   "px": 140,
    "how": "variant",
-   "variant": "info_terminal"
+   "variant": "info_choice"
   },
   "info_879A3F": {
-   "px": 212,
+   "px": 184,
    "how": "variant",
-   "variant": "info_terminal"
+   "variant": "info_status"
   },
   "info_879A52": {
-   "px": 212,
+   "px": 184,
    "how": "variant",
-   "variant": "info_terminal"
+   "variant": "info_status",
+   "scene": "info_terminal_2"
   },
   "info_879FBD": {
-   "px": 212,
+   "px": 184,
    "how": "variant",
-   "variant": "info_terminal"
+   "variant": "info_status"
   },
   "info_87A111": {
-   "px": 212,
+   "px": 184,
    "how": "variant",
-   "variant": "info_terminal"
+   "variant": "info_status"
   },
   "info_87A124": {
-   "px": 212,
+   "px": 184,
    "how": "variant",
-   "variant": "info_terminal"
+   "variant": "info_status",
+   "scene": "info_terminal_3"
+  },
+  "info_87A920": {
+   "px": 62,
+   "how": "variant",
+   "variant": "data_tabs",
+   "scene": "info_terminal_4"
   },
   "info_87A968": {
-   "px": 212,
+   "px": 184,
    "how": "variant",
-   "variant": "info_terminal"
+   "variant": "info_status"
   },
   "info_87A97A": {
-   "px": 212,
+   "px": 184,
    "how": "variant",
-   "variant": "info_terminal"
+   "variant": "info_status",
+   "scene": "info_terminal_4"
   },
   "intro_928F1F": {
    "px": 240,
@@ -18583,30 +18673,30 @@
    "scene": "data_info_list"
   },
   "menu_82C529": {
-   "px": 96,
+   "px": 100,
    "how": "variant",
    "variant": "config",
    "scene": "menu_config"
   },
   "menu_82C540": {
-   "px": 96,
+   "px": 54,
    "how": "variant",
-   "variant": "config"
+   "variant": "config_sub"
   },
   "menu_82C549": {
-   "px": 96,
+   "px": 54,
    "how": "variant",
-   "variant": "config"
+   "variant": "config_sub"
   },
   "menu_82C554": {
-   "px": 96,
+   "px": 152,
    "how": "variant",
-   "variant": "config"
+   "variant": "config_keys"
   },
   "menu_82C574": {
-   "px": 96,
+   "px": 50,
    "how": "variant",
-   "variant": "config"
+   "variant": "battle_keys"
   },
   "missions_9296A3": {
    "px": 120,
@@ -19288,537 +19378,537 @@
    "variant": "parts_name"
   },
   "parts_83A8D8": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83A8E9": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83A8F9": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83A908": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83A91B": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83A92E": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83A942": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83A957": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83A969": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83A97C": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83A98D": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83A9A0": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83A9B1": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83A9C7": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83A9D8": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83A9EB": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83A9FC": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AA09": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AA16": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AA26": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AA33": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AA45": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AA53": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AA61": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AA73": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AA88": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AA99": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AAAB": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AABC": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AACB": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AADE": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AAF4": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AB03": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AB15": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AB23": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AB33": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AB43": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AB55": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AB65": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AB7A": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AB8D": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AB9B": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83ABA8": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83ABB8": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83ABCA": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83ABDA": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83ABE9": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83ABFB": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AC08": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AC1C": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AC2B": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AC3B": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AC4E": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AC5E": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AC70": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AC81": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AC91": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83ACA4": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83ACB5": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83ACC7": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83ACD9": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83ACEC": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83ACFD": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AD0C": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AD1B": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AD2C": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AD3F": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AD52": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AD63": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AD76": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AD85": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AD93": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83ADA0": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83ADAE": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83ADBC": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83ADCB": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83ADDD": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83ADEC": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83ADFE": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AE0D": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AE1F": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AE2E": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AE3E": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "parts_83AE4F": {
-   "px": 240,
+   "px": 182,
    "how": "variant",
    "variant": "parts_desc"
   },
   "places2_93C015": {
-   "px": 212,
+   "px": 154,
    "how": "variant",
    "variant": "save_places"
   },
   "places2_93C01D": {
-   "px": 212,
+   "px": 154,
    "how": "variant",
    "variant": "save_places"
   },
   "places2_93C025": {
-   "px": 212,
+   "px": 154,
    "how": "variant",
    "variant": "save_places"
   },
   "places2_93C02D": {
-   "px": 212,
+   "px": 154,
    "how": "variant",
    "variant": "save_places"
   },
   "places2_93C038": {
-   "px": 212,
+   "px": 154,
    "how": "variant",
    "variant": "save_places"
   },
   "places2_93C03F": {
-   "px": 212,
+   "px": 154,
    "how": "variant",
    "variant": "save_places"
   },
   "places2_93C04B": {
-   "px": 212,
+   "px": 154,
    "how": "variant",
    "variant": "save_places"
   },
   "places2_93C058": {
-   "px": 212,
+   "px": 154,
    "how": "variant",
    "variant": "save_places"
   },
   "places2_93C065": {
-   "px": 212,
+   "px": 154,
    "how": "variant",
    "variant": "save_places"
   },
   "places2_93C06A": {
-   "px": 212,
+   "px": 154,
    "how": "variant",
    "variant": "save_places"
   },
   "places2_93C075": {
-   "px": 212,
+   "px": 154,
    "how": "variant",
    "variant": "save_places"
   },
   "places2_93C080": {
-   "px": 212,
+   "px": 154,
    "how": "variant",
    "variant": "save_places"
   },
   "places2_93C08B": {
-   "px": 212,
+   "px": 154,
    "how": "variant",
    "variant": "save_places"
   },
   "places2_93C092": {
-   "px": 212,
+   "px": 154,
    "how": "variant",
    "variant": "save_places"
   },
   "places2_93C09F": {
-   "px": 212,
+   "px": 154,
    "how": "variant",
    "variant": "save_places"
   },
   "places2_93C0AB": {
-   "px": 212,
+   "px": 154,
    "how": "variant",
    "variant": "save_places"
   },
   "places2_93C0B7": {
-   "px": 212,
+   "px": 154,
    "how": "variant",
    "variant": "save_places"
   },
   "places2_93C0C2": {
-   "px": 212,
+   "px": 154,
    "how": "variant",
    "variant": "save_places"
   },
   "places2_93C0CC": {
-   "px": 212,
+   "px": 154,
    "how": "variant",
    "variant": "save_places"
   },
   "places2_93C0D8": {
-   "px": 212,
+   "px": 154,
    "how": "variant",
    "variant": "save_places"
   },
   "places2_93C0E4": {
-   "px": 212,
+   "px": 154,
    "how": "variant",
    "variant": "save_places"
   },
   "places2_93C0F2": {
-   "px": 212,
+   "px": 154,
    "how": "variant",
    "variant": "save_places"
   },
   "places2_93C0FE": {
-   "px": 212,
+   "px": 154,
    "how": "variant",
    "variant": "save_places"
   },
@@ -19833,7 +19923,7 @@
    "variant": "family_name"
   },
   "places2_93C20B": {
-   "px": 66,
+   "px": 90,
    "how": "variant",
    "variant": "third_name"
   },
@@ -20306,235 +20396,236 @@
    "scene": "results"
   },
   "results_92960A": {
-   "px": 120,
+   "px": 80,
    "how": "variant",
-   "variant": "results",
+   "variant": "results_labels",
    "scene": "results"
   },
   "results_929611": {
-   "px": 120,
+   "px": 80,
    "how": "variant",
-   "variant": "results",
+   "variant": "results_labels",
    "scene": "results"
   },
   "results_92961B": {
-   "px": 120,
+   "px": 80,
    "how": "variant",
-   "variant": "results",
+   "variant": "results_labels",
    "scene": "results"
   },
   "runner_status_87B1ED": {
    "px": 212,
    "how": "variant",
-   "variant": "info_terminal"
+   "variant": "people_stats"
   },
   "runner_status_87B1F8": {
    "px": 212,
    "how": "variant",
-   "variant": "info_terminal"
+   "variant": "people_stats"
   },
   "runner_status_87B207": {
    "px": 212,
    "how": "variant",
-   "variant": "info_terminal"
+   "variant": "people_stats"
   },
   "runner_status_87B216": {
    "px": 212,
    "how": "variant",
-   "variant": "info_terminal"
+   "variant": "people_stats"
   },
   "runner_status_87B2F9": {
-   "px": 212,
+   "px": 164,
    "how": "variant",
-   "variant": "info_terminal"
+   "variant": "runner_data",
+   "scene": "runner_status"
   },
   "runners_82A1C9": {
-   "px": 88,
+   "px": 120,
    "how": "variant",
    "variant": "runners"
   },
   "runners_82A1D0": {
-   "px": 88,
+   "px": 120,
    "how": "variant",
    "variant": "runners"
   },
   "runners_82A1D7": {
-   "px": 88,
+   "px": 120,
    "how": "variant",
    "variant": "runners"
   },
   "runners_82A1DE": {
-   "px": 88,
+   "px": 120,
    "how": "variant",
    "variant": "runners"
   },
   "runners_82A1E4": {
-   "px": 88,
+   "px": 120,
    "how": "variant",
    "variant": "runners"
   },
   "runners_82A1EC": {
-   "px": 88,
+   "px": 120,
    "how": "variant",
    "variant": "runners"
   },
   "runners_82A1F2": {
-   "px": 88,
+   "px": 120,
    "how": "variant",
    "variant": "runners"
   },
   "runners_82A1FB": {
-   "px": 88,
+   "px": 120,
    "how": "variant",
    "variant": "runners"
   },
   "runners_82A1FF": {
-   "px": 88,
+   "px": 120,
    "how": "variant",
    "variant": "runners"
   },
   "runners_82A205": {
-   "px": 88,
+   "px": 120,
    "how": "variant",
    "variant": "runners"
   },
   "runners_82A20A": {
-   "px": 88,
+   "px": 120,
    "how": "variant",
    "variant": "runners"
   },
   "runners_82A20F": {
-   "px": 88,
+   "px": 120,
    "how": "variant",
    "variant": "runners"
   },
   "runners_82A213": {
-   "px": 88,
+   "px": 120,
    "how": "variant",
    "variant": "runners"
   },
   "runners_82A219": {
-   "px": 88,
+   "px": 120,
    "how": "variant",
    "variant": "runners"
   },
   "runners_82A221": {
-   "px": 88,
+   "px": 120,
    "how": "variant",
    "variant": "runners"
   },
   "runners_82A22A": {
-   "px": 88,
+   "px": 120,
    "how": "variant",
    "variant": "runners"
   },
   "runners_82A22F": {
-   "px": 88,
+   "px": 120,
    "how": "variant",
    "variant": "runners"
   },
   "runners_82A234": {
-   "px": 88,
+   "px": 120,
    "how": "variant",
    "variant": "runners"
   },
   "runners_82A23A": {
-   "px": 88,
+   "px": 120,
    "how": "variant",
    "variant": "runners"
   },
   "runners_82A241": {
-   "px": 88,
+   "px": 120,
    "how": "variant",
    "variant": "runners"
   },
   "runners_82A247": {
-   "px": 88,
+   "px": 120,
    "how": "variant",
    "variant": "runners"
   },
   "runners_82A24F": {
-   "px": 88,
+   "px": 120,
    "how": "variant",
    "variant": "runners"
   },
   "runners_82A258": {
-   "px": 88,
+   "px": 120,
    "how": "variant",
    "variant": "runners"
   },
   "runners_82A260": {
-   "px": 88,
+   "px": 120,
    "how": "variant",
    "variant": "runners"
   },
   "runners_82A268": {
-   "px": 88,
+   "px": 120,
    "how": "variant",
    "variant": "runners"
   },
   "runners_82A26E": {
-   "px": 88,
+   "px": 120,
    "how": "variant",
    "variant": "runners"
   },
   "runners_82A274": {
-   "px": 88,
+   "px": 120,
    "how": "variant",
    "variant": "runners"
   },
   "runners_82A279": {
-   "px": 88,
+   "px": 120,
    "how": "variant",
    "variant": "runners"
   },
   "runners_82A281": {
-   "px": 88,
+   "px": 120,
    "how": "variant",
    "variant": "runners"
   },
   "runners_82A286": {
-   "px": 88,
+   "px": 120,
    "how": "variant",
    "variant": "runners"
   },
   "runners_82A28B": {
-   "px": 88,
+   "px": 120,
    "how": "variant",
    "variant": "runners"
   },
   "runners_82A290": {
-   "px": 88,
+   "px": 120,
    "how": "variant",
    "variant": "runners"
   },
   "runners_82A298": {
-   "px": 88,
+   "px": 120,
    "how": "variant",
    "variant": "runners"
   },
   "runners_82A29D": {
-   "px": 88,
+   "px": 120,
    "how": "variant",
    "variant": "runners"
   },
   "runners_82A2A3": {
-   "px": 88,
+   "px": 120,
    "how": "variant",
    "variant": "runners"
   },
   "runners_82A2AC": {
-   "px": 88,
+   "px": 120,
    "how": "variant",
    "variant": "runners"
   },
   "runners_82A2B5": {
-   "px": 88,
+   "px": 120,
    "how": "variant",
    "variant": "runners"
   },
   "runners_82A2BA": {
-   "px": 88,
+   "px": 120,
    "how": "variant",
    "variant": "runners"
   },

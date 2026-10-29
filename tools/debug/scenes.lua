@@ -49,6 +49,8 @@ S.list = {
   name_entry_a = { area = 0x16, room = 0x04 },
   name_entry = { area = 0x16, room = 0x05 },
   save_load = { area = 0x16, room = 0x06 },
+  -- $7E:1812 != 0: the same screen in save mode (93:B5BD); A, A saves slot 1
+  save_game = { area = 0x16, room = 0x06, flags = { [0x7E1812] = 1 }, keys = { { 500, "a" }, { 620, "a" }, { 740, "a" } } },
   shop_greeting = { area = 0x16, room = 0x07 },
   shop_parts_view = { area = 0x16, room = 0x08 },
   shop_menu = { area = 0x16, room = 0x09, frames = 3000 },
@@ -92,6 +94,19 @@ S.list = {
   data_people_list = data({ { 400, "down" }, { 440, "a" } }, PEOPLE),
   data_people_page = data({ { 400, "down" }, { 440, "a" }, { 520, "a" } }, PEOPLE),
   setup_slot = field({ { 0, "x" }, { 60, "down" }, { 120, "a" }, { 200, "a" } }),
+  -- info terminal (object in area 02 room 00, script 95:DC37): native menu 87:8359 (list 87:8558) and the runner
+  -- data analysis screen 87:B227 (runner_status), called by VM op 05 injected over the opening thread
+  info_terminal = { area = 0x01, room = 0x00, run = { 0x05, 0x59, 0x83, 0x87, 0x00 } },
+  info_terminal_1 = { area = 0x01, room = 0x00, run = { 0x05, 0x59, 0x83, 0x87, 0x00 }, keys = { { 500, "a" } } },
+  info_terminal_2 = { area = 0x01, room = 0x00, run = { 0x05, 0x59, 0x83, 0x87, 0x00 },
+    keys = { { 500, "down" }, { 540, "a" } } },
+  info_terminal_3 = { area = 0x01, room = 0x00, run = { 0x05, 0x59, 0x83, 0x87, 0x00 },
+    keys = { { 500, "down" }, { 540, "down" }, { 580, "a" } } },
+  info_terminal_4 = { area = 0x01, room = 0x00, run = { 0x05, 0x59, 0x83, 0x87, 0x00 },
+    keys = { { 500, "down" }, { 540, "down" }, { 580, "down" }, { 620, "a" } } },
+  -- Riff's tune-up (area 1C room 00 object, A8:86BD jumps to 93:A5AE): equipment/growth texts 93:B33D.. (93:AD9A)
+  tune_shop = { area = 0x01, room = 0x00, run = { 0x43, 0xAE, 0xA5, 0x93 }, mash = { "a", 40, 200 }, frames = 3400 },
+  runner_status = { area = 0x01, room = 0x00, run = { 0x05, 0x27, 0xB2, 0x87, 0x00 } },
   -- scripted battles: op 7D records {id, formation, callback} found in the event banks
   battle_97DFE8 = battle(0xE8, 0xDF, 0x97),
   battle_9E87F3 = battle(0xF3, 0x87, 0x9E),

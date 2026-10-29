@@ -64,6 +64,9 @@ emu.addEventCallback(L.safe(function()
 end), emu.eventType.inputPolled)
 
 L.on_frame(function(n)
+  -- Mesen keeps SRAM in tools/mesen/Saves/<rom>.srm across runs (save_game fills slot 1; then the title can land
+  -- on CONTINUE): blank the 8 KiB at power-on so every cold boot starts from no save
+  if n == 1 then for a = 0x700000, 0x701FFF do wr(a, 0) end end
   if not warped and n > 4000 then L.fail("warp: new game never reached its first map load") end
   -- Shu: max HP $7E:1896, current $7E:189A (16-bit; verified: falls in battle, game over at 0)
   if GOD or scene.god then wr(0x7E189A, rd(0x7E1896)); wr(0x7E189B, rd(0x7E1897)) end

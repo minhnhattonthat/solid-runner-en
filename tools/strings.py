@@ -26,7 +26,9 @@ LISTS = {
     "info": [(0x878562, 0x8785ED),  # info terminal menu, table 87:8558
              (0x878FB4, None), (0x879147, None), (0x87915A, None), (0x8794E8, None), (0x879681, None),
              (0x879A3F, None), (0x879A52, None), (0x879FBD, None), (0x87A111, None), (0x87A124, None),
-             (0x87A968, None), (0x87A97A, None)],
+             (0x87A968, None), (0x87A97A, None),
+             (0x8787B8, None),  # terminal menu (Latin in the original), drawn by 87:8785
+             (0x8791FE, None), (0x87A920, None)],  # price `nG` (87:911A...), data library column heads (87:A907)
     "runner_status": [(0x87B1ED, 0x87B227), (0x87B2F9, None)],  # stat labels with a number code, model/memory
     "database": [(0x87CA07, 0x87EEC4), (0x87EF56, 0x87F616)],  # info database: requests, news, runners, monsters
     "names": [(0x87EEEC, 0x87EF56)],  # character names, table 87:EEC4 (first: the player's `name＝family`)

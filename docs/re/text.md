@@ -115,6 +115,22 @@ checks them on screen. Banks $80-$93 hold code and tables mixed with these lists
   `sliced`). With the VWF each item must start at its cell boundary: phase 7 needs a tab-to-cell control.
 - **EE** (`−`) is redrawn as `*` by the English font: strings that use it as a dash (empty slots 82:C13F, 83:9A66)
   must be re-encoded with `-` (AD).
+- **Info terminal** (verified, scenes `info_terminal*`, `runner_status`): an object in area 02 room 00 (script
+  95:DC37) calls native 87:8359 (menu; help lines 87:8562-85ED by table 87:8558) and 87:B227 (runner data analysis).
+  Missed text the tour found: the Latin menu 87:87B8 (drawn by 87:8785), the price `nG` 87:91FE, data library column
+  heads 87:A920 (now in `info`). The data-analysis pages 87:B667/B6A1/B6E0 are a VM thread at 87:B665 started by
+  `$3B` + JSL 81:D4B5 (87:B355; a root form `events.native_entries` now knows); an orphan root had synced to
+  87:B670, 9 bytes into the first page. Swept every entry for prose running into its start: no other case.
+- **Runner names** (82:A17F): F8 10 xx / F8 12 print one inside text (12 uses $187A); 91.json `{c0C:02} VS {c12}`.
+  `{c0C:02}` is the runner's name ($1ACF), entered in name_entry_a.
+- **Parts descriptions** (record table 83:8FE5, 14 bytes: name ptr, desc ptr, ...; F8 16 xx prints a name): shown
+  one line in the shop weapon list, where the JP `{br}` is not honoured.
+- **Save mode**: $7E:1812 != 0 turns the load screen (16/06) into the save screen (93:B5BD); scene `save_game`
+  saves slot 1. A filled slot draws the name / TIME / LV / EXP line in the 8x8 font (a user of the 8x8 kana font),
+  not 84:B017.
+- **Equipment texts** 93:B33D (labels, table 93:B32A) / 93:B376 (descriptions, table 93:B36A): index $1019, loaded
+  from SRAM $70:0790 by the save room's init 93:B99E; drawn by 93:AD9A, registered as a callback by 93:AC50
+  (`$3E` + JSL 82:BE52). Screen not found yet (guess: a growth-mode menu, labels 93:B248/B274/B291).
 - **Second renderer 84:B017** (fixed-pitch 8x16 tilemap font): its only caller 82:9024 sits in a routine reached
   through a pointer (no JSL/JSR to 82:8FBE-8FCD); not hit in setup, shop, status, item or battle scenes. Screen still
   unknown.

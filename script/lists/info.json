@@ -134,5 +134,29 @@
   "jp": "データがありません{end}",
   "en": "",
   "notes": ""
+ },
+ {
+  "id": "info_8787B8",
+  "addr": "87:87B8",
+  "len": 43,
+  "jp": "Request{br}News{br}Information{br}Data library{br}Quit{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "info_8791FE",
+  "addr": "87:91FE",
+  "len": 8,
+  "jp": "{c04:03310170}G{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "info_87A920",
+  "addr": "87:A920",
+  "len": 15,
+  "jp": "[F9]つ[FC]ス  [F9]け[F9]O  [FA]ち{end}",
+  "en": "",
+  "notes": ""
  }
 ]

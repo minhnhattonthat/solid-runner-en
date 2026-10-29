@@ -314,7 +314,7 @@ def native_entries(rom):
         call = nxt[i + 1:i + 4] if i >= 0 else b""
         if call == b"\x66\xc2\x81" and not rom[off(v) + 1] & 2:
             out.append((p24(rom, v + 4), f"native {a:06X} object {v:06X}"))
-        elif call in (b"\x3c\xc1\x81", b"\x4a\xc1\x81"):
+        elif call in (b"\x3c\xc1\x81", b"\x4a\xc1\x81", b"\xb5\xd4\x81"):  # 81:D4B5: runner data analysis 87:B355
             out.append((v, f"native {a:06X}"))
     return out
 
