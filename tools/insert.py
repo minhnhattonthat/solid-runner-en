@@ -16,6 +16,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
+import font  # noqa: E402
 import freespace  # noqa: E402
 from tbl import Table  # noqa: E402
 
@@ -153,8 +154,8 @@ def fit_errors(e, cells):
     else:
         lines = text.split("{br}")
         errs = [ln for ln in lines if batches.width(ln) > b["px"]] + (["lines"] if len(lines) > b["lines"] else [])
-    if b.get("chars") and len(batches.plain(e["en"])) > b["chars"]:
-        errs.append(f"{len(batches.plain(e['en']))} letters > name buffer {b['chars']}")
+    if b.get("chars") and len(font.pack(batches.plain(e["en"]), b["chars"])) > b["chars"]:
+        errs.append(f"{len(batches.plain(e['en']))} letters > name buffer {b['chars']} (font.DIGRAPHS)")
     if batches.codes(e["jp"]) != batches.codes(e["en"]):
         errs.append("control codes differ from the JP")
     return errs
@@ -224,6 +225,9 @@ def plan(rom):
         data = []
         for kind, e in run:
             d = en_t.encode(english(e, cells))
+            if kind == "default_names" and len(d) > e["len"]:  # D11: letter pairs in one code (font.DIGRAPHS)
+                d = b"".join(bytes([font.DIGRAPHS[u]]) if u in font.DIGRAPHS else en_t.encode(u)
+                             for u in font.pack(en_t.decode(d, length=len(d) - 1)[0], e["len"] - 1)) + d[-1:]
             assert d[-1] >= 0xFD, f"{e['id']}: English must end with its terminator"
             data.append(d)
         kind0, e0 = run[0]
@@ -233,7 +237,8 @@ def plan(rom):
                 if len(d) > e["len"]:
                     report["skipped"].append((e["id"], f"{len(d)} bytes > slot {e['len']} (in place)"))
                     continue
-                if kind == "charset":  # grid rows keep their cells: pad with blanks before the end byte
+                # grid rows keep their cells, and padded default names their 01s (the name entry's empty cell)
+                if kind == "charset" or 0x01 in rom[o:o + e["len"]]:
                     d = d[:-1] + b"\x01" * (e["len"] - len(d)) + d[-1:]
                 else:
                     d = d + b"\xff" * (e["len"] - len(d))

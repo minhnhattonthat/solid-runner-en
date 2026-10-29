@@ -306,6 +306,11 @@
   }
  },
  "fields": {
+  "charset_93CC73": {
+   "px": 11,
+   "how": "variant",
+   "variant": "charset"
+  },
   "charset_93CC7E": {
    "px": 11,
    "how": "variant",

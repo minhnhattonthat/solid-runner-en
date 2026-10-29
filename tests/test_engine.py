@@ -15,7 +15,7 @@ def test_font():
     import font
     font.selftest()
     glyphs, adv = font.build()
-    assert len(glyphs) == 82 and max(adv) == font.JP_ADV
+    assert len(glyphs) == 82 + len(font.DIGRAPHS) and max(adv) == font.JP_ADV
 
 
 def test_marker_runs_keep_controls():

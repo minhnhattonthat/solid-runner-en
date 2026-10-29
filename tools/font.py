@@ -47,14 +47,38 @@ def encode_glyph(rows):
     return bytes(out)
 
 
+# D11: default names longer than their name buffer (Erskine in 5 bytes, Grandil in 6) keep every letter by packing
+# letter pairs into one code; tools/insert.py packs only those names. Codes = unused hiragana (02 is the space).
+DIGRAPHS = {"Er": 0x03, "sk": 0x04, "Gr": 0x05}
+
+
+def pair(a, b):
+    """One glyph of two letters, spaced as the VWF spaces them (shadow + gap = 2 blank columns)."""
+    wa = width(a)
+    return [(a[r] if r < len(a) else "").ljust(wa + 2, ".") + (b[r] if r < len(b) else "") for r in range(max(len(a), len(b)))]
+
+
+def pack(text, n):
+    """Text as units (letters, DIGRAPHS pairs), pairs taken in order until it is at most n units."""
+    units = list(text)
+    for p in DIGRAPHS:
+        for i in range(len(units) - 1):
+            if len(units) > n and units[i] + units[i + 1] == p:
+                units[i:i + 2] = [p]
+                break
+    return units
+
+
 def build(table=None, glyphs=None):
     """(list of (code, 22 glyph bytes), 256-byte advance table)."""
     table = table or Table.load(EN_TBL)
-    glyphs = glyphs or load()
+    glyphs = dict(glyphs or load())
     adv = bytearray([JP_ADV] * 256)
     out = []
+    for p, code in DIGRAPHS.items():
+        glyphs[p] = pair(glyphs[p[0]], glyphs[p[1]])
     for ch, rows in glyphs.items():
-        code = table.enc[ch]
+        code = [DIGRAPHS[ch]] if ch in DIGRAPHS else table.enc[ch]
         assert len(code) == 1, (ch, code)
         assert len(rows) <= 10 and width(rows) <= MAX_INK, f"glyph {ch!r} is over 11x10"
         out.append((code[0], encode_glyph(rows)))
@@ -71,6 +95,9 @@ def selftest():
     _, adv = build(t, g)
     assert adv[t.enc[" "][0]] == 4 and adv[0x01] == JP_ADV  # 01: the JP's 12 px blank, kept for indents
     assert encode_glyph(["#"])[2:4] == b"\x00\x80"
+    assert pack("Erskine", 5) == ["Er", "sk", "i", "n", "e"] and pack("Grandil", 6)[0] == "Gr" and pack("Shu", 5) == list("Shu")
+    assert adv[DIGRAPHS["Er"]] == adv[t.enc["E"][0]] + adv[t.enc["r"][0]]  # same width as the two letters
+    assert not set(DIGRAPHS.values()) & {c[0] for c in t.enc.values() if len(c) == 1}
 
 
 if __name__ == "__main__":

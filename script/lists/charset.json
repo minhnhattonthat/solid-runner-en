@@ -1,10 +1,18 @@
 [
  {
+  "id": "charset_93CC73",
+  "addr": "93:CC73",
+  "len": 11,
+  "jp": "アイウエオカキクケコ{end}",
+  "en": "ABCDEFGHIJ{end}",
+  "notes": "first grid row (missed by the first extraction)"
+ },
+ {
   "id": "charset_93CC7E",
   "addr": "93:CC7E",
   "len": 11,
   "jp": "サシスセソタチツテト{end}",
-  "en": "ABCDEFGHIJ{end}",
+  "en": "KLMNOPQRST{end}",
   "notes": ""
  },
  {
@@ -12,7 +20,7 @@
   "addr": "93:CC89",
   "len": 11,
   "jp": "ナニヌネノハヒフヘホ{end}",
-  "en": "KLMNOPQRST{end}",
+  "en": "UVWXYZ.-{end}",
   "notes": ""
  },
  {
@@ -20,7 +28,7 @@
   "addr": "93:CC94",
   "len": 11,
   "jp": "マミムメモヤユヨ  {end}",
-  "en": "UVWXYZ.-{end}",
+  "en": "abcdefghij{end}",
   "notes": ""
  },
  {
@@ -28,7 +36,7 @@
   "addr": "93:CC9F",
   "len": 11,
   "jp": "ラリルレロワヲン  {end}",
-  "en": "'&!?,:(){end}",
+  "en": "klmnopqrst{end}",
   "notes": ""
  },
  {
@@ -36,7 +44,7 @@
   "addr": "93:CCAA",
   "len": 11,
   "jp": "ガギグゲゴザジズゼゾ{end}",
-  "en": "abcdefghij{end}",
+  "en": "uvwxyz{end}",
   "notes": ""
  },
  {
@@ -44,7 +52,7 @@
   "addr": "93:CCB5",
   "len": 11,
   "jp": "ダヂヅデドバビブベボ{end}",
-  "en": "klmnopqrst{end}",
+  "en": "'&!?,:(){end}",
   "notes": ""
  },
  {
@@ -52,7 +60,7 @@
   "addr": "93:CCC0",
   "len": 11,
   "jp": "パピプペポァィゥェォ{end}",
-  "en": "uvwxyz{end}",
+  "en": "+*=%/;${end}",
   "notes": ""
  },
  {
@@ -60,7 +68,7 @@
   "addr": "93:CCCB",
   "len": 11,
   "jp": "ッャュョヴー？！・ {end}",
-  "en": "+*=%/;${end}",
+  "en": "\"…{end}",
   "notes": ""
  },
  {

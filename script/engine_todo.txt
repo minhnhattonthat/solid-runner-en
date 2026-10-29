@@ -1,11 +1,6 @@
 # Entries whose English keeps full names/terms (D4) but outgrows the box measured for the JP: phase 7 widens the
 # box, cell or buffer, then deletes the line here. batches.py check reports their width as a warning, not an error.
 # id	what phase 7 must do
-default_names_838F21	family-name buffer 5 letters < Erskine (D11)
-default_names_93CB32	family-name buffer 5 letters < Erskine (D11)
-default_names_93CB38	runner-name buffer 6 letters < Grandil (D11)
-places2_93C169	family-name buffer 5 letters < Erskine (D11)
-places2_93C20B	runner-name buffer 6 letters < Grandil (D11)
 equip_93B33D	tune_armor 54 px < Fireproof Armor
 equip_93B346	tune_armor 54 px < Insulated Armor
 equip_93B34F	tune_armor 54 px < Poisonproof Armor

@@ -264,8 +264,8 @@ def fit_errors(en, b):
                 errs.append(f"cell {i + 1} {c!r} is {width(c)}px > {lim}px")
         return errs
     lines = wrap(en, b)
-    if b.get("chars") and len(en) > b["chars"] and not CODE.search(en):
-        errs.append(f"{len(en)} letters > name buffer {b['chars']} (report LONG; phase 7 widens the buffer)")
+    if b.get("chars") and len(font.pack(en, b["chars"])) > b["chars"] and not CODE.search(en):
+        errs.append(f"{len(en)} letters > name buffer {b['chars']} (report LONG; font.DIGRAPHS packs known names)")
     if len(lines) > b["lines"]:
         errs.append(f"{len(lines)} lines > {b['lines']} at {b['px']}px: {lines}")
     for ln in lines:

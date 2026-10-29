@@ -27,6 +27,11 @@ it (Sister Rachel is formal, Tao is an old-school boss). Narration and system te
 
 ## Approved pairs (the pilot; match this voice)
 
+Text/style approved before the first batch (D6: pre-approved run), seen in game only in phase 7: 2026-10-30 cold boot,
+scene `opening_talk`, shots `work/qa/pilot/` (every pair below drawn whole in the dialogue box, names printed by
+`{c0C:xx}` as "Shu" / "Shu Erskine"). That run found and fixed a name-buffer bug (default names in places2 had been
+given jump slots, so `{c0C:01}` printed unrelated text).
+
 | id | JP | EN |
 |---|---|---|
 | ev_958480 | タオ「どうやら、裏の世界で / 大きな動きがあるようだな。 / お前達の結婚式が近いというのに…。 | Tao: Seems something big is stirring in the underworld. And with your wedding so close, too... |
