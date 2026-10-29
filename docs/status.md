@@ -2,8 +2,11 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 2 (debug tool) done; next is phase 3 (identity build: unpack + repack, byte-identical, as a test).
-  No build yet.
+- **Phase:** 3 (identity build) done; next is phase 4 (extract: script/ format, roundtrip + coverage tests; carry-overs
+  below).
+- **Done (phase 3):** `tools/build.py` (dump check, logged `put()` writes, checksum, build/writes.txt; no edits yet),
+  `lz.compress` + `lz.blocks`, 3 MiB checksum fix in `tools/bps.py`. `tests/test_identity.py`: build byte-identical
+  and romdiff-clean, checksum reproduces the header, all 1361 LZ blocks repack (same data, never bigger). Smoke ok.
 - **Done (phase 1):** encoding (`tbl/jp.tbl`, kanji not read yet), 12x11 font $AE:8000, text engine 84:A91E, event
   VM (`docs/re/events.md`), text locations (`docs/re/text.md`), LZ codec, free space (`docs/re/rom-map.md`),
   graphics survey (`docs/re/graphics.md`). Tests in `tests/test_recon.py`.

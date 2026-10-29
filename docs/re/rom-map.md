@@ -22,7 +22,9 @@
 - **LZ** (`tools/lz.py`, decompressor 80:935E, loop 80:93A8): ops `01-7F n` = n literals, `80-FF d` = copy
   `(op&7F)+3` bytes from `d+1` back, `00` = end. Callers pass a pointer to a 16-bit table entry (`$3E-$40`), the
   table being the one at the start of the bank. Verified: first-map tiles in VRAM match blocks A3_01-A3_03.
-  A compressor is needed only for edited graphics (phase 8 graphics work).
+  `lz.compress` (greedy) re-encodes every block to the same data, never bigger; 1004 of 1361 come out
+  byte-identical (the original encoder isn't plain greedy), so the build repacks only edited blocks
+  (`tests/test_identity.py`). Header checksum uses the 3 MiB mirrored sum: first 2 MiB + 2 x last 1 MiB (verified).
 - **RLE** at A7:85ED (boot logos): `01 n b` byte run, `02 n w` word run, `FE n ...`, `FF` end (read, not fully
   decoded).
 - Other decompressors seen writing the 7E:2000 buffer: 88:860D, 83:8D67, 83:BD91 (not analysed).

@@ -32,6 +32,55 @@ def decompress(data, pos, limit=0x10000):
             raise ValueError("output too large")
 
 
+def compress(data):
+    """Greedy encoder for the format above: longest match (3-130 bytes, 1-256 back), else literals (runs of <=127)."""
+    out, lit, i, seen = bytearray(), bytearray(), 0, {}  # seen: 3-byte key -> earlier positions
+    while i < len(data):
+        best, dist = 0, 0
+        for j in reversed(seen.get(data[i:i + 3], ())):
+            d = i - j
+            if d > 256:
+                break
+            n = 0
+            while n < 130 and i + n < len(data) and data[i + n] == data[i + n - d]:
+                n += 1
+            if n > best:
+                best, dist = n, d
+                if n == 130 or i + n == len(data):
+                    break
+        step = best if best >= 3 else 1
+        for p in range(i, i + step):
+            seen.setdefault(data[p:p + 3], []).append(p)
+        if best >= 3:
+            if lit:
+                out += bytes([len(lit)]) + lit
+                lit = bytearray()
+            out += bytes([0x80 | (best - 3), dist - 1])
+            i += best
+        else:
+            lit.append(data[i])
+            i += 1
+            if len(lit) == 0x7F:
+                out += bytes([len(lit)]) + lit
+                lit = bytearray()
+    if lit:
+        out += bytes([len(lit)]) + lit
+    return bytes(out + b"\x00")
+
+
+def blocks(rom):
+    """Yield (name, file offset) for every LZ block behind a bank-start pointer table (as gfx_sweep.py finds them)."""
+    for b in range(len(rom) // 0x8000):
+        s = b * 0x8000
+        w = rom[s] | rom[s + 1] << 8
+        if not 0x8002 <= w < 0x8400 or w & 1:
+            continue
+        for i in range((w - 0x8000) // 2):
+            p = rom[s + 2 * i] | rom[s + 2 * i + 1] << 8
+            if p >= 0x8000:
+                yield f"{b | 0x80:02X}_{i:02X}", s + (p & 0x7FFF)
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("offset", type=lambda s: int(s, 16))
