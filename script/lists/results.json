@@ -28,7 +28,7 @@
   "addr": "92:9611",
   "len": 10,
   "jp": "報酬：   {end}",
-  "en": "Reward:{blank}{blank}{blank}{end}",
+  "en": "Reward:{tab:06}{end}",
   "notes": ""
  },
  {
@@ -36,7 +36,7 @@
   "addr": "92:961B",
   "len": 13,
   "jp": "所持金合計：{end}",
-  "en": "Total Funds:{end}",
+  "en": "Total Funds:{tab:06}{end}",
   "notes": ""
  }
 ]

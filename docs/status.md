@@ -20,10 +20,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
   New scenes: `shop_buy_count`, `vm_*` (`vmtext(op)`: 0E window + jump to a text op; elevators/keypad seen OK; the
   `vm_9194..` ones show garbage on the JP too = wrong entry, not a bug).
 - **Phase 8 next (in this order):**
-  1. Results screen (scene `results`): the reward/total count-up redraws its number with narrow VWF digits at
-     shifting x and leaves old digits ("250G 500G"; before: a stray "!"). JP digits are fixed 12 px cells, right
-     aligned by pad blanks. Find the number writer ({c04} or native, 92:95xx) and draw digits there at 12 px (or
-     clear the field first). `Reward:` now has the JP's 3 trailing blanks.
+  1. (done) Results: the amount ($1A40, 7-glyph field) is first drawn where the label left the cursor, the count-up
+     redraws at column 6: labels end in `{tab:06}` now; ends 0G / 2500G like the JP.
   2. Teal/green pixels above "Status" in the info submenu header and list row (menu_info, info_status, info_data,
      data_people_*; zoom work/qa/zoom/c2/id_z2.png): not in JP. Topics selection bar in info_terminal_4 (DATA
      LIBRARY tabs) keeps the JP 2-glyph width: widen it or shorten the label (Topics/People/Enemies).
