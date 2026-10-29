@@ -324,7 +324,7 @@ PROSE = set(range(0x02, 0x52)) | {0xAD, 0xAE, 0xAF, 0xB1, 0xB2, 0xB7, 0xB8}  # h
 
 def prose(rom, a, n):
     """Share of hiragana/punctuation in a text: dialogue scores ~0.6, data decoded as text ~0.3."""
-    o, units, hits = off(a), 0, 0
+    o, units, hits, brs = off(a), 0, 0, 0
     p = o
     while p < o + n - 1:
         b = rom[p]
@@ -336,9 +336,12 @@ def prose(rom, a, n):
         if b == 0xFC and rom[p + 1] > 0xC2:
             return 0  # past the last kanji
         units += 1
-        hits += b in PROSE
+        hits += b in PROSE or 0xF9 <= b <= 0xFC  # kanji count as prose
+        brs += b == 0x00
         p += 2 if 0xF9 <= b <= 0xFC else 1
-    return hits / units if units >= 6 else 0
+    if units < 6 or brs * 8 > units:  # dialogue breaks a line every ~20 characters; map data is mostly 00
+        return 0
+    return hits / units
 
 
 def chain(rom, a, code):

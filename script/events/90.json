@@ -9,11 +9,47 @@
   "notes": ""
  },
  {
+  "id": "ev_90DCBF",
+  "addr": "90:DCBF",
+  "op": "90DCBE",
+  "len": 23,
+  "jp": "「[FA]p[FB]い[F9]。[F9]（、データをフィードバック。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90DCDA",
+  "addr": "90:DCDA",
+  "op": "90DCD9",
+  "len": 23,
+  "jp": "「[FA]p[FB]い[F9]。[F9]（、だめーじヲ[FB]おエマシタ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90DCF5",
+  "addr": "90:DCF5",
+  "op": "90DCF4",
+  "len": 28,
+  "jp": "「[FB]ジ[FC]き[FA]れ[F9]a[FA]ゆ[FA]ズ、[FA]ちにダメージを[F9]よ[FC]ぺ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
   "id": "ev_90DD2B",
   "addr": "90:DD2B",
   "op": "90DD2A",
   "len": 23,
   "jp": "「[FA]ク[FA]Mじゃ。[FA]p[FB]いを[F9]ぐ[FC]ぽされたぞ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90DD46",
+  "addr": "90:DD46",
+  "op": "90DD45",
+  "len": 21,
+  "jp": "「[FA]p[FB]い[FA]ク[FA]M、[F9]ぐ[FC]ぽサレマシタ。{endFE}",
   "en": "",
   "notes": ""
  },
@@ -36,6 +72,15 @@
   "notes": ""
  },
  {
+  "id": "ev_90DDA4",
+  "addr": "90:DDA4",
+  "op": "90DDA3",
+  "len": 23,
+  "jp": "「[FC]ぼ[FB]キ[F9]こ[F9]ーデだめーじヲオサエマシタ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
   "id": "ev_90DDBF",
   "addr": "90:DDBF",
   "op": "90DDBE",
@@ -54,11 +99,47 @@
   "notes": ""
  },
  {
+  "id": "ev_90DE0D",
+  "addr": "90:DE0D",
+  "op": "90DE0C",
+  "len": 24,
+  "jp": "「[FC]す[FB]ぞ[F9]ヅ[FC]ノ[F9]マ、[F9]プ[F9]ペシテ[F9]マサイ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
   "id": "ev_90DE29",
   "addr": "90:DE29",
   "op": "90DE28",
   "len": 26,
   "jp": "「[F9]め[F9]9、これ[FA]」[FA]ねの[FC]ぃ[FC] は[F9]パ[F9]ピじゃ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90DE47",
+  "addr": "90:DE47",
+  "op": "90DE46",
+  "len": 26,
+  "jp": "「コレ[FA]」[FA]ねノ[FC]ぃ[FC] ハ[FA]（[FA]ギニ[F9]パ[F9]ピデス。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90DE65",
+  "addr": "90:DE65",
+  "op": "90DE64",
+  "len": 20,
+  "jp": "「[FA]ちランナー[FB]い[F9]5、[FB]ド[FC]ぅする。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90DE7D",
+  "addr": "90:DE7D",
+  "op": "90DE7C",
+  "len": 18,
+  "jp": "「[FA]ちらんなーヲ[FB]い[F9]5シマシタ。{endFE}",
   "en": "",
   "notes": ""
  },
@@ -72,11 +153,65 @@
   "notes": ""
  },
  {
+  "id": "ev_90DEAE",
+  "addr": "90:DEAE",
+  "op": "90DEAD",
+  "len": 23,
+  "jp": "「[FA]ちらんなーヲ[F9]こ[F9]ー[F9]し[F9]ぞニシマシタ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
   "id": "ev_90DEC9",
   "addr": "90:DEC9",
   "op": "90DEC8",
   "len": 22,
   "jp": "「[FA]ち[FA]ぅ[F9]O、[FB]ネ[F9]ーを[FC]ぇ[F9]ほしたぞ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90DEE3",
+  "addr": "90:DEE3",
+  "op": "90DEE2",
+  "len": 23,
+  "jp": "「[FA]ち[FA]ぅ[F9]Oノ[FB]ネ[F9]ー[FC]ぇ[F9]ほヲ[F9]よ[FC]ぺ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90DEFE",
+  "addr": "90:DEFE",
+  "op": "90DEFD",
+  "len": 24,
+  "jp": "「[FA]ち[F9]バ[F9]ー[FA]s[FC]ぱ、[F9]こ[F9]ー[F9]し[F9]ぞじゃ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90DF1A",
+  "addr": "90:DF1A",
+  "op": "90DF19",
+  "len": 28,
+  "jp": "「[FA]ち[F9]バ[F9]ー[FA]s[FC]ぱハ[F9]こ[F9]ー[F9]し[F9]ぞニナリマシタ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90DF3A",
+  "addr": "90:DF3A",
+  "op": "90DF39",
+  "len": 24,
+  "jp": "「[FA]ち[F9]バ[F9]ー[FA]s[FC]ぱ、[F9]こ[F9]ー[F9]し[F9]ぞじゃ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90DF56",
+  "addr": "90:DF56",
+  "op": "90DF55",
+  "len": 28,
+  "jp": "「[FA]ち[F9]バ[F9]ー[FA]s[FC]ぱハ[F9]こ[F9]ー[F9]し[F9]ぞニナリマシタ。{endFE}",
   "en": "",
   "notes": ""
  },
@@ -90,11 +225,29 @@
   "notes": ""
  },
  {
+  "id": "ev_90DF90",
+  "addr": "90:DF90",
+  "op": "90DF8F",
+  "len": 16,
+  "jp": "「[FB]で[F9]▼ガ[F9]5[FC]ぉシマシタ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
   "id": "ev_90DFA4",
   "addr": "90:DFA4",
   "op": "90DFA3",
   "len": 25,
   "jp": "「ダメージが[FB]な[FA]まを[FC]っえた。[F9]4[F9]8するぞ！{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90DFC1",
+  "addr": "90:DFC1",
+  "op": "90DFC0",
+  "len": 22,
+  "jp": "「[FB]な[FA]まデス。[F9]バ[F9]ソガ[F9]4[F9]8シマス。{endFE}",
   "en": "",
   "notes": ""
  },
@@ -144,11 +297,29 @@
   "notes": ""
  },
  {
+  "id": "ev_90E0EF",
+  "addr": "90:E0EF",
+  "op": "90E0EE",
+  "len": 21,
+  "jp": "「[FA]ちノ[F9]ベ[F9]ボ[FB]ぉ[F9]aヲ[F9]マゲマシタ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
   "id": "ev_90E108",
   "addr": "90:E108",
   "op": "90E107",
   "len": 26,
   "jp": "「[FA]ちの[F9]。[F9]（[FB]ヅと[F9]ぐ[FC]ぽ[FB]ヅが[F9]マがったぞ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90E126",
+  "addr": "90:E126",
+  "op": "90E125",
+  "len": 26,
+  "jp": "「[FA]ちノ[F9]。[F9]（[FB]ヅト[F9]ぐ[FC]ぽ[FB]ヅヲ[F9]マゲマシタ。{endFE}",
   "en": "",
   "notes": ""
  },
@@ -171,11 +342,74 @@
   "notes": ""
  },
  {
+  "id": "ev_90E18B",
+  "addr": "90:E18B",
+  "op": "90E18A",
+  "len": 16,
+  "jp": "「[F9]コ[FA]xニ[FA]ク[FA]Mシマシタ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90E19F",
+  "addr": "90:E19F",
+  "op": "90E19E",
+  "len": 23,
+  "jp": "「アイテム[F9]メ[F9]I[F9]（は[F9]エ[FC]ぼ[F9]もじゃぞ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90E1BA",
+  "addr": "90:E1BA",
+  "op": "90E1B9",
+  "len": 20,
+  "jp": "「あいてむ[F9]メ[F9]I[F9]（ハ[F9]ーケマセン。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
   "id": "ev_90E1D2",
   "addr": "90:E1D2",
   "op": "90E1D1",
   "len": 25,
   "jp": "「[FA]G[FA]H[F9]（は[F9]ーけんぞ、[F9]テをつけるんじゃ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90E1EF",
+  "addr": "90:E1EF",
+  "op": "90E1EE",
+  "len": 27,
+  "jp": "「[FA]G[FA]H[F9]（ハ[F9]ーケマセン。[F9]プ[F9]ペシテ[F9]マサイ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90E20E",
+  "addr": "90:E20E",
+  "op": "90E20D",
+  "len": 26,
+  "jp": "「[FC]ぼ[FB]キフィールドで[FA]ちの[FA]p[FB]いを[FC]ぼいだぞ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90E248",
+  "addr": "90:E248",
+  "op": "90E247",
+  "len": 24,
+  "jp": "「[F9]ゅ[F9]テ[F9]ぐ[FB]らの[FB][F9][FA]ギが[F9]ぐ[FB]Gしたぞ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90E264",
+  "addr": "90:E264",
+  "op": "90E263",
+  "len": 25,
+  "jp": "「[F9]ゅ[F9]テ[F9]ぐ[FB]らノ[FB][F9][FA]ギガ[F9]ぐ[FB]Gシマシタ。{endFE}",
   "en": "",
   "notes": ""
  },
@@ -189,11 +423,29 @@
   "notes": ""
  },
  {
+  "id": "ev_90E29B",
+  "addr": "90:E29B",
+  "op": "90E29A",
+  "len": 23,
+  "jp": "「[FB]ヨヲ[F9]ぶケタ[F9]▼[FC]ひガ[F9]ぐ[FB]Gシマシタ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
   "id": "ev_90E2B6",
   "addr": "90:E2B6",
   "op": "90E2B5",
   "len": 25,
   "jp": "「[FC]す[FB]ヨ[F9]▼[FC]ひで[FB]ヨの[FB]＝[FC]なを[FC]ぼいだぞ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90E2D3",
+  "addr": "90:E2D3",
+  "op": "90E2D2",
+  "len": 26,
+  "jp": "「[FC]す[FB]ヨ[F9]▼[FC]ひデ[FB]ヨノ[FB]＝[FC]なヲ[FC]ぼギマシタ。{endFE}",
   "en": "",
   "notes": ""
  },
@@ -207,6 +459,15 @@
   "notes": ""
  },
  {
+  "id": "ev_90E30E",
+  "addr": "90:E30E",
+  "op": "90E30D",
+  "len": 26,
+  "jp": "「[FC]す[FB]ウ[F9]▼[FC]ひデ[FB]ウノ[FB]＝[FC]なヲ[FC]ぼギマシタ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
   "id": "ev_90E32C",
   "addr": "90:E32C",
   "op": "90E32B",
@@ -216,11 +477,56 @@
   "notes": ""
  },
  {
+  "id": "ev_90E349",
+  "addr": "90:E349",
+  "op": "90E348",
+  "len": 26,
+  "jp": "「[FC]す[FC]ゃ[F9]▼[FC]ひデ[FC]ゃノ[FB]＝[FC]なヲ[FC]ぼギマシタ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90E367",
+  "addr": "90:E367",
+  "op": "90E366",
+  "len": 27,
+  "jp": "「[FC]す[F9]ゅ[F9]▼[FC]ひで[F9]ゅ[FB]いの[FB]＝[FC]なを[FC]ぼいだぞ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90E386",
+  "addr": "90:E386",
+  "op": "90E385",
+  "len": 28,
+  "jp": "「[FC]す[F9]ゅ[F9]▼[FC]ひデ[F9]ゅ[FB]いノ[FB]＝[FC]なヲ[FC]ぼギマシタ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
   "id": "ev_90E3A6",
   "addr": "90:E3A6",
   "op": "90E3A5",
   "len": 23,
   "jp": "「[FA]ちの[F9]ーきを[FC]8んで[F9]こ[F9]ーするのじゃ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90E3C1",
+  "addr": "90:E3C1",
+  "op": "90E3C0",
+  "len": 25,
+  "jp": "「[FA]ちノ[F9]こ[F9]ーヲ[FA]{end}エテ[FA]p[FB]いシテ[F9]マサイ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90E715",
+  "addr": "90:E715",
+  "op": "90E714",
+  "len": 18,
+  "jp": "[FA]ヅ[F9]3[FB]5、{c04:02310170}[FC]ぬ[FA]ぉ{endFD}",
   "en": "",
   "notes": ""
  }
