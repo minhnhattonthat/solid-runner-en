@@ -3,7 +3,7 @@
   "id": "item_use_839B79",
   "addr": "83:9B79",
   "len": 12,
-  "jp": "ヒットポイント[F9]ぐ[FB]G{endFE}",
+  "jp": "ヒットポイント回復{endFE}",
   "en": "",
   "notes": ""
  },
@@ -11,7 +11,7 @@
   "id": "item_use_839B89",
   "addr": "83:9B89",
   "len": 13,
-  "jp": "[F9]ベ[F9]ボ[FB]ぉ[F9]a[F9]ぐ[FB]G{endFE}",
+  "jp": "反応速度回復{endFE}",
   "en": "",
   "notes": ""
  },
@@ -19,7 +19,7 @@
   "id": "item_use_839B9A",
   "addr": "83:9B9A",
   "len": 11,
-  "jp": "[FC]ゃ[FA]ィ[FA]ゥ[F9]ぐ[FB]G{endFE}",
+  "jp": "酸状態回復{endFE}",
   "en": "",
   "notes": ""
  },
@@ -27,7 +27,7 @@
   "id": "item_use_839BA9",
   "addr": "83:9BA9",
   "len": 11,
-  "jp": "[FB]ウ[FA]ィ[FA]ゥ[F9]ぐ[FB]G{endFE}",
+  "jp": "毒状態回復{endFE}",
   "en": "",
   "notes": ""
  },
@@ -35,7 +35,7 @@
   "id": "item_use_839BB8",
   "addr": "83:9BB8",
   "len": 18,
-  "jp": "ナパーム[FA]p[FB]いを[F9]エ[FB]＝[FB]ぐする{endFE}",
+  "jp": "ナパーム攻撃を無効化する{endFE}",
   "en": "",
   "notes": ""
  },
@@ -43,7 +43,7 @@
   "id": "item_use_839BCE",
   "addr": "83:9BCE",
   "len": 18,
-  "jp": "[F9]ゅ[FB]い[FA]p[FB]いを[F9]エ[FB]＝[FB]ぐする{endFE}",
+  "jp": "電撃攻撃を無効化する{endFE}",
   "en": "",
   "notes": ""
  },
@@ -51,7 +51,7 @@
   "id": "item_use_839BE4",
   "addr": "83:9BE4",
   "len": 16,
-  "jp": "[FC]ゃ[FA]p[FB]いを[F9]エ[FB]＝[FB]ぐする{endFE}",
+  "jp": "酸攻撃を無効化する{endFE}",
   "en": "",
   "notes": ""
  },
@@ -59,7 +59,7 @@
   "id": "item_use_839BF8",
   "addr": "83:9BF8",
   "len": 16,
-  "jp": "[FB]ウ[FA]p[FB]いを[F9]エ[FB]＝[FB]ぐする{endFE}",
+  "jp": "毒攻撃を無効化する{endFE}",
   "en": "",
   "notes": ""
  },
@@ -67,7 +67,7 @@
   "id": "item_use_839C0C",
   "addr": "83:9C0C",
   "len": 16,
-  "jp": "[FC]ぼ[FB]キ[F9]ヅ[FC]ノ[F9]マを[F9]ぐ[FB]G{endFE}",
+  "jp": "防御力低下を回復{endFE}",
   "en": "",
   "notes": ""
  }

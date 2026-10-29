@@ -3,7 +3,7 @@
   "id": "places2_93C015",
   "addr": "93:C015",
   "len": 8,
-  "jp": "H{c0C:01}の[FA]2{end}",
+  "jp": "H{c0C:01}の家{end}",
   "en": "",
   "notes": ""
  },
@@ -11,7 +11,7 @@
   "id": "places2_93C01D",
   "addr": "93:C01D",
   "len": 8,
-  "jp": "2[F9]ぬ[FA]J[FA]K{end}",
+  "jp": "2番倉庫{end}",
   "en": "",
   "notes": ""
  },
@@ -27,7 +27,7 @@
   "id": "places2_93C02D",
   "addr": "93:C02D",
   "len": 11,
-  "jp": "[F9]ホ[F9]マ[F9]マ[F9]ミ[F9]ム{end}",
+  "jp": "地下下水道{end}",
   "en": "",
   "notes": ""
  },
@@ -35,7 +35,7 @@
   "id": "places2_93C038",
   "addr": "93:C038",
   "len": 7,
-  "jp": "[FB]エビル1F{end}",
+  "jp": "廃ビル1F{end}",
   "en": "",
   "notes": ""
  },
@@ -43,7 +43,7 @@
   "id": "places2_93C03F",
   "addr": "93:C03F",
   "len": 12,
-  "jp": "ドラッグ[F9]と[F9]なB2F{end}",
+  "jp": "ドラッグ工場B2F{end}",
   "en": "",
   "notes": ""
  },
@@ -51,7 +51,7 @@
   "id": "places2_93C04B",
   "addr": "93:C04B",
   "len": 13,
-  "jp": "テロ[FB]ギ[FB]グアジトB2F{end}",
+  "jp": "テロ集団アジトB2F{end}",
   "en": "",
   "notes": ""
  },
@@ -59,7 +59,7 @@
   "id": "places2_93C058",
   "addr": "93:C058",
   "len": 13,
-  "jp": "アレックス[FB]さ[F9]sB1F{end}",
+  "jp": "アレックス病院B1F{end}",
   "en": "",
   "notes": ""
  },
@@ -67,7 +67,7 @@
   "id": "places2_93C065",
   "addr": "93:C065",
   "len": 5,
-  "jp": "[FA]J[FA]K{end}",
+  "jp": "倉庫{end}",
   "en": "",
   "notes": ""
  },
@@ -99,7 +99,7 @@
   "id": "places2_93C08B",
   "addr": "93:C08B",
   "len": 7,
-  "jp": "[F9]ホ[F9]マ[F9]ム{end}",
+  "jp": "地下道{end}",
   "en": "",
   "notes": ""
  },
@@ -107,7 +107,7 @@
   "id": "places2_93C092",
   "addr": "93:C092",
   "len": 13,
-  "jp": "[FC]UCTI[F9]ぼ[F9]ねB2F{end}",
+  "jp": "旧CTI本部B2F{end}",
   "en": "",
   "notes": ""
  },
@@ -115,7 +115,7 @@
   "id": "places2_93C09F",
   "addr": "93:C09F",
   "len": 12,
-  "jp": "[FC]UCTI[F9]ぼ[F9]ね3F{end}",
+  "jp": "旧CTI本部3F{end}",
   "en": "",
   "notes": ""
  },
@@ -123,7 +123,7 @@
   "id": "places2_93C0AB",
   "addr": "93:C0AB",
   "len": 12,
-  "jp": "[FC]UCTI[F9]ぼ[F9]ね8F{end}",
+  "jp": "旧CTI本部8F{end}",
   "en": "",
   "notes": ""
  },
@@ -131,7 +131,7 @@
   "id": "places2_93C0B7",
   "addr": "93:C0B7",
   "len": 11,
-  "jp": "ウラル[F9]と[F9]なB2F{end}",
+  "jp": "ウラル工場B2F{end}",
   "en": "",
   "notes": ""
  },
@@ -147,7 +147,7 @@
   "id": "places2_93C0CC",
   "addr": "93:C0CC",
   "len": 12,
-  "jp": "スラム[FA]ぁ[F9]ホ[F9]マ[F9]ム{end}",
+  "jp": "スラム街地下道{end}",
   "en": "",
   "notes": ""
  },
@@ -155,7 +155,7 @@
   "id": "places2_93C0D8",
   "addr": "93:C0D8",
   "len": 12,
-  "jp": "[FC]UCTI[F9]ぼ[F9]ね5F{end}",
+  "jp": "旧CTI本部5F{end}",
   "en": "",
   "notes": ""
  },
@@ -163,7 +163,7 @@
   "id": "places2_93C0E4",
   "addr": "93:C0E4",
   "len": 14,
-  "jp": "[FC]UCTIへの[F9]ホ[F9]マ[F9]ム{end}",
+  "jp": "旧CTIへの地下道{end}",
   "en": "",
   "notes": ""
  },
@@ -171,7 +171,7 @@
   "id": "places2_93C0F2",
   "addr": "93:C0F2",
   "len": 12,
-  "jp": "スラム[FA]ぁ[F9]ホ[F9]マ[F9]ム{end}",
+  "jp": "スラム街地下道{end}",
   "en": "",
   "notes": ""
  },

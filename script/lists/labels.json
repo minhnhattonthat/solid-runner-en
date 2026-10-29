@@ -3,7 +3,7 @@
   "id": "labels_82AB25",
   "addr": "82:AB25",
   "len": 5,
-  "jp": "[FC]ぶ[F9]w{end}",
+  "jp": "左肩{end}",
   "en": "",
   "notes": ""
  },
@@ -11,7 +11,7 @@
   "id": "labels_82AB2A",
   "addr": "82:AB2A",
   "len": 5,
-  "jp": "[FC]べ[F9]w{end}",
+  "jp": "右肩{end}",
   "en": "",
   "notes": ""
  },
@@ -19,7 +19,7 @@
   "id": "labels_82AB2F",
   "addr": "82:AB2F",
   "len": 5,
-  "jp": "[FC]ぶ[FC]の{end}",
+  "jp": "左腕{end}",
   "en": "",
   "notes": ""
  },
@@ -27,7 +27,7 @@
   "id": "labels_82AB34",
   "addr": "82:AB34",
   "len": 5,
-  "jp": "[FC]べ[FC]の{end}",
+  "jp": "右腕{end}",
   "en": "",
   "notes": ""
  },
@@ -35,7 +35,7 @@
   "id": "labels_82AEF4",
   "addr": "82:AEF4",
   "len": 9,
-  "jp": "[FB]り[FA]4[F9]け[F9]O{end}",
+  "jp": "情報人物{end}",
   "en": "",
   "notes": ""
  },
@@ -67,7 +67,7 @@
   "id": "labels_938AFB",
   "addr": "93:8AFB",
   "len": 7,
-  "jp": "[F9] [F9]ィ[FA]ぱ{end}",
+  "jp": "所持数{end}",
   "en": "",
   "notes": ""
  },
@@ -75,7 +75,7 @@
   "id": "labels_938B02",
   "addr": "93:8B02",
   "len": 5,
-  "jp": "[FB]5[FA]、{end}",
+  "jp": "値段{end}",
   "en": "",
   "notes": ""
  }

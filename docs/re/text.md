@@ -18,12 +18,17 @@ screenshots, and by the font: glyph index = code - 1 (decode at 84:A98B).
 | `B9-EC` | `A-Z a-z` (full-width-looking glyphs, 12 px cells) |
 | `ED-F7` | `＋−＝＆％／＄○▲▼` and a `≡`-like icon (F7) |
 | `F8 cc args` | control code, see below |
-| `F9-FC xx` | kanji: glyph `(p-F8)*256 + xx - 1`; used up to `FC C2` (glyph 0x4C1). Kanji are in first-use order, not JIS |
+| `F9-FC xx` | kanji: glyph `(p-F8)*256 + xx - 1`; `F901`-`FCF2` (glyphs 0x100-0x4F1; `FA00`/`FB00`/`FC00` are real codes). Kanji are in first-use order, not JIS |
 | `FD` `FE` `FF` | end of text (three variants; `FF` is the common one). Intro engine: FD calls 80:D938 with 84:B2EF, FE clears $18B0 bit 1, FF plain end. In scripts FD ends a page that the next text opcode continues (Tao's line [0A84CA] ends FD at [0A84FF]; op 18 at [0A8500] starts the next page). Exact box effects are a **guess** until the marker build |
 
-`tbl/jp.tbl` has the kana, latin, symbols and controls. **Kanji are not in it yet**: they decode as `[F9][xx]`, which
-round-trips. Reading the ~960 kanji cells off the font (`python tools/font_sheet.py work/font`) is phase 4 work (skill:
-template guess + reviewer subagents with script context).
+`tbl/jp.tbl` has the kana, latin, symbols, controls and all 1010 kanji cells (**verified**, phase 5): read by eye off
+zoomed font sheets (`python tools/font_sheet.py work/font --first 0x100 --count 1010 --zoom 4 --per 64`), every unsure
+cell checked in script context (`python -X utf8 tools/kanji.py ctx READINGS.tsv CODE..`), then six reviewer subagents
+read the whole decoded script for look-alike misreads (`kanji.py dump 6`); 24 readings were fixed that way (e.g.
+兼->乗, 項->頂, 植->値, 値->偵, 経->終, 嘘->墟). Template matching against MS Gothic (`kanji.py guess`) got only ~40% of a
+64-cell truth set: the game font is its own design. A few cells are symbols: `F9C9` …, `F9F4` 〜, `FA75` ’, `FA77` ＃,
+`FAB1` ✕ (censored word, `✕✕ババア`), `FC55` ：, `FC88`/`FC89` 《》. `test_kanji_table`: no raw lead byte left in any
+`jp`, no duplicate reading. Known original typo: ev_97BA44 has digit `6` (A9) where `成` (FBA9) was meant (`6功`).
 
 ### Control codes `F8 cc` (verified table, meanings guessed)
 
@@ -49,7 +54,7 @@ build.
 ## Font (verified)
 
 12x11 1bpp glyphs, 22 bytes each (11 rows x 16-bit little-endian word, bit 15 = leftmost pixel) at **$AE:8000
-[170000]**, 0x4C2 glyphs (to [176E00]; rest of bank $AE is FF). Read by 84:ADEA (`LDA $8000,y` with Y = glyph*22,
+[170000]**, 0x4F2 glyphs, then blank cells to 0x500 ([176E00]; rest of bank $AE is FF). Read by 84:ADEA (`LDA $8000,y` with Y = glyph*22,
 data bank $AE) and drawn with a shadow/outline into a WRAM bitmap at $7E:2000+ (84:ADBF / 84:AED6, two shift paths),
 then DMA'd as 2bpp BG3 tiles. So all font text is rendered at run time into a bitmap: a VWF needs only the renderer
 and advance logic, not tile allocation. Cell pitch on screen is 12 px wide, 16 px line height in menus/dialogue.

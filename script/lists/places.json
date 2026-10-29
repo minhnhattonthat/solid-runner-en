@@ -3,7 +3,7 @@
   "id": "places_83B4B2",
   "addr": "83:B4B2",
   "len": 16,
-  "jp": "        2[F9]ぬ[FA]J[FA]K{end}",
+  "jp": "        2番倉庫{end}",
   "en": "",
   "notes": ""
  },
@@ -43,7 +43,7 @@
   "id": "places_83B502",
   "addr": "83:B502",
   "len": 18,
-  "jp": "       [F9]ホ[F9]マ[F9]マ[F9]ミ[F9]ム{end}",
+  "jp": "       地下下水道{end}",
   "en": "",
   "notes": ""
  },
@@ -51,7 +51,7 @@
   "id": "places_83B514",
   "addr": "83:B514",
   "len": 15,
-  "jp": "      [FB]エビル B1F{end}",
+  "jp": "      廃ビル B1F{end}",
   "en": "",
   "notes": ""
  },
@@ -59,7 +59,7 @@
   "id": "places_83B523",
   "addr": "83:B523",
   "len": 15,
-  "jp": "       [FB]エビル 1F{end}",
+  "jp": "       廃ビル 1F{end}",
   "en": "",
   "notes": ""
  },
@@ -67,7 +67,7 @@
   "id": "places_83B532",
   "addr": "83:B532",
   "len": 15,
-  "jp": "       [FB]エビル 2F{end}",
+  "jp": "       廃ビル 2F{end}",
   "en": "",
   "notes": ""
  },
@@ -75,7 +75,7 @@
   "id": "places_83B541",
   "addr": "83:B541",
   "len": 15,
-  "jp": "       [FB]エビル 3F{end}",
+  "jp": "       廃ビル 3F{end}",
   "en": "",
   "notes": ""
  },
@@ -83,7 +83,7 @@
   "id": "places_83B550",
   "addr": "83:B550",
   "len": 18,
-  "jp": "     ドラッグ[F9]と[F9]な B1F{end}",
+  "jp": "     ドラッグ工場 B1F{end}",
   "en": "",
   "notes": ""
  },
@@ -91,7 +91,7 @@
   "id": "places_83B562",
   "addr": "83:B562",
   "len": 18,
-  "jp": "     ドラッグ[F9]と[F9]な B2F{end}",
+  "jp": "     ドラッグ工場 B2F{end}",
   "en": "",
   "notes": ""
  },
@@ -99,7 +99,7 @@
   "id": "places_83B574",
   "addr": "83:B574",
   "len": 18,
-  "jp": "     ドラッグ[F9]と[F9]な B3F{end}",
+  "jp": "     ドラッグ工場 B3F{end}",
   "en": "",
   "notes": ""
  },
@@ -107,7 +107,7 @@
   "id": "places_83B586",
   "addr": "83:B586",
   "len": 16,
-  "jp": "      SCBC[F9]ス 1F{end}",
+  "jp": "      SCBC局 1F{end}",
   "en": "",
   "notes": ""
  },
@@ -115,7 +115,7 @@
   "id": "places_83B596",
   "addr": "83:B596",
   "len": 16,
-  "jp": "      SCBC[F9]ス 2F{end}",
+  "jp": "      SCBC局 2F{end}",
   "en": "",
   "notes": ""
  },
@@ -147,7 +147,7 @@
   "id": "places_83B5D9",
   "addr": "83:B5D9",
   "len": 17,
-  "jp": "      CTI[F9]ぼ[F9]ね 1F{end}",
+  "jp": "      CTI本部 1F{end}",
   "en": "",
   "notes": ""
  },
@@ -155,7 +155,7 @@
   "id": "places_83B5EA",
   "addr": "83:B5EA",
   "len": 17,
-  "jp": "      CTI[F9]ぼ[F9]ね 5F{end}",
+  "jp": "      CTI本部 5F{end}",
   "en": "",
   "notes": ""
  },
@@ -163,7 +163,7 @@
   "id": "places_83B5FB",
   "addr": "83:B5FB",
   "len": 18,
-  "jp": "    アレックス[FB]さ[F9]s B2F{end}",
+  "jp": "    アレックス病院 B2F{end}",
   "en": "",
   "notes": ""
  },
@@ -171,7 +171,7 @@
   "id": "places_83B60D",
   "addr": "83:B60D",
   "len": 18,
-  "jp": "    アレックス[FB]さ[F9]s B1F{end}",
+  "jp": "    アレックス病院 B1F{end}",
   "en": "",
   "notes": ""
  },
@@ -179,7 +179,7 @@
   "id": "places_83B61F",
   "addr": "83:B61F",
   "len": 18,
-  "jp": "     アレックス[FB]さ[F9]s 1F{end}",
+  "jp": "     アレックス病院 1F{end}",
   "en": "",
   "notes": ""
  },
@@ -187,7 +187,7 @@
   "id": "places_83B631",
   "addr": "83:B631",
   "len": 18,
-  "jp": "     アレックス[FB]さ[F9]s 2F{end}",
+  "jp": "     アレックス病院 2F{end}",
   "en": "",
   "notes": ""
  },
@@ -195,7 +195,7 @@
   "id": "places_83B643",
   "addr": "83:B643",
   "len": 18,
-  "jp": "     アレックス[FB]さ[F9]s 3F{end}",
+  "jp": "     アレックス病院 3F{end}",
   "en": "",
   "notes": ""
  },
@@ -203,7 +203,7 @@
   "id": "places_83B655",
   "addr": "83:B655",
   "len": 16,
-  "jp": "        2[F9]ぬ[FA]J[FA]K{end}",
+  "jp": "        2番倉庫{end}",
   "en": "",
   "notes": ""
  },
@@ -283,7 +283,7 @@
   "id": "places_83B6F8",
   "addr": "83:B6F8",
   "len": 20,
-  "jp": "  CTI[F9]ぼ[F9]ねコンピュータールーム{end}",
+  "jp": "  CTI本部コンピュータールーム{end}",
   "en": "",
   "notes": ""
  },
@@ -363,7 +363,7 @@
   "id": "places_83B79E",
   "addr": "83:B79E",
   "len": 18,
-  "jp": "     [F9]ホ[F9]マ[F9]ム Aブロック{end}",
+  "jp": "     地下道 Aブロック{end}",
   "en": "",
   "notes": ""
  },
@@ -371,7 +371,7 @@
   "id": "places_83B7B0",
   "addr": "83:B7B0",
   "len": 18,
-  "jp": "     [F9]ホ[F9]マ[F9]ム Bブロック{end}",
+  "jp": "     地下道 Bブロック{end}",
   "en": "",
   "notes": ""
  },
@@ -379,7 +379,7 @@
   "id": "places_83B7C2",
   "addr": "83:B7C2",
   "len": 19,
-  "jp": "     [FC]UCTI[F9]ぼ[F9]ね B4F{end}",
+  "jp": "     旧CTI本部 B4F{end}",
   "en": "",
   "notes": ""
  },
@@ -387,7 +387,7 @@
   "id": "places_83B7D5",
   "addr": "83:B7D5",
   "len": 19,
-  "jp": "     [FC]UCTI[F9]ぼ[F9]ね B3F{end}",
+  "jp": "     旧CTI本部 B3F{end}",
   "en": "",
   "notes": ""
  },
@@ -395,7 +395,7 @@
   "id": "places_83B7E8",
   "addr": "83:B7E8",
   "len": 19,
-  "jp": "     [FC]UCTI[F9]ぼ[F9]ね B2F{end}",
+  "jp": "     旧CTI本部 B2F{end}",
   "en": "",
   "notes": ""
  },
@@ -403,7 +403,7 @@
   "id": "places_83B7FB",
   "addr": "83:B7FB",
   "len": 19,
-  "jp": "     [FC]UCTI[F9]ぼ[F9]ね B1F{end}",
+  "jp": "     旧CTI本部 B1F{end}",
   "en": "",
   "notes": ""
  },
@@ -411,7 +411,7 @@
   "id": "places_83B80E",
   "addr": "83:B80E",
   "len": 18,
-  "jp": "     [FC]UCTI[F9]ぼ[F9]ね 1F{end}",
+  "jp": "     旧CTI本部 1F{end}",
   "en": "",
   "notes": ""
  },
@@ -419,7 +419,7 @@
   "id": "places_83B820",
   "addr": "83:B820",
   "len": 18,
-  "jp": "     [FC]UCTI[F9]ぼ[F9]ね 2F{end}",
+  "jp": "     旧CTI本部 2F{end}",
   "en": "",
   "notes": ""
  },
@@ -427,7 +427,7 @@
   "id": "places_83B832",
   "addr": "83:B832",
   "len": 18,
-  "jp": "     [FC]UCTI[F9]ぼ[F9]ね 3F{end}",
+  "jp": "     旧CTI本部 3F{end}",
   "en": "",
   "notes": ""
  },
@@ -435,7 +435,7 @@
   "id": "places_83B844",
   "addr": "83:B844",
   "len": 18,
-  "jp": "     [FC]UCTI[F9]ぼ[F9]ね 4F{end}",
+  "jp": "     旧CTI本部 4F{end}",
   "en": "",
   "notes": ""
  },
@@ -443,7 +443,7 @@
   "id": "places_83B856",
   "addr": "83:B856",
   "len": 18,
-  "jp": "     [FC]UCTI[F9]ぼ[F9]ね 5F{end}",
+  "jp": "     旧CTI本部 5F{end}",
   "en": "",
   "notes": ""
  },
@@ -451,7 +451,7 @@
   "id": "places_83B868",
   "addr": "83:B868",
   "len": 18,
-  "jp": "     [FC]UCTI[F9]ぼ[F9]ね 6F{end}",
+  "jp": "     旧CTI本部 6F{end}",
   "en": "",
   "notes": ""
  },
@@ -459,7 +459,7 @@
   "id": "places_83B87A",
   "addr": "83:B87A",
   "len": 18,
-  "jp": "     [FC]UCTI[F9]ぼ[F9]ね 7F{end}",
+  "jp": "     旧CTI本部 7F{end}",
   "en": "",
   "notes": ""
  },
@@ -467,7 +467,7 @@
   "id": "places_83B88C",
   "addr": "83:B88C",
   "len": 18,
-  "jp": "     [FC]UCTI[F9]ぼ[F9]ね 8F{end}",
+  "jp": "     旧CTI本部 8F{end}",
   "en": "",
   "notes": ""
  },
@@ -475,7 +475,7 @@
   "id": "places_83B89E",
   "addr": "83:B89E",
   "len": 17,
-  "jp": "     ドラッグ[F9]と[F9]な 1F{end}",
+  "jp": "     ドラッグ工場 1F{end}",
   "en": "",
   "notes": ""
  },
@@ -483,7 +483,7 @@
   "id": "places_83B8AF",
   "addr": "83:B8AF",
   "len": 15,
-  "jp": "      [FB]エ[FB]8 B1F{end}",
+  "jp": "      廃墟 B1F{end}",
   "en": "",
   "notes": ""
  },
@@ -491,7 +491,7 @@
   "id": "places_83B8BE",
   "addr": "83:B8BE",
   "len": 15,
-  "jp": "       [FB]エ[FB]8 1F{end}",
+  "jp": "       廃墟 1F{end}",
   "en": "",
   "notes": ""
  },
@@ -499,7 +499,7 @@
   "id": "places_83B8CD",
   "addr": "83:B8CD",
   "len": 15,
-  "jp": "       [FB]エ[FB]8 2F{end}",
+  "jp": "       廃墟 2F{end}",
   "en": "",
   "notes": ""
  },
@@ -507,7 +507,7 @@
   "id": "places_83B8DC",
   "addr": "83:B8DC",
   "len": 18,
-  "jp": "       [F9]ホ[F9]マ[F9]マ[F9]ミ[F9]ム{end}",
+  "jp": "       地下下水道{end}",
   "en": "",
   "notes": ""
  },
@@ -515,7 +515,7 @@
   "id": "places_83B8EE",
   "addr": "83:B8EE",
   "len": 16,
-  "jp": "      ウラル[F9]と[F9]な1F{end}",
+  "jp": "      ウラル工場1F{end}",
   "en": "",
   "notes": ""
  },
@@ -523,7 +523,7 @@
   "id": "places_83B8FE",
   "addr": "83:B8FE",
   "len": 17,
-  "jp": "      ウラル[F9]と[F9]なB1F{end}",
+  "jp": "      ウラル工場B1F{end}",
   "en": "",
   "notes": ""
  },
@@ -531,7 +531,7 @@
   "id": "places_83B90F",
   "addr": "83:B90F",
   "len": 17,
-  "jp": "      ウラル[F9]と[F9]なB2F{end}",
+  "jp": "      ウラル工場B2F{end}",
   "en": "",
   "notes": ""
  },
@@ -539,7 +539,7 @@
   "id": "places_83B920",
   "addr": "83:B920",
   "len": 19,
-  "jp": "     [FA]あれ[F9]ホゾーン [F9]ホ[FA]ね{end}",
+  "jp": "     荒れ地ゾーン 地上{end}",
   "en": "",
   "notes": ""
  },
@@ -547,7 +547,7 @@
   "id": "places_83B933",
   "addr": "83:B933",
   "len": 19,
-  "jp": "     [FA]あれ[F9]ホゾーン [F9]ホ[F9]マ{end}",
+  "jp": "     荒れ地ゾーン 地下{end}",
   "en": "",
   "notes": ""
  },
@@ -555,7 +555,7 @@
   "id": "places_83B946",
   "addr": "83:B946",
   "len": 19,
-  "jp": "      [FB]a[FB]cゾーン [F9]ホ[FA]ね{end}",
+  "jp": "      森林ゾーン 地上{end}",
   "en": "",
   "notes": ""
  },
@@ -563,7 +563,7 @@
   "id": "places_83B959",
   "addr": "83:B959",
   "len": 19,
-  "jp": "      [FB]a[FB]cゾーン [F9]ホ[F9]マ{end}",
+  "jp": "      森林ゾーン 地下{end}",
   "en": "",
   "notes": ""
  },
@@ -571,7 +571,7 @@
   "id": "places_83B96C",
   "addr": "83:B96C",
   "len": 19,
-  "jp": "      スラム[FA]ぁ [F9]ホ[F9]マ[F9]ム{end}",
+  "jp": "      スラム街 地下道{end}",
   "en": "",
   "notes": ""
  },
@@ -579,7 +579,7 @@
   "id": "places_83B97F",
   "addr": "83:B97F",
   "len": 16,
-  "jp": "        1[F9]ぬ[FA]J[FA]K{end}",
+  "jp": "        1番倉庫{end}",
   "en": "",
   "notes": ""
  },
@@ -587,7 +587,7 @@
   "id": "places_83B98F",
   "addr": "83:B98F",
   "len": 16,
-  "jp": "      SCBC[F9]ス 3F{end}",
+  "jp": "      SCBC局 3F{end}",
   "en": "",
   "notes": ""
  },
@@ -595,7 +595,7 @@
   "id": "places_83B99F",
   "addr": "83:B99F",
   "len": 16,
-  "jp": "      SCBC[F9]ス 4F{end}",
+  "jp": "      SCBC局 4F{end}",
   "en": "",
   "notes": ""
  }

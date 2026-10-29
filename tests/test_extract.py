@@ -32,6 +32,16 @@ def test_roundtrip():
     assert n > 3000
 
 
+def test_kanji_table():
+    """Every kanji code the script uses decodes (no raw [F9]-[FC] lead byte left), and no two codes share a reading."""
+    from tbl import Table
+    t = Table.load(ROOT / "tbl" / "jp.tbl")
+    kanji = [v for k, v in t.dec.items() if len(k) == 2 and 0xF9 <= k[0] <= 0xFC]
+    assert len(kanji) == len(set(kanji)) > 1000
+    left = [e["id"] for e in entries() if any(f"[{p:02X}]" in e["jp"] for p in range(0xF9, 0xFD))]
+    assert not left, left[:5]
+
+
 def test_ids_unique():
     ids = [e["id"] for e in entries()]
     assert len(ids) == len(set(ids))
