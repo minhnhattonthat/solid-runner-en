@@ -46,6 +46,9 @@ def test_every_slot_reaches_its_english(built):
         if not e["en"] or kind in insert.IN_PLACE:
             continue
         o = insert.off(e["addr"])
+        if e["id"] in insert.NOT_TEXT:  # code / VM data: left as the original
+            assert out[o:o + e["len"]] == rom[o:o + e["len"]], e["id"]
+            continue
         s = out[o:o + e["len"]]
         if s[:2] == b"\xf8\x20":
             p = insert.off(int.from_bytes(s[2:5], "little"))

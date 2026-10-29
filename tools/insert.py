@@ -50,7 +50,12 @@ def cpu(o):
 # Extractor blind spot: a byte pair inside these strings decodes as a text op, so the entry starts mid-string and
 # the head bytes belong to no entry. The real text op is just before these addresses (op 18, checked by decoding);
 # the slot starts there and the English covers the whole string.
-HEADS = {"ev_959A59": 0x959A43, "ev_959C40": 0x959C2F, "ev_A8C91E": 0xA8C910}
+HEADS = {"ev_959A59": 0x959A43, "ev_959C40": 0x959C2F, "ev_A8C91E": 0xA8C910,
+         "places2_93C015": 0x93C016,  # its "H" is the high byte of the last word of the table at 93:BFE8
+         "ev_91940D": 0x91941A, "ev_95A2AA": 0x95A2B1, "ev_979F08": 0x979F1D,  # text after the VM's op 18
+         "loose_93EED3": 0x93EED5, "turbo_929F06": 0x929F08}  # after PLX : RTL (FA 6B, read as 選)
+# extracted entries that are code or VM data, not text: never written (92:DE77 is 65816 code, the others VM operands)
+NOT_TEXT = {"ev_92DE77", "ev_96DB26", "ev_96DBF8", "ev_A8D233"}
 
 
 def entries():
@@ -239,7 +244,7 @@ def plan(rom):
     cells = load_cells()
     space = Space(rom)
     writes, report = [], {"jump": 0, "jump16": 0, "table": 0, "in_place": 0, "skipped": []}
-    todo = [(k, e) for k, e in entries() if e["en"]]
+    todo = [(k, e) for k, e in entries() if e["en"] and e["id"] not in NOT_TEXT]
     rs = sorted(runs(todo), key=lambda r: all(e["len"] >= 6 for _, e in r))  # runs bound to a bank first
     for run in rs:
         data = []
