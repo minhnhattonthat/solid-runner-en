@@ -25,7 +25,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
   2. Teal/green pixels above "Status" in the info submenu header and list row (menu_info, info_status, info_data,
      data_people_*; zoom work/qa/zoom/c2/id_z2.png): not in JP. Topics selection bar in info_terminal_4 (DATA
      LIBRARY tabs) keeps the JP 2-glyph width: widen it or shorten the label (Topics/People/Enemies).
-  3. Re-tour everything on the final build (copy to build/qa_tour.sfc first), `textscan.py`, `qa_gate.py init`
+  2b. (done) teal marks (VWF clears rows 0-2/14-15 in overwrite mode), tab highlight 40 px (asm/menus.asm).
+  3. NEXT. A re-tour at `--jobs 12` was killed by Claude Code for low system memory (2026-10-30): `work/qa/tour` is
+     now a mix of the old and new build; re-run it whole with `--jobs 4`. Then re-tour everything on the final build (copy to build/qa_tour.sfc first), `textscan.py`, `qa_gate.py init`
      (changed sheets lose their verdicts), `todo`, re-review, recheck files `verdicts/recheck_<n>.tsv` for fixed
      issues, until `qa_gate.py check` exits 0.
   4. Graphics rows: G3 (debug-menu font B3_10/11) not reachable in play; G4 (`EAは/あけて` tags, A3_05 tiles
