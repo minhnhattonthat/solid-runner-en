@@ -53,6 +53,8 @@ S.list = {
   -- first map: the opening event, then the field menu and its submenus
   opening = { area = 0x01, room = 0x00 },
   opening_done = field(),
+  -- every box of the opening, slowly (width tests: emu.py --shot-every 20)
+  opening_talk = { area = 0x01, room = 0x00, mash = { "a", 50, 100 }, frames = 4000 },
   menu = field({ { 0, "x" } }),
   menu_item = field({ { 0, "x" }, { 100, "a" } }),
   menu_setup = field({ { 0, "x" }, { 60, "down" }, { 120, "a" } }),

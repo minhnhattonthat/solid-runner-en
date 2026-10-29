@@ -18,7 +18,7 @@ def rom():
 def test_build_is_byte_identical(rom):
     import romdiff
     from build import build
-    built, writes = build(rom)
+    built, writes = build(rom, engine=False)
     assert built == rom
     log = ROOT / "work" / "test_identity_writes.txt"  # romdiff reads the log from a file
     log.parent.mkdir(exist_ok=True)

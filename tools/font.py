@@ -1,0 +1,80 @@
+"""font.py: fonts/vwf.txt -> English glyphs (12x11 font format) and the VWF advance table (asm/vwf.asm).
+
+Each glyph is drawn at the code tbl/en.tbl gives its character, replacing the Latin/symbol glyph there. Codes not
+in the font keep their glyph and the 12 px pitch.
+
+    python -X utf8 tools/font.py     selftest + width summary
+"""
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).parent))
+from tbl import Table  # noqa: E402
+
+ROOT = Path(__file__).resolve().parents[1]
+FONT_TXT = ROOT / "fonts" / "vwf.txt"
+EN_TBL = ROOT / "tbl" / "en.tbl"
+FONT_OFF = 0x170000  # $AE:8000, 22 bytes per glyph, glyph = code - 1
+GLYPH = 22
+ADV_EXTRA = 2        # 1 shadow column (the engine draws ink >> 1) + 1 gap
+JP_ADV = 12          # original pitch, kept for kana, kanji and symbols
+MAX_INK = 11         # 12 px cell minus the shadow column
+
+
+def load(path=FONT_TXT):
+    """{char: rows} (rows from glyph row 1 down, '#' = ink)."""
+    glyphs, cur = {}, None
+    for line in path.read_text(encoding="utf-8").splitlines():
+        if cur is None and line.startswith("#"):  # comments only above the first glyph: rows start with '#'
+            continue
+        if line.startswith("== "):
+            cur = glyphs.setdefault(" " if line[3:] == "space" else line[3:], [])
+        elif line and cur is not None:
+            cur.append(line)
+    return glyphs
+
+
+def width(rows):
+    return max(len(r) for r in rows)
+
+
+def encode_glyph(rows):
+    """22 bytes: 11 little-endian words, bit 15 = leftmost pixel; row 0 blank."""
+    out = bytearray(GLYPH)
+    for r, row in enumerate(rows, 1):
+        word = sum(1 << (15 - x) for x, c in enumerate(row) if c == "#")
+        out[2 * r:2 * r + 2] = word.to_bytes(2, "little")
+    return bytes(out)
+
+
+def build(table=None, glyphs=None):
+    """(list of (code, 22 glyph bytes), 256-byte advance table)."""
+    table = table or Table.load(EN_TBL)
+    glyphs = glyphs or load()
+    adv = bytearray([JP_ADV] * 256)
+    out = []
+    for ch, rows in glyphs.items():
+        code = table.enc[ch]
+        assert len(code) == 1, (ch, code)
+        assert len(rows) <= 10 and width(rows) <= MAX_INK, f"glyph {ch!r} is over 11x10"
+        out.append((code[0], encode_glyph(rows)))
+        adv[code[0]] = width(rows) + ADV_EXTRA
+    return out, bytes(adv)
+
+
+def selftest():
+    t = Table.load(EN_TBL)
+    g = load()
+    printable = [v for v in t.enc if len(v) == 1 and v not in "○▲▼≡"]
+    missing = [c for c in printable if c not in g]
+    assert not missing, f"no glyph for {missing}"
+    _, adv = build(t, g)
+    assert adv[t.enc[" "][0]] == 4 and adv[0x02] == JP_ADV
+    assert encode_glyph(["#"])[2:4] == b"\x00\x80"
+
+
+if __name__ == "__main__":
+    selftest()
+    _, adv = build()
+    t = Table.load(EN_TBL)
+    print("selftest ok;", " ".join(f"{ch}{adv[t.enc[ch][0]]}" for ch in sorted(load())))
