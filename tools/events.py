@@ -195,8 +195,8 @@ class Disasm:
                 continue
             if op == 0x43:
                 self.code[a] = 4
-                a = p24(rom, a + 1)
-                continue
+                self.add(p24(rom, a + 1), f"jump {a:06X}")
+                return
             if op in TEXT_HEAD:
                 t = a + TEXT_HEAD[op]
                 n = text_len(rom, t)
@@ -319,8 +319,97 @@ def native_entries(rom):
     return out
 
 
-def disassemble(rom):
-    return Disasm(rom).run(map_entries(rom) + native_entries(rom))
+PROSE = set(range(0x02, 0x52)) | {0xAD, 0xAE, 0xAF, 0xB1, 0xB2, 0xB7, 0xB8}  # hiragana, ー？！「」、。
+
+
+def prose(rom, a, n):
+    """Share of hiragana/punctuation in a text: dialogue scores ~0.6, data decoded as text ~0.3."""
+    o, units, hits = off(a), 0, 0
+    p = o
+    while p < o + n - 1:
+        b = rom[p]
+        if b == 0xF8:
+            if rom[p + 1] & 1 or rom[p + 1] > 0x1E:
+                return 0  # no such control code
+            p += 2 + (w16(rom, ARGC + rom[p + 1] * 2) & 0xFF)
+            continue
+        if b == 0xFC and rom[p + 1] > 0xC2:
+            return 0  # past the last kanji
+        units += 1
+        hits += b in PROSE
+        p += 2 if 0xF9 <= b <= 0xFC else 1
+    return hits / units if units >= 6 else 0
+
+
+def chain(rom, a, code):
+    """Fall-through decode from a until an end op or known code: (texts, prose texts) or None if invalid."""
+    texts = good = 0
+    for _ in range(300):
+        if a in code:
+            return texts, good
+        op = rom[off(a)]
+        if op in (0x00, 0x01, 0x41, 0x42, 0x43, 0x45):
+            return texts, good
+        if op in TEXT_HEAD:
+            s = a + TEXT_HEAD[op]
+            n = text_len(rom, s)
+            if n > 500:
+                return None
+            texts += 1
+            good += prose(rom, s, n) >= 0.5 and any(b in rom[off(s):off(s) + n] for b in b"\xb1\xb7\xb8")  # 「、。
+            a = s + n
+            continue
+        if op not in VM_LEN:
+            return None
+        a += VM_LEN[op]
+    return None
+
+
+# banks whose scripts the roots reach, plus 87/90/91 (psycho-dive, battle and info scripts reached from native
+# tables); 98-9D and 9F hold no reachable script, and data there passes the chain test.
+ORPHAN_BANKS = {0x87, 0x90, 0x91, 0x92, 0x93, 0x94, 0x95, 0x96, 0x97, 0x9E, 0xA5, 0xA8, 0xA9, 0xAD}
+
+
+def orphan_entries(rom, d):
+    """Scripts with no root found yet: addresses some 16-bit word in the same bank or some 24-bit triple points at,
+    not yet decoded, whose fall-through chain is valid and whose texts all read as dialogue (prose >= 0.5)."""
+    covered = set()
+    for a, n in d.code.items():
+        covered.update(range(a, a + n))
+    cand = set()
+    for bank in ORPHAN_BANKS:
+        base = off(bank << 16 | 0x8000)
+        blk = rom[base:base + 0x8000]
+        for i in range(0x7FFF):
+            w = blk[i] | blk[i + 1] << 8
+            if w >= 0x8000:
+                cand.add(bank << 16 | w)
+    out = []
+    for a in sorted(cand):
+        if a in covered:
+            continue
+        r = chain(rom, a, d.code)
+        if not (r and r[0] and r[0] == r[1]):
+            continue
+        # trial descent: everything it reaches must decode and must not overlap code already known
+        trial = Disasm(rom)
+        trial.code = dict(d.code)
+        trial.run([(a, "orphan")])
+        new = {x: n for x, n in trial.code.items() if x not in d.code}
+        if not trial.bad and not any(x + k in covered for x, n in new.items() for k in range(n)):
+            out.append((a, "orphan"))
+            d.code.update(new)
+            d.texts.update(trial.texts)
+            d.entries.update({x: w for x, w in trial.entries.items() if x not in d.entries})
+            covered.update(x + k for x, n in new.items() for k in range(n))
+    return out
+
+
+def disassemble(rom, orphans=True):
+    d = Disasm(rom).run(map_entries(rom) + native_entries(rom))
+    if orphans:
+        d.orphans = orphan_entries(rom, d)
+    return d
 
 
 def main():

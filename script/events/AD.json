@@ -1,0 +1,3233 @@
+[
+ {
+  "id": "ev_AD89CC",
+  "addr": "AD:89CC",
+  "op": "AD89CB",
+  "len": 18,
+  "jp": "[FB]クのカードキーを[F9]ヌつけました。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_AD89EC",
+  "addr": "AD:89EC",
+  "op": "AD89EB",
+  "len": 35,
+  "jp": "カーク「これを[F9]メえば、ロックされた[FB]クを{br}[F9]モける[F9]つができるぞ。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_AD8A10",
+  "addr": "AD:8A10",
+  "op": "AD8A0F",
+  "len": 61,
+  "jp": "キーはどの[FB]ケし[F9]ずみ[FB]くにも[F9]メえるが、どの{br}[FA]モの[FB]クが[F9]モくのかは、それぞれの[FB]ケし[F9]ずみ[FB]く{br}によって[F9]ネうぞ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_AD8ADC",
+  "addr": "AD:8ADC",
+  "op": "AD8ADB",
+  "len": 31,
+  "jp": "{c0C:01}「この[FB]クはロックを[F9]のさないと{br}[F9]モかないみたいだ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_AD8B03",
+  "addr": "AD:8B03",
+  "op": "AD8B02",
+  "len": 36,
+  "jp": "{c0C:01}「どうやら、この[FB]クのロックは{br}[F9]ネう[F9] から[F9]のすみたいだな。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_AD8C29",
+  "addr": "AD:8C29",
+  "op": "AD8C28",
+  "len": 54,
+  "jp": "カーク「この[FB]ケし[F9]ずみ[FB]くは[F9]ベ[FA]O[FB]コと[FB]ど[F9]さに{br}キーを[FB]ケさないとロックが[F9]のれないよう{br}じゃな。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_AD8C72",
+  "addr": "AD:8C72",
+  "op": "AD8C71",
+  "len": 33,
+  "jp": "カードキーを[FB]ケし[F9]ずみました。{br}2F[F9]Fの[FB]クが[F9]モきました。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_AD8CB2",
+  "addr": "AD:8CB2",
+  "op": "AD8CB1",
+  "len": 33,
+  "jp": "カードキーを[FB] き[F9]ヲりました。{br}2F[F9]Fの[FB]クが[F9]をじました。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_AD8CDB",
+  "addr": "AD:8CDB",
+  "op": "AD8CDA",
+  "len": 47,
+  "jp": "カーク「カードキーの[FB]ケし[F9]ずみ[FB]くじゃな。{br}ここにキーを[FB]ケせば[FB]クのロックが[F9]のれるぞ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_AD8D1D",
+  "addr": "AD:8D1D",
+  "op": "AD8D1C",
+  "len": 32,
+  "jp": "カードキーを[FB]ケし[F9]ずみました。{br}B1Fの[FB]クが[F9]モきました。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_AD8D4F",
+  "addr": "AD:8D4F",
+  "op": "AD8D4E",
+  "len": 32,
+  "jp": "カードキーを[FB] き[F9]ヲりました。{br}B1Fの[FB]クが[F9]をじました。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_AD8D82",
+  "addr": "AD:8D82",
+  "op": "AD8D81",
+  "len": 31,
+  "jp": "カードキーを[FB]ケし[F9]ずみました。{br}1Fの[FB]クが[F9]モきました。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_AD8DB3",
+  "addr": "AD:8DB3",
+  "op": "AD8DB2",
+  "len": 31,
+  "jp": "カードキーを[FB] き[F9]ヲりました。{br}1Fの[FB]クが[F9]をじました。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_AD8DE5",
+  "addr": "AD:8DE5",
+  "op": "AD8DE4",
+  "len": 31,
+  "jp": "カードキーを[FB]ケし[F9]ずみました。{br}2Fの[FB]クが[F9]モきました。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_AD8E16",
+  "addr": "AD:8E16",
+  "op": "AD8E15",
+  "len": 31,
+  "jp": "カードキーを[FB] き[F9]ヲりました。{br}2Fの[FB]クが[F9]をじました。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_AD8E48",
+  "addr": "AD:8E48",
+  "op": "AD8E47",
+  "len": 31,
+  "jp": "カードキーを[FB]ケし[F9]ずみました。{br}3Fの[FB]クが[F9]モきました。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_AD8E79",
+  "addr": "AD:8E79",
+  "op": "AD8E78",
+  "len": 31,
+  "jp": "カードキーを[FB] き[F9]ヲりました。{br}3Fの[FB]クが[F9]をじました。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_AD9477",
+  "addr": "AD:9477",
+  "op": "AD9476",
+  "len": 43,
+  "jp": "{c0C:01}「オレは[F9]マのガレージへ[F9]こって、{br}リフにランナーの[FA]め[F9]ゼを[F9]きいてくるよ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_AD94A4",
+  "addr": "AD:94A4",
+  "op": "AD94A3",
+  "len": 56,
+  "jp": "アイリーン「[F9]Wにはリフも[F9]あばなきゃね。{br}ガレージの[FA]ねの[F9]ね[FA]もを[F9]K[F9]gに[F9]ギしてくれて{br}いるんだもの。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_AD94E4",
+  "addr": "AD:94E4",
+  "op": "AD94E3",
+  "len": 27,
+  "jp": "{c1C:0A}「[F9]Q[F9]Q{c1E}[F9]Qちょっとばかしボロだけどな。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_AD9504",
+  "addr": "AD:9504",
+  "op": "AD9503",
+  "len": 19,
+  "jp": "「フフッ、あなたにはお[F9]ズ[F9]ゼいよ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_AD959F",
+  "addr": "AD:959F",
+  "op": "AD959E",
+  "len": 47,
+  "jp": "カーク「[F9]I[F9]つがすんだら、[F9]す[F9]たに[F9]もえて{br}ベッドに[F9]ふってグッスリ[FA]むておくんじゃな。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_AD9A7E",
+  "addr": "AD:9A7E",
+  "op": "AD9A7D",
+  "len": 24,
+  "jp": "   [F9]ノ[FA]ゃの[F9]たから1カ[FA]ゅが[FA]ょぎた[F9]Q{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_AD9B8D",
+  "addr": "AD:9B8D",
+  "op": "AD9B8C",
+  "len": 45,
+  "jp": "{c0C:01}「ソリッドシティ[F9]Q。{br}[F9]よかに[FA]ほ[FA]ま[FA]ぼ[FA]ぱの[FA]ら[FA]ぴ[FA]ぷ[FA]ぺかも[F9]ゃれない。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_AD9BBB",
+  "addr": "AD:9BBB",
+  "op": "AD9BBA",
+  "len": 38,
+  "jp": "けれど、[F9]ぅに[F9]カわせてみれば、したい[FA]か[FA]ぽの{br}[F9]パない[FA]ぁだよな[F9]Q。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_AD9BE2",
+  "addr": "AD:9BE2",
+  "op": "AD9BE1",
+  "len": 33,
+  "jp": "まぁ、だからこそ[F9]ぅみたいなヤツも[FA]ぃって{br}[F9]こけるんだけどな。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_AD9C19",
+  "addr": "AD:9C19",
+  "op": "AD9C18",
+  "len": 38,
+  "jp": "{c0C:01}「アイリーン[F9]Q。{br}[F9]ヤず[FC]ィはとってやる。[FA]8らかに[FB]ピってくれ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_AD9C55",
+  "addr": "AD:9C55",
+  "op": "AD9C54",
+  "len": 36,
+  "jp": "{c0C:01}「[F9]まかいつもと[FA]▲[F9]テが[F9]ネう[F9]Q。{br}[FB]むな[FA]こ[F9]ツがするぜ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_AD9FD3",
+  "addr": "AD:9FD3",
+  "op": "AD9FD2",
+  "len": 58,
+  "jp": "リフ「よう、{c0C:01}。ガソリン[FA]へを{br}[FA]ふ[F9]Vに[F9]メうなんざ、アイリーンの[F9]q[FA]やさんは{br}[FA]ゆい[FA]よ[F9]トしてるねぇ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADA011",
+  "addr": "AD:A011",
+  "op": "ADA010",
+  "len": 62,
+  "jp": "{c0C:01}「[FA]ほの[F9]（、[F9]ゅ[F9]テ[FA]ら[F9]ー[FA]へが[F9]ぱたり[F9]む{br}ガソリン[FA]へは[F9]ゲ[F9]ィちのぜいたく[F9]ョだからな。{br}それよりも[F9]Q。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADA071",
+  "addr": "AD:A071",
+  "op": "ADA070",
+  "len": 28,
+  "jp": "「[F9]べんでおいた{c0C:02}の[FA]り[F9]もは{br}[F9]わわったのかい？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADA092",
+  "addr": "AD:A092",
+  "op": "ADA091",
+  "len": 46,
+  "jp": "「おう、[F9]ガしがたな。{br}だがナビゲーションロボットはもっと[FA]ゆい{br}ヤツにした[F9]さがいいぞ。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADA0C1",
+  "addr": "AD:A0C1",
+  "op": "ADA0C0",
+  "len": 36,
+  "jp": "これじゃ、[FA]す[FA]せワシが[FA]り[F9]もしたランナーも{br}[FA]るの[F9]ィちぐされだ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADA0E9",
+  "addr": "AD:A0E9",
+  "op": "ADA0E8",
+  "len": 65,
+  "jp": "「スクラップ[F9]なにあったこいつを{br}レストアしてもらうので[FA]れ[F9]2[FA]ろだったのに{br}[F9]だ[F9]ぞの[FA]ゆいナビロボを[FA]わう[F9]ゲなんて[F9]Q。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADA12B",
+  "addr": "AD:A12B",
+  "op": "ADA12A",
+  "len": 60,
+  "jp": "とにかくしばらくの[F9]そは、こいつを[F9]メって{br}[F9]ち[F9]つをするしかない。{br}[F9]だ[F9]ぞが[F9]ノい[F9]＆はオレの[FC]のでカバーするよ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADA173",
+  "addr": "AD:A173",
+  "op": "ADA172",
+  "len": 28,
+  "jp": "「ふ[F9]○む、お[F9]むがそういうのなら{br}[F9]ち[F9]さがないか。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADA190",
+  "addr": "AD:A190",
+  "op": "ADA18F",
+  "len": 55,
+  "jp": "ま、[FB]で[FC]ぱやアイテムが[F9]ヤ[F9]ユなら{br}エリア13にパーツショップがあるから{br}そこで[F9]る[F9]gするといいだろう。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADA1C8",
+  "addr": "AD:A1C8",
+  "op": "ADA1C7",
+  "len": 58,
+  "jp": "それと、[FC]は[FA]シ[F9]Iのパーツを[F9]ヒに[F9]ふれたら、{br}ここへ[F9]ィってくるといい。{br}ランナーをチューンアップしてやるぞ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADA268",
+  "addr": "AD:A268",
+  "op": "ADA267",
+  "len": 58,
+  "jp": "「レベルアップするか、[FC]は[FA]シ[F9]Iのパーツを{br}[F9]ヒに[F9]ふれたらここへ[FA]はい。{br}ランナーをチューンアップしてやるぞ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADA2AD",
+  "addr": "AD:A2AD",
+  "op": "ADA2AC",
+  "len": 59,
+  "jp": "リフ「おっ[F9]ち[F9]つに[F9]こくのか。{br}[F9]ガ[F9]たのひと[F9]ち[F9]つは、[F9]す[F9]たのパーツ[FA]び！{br}[FA]だ[FA]ぢって[FA]ぶいでくるんだぞ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADA356",
+  "addr": "AD:A356",
+  "op": "ADA355",
+  "len": 21,
+  "jp": "ナビロボ「マ、[F9]ろッテクダダ、クダサイ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADA3AE",
+  "addr": "AD:A3AE",
+  "op": "ADA3AD",
+  "len": 39,
+  "jp": "「あ[F9]○あ。おいおい、[F9]で[F9]ェ[F9]ォかよ。{br}（やれやれ[FA]ダが[F9]キいやられるな）{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADA3DA",
+  "addr": "AD:A3DA",
+  "op": "ADA3D9",
+  "len": 31,
+  "jp": "「なぁ、{c0C:01}。{br}さっきの[F9]か、[FA]{end}えておいた[F9]さがいいぞ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADA3FB",
+  "addr": "AD:A3FB",
+  "op": "ADA3FA",
+  "len": 24,
+  "jp": "「ああ[F9]Qコイツじゃ[F9]べりないのは[F9]よかだな。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADA415",
+  "addr": "AD:A415",
+  "op": "ADA414",
+  "len": 63,
+  "jp": "「ナビロボはパイロットとランナーの[F9]づ[F9]ユな{br}パイプ[F9]ぺだ。いくらパイロットやランナーが{br}[FB]Q[FC]ナでも、それだけではダメだ。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADA455",
+  "addr": "AD:A455",
+  "op": "ADA454",
+  "len": 57,
+  "jp": "ダ・シルヴァの[F9]t[FC]nだって、[FA]ゆいマシンと{br}[FA]ゆいスタッフがいたからこそ、チャンプに{br}なる[F9]つができたんだぞ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADA490",
+  "addr": "AD:A490",
+  "op": "ADA48F",
+  "len": 62,
+  "jp": "「ダ・シルヴァの[F9]t[FC]nねぇ[F9]Q。そんな[FB]ナの{br}F1チャンプの[F9]かをされてもなぁ。{br}まぁ、ナビロボの[F9]つは[FA]{end}えておくよ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADA4D0",
+  "addr": "AD:A4D0",
+  "op": "ADA4CF",
+  "len": 71,
+  "jp": "「なんなら、[FA]を[F9]べを[F9]ぶける[F9]むに[FC]と[FA]バ[FC]じにでも{br}[F9]こったらどうだ。エリア11の[FA]J[FA]K[FA]ぁなら{br}[F9]{endFD}[FA]xロボットなんかがいるハズだ。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADA518",
+  "addr": "AD:A518",
+  "op": "ADA517",
+  "len": 59,
+  "jp": "[FA]ちを[F9]こ[F9]ー[F9]し[F9]ぞにすれば、[FB]で[FC]ぱやアイテムを{br}[F9]ヒに[F9]ふれる[F9]つができるし、それを[FA] れば{br}[F9]ゲにもなるぞ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADA6AE",
+  "addr": "AD:A6AE",
+  "op": "ADA6AD",
+  "len": 28,
+  "jp": "リフ「おい、{c0C:01}。{br}どうした、しかめっ[FA]セなぞして。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADA6CE",
+  "addr": "AD:A6CE",
+  "op": "ADA6CD",
+  "len": 31,
+  "jp": "さては、ガラナジュースの[FA]リみ[FA]ょぎで{br}[F9]ワでもこわしたな？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADA6EF",
+  "addr": "AD:A6EF",
+  "op": "ADA6EE",
+  "len": 32,
+  "jp": "{c0C:01}「リフ、ついにババリアの{br}アジトの1つが[F9]＆かったんだ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADA714",
+  "addr": "AD:A714",
+  "op": "ADA713",
+  "len": 11,
+  "jp": "「[F9]ま、[F9]ぼ[F9]ぱか？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADA725",
+  "addr": "AD:A725",
+  "op": "ADA724",
+  "len": 22,
+  "jp": "「ああ。これから、そこをぶっ[FA]くしてくる。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADA73D",
+  "addr": "AD:A73D",
+  "op": "ADA73C",
+  "len": 45,
+  "jp": "「だが、[FA]ソ[F9]ヒはババリアだぞ。{br}ぶっ[FA]くすといっても、そう[F9]フ[F9]ヘには{br}いかんだろう。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADA76C",
+  "addr": "AD:A76C",
+  "op": "ADA76B",
+  "len": 54,
+  "jp": "「ああ、カークにも[F9]カわれたよ。{br}だけど、[F9]{end}らに[F9]2[F9]8かましてやらなきゃ{br}オレの[F9]テが[FB]＄まないんだ！{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADA7A7",
+  "addr": "AD:A7A7",
+  "op": "ADA7A6",
+  "len": 53,
+  "jp": "「よ[F9]○し、お[F9]むの[F9]テ[F9]ィちは[F9]＆かった。{br}それじゃあこれを[F9]ィって[F9]こけ！{br}きっと[F9]ぺにたつハズだ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADA7E7",
+  "addr": "AD:A7E7",
+  "op": "ADA7E6",
+  "len": 16,
+  "jp": "[F9]4[FB]ヤを[F9]ぶけ[F9]ヲりました。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADA7FF",
+  "addr": "AD:A7FF",
+  "op": "ADA7FE",
+  "len": 13,
+  "jp": "「[F9][FB]に[F9]kるぜ、リフ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADA814",
+  "addr": "AD:A814",
+  "op": "ADA813",
+  "len": 23,
+  "jp": "「[F9]ハ[F9]ヒな[FB]ユ[FB]ヨを[FB]いち[FA]ねげてくれよ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADA881",
+  "addr": "AD:A881",
+  "op": "ADA880",
+  "len": 28,
+  "jp": "アイリーン「あら、リフに[F9]Iがあるんじゃ{br}なかったの？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADA8A2",
+  "addr": "AD:A8A2",
+  "op": "ADA8A1",
+  "len": 33,
+  "jp": "{c0C:01}「いや、[F9]dしいアイリーンの[FA]ヂを{br}また[F9]ヌたくなってさ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADA8C8",
+  "addr": "AD:A8C8",
+  "op": "ADA8C7",
+  "len": 55,
+  "jp": "「もう、[F9]ま[F9]カってるのよ。{br}[F9]まだかはずかしくなっちゃうじゃない。{br}[F9]マでリフが[F9]ろっているんじゃないの？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADA906",
+  "addr": "AD:A906",
+  "op": "ADA905",
+  "len": 58,
+  "jp": "アイリーン「[F9]ち[F9]つ[F9]ばしだったら、{br}[F9]マの[F9]ち[F9]つ[F9]ね[FA]もにある[FA]ぜ[FA]ぞを[F9]メえば{br}[F9]ヌつかるんじゃないかしら。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADA97C",
+  "addr": "AD:A97C",
+  "op": "ADA97B",
+  "len": 31,
+  "jp": "アイリーン「どう？{br}[F9]まか[F9]ち[F9]つの[FA]を[F9]べは[F9]ヌつかった？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADA9A0",
+  "addr": "AD:A9A0",
+  "op": "ADA99F",
+  "len": 19,
+  "jp": "{c0C:01}「いや、[F9]ガ[F9]たはまだ[F9]まも。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADA9B5",
+  "addr": "AD:A9B5",
+  "op": "ADA9B4",
+  "len": 56,
+  "jp": "「そう[F9]Qでも[F9]テを[F9]jとさないで。{br}[F9]（[FA]んの[FA]がいことわざに「[FA]ぎ[F9]』と[FA]ぐげ」という{br}[F9]カ[FA]げがあるわ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADA9EF",
+  "addr": "AD:A9EF",
+  "op": "ADA9EE",
+  "len": 13,
+  "jp": "「ど[F9]○いう[F9]ペ[F9]トだ？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADAA01",
+  "addr": "AD:AA01",
+  "op": "ADAA00",
+  "len": 26,
+  "jp": "「あせらずに、のんびりとおやりなさいって{br}[F9]つよ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADAA20",
+  "addr": "AD:AA20",
+  "op": "ADAA1F",
+  "len": 56,
+  "jp": "「そうか、じゃあ[F9]ガ[F9]たは[FA]ごみだ。{br}[F9]よか、エリア7に[FA]ゆい[FA]ガがあったハズだ。{br}[F9]ガから[FA]ざみに[F9]ここう！{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADAA5D",
+  "addr": "AD:AA5D",
+  "op": "ADAA5C",
+  "len": 43,
+  "jp": "「[F9]Qもう、コンドルみたいになまけものの{br}あなたに[F9]カったのは[F9]そ[F9]ネいだったわね。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADAA9C",
+  "addr": "AD:AA9C",
+  "op": "ADAA9B",
+  "len": 60,
+  "jp": "「きっと[F9]ち[F9]つの[FA]を[F9]べよ！{br}[F9]シ[F9]c[F9]Wが[F9]りいんだから、しっかり[FA]ずいて{br}[FB]2[F9]ゲの[F9]ゴしにしてもらわないとね。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADAADA",
+  "addr": "AD:AADA",
+  "op": "ADAAD9",
+  "len": 8,
+  "jp": "「ちぇ[F9]○っ！{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADAB58",
+  "addr": "AD:AB58",
+  "op": "ADAB57",
+  "len": 38,
+  "jp": "アイリーン「[FA]ゆかったわね、[FA]を[F9]べが[FA]はて。{br}お[F9]ち[F9]つ[FA]だ[FA]ぢってね。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADAB8A",
+  "addr": "AD:AB8A",
+  "op": "ADAB89",
+  "len": 39,
+  "jp": "アイリーン「お[F9]ち[F9]つの[F9]{endFE}み[FA]め[F9]ゼはどう？{br}あまり[F9]エ[F9]オはしないでね。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADABBD",
+  "addr": "AD:ABBD",
+  "op": "ADABBC",
+  "len": 54,
+  "jp": "アイリーン「やっぱり、{br}ウェディングドレス[F9]ッは[FA]づ[F9]だの[FA]でれよね。{br}[F9]Bく[F9]Wの[F9]たにならないかしら。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADABFF",
+  "addr": "AD:ABFF",
+  "op": "ADABFE",
+  "len": 54,
+  "jp": "アイリーン「パパったら{br}[F9][FA][FA]どができた[F9]＝には、[F9]ガ[F9]aこそ[F9]Z[F9]でに{br}お[F9]mいをしようって[F9]カうのよ。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADAC36",
+  "addr": "AD:AC36",
+  "op": "ADAC35",
+  "len": 51,
+  "jp": "でもパパの[F9]つだから、[F9][FA][FA]どの[F9]カう[F9]つを{br}[F9]までも[F9]きいちゃうおじいちゃんに{br}なっちゃいそうね。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADACAD",
+  "addr": "AD:ACAD",
+  "op": "ADACAC",
+  "len": 52,
+  "jp": "アイリーン「あら、どうしたの？{br}[F9]まだかうかない[FA]ヂね。ひょっとして、{br}[F9]ち[F9]つがうまくいってないの？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADACE3",
+  "addr": "AD:ACE3",
+  "op": "ADACE2",
+  "len": 22,
+  "jp": "{c0C:01}「[F9]っは[F9]Q[F9]Q[F9]Q[F9]ゲがないんだ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADACFB",
+  "addr": "AD:ACFB",
+  "op": "ADACFA",
+  "len": 50,
+  "jp": "「もう、まさかエリア7にあるっていう{br}ナイトクラブとかで[F9]エ[FB]モ[F9]メいしたんじゃ{br}ないでしょうね？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADAD32",
+  "addr": "AD:AD32",
+  "op": "ADAD31",
+  "len": 21,
+  "jp": "「ち、[F9]ネうって。そんな[F9]つしてないよ！{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADAD56",
+  "addr": "AD:AD56",
+  "op": "ADAD55",
+  "len": 47,
+  "jp": "「フフッ、[FB]ひ[FB]ふよ。{br}しようがないわね、これで[F9]まとかやって{br}ちょうだい。ハイ、200G。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADAD94",
+  "addr": "AD:AD94",
+  "op": "ADAD93",
+  "len": 28,
+  "jp": "「アイリーン、やっぱり[F9]Eはオレの{br}[FA]づ[F9]u[F9]ヂだよ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADADB2",
+  "addr": "AD:ADB2",
+  "op": "ADADB1",
+  "len": 36,
+  "jp": "「{c0C:01}ったら[F9]る[F9][FA]いいんだから。{br}もう[F9]エ[FB]モ[F9]メいしちゃダメよ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADADDD",
+  "addr": "AD:ADDD",
+  "op": "ADADDC",
+  "len": 36,
+  "jp": "「[F9]ぼ[F9]ぱは[F9]まとかしてあげたいけど、{br}[F9]Kも、もうお[F9]ゲがないのよ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADAE06",
+  "addr": "AD:AE06",
+  "op": "ADAE05",
+  "len": 48,
+  "jp": "「そうだよな[F9]Q[F9]Q[F9]Qちょっと[F9]エ[FB]モ[F9]メい{br}しちまったかな。{br}トホホ、これからどうしよう？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADAE3D",
+  "addr": "AD:AE3D",
+  "op": "ADAE3C",
+  "len": 58,
+  "jp": "{c0C:01}「ランナーを[FA]り[F9]もする[FA]○の[F9]ム[FA]めが{br}[FA]オいてあるな。うかつにいじると、[FA]けでリフ{br}に[FA]っられちまうな。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB0ED",
+  "addr": "AD:B0ED",
+  "op": "ADB0EC",
+  "len": 26,
+  "jp": "リフ「[F9]2[F9]ソ、いつまで{br}そうしているつもりじゃ？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB10D",
+  "addr": "AD:B10D",
+  "op": "ADB10C",
+  "len": 16,
+  "jp": "{c0C:01}「ほっといてくれないか。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB11F",
+  "addr": "AD:B11F",
+  "op": "ADB11E",
+  "len": 50,
+  "jp": "「こいつは[F9]づ[FA]アだな。{br}[FA]イ[FA]んにいるアイリーンが{br}その[FB]りけない[F9]ッを[F9]ヌたら[F9]まというかの。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB158",
+  "addr": "AD:B158",
+  "op": "ADB157",
+  "len": 13,
+  "jp": "「あんたに[F9]＆かるのか？{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB16A",
+  "addr": "AD:B16A",
+  "op": "ADB169",
+  "len": 53,
+  "jp": "アイリーンを[F9]Q[F9]Q[F9]Q{br}[F9]まよりも[F9]で[FA]ウなものを[FA]エる[F9]つができなかった{br}このオレの[F9]テ[F9]ィちが！？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB1A4",
+  "addr": "AD:B1A4",
+  "op": "ADB1A3",
+  "len": 58,
+  "jp": "「だがな、[F9]ガのままでは{br}お[F9]むはゴミ[FA]オき[F9]なのスクラップ[F9]f[FA]カだ。{br}[FA]にしんでいるだけでは[F9]まにもならんぞ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB1E3",
+  "addr": "AD:B1E3",
+  "op": "ADB1E2",
+  "len": 32,
+  "jp": "「ああ[F9]Q[F9]＆かってるよ。{br}だけど、どうすりゃいいってんだよ？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB208",
+  "addr": "AD:B208",
+  "op": "ADB207",
+  "len": 11,
+  "jp": "「これを[F9]ヌてみい。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB222",
+  "addr": "AD:B222",
+  "op": "ADB221",
+  "len": 15,
+  "jp": "「[F9]まだよ、このガラクタは？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB233",
+  "addr": "AD:B233",
+  "op": "ADB232",
+  "len": 41,
+  "jp": "「アイリーン[F9]gが[F9]Dされた[FA]キ[F9]なから{br}[FA]ク[FA]ケしてきたランナーの[F9]ね[F9]ョだ。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB25D",
+  "addr": "AD:B25D",
+  "op": "ADB25C",
+  "len": 50,
+  "jp": "むろん、[F9]2[FA]コに[F9]い[F9]ぐっているような{br}シロモノではないし、{br}ましてや[F9]ラのパーツなどでもない。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB290",
+  "addr": "AD:B290",
+  "op": "ADB28F",
+  "len": 58,
+  "jp": "[F9]ポ[F9]ね[FA]サ[FA]シに[FA]ス[FA]ぼのクセがあって、{br}[F9]ャ[FA]セの[F9]ち[FA]ねげも[F9]ネう。{br}ま、わしぐらいでないと[F9]＆からんがな。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB2CB",
+  "addr": "AD:B2CB",
+  "op": "ADB2CA",
+  "len": 41,
+  "jp": "[F9]ガ、この[F9]ね[F9]ョを[F9]メっているのは{br}ババリアの[F9]ぁ[F9]（が[F9]メうランナーだけだ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB2F9",
+  "addr": "AD:B2F9",
+  "op": "ADB2F8",
+  "len": 19,
+  "jp": "「それじゃあ[FA]え[F9]けは[F9]Q[F9]Q[F9]Q。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB30E",
+  "addr": "AD:B30E",
+  "op": "ADB30D",
+  "len": 42,
+  "jp": "「まず[F9]そ[F9]ネいあるまい。{br}アイリーン[F9]gを[F9]Dしたのは、ババリアの{br}[F9]{end}らだな。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB33A",
+  "addr": "AD:B33A",
+  "op": "ADB339",
+  "len": 41,
+  "jp": "「タオは[F9]{end}らがソリッドシティに{br}[F9]{endFE}[F9]いして[FA]はているのを[F9]テにしていた[F9]Q。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB365",
+  "addr": "AD:B365",
+  "op": "ADB364",
+  "len": 56,
+  "jp": "「おそらく、[FB]l[F9]ヅを[FC]ア[F9]でして[F9]こくには{br}タオの[F9]X[F9]Y『[F9]b[F9]S』が[FB]や[FB]ゆな[FB]I[FB]ヂ{br}だったんだろう。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB3A4",
+  "addr": "AD:B3A4",
+  "op": "ADB3A3",
+  "len": 26,
+  "jp": "「[F9]までもっと[F9]Bく{br}[F9]ウえてくれなかったんだ！？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB3C5",
+  "addr": "AD:B3C5",
+  "op": "ADB3C4",
+  "len": 56,
+  "jp": "「わしだってここまで[F9]るべるのに{br}[FA]ソ[F9]ぱな[F9]＝[F9]そがかかったんだ。{br}お[F9]むは[FA]リんだくれてばかりだったがな！{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB403",
+  "addr": "AD:B403",
+  "op": "ADB402",
+  "len": 44,
+  "jp": "それともう[F9]2つ、やらなきゃならん[F9]つが{br}あったんだ。{br}ま、[F9]マのガレージに[FA]はてみい{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB52B",
+  "addr": "AD:B52B",
+  "op": "ADB52A",
+  "len": 16,
+  "jp": "{c0C:01}「[F9]2[F9]ソ[F9]まなんだよ？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB53D",
+  "addr": "AD:B53D",
+  "op": "ADB53C",
+  "len": 14,
+  "jp": "リフ「まぁ[F9]ヌておれって。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB54E",
+  "addr": "AD:B54E",
+  "op": "ADB54D",
+  "len": 18,
+  "jp": "さあ、[F9]いてきてアイサツするんだ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB56A",
+  "addr": "AD:B56A",
+  "op": "ADB569",
+  "len": 43,
+  "jp": "ナビロボ「[FA]タしいパートナーがどんな{br}[F9]け[F9]そかと[F9]キえば、まだヒヨッコではないか。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB59A",
+  "addr": "AD:B59A",
+  "op": "ADB599",
+  "len": 54,
+  "jp": "「[F9]まだとぉ、コイツ？{br}[F9]ぅは24だ。ヒヨッコなんかじゃない！{br}お[F9]む、ナビロボのくせに[FA]ぅ[F9]ペ[F9]テだぞ！{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB5D2",
+  "addr": "AD:B5D2",
+  "op": "ADB5D1",
+  "len": 41,
+  "jp": "「たかだか24[FA]チ[FA]ぅきているだけの{br}[F9]サがヒヨッコでなくて[F9]まだというのじゃ。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB5FC",
+  "addr": "AD:B5FC",
+  "op": "ADB5FB",
+  "len": 63,
+  "jp": "それから、ワシをナビロボなどと[F9]あぶな。{br}ワシには[FA]ツ[F9]ラからいただいた『カーク』{br}という[F9]ひ[F9]ハな[F9]ぇ[F9]むがあるのじゃぞ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB641",
+  "addr": "AD:B641",
+  "op": "ADB640",
+  "len": 42,
+  "jp": "「[FA]テいたか、{c0C:01}？{br}スクラップ[FA]オき[F9]なで[F9]ヌつけたんだが{br}[F9]でしたもんだぞ。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB66F",
+  "addr": "AD:B66F",
+  "op": "ADB66E",
+  "len": 45,
+  "jp": "[F9]け[FA]トの[FA]ナり[F9]ずみをしてあるナビロボは{br}[FA]タ[F9]ョじゃあ[F9]ぢ[FA]みで[F9]ヒに[F9]ふらんからな{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB69D",
+  "addr": "AD:B69D",
+  "op": "ADB69C",
+  "len": 61,
+  "jp": "[FA]ニ[F9]れジジくさい[F9]かし[F9]さだが、{br}[FA]ツ[F9]ラと[F9]カってる[F9]むの[F9]く[F9]けの[FA]ヌ[FA]ネだろう。{br}これはワシからのプレゼントだ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB6DF",
+  "addr": "AD:B6DF",
+  "op": "ADB6DE",
+  "len": 35,
+  "jp": "「それはありがたいけど{br}このナビロボ、[FA]ノ[F9]べできる[F9]だ[F9]ぞなのか？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB709",
+  "addr": "AD:B709",
+  "op": "ADB708",
+  "len": 42,
+  "jp": "カーク「ヒヨッコに[F9]まが[F9]＆かる！？{br}[FA]ハばれたものである、このワシの[F9]ぞ[F9]ヅが。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB737",
+  "addr": "AD:B737",
+  "op": "ADB736",
+  "len": 61,
+  "jp": "「カークの[F9]だ[F9]ぞはバツグンだぞ。{br}ランナーに[FA]ヒめば[F9]よ[F9]っにパワーアップする。{br}そしてアイリーンのカタキをとるんだ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB776",
+  "addr": "AD:B776",
+  "op": "ADB775",
+  "len": 24,
+  "jp": "「リ{c1C:14}フ[F9]Q[F9]Q{c1E}[F9]Qよし、[F9]＆かった。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB791",
+  "addr": "AD:B791",
+  "op": "ADB790",
+  "len": 40,
+  "jp": "カーク、コイツ[F9]あばわりしてすまなかった。{br}[F9]ぅは{c0C:01}、これからよろしくな。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB7BE",
+  "addr": "AD:B7BE",
+  "op": "ADB7BD",
+  "len": 56,
+  "jp": "「うむ、お[F9]むはまだまだ[FA]フい。{br}[FA]フいうちは[FA]ょちをおかす[F9]つもある。{br}だが、それは[FA]ヘんで[F9]こけば[FA]ゆい。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB7F7",
+  "addr": "AD:B7F7",
+  "op": "ADB7F6",
+  "len": 14,
+  "jp": "{c0C:01}、よろしく[F9]べむぞ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB809",
+  "addr": "AD:B809",
+  "op": "ADB808",
+  "len": 15,
+  "jp": "（[F9]Qな、なんかムカつくな）{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB820",
+  "addr": "AD:B820",
+  "op": "ADB81F",
+  "len": 28,
+  "jp": "「とにかく、これで[FA]タしいコンビが{br}できたって[F9]えだ。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB83D",
+  "addr": "AD:B83D",
+  "op": "ADB83C",
+  "len": 50,
+  "jp": "{c0C:01}、ず[F9]○っと[FA]2に[F9]をじこもって{br}いたんだ。{br}たまには[F9]のへ[F9]いて[F9]テ[F9]＆[FC]じ[FA]Hしてこい。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB871",
+  "addr": "AD:B871",
+  "op": "ADB870",
+  "len": 32,
+  "jp": "「それもそうだな。{br}おい、カーク。どこか[F9]こきたい[F9] あるか？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB896",
+  "addr": "AD:B896",
+  "op": "ADB895",
+  "len": 49,
+  "jp": "「ワシが[FA]ツ[F9]ラにお[F9]ちえしていた[F9]xは{br}[F9]ヤずアフタヌーンティーの[F9]＝[F9]そを{br}とっておったぞ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB8C9",
+  "addr": "AD:B8C9",
+  "op": "ADB8C8",
+  "len": 41,
+  "jp": "「アフタヌーンティーねぇ[F9]Q。{br}EL[FA]ヤSカフェだったらティーぐらい{br}あるかな？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB9BD",
+  "addr": "AD:B9BD",
+  "op": "ADB9BC",
+  "len": 18,
+  "jp": "{c0C:02}に[FA]ッって[F9]のへ[F9]いますか？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADB9D0",
+  "addr": "AD:B9D0",
+  "op": "ADB9CF",
+  "len": 14,
+  "jp": "  [FA]ッる{br}  [FA]ッらない{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADBA02",
+  "addr": "AD:BA02",
+  "op": "ADBA01",
+  "len": 33,
+  "jp": "{c0C:01}「リフの[F9]、[FA]％が[F9]わわるまでは{br}{c0C:02}には[FA]ッれないな。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADBB8F",
+  "addr": "AD:BB8F",
+  "op": "ADBB8E",
+  "len": 19,
+  "jp": "{c0C:01}「すっかり[FA]ペまれちまったな。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADBBA7",
+  "addr": "AD:BBA7",
+  "op": "ADBBA6",
+  "len": 51,
+  "jp": "バーンズ「[FA]nりの[FA]oは、[F9]タ[F9]ね[FA]ち[F9]ラに[FA]p[FA]q{br}されている。[FA]o[F9]けもほとんど[F9]Dされている。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADBBDB",
+  "addr": "AD:BBDB",
+  "op": "ADBBDA",
+  "len": 69,
+  "jp": "[F9]デ[F9]ド[F9]ラのヘリが[FA]はて、おれ[F9]gを[FA]r[F9]いして{br}くれる[F9]ぜ[F9]ぞ[F9]だは、サイの[FA]せでランナーを{br}ぶち[FA]Qすのと[F9]fじくらいしかないな。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADBC21",
+  "addr": "AD:BC21",
+  "op": "ADBC20",
+  "len": 32,
+  "jp": "おまけにケガまでしてるんだ。{br}おれは[FA]ニ[F9]＆、[F9]％からないよ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADBC43",
+  "addr": "AD:BC43",
+  "op": "ADBC42",
+  "len": 27,
+  "jp": "「[F9]で[F9]ェ[F9]ォだ。[F9]％かる[F9]＝は、みんな[F9]2[F9]eさ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADBC63",
+  "addr": "AD:BC63",
+  "op": "ADBC62",
+  "len": 27,
+  "jp": "[FA]s[FA]t「お、おれはこんなとこで[F9]ァぬのは{br}いやだ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADBC80",
+  "addr": "AD:BC80",
+  "op": "ADBC7F",
+  "len": 41,
+  "jp": "「[F9]7だってそうだよ。オレ[F9]gは[FA]んの[FA]○に{br}[FA]デ[FA]uしている[F9]えじゃないんだ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADBCAE",
+  "addr": "AD:BCAE",
+  "op": "ADBCAD",
+  "len": 21,
+  "jp": "[FA]s[FA]t「じゃあ、[F9]2[F9]ソ[F9]まの[FA]○に？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADBCC5",
+  "addr": "AD:BCC5",
+  "op": "ADBCC4",
+  "len": 15,
+  "jp": "「そうだな[F9]Q。いろいろさ。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADBCD5",
+  "addr": "AD:BCD5",
+  "op": "ADBCD4",
+  "len": 68,
+  "jp": "[FA]ーえば、オレは[F9]qの[FA]ヂを[F9]ゃらない。[FA]ゆくある{br}[F9]かだけどな。[F9]r[F9]ム[F9]sの[FA]vさんに[FA]Pてられたん{br}だが、よく[F9]カわれたもんさ。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADBD1A",
+  "addr": "AD:BD1A",
+  "op": "ADBD19",
+  "len": 65,
+  "jp": "『{c0C:01}＝{c0C:00}、[F9]ガ[F9]ぶけている{br}[F9][FB]を[F9]7かにする[F9]つでお[F9]ンしなさい。それが{br}[F9]uの[FA]w[FA]にに[FA]4いる[F9]ムですよ』ってね。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADBD60",
+  "addr": "AD:BD60",
+  "op": "ADBD5F",
+  "len": 66,
+  "jp": "[FA]s[FA]t「[F9]uの[F9]ムは[F9]ピしくて、しかもそれを{br}[FA]xりきる[F9]つは[F9]し[F9]ぜ[F9]ぞに[F9]りい。[F9]で[FA]yは[FA]z[F9]（で{br}[FA]ばれ、[F9]P[FA]Nえる。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADBDA7",
+  "addr": "AD:BDA7",
+  "op": "ADBDA6",
+  "len": 10,
+  "jp": "「ハッハッハ[F9]Q。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADBDB6",
+  "addr": "AD:BDB6",
+  "op": "ADBDB5",
+  "len": 51,
+  "jp": "「オレは、[FA]づのケツを[F9]−いかけ[F9]ぐす[F9]つの{br}[F9]ニには、ランナーに[FA]ッるしか[F9]ぞがなかった{br}からな。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADBDEA",
+  "addr": "AD:BDEA",
+  "op": "ADBDE9",
+  "len": 63,
+  "jp": "こういう[FA]ぅき[F9]さをしてるってのは、[FA]ーえば{br}[FA]デ[FA]uを[F9]Bく[F9]わわらせて、[F9]qのない[F9][FA][FA]どを{br}[FA]＋らすためかもしれない。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADBE2E",
+  "addr": "AD:BE2E",
+  "op": "ADBE2D",
+  "len": 19,
+  "jp": "「ずいぶんとロマンティストなんだな。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADBE43",
+  "addr": "AD:BE43",
+  "op": "ADBE42",
+  "len": 52,
+  "jp": "「だから、みんな[F9]2[F9]eなんて[F9]カってるのさ。{br}じゃなきゃ、お[F9]むは[F9]ヌ[FA]ブてられてるよ、{br}バーンズ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADBE7C",
+  "addr": "AD:BE7C",
+  "op": "ADBE7B",
+  "len": 17,
+  "jp": "「じ、[F9]っ[FA]デは[FA]ゾめてなんだ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADBE91",
+  "addr": "AD:BE91",
+  "op": "ADBE90",
+  "len": 40,
+  "jp": "「[F9]7でも[FA]ゾめてはあるもんさ。[F9]わわりも{br}もちろん[F9]2[FA]ぅに[F9]2[F9]ぐはある。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADBEBB",
+  "addr": "AD:BEBB",
+  "op": "ADBEBA",
+  "len": 23,
+  "jp": "「[F9]け[FA]ぅの[F9]わわりにならなきゃいいけどな。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADBEDC",
+  "addr": "AD:BEDC",
+  "op": "ADBEDB",
+  "len": 11,
+  "jp": "「ひ、ひい、[FA]ちだ！{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADBEF7",
+  "addr": "AD:BEF7",
+  "op": "ADBEF6",
+  "len": 17,
+  "jp": "バーンズ「バカ[FB]v[FC]ん、やめろ！{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADBF1A",
+  "addr": "AD:BF1A",
+  "op": "ADBF19",
+  "len": 18,
+  "jp": "[F9][FA][FA]ど「こ、このたべものを[F9]Q。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADBF2E",
+  "addr": "AD:BF2E",
+  "op": "ADBF2D",
+  "len": 18,
+  "jp": "{c0C:01}「これを、オレ[F9]gに[F9]Q？。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADBF42",
+  "addr": "AD:BF42",
+  "op": "ADBF41",
+  "len": 13,
+  "jp": "「あんたたち、いいひと。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADBF50",
+  "addr": "AD:BF50",
+  "op": "ADBF4F",
+  "len": 24,
+  "jp": "ゲリラ、ぼくのとうさん、かあさん、{br}ころした。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADBF69",
+  "addr": "AD:BF69",
+  "op": "ADBF68",
+  "len": 36,
+  "jp": "きのう、あんたたち、ゲリラのランナー{br}やっつけた。だ[F9]Qか[F9]Qら[F9]Q。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADBF9F",
+  "addr": "AD:BF9F",
+  "op": "ADBF9E",
+  "len": 22,
+  "jp": "ナビロボ「[F9]デ[F9]ド[F9]ラノ[FB]だ[FA]ふ[F9]バデス！{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADBFBA",
+  "addr": "AD:BFBA",
+  "op": "ADBFB9",
+  "len": 52,
+  "jp": "[F9]デ[F9]ド[F9]ラ[FA]s[FA]t「そこの5[F9]バ！ [F9]ろたせたな。{br}お[F9]むらが[F9]ら[FA]けだ。さあ、ヘリに[FA]ッってくれ！{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADBFF7",
+  "addr": "AD:BFF7",
+  "op": "ADBFF6",
+  "len": 17,
+  "jp": "「[F9]Q{c0C:01}[F9]Q[F9]Q[F9]Q{c0C:01}！{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADC7BF",
+  "addr": "AD:C7BF",
+  "op": "ADC7BE",
+  "len": 46,
+  "jp": "カーク「[F9]グ[F9]なに[F9]こく[F9]むに、ランナーの[F9]▼[F9]もを{br}よくチェックしておいた[F9]さがよいぞ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADC832",
+  "addr": "AD:C832",
+  "op": "ADC831",
+  "len": 34,
+  "jp": "アイリーン「ずっとうなされていたわ。{br}またいやな[FA]ゃを[F9]ヌたのね。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADC85C",
+  "addr": "AD:C85C",
+  "op": "ADC85B",
+  "len": 15,
+  "jp": "{c0C:01}「[F9]Qいつものやつさ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADC86D",
+  "addr": "AD:C86D",
+  "op": "ADC86C",
+  "len": 28,
+  "jp": "「[F9][FA][FA]どの[FA]ゃでしょ。{br}あなたに[FA]−[FA]＝はないわよ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADC88E",
+  "addr": "AD:C88E",
+  "op": "ADC88D",
+  "len": 57,
+  "jp": "「あの[F9][FA][FA]ど[F9]gのために[FA]デっていたんだ。{br}ゲリラを[FA]＆して、オレみたいに[F9]qのいない{br}[F9][FA]を[F9]エくすために。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADC8CB",
+  "addr": "AD:C8CB",
+  "op": "ADC8CA",
+  "len": 30,
+  "jp": "それなのに、{br}オレ[F9]gがあの[F9][FA][FA]どを[F9]Dしちまった[F9]Q。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADC8ED",
+  "addr": "AD:C8ED",
+  "op": "ADC8EC",
+  "len": 34,
+  "jp": "「{c0C:01}[F9]Q[F9]Q[F9]Q。{br}お[F9]どい、そんなに[FA]ら[F9]＆を[FA]−めないで。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADC910",
+  "addr": "AD:C910",
+  "op": "ADC90F",
+  "len": 53,
+  "jp": "ここは[FA]デ[F9]なじゃないのよ。{br}[F9]Kがいつもあなたの[FB]コにいるわ。{br}だから、つらい[F9]つはもう[FA]3れて[F9]Q。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADC947",
+  "addr": "AD:C947",
+  "op": "ADC946",
+  "len": 22,
+  "jp": "「[FA]い[FA]うさせちまったな、アイリーン[F9]Q。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADC9B2",
+  "addr": "AD:C9B2",
+  "op": "ADC9B1",
+  "len": 11,
+  "jp": "「タオ！？ タオ！！{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADC9C3",
+  "addr": "AD:C9C3",
+  "op": "ADC9C2",
+  "len": 28,
+  "jp": "くそっ、[FA]ウれたか。{br}チャイナタウンへ[FA]ぐがなければ！{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADC9FA",
+  "addr": "AD:C9FA",
+  "op": "ADC9F9",
+  "len": 39,
+  "jp": "{c0C:01}「カーク、[F9]ぅは[F9]oめたぞ。{br}ババリアのドラッグ[F9]と[F9]なをぶっ[FA]くす。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADCA23",
+  "addr": "AD:CA23",
+  "op": "ADCA22",
+  "len": 43,
+  "jp": "カーク「[FA]ゆいのか？{br}ババリアに[FA]デいを[FB]ミむとなれば{br}[F9]ガまでのようにはいかんぞ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADCA50",
+  "addr": "AD:CA50",
+  "op": "ADCA4F",
+  "len": 54,
+  "jp": "「ああ、[F9]＆かっているさ。{br}だが、[F9]{end}[FB]ソのアジトの1つが[F9]＆かったんだ。{br}[FB]テっている[F9]えにはいかない。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADCA88",
+  "addr": "AD:CA88",
+  "op": "ADCA87",
+  "len": 37,
+  "jp": "「[F9]Qそうか。ならば、もう[F9]カうまい。{br}ワシも[FB]ム[F9]ヅしようではないか。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADCAAF",
+  "addr": "AD:CAAF",
+  "op": "ADCAAE",
+  "len": 12,
+  "jp": "「[F9]ぼ[F9]ぱか、カーク？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADCABD",
+  "addr": "AD:CABD",
+  "op": "ADCABC",
+  "len": 52,
+  "jp": "「[FB]メ[F9]ネいするでないぞ、{c0C:01}。{br}ワシがいなければ、[F9]エ[FB]モに[F9]ァにに[F9]こく{br}ようなものじゃからな。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADCAF2",
+  "addr": "AD:CAF2",
+  "op": "ADCAF1",
+  "len": 32,
+  "jp": "お[F9]むはまだまだ[FA]フい。{br}そう[F9]ァに[FA]ぐぐ[F9]つもないじゃろう。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADCB14",
+  "addr": "AD:CB14",
+  "op": "ADCB13",
+  "len": 12,
+  "jp": "「ヘッ、よく[F9]カうぜ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADCBC6",
+  "addr": "AD:CBC6",
+  "op": "ADCBC5",
+  "len": 54,
+  "jp": "{c0C:01}「[F9]ベ[FC]チ[F9]＆[F9][FA]っていうのは{br}ラオエル[F9]gの[F9]つだったのか。{br}どうも[F9]テが[FA]ッらない[FA]を[F9]べだな。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADCC01",
+  "addr": "AD:CC01",
+  "op": "ADCC00",
+  "len": 43,
+  "jp": "カーク「[F9]びき[F9]ぶけるしかあるまい？{br}CTIに[FB]ゴらうのは、[FA]ぉ[FA]hとは[F9]カえんぞ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADCC37",
+  "addr": "AD:CC37",
+  "op": "ADCC36",
+  "len": 54,
+  "jp": "「コスタの[F9]つが[F9]テに[F9]ふらないのも[F9]よかだが、{br}オレにはラオエルがただのテロ[FA]もだとは{br}[F9]キえないんだ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADCC6F",
+  "addr": "AD:CC6F",
+  "op": "ADCC6E",
+  "len": 70,
+  "jp": "「しかし、[FA]ぜ[FA]ぞでニュースを[F9]ヌれば[F9]＆かる{br}ように、[F9]{end}らのテロ[F9]こ[FA]○は[F9]つ[F9]っじゃ。{br}それに、ワシらが[F9]{end}をかばう[F9]ム[F9]オもない。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADCCB6",
+  "addr": "AD:CCB6",
+  "op": "ADCCB5",
+  "len": 50,
+  "jp": "お[F9]け[FA]ズしでは、この[F9]ち[F9]つは[FB]ザまらんぞ。{br}また、バーンズの[F9]＝のような[F9]Cにあいたい{br}のか？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADCCEA",
+  "addr": "AD:CCEA",
+  "op": "ADCCE9",
+  "len": 22,
+  "jp": "「お[F9]け[FA]ズしか[F9]Qそうかも[F9]ゃれないな。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADCD0B",
+  "addr": "AD:CD0B",
+  "op": "ADCD0A",
+  "len": 31,
+  "jp": "「[FA]は[FB]ゅじゃな。{br}IDを[FB]ジ[F9]ゼ、[FB]ゅはCTIのテオじゃ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADCD2F",
+  "addr": "AD:CD2F",
+  "op": "ADCD2E",
+  "len": 20,
+  "jp": "「よし、ロックを[F9]のして[F9]てしてくれ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADCD61",
+  "addr": "AD:CD61",
+  "op": "ADCD60",
+  "len": 55,
+  "jp": "テオ「[FA]ダ[F9]たは[FB]み[F9]＆と[F9]ハ[F9]ヒにやりましたね。{br}おかげで、ネズミどもの[F9]ーきが[FB]ゼがしく{br}なりましたよ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADCD9A",
+  "addr": "AD:CD9A",
+  "op": "ADCD99",
+  "len": 69,
+  "jp": "「[FA]J[FA]Kの[F9]4[F9]5の[F9]つか。ババリアの[FB]ス[F9]ソが{br}[F9]ガ[F9]2つつかめない[FA]」[FA]ね、あちこちつついて{br}[F9]{end}らの[F9]い[F9]さをうかがうしかない。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADCDE0",
+  "addr": "AD:CDE0",
+  "op": "ADCDDF",
+  "len": 38,
+  "jp": "ま、[F9]ュこうが[FB]ゼぎ[F9]いしたんなら、こっちの{br}[FB]そい[F9]てりという[F9]えだな。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADCE08",
+  "addr": "AD:CE08",
+  "op": "ADCE07",
+  "len": 19,
+  "jp": "「フフ、あなたらしいやり[F9]さですね。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADCE3D",
+  "addr": "AD:CE3D",
+  "op": "ADCE3C",
+  "len": 56,
+  "jp": "「ちょうど[F9]ガ、あんたの[F9] からの[FA]を[F9]べを{br}[F9]びき[F9]ぶけた[F9] だよ。{br}それにしても、コスタは[FB]むな[F9]{end}だな。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADCE77",
+  "addr": "AD:CE77",
+  "op": "ADCE76",
+  "len": 64,
+  "jp": "「あの[F9]けは、うちのグロリア[F9]ス[FA]ャにいつも{br}[FA]っられてますから、[FA]ら[F9]＆より[F9]C[F9]マの[F9]け[F9]そに{br}[F9]ぱたり[FA]9らすんですよ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADCEB9",
+  "addr": "AD:CEB9",
+  "op": "ADCEB8",
+  "len": 34,
+  "jp": "「あの[F9]サも、その[F9]ス[FA]ャだけには[FB]ゾが{br}[FA]ねがらないって[F9]えか。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADCEDC",
+  "addr": "AD:CEDC",
+  "op": "ADCEDB",
+  "len": 40,
+  "jp": "それで、[FA]を[F9]べの[F9]つとかで[F9]れし[F9]ききたい[F9]つが{br}あるんだが、[FA]サわないか？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADCF06",
+  "addr": "AD:CF06",
+  "op": "ADCF05",
+  "len": 32,
+  "jp": "「[FA]を[F9]べ[FB]リ[F9]oの[F9]％けになるのでしたら、{br}[FA]サいませんよ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADCF27",
+  "addr": "AD:CF27",
+  "op": "ADCF26",
+  "len": 11,
+  "jp": "[F9]まを[F9]ききますか？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADCF39",
+  "addr": "AD:CF39",
+  "op": "ADCF38",
+  "len": 37,
+  "jp": "  ババリアについて{br}  バイオモンスターについて{br}  ラオエルについて{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADCF6C",
+  "addr": "AD:CF6C",
+  "op": "ADCF6B",
+  "len": 32,
+  "jp": "「CTIの[F9]さもババリアには[F9]ヒをやいて{br}いるんじゃないのか？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADCF8E",
+  "addr": "AD:CF8E",
+  "op": "ADCF8D",
+  "len": 73,
+  "jp": "「[F9]『[F9]』も[F9]{end}らの[F9]ーきはマークしているの{br}ですが、なかなか[FB]り[FA]4はつかめませんね。{br}[FA]スに、[F9]X[F9]Yの[FB]こ[FB]ダである[F9]け[F9]Oに[F9]hしては。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADCFD8",
+  "addr": "AD:CFD8",
+  "op": "ADCFD7",
+  "len": 64,
+  "jp": "[FA]キ[FB]ヂ[F9]＆かっているのは、[F9]{end}らがこの[FA]ぁに{br}やってきた[F9]オ[FA]ぴの[F9]2つは、バイオ[F9]0[F9]1の[FA]○{br}だという[F9]つぐらいですね。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD019",
+  "addr": "AD:D019",
+  "op": "ADD018",
+  "len": 75,
+  "jp": "[F9]『[F9]』[F9]こ[F9]デ[FB]コには、[F9]っ[F9]こ[F9]ね[FB]じといったものが{br}ありません。だからこそ、あなたのような{br}[F9]ば[F9]アに[F9]ち[F9]つを[FA]を[F9]べしている[F9]えなんです。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD06D",
+  "addr": "AD:D06D",
+  "op": "ADD06C",
+  "len": 39,
+  "jp": "「[F9]ら[F9]り[FA]ニ[F9]8しているバイオモンスターの{br}[F9]つ[FB]せについてはどうなんだ？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD096",
+  "addr": "AD:D096",
+  "op": "ADD095",
+  "len": 76,
+  "jp": "「[FB]ナは、バイオ[F9]0[F9]1[F9] から[F9]コげ[F9]いした{br}[F9]っ[F9]3[F9]ソが[F9]つ[FB]せを[FB]マこしていたんですが、{br}[F9]ら[F9]りでは[F9]い[F9] [F9]し[F9]すのものが[FA]キれています。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD0E3",
+  "addr": "AD:D0E3",
+  "op": "ADD0E2",
+  "len": 45,
+  "jp": "[F9]ガ[F9]ぐの[FA]を[F9]べであるテロ[FB]ギ[FB]グのリーダー、{br}ラオエルもそういったケースのようです。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD111",
+  "addr": "AD:D111",
+  "op": "ADD110",
+  "len": 69,
+  "jp": "[F9]ま[F9]はかの[F9]ヒによって、バイオ[F9]0[F9]1[F9] [FA]」[F9]のの{br}[F9]な[F9] で、バイオモンスターが[F9]ビかに[FA]ぅみ{br}[F9]いされているのかも[F9]ゃれません。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD15F",
+  "addr": "AD:D15F",
+  "op": "ADD15E",
+  "len": 25,
+  "jp": "「ラオエルについて[F9]まか[F9]＆かっている{br}[F9]つは？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD17A",
+  "addr": "AD:D17A",
+  "op": "ADD179",
+  "len": 53,
+  "jp": "「ラオエルは、[F9]ゃっての[F9]てりバイオ{br}モンスターどもを[FB]ヅいてさまざまな{br}テロ[FB]ネ[F9]ーを[F9]こっています。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD1B0",
+  "addr": "AD:D1B0",
+  "op": "ADD1AF",
+  "len": 63,
+  "jp": "[FA]ぅまれは[F9]し[F9]す、[FB]ゃ[F9]な[F9] も[F9]し[F9]す。{br}[F9]ゲ[FB]きのたてがみを[F9]ィち、[FA]（[FA]ギに[F9]ゃ[F9]ぞの{br}[F9]ぢいバイオモンスターです。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD1F1",
+  "addr": "AD:D1F1",
+  "op": "ADD1F0",
+  "len": 28,
+  "jp": "「[F9]{end}らのアジトについて、[F9]まか[FB]り[FA]4は{br}ないのか？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD20F",
+  "addr": "AD:D20F",
+  "op": "ADD20E",
+  "len": 29,
+  "jp": "「[FA][F9][FB]デですが、その[F9][FC]りの[FB]り[FA]4は{br}ありませんね。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD22D",
+  "addr": "AD:D22D",
+  "op": "ADD22C",
+  "len": 65,
+  "jp": "ただ、SCBCの[FB]ド[F9]はなら[F9]まか[FB]り[FA]4を{br}[F9]ィっているかも[F9]ゃれません。さすがに[F9]K[F9]g{br}には[FB]り[FA]4をくれませんでしたが。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD270",
+  "addr": "AD:D270",
+  "op": "ADD26F",
+  "len": 38,
+  "jp": "「SCBC[F9]Qエリア7のTV[F9]スか。[FA]ぜ[FA]ぞで{br}[F9]るべてみた[F9]さがいいな。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD29F",
+  "addr": "AD:D29F",
+  "op": "ADD29E",
+  "len": 70,
+  "jp": "「おっと、おしゃべりが[FA]ょぎたようですね。{br}[F9]Kはそろそろ[FA]ク[FB]バします。あまり[FB]ビを[FA] って{br}いては、コスタ[F9]ね[FA]ャに[FA]っられますから。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD2E7",
+  "addr": "AD:D2E7",
+  "op": "ADD2E6",
+  "len": 16,
+  "jp": "「ああ、いろいろとありがとう。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD384",
+  "addr": "AD:D384",
+  "op": "ADD383",
+  "len": 50,
+  "jp": "カーク「{c0C:01}、デイモンを[FA]＆した[F9]＝に{br}[F9]ぐ[FC]ねしたユニットをリフに[F9]ヌせてみようでは{br}ないか。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD3B8",
+  "addr": "AD:D3B8",
+  "op": "ADD3B7",
+  "len": 51,
+  "jp": "{c0C:01}「そうだな。リフだったら、{br}こいつを[F9]メってランナーをチューンアップ{br}できるかも[F9]ゃれないな。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD46C",
+  "addr": "AD:D46C",
+  "op": "ADD46B",
+  "len": 32,
+  "jp": "{c0C:01}「リフ、ちょっと[F9]ヌてもらいたい{br}[F9]Oがあるんだけどな。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD491",
+  "addr": "AD:D491",
+  "op": "ADD490",
+  "len": 35,
+  "jp": "リフ「[F9]まだ？ [FA]タしいアダルトVRソフト{br}でも[F9]ヒに[F9]ふれたのか？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD4B6",
+  "addr": "AD:D4B6",
+  "op": "ADD4B5",
+  "len": 28,
+  "jp": "「ち・が・う。このユニットを[F9]るべて{br}もらいたいんだ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD4D7",
+  "addr": "AD:D4D7",
+  "op": "ADD4D6",
+  "len": 48,
+  "jp": "「おっ、こいつはまた[FA]べしいランナーの{br}ユニットだな。どこでこんな[F9]Oを[F9]ヒに{br}[F9]ふれたんだ？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD509",
+  "addr": "AD:D509",
+  "op": "ADD508",
+  "len": 64,
+  "jp": "「デイモンというランナーを[FA]＆した[F9]＝に{br}[F9]ヒに[F9]ふれたんだ。どうだい、こいつを[F9]メって{br}ランナーをチューンアップできないか？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD54B",
+  "addr": "AD:D54B",
+  "op": "ADD54A",
+  "len": 56,
+  "jp": "「そうだな[F9]Q。こいつはなかなか{br}いじりがいのあるユニットのようだ。{br}[FA]セ[FB]ぺい、わしも[FC]のがうずいてきたぞ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD585",
+  "addr": "AD:D585",
+  "op": "ADD584",
+  "len": 16,
+  "jp": "「じゃあ、やってくれるのかい？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD597",
+  "addr": "AD:D597",
+  "op": "ADD596",
+  "len": 61,
+  "jp": "「おお、わしにまかせておけ。{br}ゴキゲンなランナーに[FC]は[FA]シしてやるぞ。{br}[F9]、[FA]％が[F9]わわるまで、[F9]P[FB] きでもしてこい。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD5EB",
+  "addr": "AD:D5EB",
+  "op": "ADD5EA",
+  "len": 41,
+  "jp": "リフ「あわてるな、あわてるな。[F9]、[FA]％が{br}[F9]わわるまで、[F9]P[FB] きでもしてこい。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD628",
+  "addr": "AD:D628",
+  "op": "ADD627",
+  "len": 47,
+  "jp": "リフ「[F9]ろってたぞ、{c0C:01}。{br}どうじゃ、[F9]ガまでのランナーよりもずっと{br}パワーアップしたぞ。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD658",
+  "addr": "AD:D658",
+  "op": "ADD657",
+  "len": 43,
+  "jp": "[F9]▼[FC]ひ[FA]7も[F9]い[F9]ヅも[F9]で[FC]ふに[FA]j[FB]ぐしたから、{br}これでもう[FC]へい[F9]Oなしだな。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD685",
+  "addr": "AD:D685",
+  "op": "ADD684",
+  "len": 41,
+  "jp": "{c0C:01}「うんうん、[F9]よかに[F9]むのよりも{br}[FA]jくなったみたいだ。ありがとう、リフ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD6B0",
+  "addr": "AD:D6B0",
+  "op": "ADD6AF",
+  "len": 29,
+  "jp": "「なぁに、いいって[F9]つ。{br}さて、[FA]び[F9]ゲの[F9]さだが[F9]Q。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD6D2",
+  "addr": "AD:D6D2",
+  "op": "ADD6D1",
+  "len": 15,
+  "jp": "「えっ、[F9]ゲを[F9]ヲるのか！？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD6E3",
+  "addr": "AD:D6E3",
+  "op": "ADD6E2",
+  "len": 56,
+  "jp": "「[F9]ぱたり[F9]むだろーが。わしだって{br}[FA]のびでやっているんじゃないぞ。{br}[FA]び[F9]ゲは200Gだ、[F9]レってもらうぞ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD738",
+  "addr": "AD:D738",
+  "op": "ADD737",
+  "len": 23,
+  "jp": "「トホホ[F9]Q[F9]ち[F9]さないな。ほら、200G。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD751",
+  "addr": "AD:D751",
+  "op": "ADD750",
+  "len": 12,
+  "jp": "「へい、[FA]ポ[F9]aあり。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD760",
+  "addr": "AD:D760",
+  "op": "ADD75F",
+  "len": 41,
+  "jp": "まぁ、そうしょげるな。[F9]ゲを[FA]ぶぐのに{br}とっておきの[F9]な[F9] を[F9]ウえてやるから。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD792",
+  "addr": "AD:D792",
+  "op": "ADD791",
+  "len": 31,
+  "jp": "「すまない、リフ。{br}[F9]ガちょっと[F9]ィち[F9]ゼわせがないんだよ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD7B3",
+  "addr": "AD:D7B3",
+  "op": "ADD7B2",
+  "len": 46,
+  "jp": "「やれやれしようがない[F9]{end}だな。じゃあ{br}[F9]ゲを[FA]ぶぐのにとっておきの[F9]な[F9] を[F9]ウえよう。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD7E6",
+  "addr": "AD:D7E6",
+  "op": "ADD7E5",
+  "len": 13,
+  "jp": "「とっておきの[F9]な[F9] ？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD7F5",
+  "addr": "AD:D7F5",
+  "op": "ADD7F4",
+  "len": 50,
+  "jp": "「お[F9]むも[F9]ゃっとるだろう。ジャスティスだ。{br}あれに[F9]い[F9]なしてファイトマネーをいただくん{br}だよ。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD828",
+  "addr": "AD:D828",
+  "op": "ADD827",
+  "len": 37,
+  "jp": "[FA]タしいランナーのテストにもなるし、まさに{br}[F9]2[FC]ほ[FC]ま[FC]みじゃないか。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD84F",
+  "addr": "AD:D84F",
+  "op": "ADD84E",
+  "len": 28,
+  "jp": "「ジャスティスか[F9]Q。そうだな、[F9]い[F9]なして{br}みるか。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD870",
+  "addr": "AD:D870",
+  "op": "ADD86F",
+  "len": 32,
+  "jp": "カーク「ワシはそういった[FA]のびは[F9]テが{br}[F9]{endFE}まないのじゃがな。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD892",
+  "addr": "AD:D892",
+  "op": "ADD891",
+  "len": 60,
+  "jp": "「そう[F9]カうなよ、カーク。これから[FA]デいも{br}[FC]むくなって[F9]こくハズだ。[FC]のを[FC]めいておいた{br}[F9]さがいいに[F9]oまってる。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD8D0",
+  "addr": "AD:D8D0",
+  "op": "ADD8CF",
+  "len": 44,
+  "jp": "「ワシがジャスティスなんていう[FC]もけ[F9]つに{br}[F9]いるハメになるとは。[F9]まという[F9]つじゃ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADD900",
+  "addr": "AD:D900",
+  "op": "ADD8FF",
+  "len": 33,
+  "jp": "「それじゃ[F9]B[FB]ぉ、エリア13のジャスティス{br}ドームへ[F9]こくぞ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADDB44",
+  "addr": "AD:DB44",
+  "op": "ADDB43",
+  "len": 36,
+  "jp": "カーク「イオンがさらわれたのか。とんでも{br}ない[F9]つになったものじゃな。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADDB6A",
+  "addr": "AD:DB6A",
+  "op": "ADDB69",
+  "len": 46,
+  "jp": "「ああ、[F9]まだか[FA]ぁの[F9]ヂ[F9][FA]もおかしくなって{br}いるようだし、[F9]2[F9]ソどうなっているんだ？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADDCEF",
+  "addr": "AD:DCEF",
+  "op": "ADDCEE",
+  "len": 43,
+  "jp": "リフ「おお、{c0C:01}。[F9]セってきたか。{br}お[F9]むに[F9]グいたいという[F9]け[F9]gが[FA]はとるぞ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADDD1E",
+  "addr": "AD:DD1E",
+  "op": "ADDD1D",
+  "len": 21,
+  "jp": "{c0C:01}「[F9]け[F9]g？ 1[F9]けじゃないのか。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADDD3F",
+  "addr": "AD:DD3F",
+  "op": "ADDD3E",
+  "len": 22,
+  "jp": "グロリア{br}「[FB]ぞしぶりね、{c0C:01}＝{c0C:00}。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADDD57",
+  "addr": "AD:DD57",
+  "op": "ADDD56",
+  "len": 57,
+  "jp": "「お[F9]む[F9]gは[F9]Q。[F9]2[F9]ソ、どういう[F9]つだ？{br}[F9]ま[F9]ざ、CTIとバイビジブルの[F9]け[F9]そが[F9]2[F9]eに{br}いるんだ？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADDD95",
+  "addr": "AD:DD95",
+  "op": "ADDD94",
+  "len": 61,
+  "jp": "ブランドル「バイビジブルは[FB]ぬのギャング{br}[F9]X[F9]Yではない。[F9]ヨ[F9]』、ある[F9]C[FA]）を[F9]ィって{br}[F9]、られたものだったのだ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADDDD6",
+  "addr": "AD:DDD6",
+  "op": "ADDDD5",
+  "len": 48,
+  "jp": "レクター「[FA][FA][FA]、はチンケな[F9]ノさばかりやって{br}いたけどな。それもカモフラージュだった{br}のさ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADDE0A",
+  "addr": "AD:DE0A",
+  "op": "ADDE09",
+  "len": 33,
+  "jp": "テオ「[F9]タてはグロリア[F9]ス[FA]ャの[F9]ひてた[FA]b[FA]マ{br}だったのです。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADDE30",
+  "addr": "AD:DE30",
+  "op": "ADDE2F",
+  "len": 24,
+  "jp": "「[F9]Q[F9]おしく[FB]あ[F9]すしてもらおうじゃないか。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADDE4D",
+  "addr": "AD:DE4D",
+  "op": "ADDE4C",
+  "len": 66,
+  "jp": "「バイビジブルはCTIの[FA]ヌの[F9]っ[F9]こ[F9]ね[FB]じと{br}して[F9]Kが[F9]、った。CTI[F9]ポ[F9]ねにも、この[F9]つを{br}[F9]ゃる[F9]ははほとんどいない。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADDE93",
+  "addr": "AD:DE93",
+  "op": "ADDE92",
+  "len": 54,
+  "jp": "「[F9]『[F9]』バイビジブルはギャング[F9]X[F9]Yを[F9]▼い{br}ながら、ババリアを[FA]＆す[FA]○の[FB]ネ[F9]ーを[F9]こって{br}きた。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADDECD",
+  "addr": "AD:DECD",
+  "op": "ADDECC",
+  "len": 46,
+  "jp": "「しかし、[F9]ガまで[F9]L[FA]ほ[FA]まで[F9]b[FB]ポしていた{br}ババリアが[FB]た[FC]9として[F9]ャに[FA]キれた。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADDEFC",
+  "addr": "AD:DEFC",
+  "op": "ADDEFB",
+  "len": 59,
+  "jp": "CTI[F9]ぼ[F9]ねにあるメインコンピューターは{br}[FA]ッっ[F9]ヲられ、この[FA]ぁの[FB]カ[FB]キは、[F9]{end}らの[F9]ヒに{br}[FB]れってしまった。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADDF39",
+  "addr": "AD:DF39",
+  "op": "ADDF38",
+  "len": 25,
+  "jp": "「なぜ[F9]{end}らは[F9]ャ[F9]ひった[F9]こ[F9]ーに[F9]いたんだ？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADDF57",
+  "addr": "AD:DF57",
+  "op": "ADDF56",
+  "len": 36,
+  "jp": "「ひょっとしたら、それはあなたの[F9]こ[F9]ーが{br}[F9]が[F9]ぎかも[F9]ゃれません。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADDF80",
+  "addr": "AD:DF80",
+  "op": "ADDF7F",
+  "len": 16,
+  "jp": "「オレの[F9]こ[F9]ー[F9]Q[F9]Q[F9]Q？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADDF95",
+  "addr": "AD:DF95",
+  "op": "ADDF94",
+  "len": 60,
+  "jp": "「この[F9]そ、ババリアのアジトに[FA]▼[F9]ふした{br}だろ？ きっとあれで、バイスハイトの[F9]{end}が{br}[F9]パ[F9]バ[F9]ツを[FB]ロえたんだぜ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADDFD7",
+  "addr": "AD:DFD7",
+  "op": "ADDFD6",
+  "len": 46,
+  "jp": "「どうだろう、{c0C:01}＝{c0C:00}。{br}ババリアを[FA]＆す[FA]○に[F9]ヒを[F9]ギしてもらえない{br}だろうか？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADE00A",
+  "addr": "AD:E00A",
+  "op": "ADE009",
+  "len": 57,
+  "jp": "「オレの[FB]そいはバイスハイトだ。それでも{br}[FA]サわないのなら、[F9]2[F9]eに[FA]はい。[F9]ガから[F9]{end}らの{br}アジトへ[F9]こく。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADE045",
+  "addr": "AD:E045",
+  "op": "ADE044",
+  "len": 51,
+  "jp": "「バイスハイトを[FA]＆す[F9]つはババリアを[FA]＆す{br}と[F9]fじ[F9]つ。ブランドルとレクターを[F9]f[F9]こ{br}させる。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADE07C",
+  "addr": "AD:E07C",
+  "op": "ADE07B",
+  "len": 44,
+  "jp": "「では[F9]『[F9]』は[F9]ので[F9]ろつ。[FC]き[F9]もができたら{br}ランナーに[FA]ッって[F9]のへ[FA]はてくれ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADE0B4",
+  "addr": "AD:E0B4",
+  "op": "ADE0B3",
+  "len": 32,
+  "jp": "カーク「[F9]{end}らの[F9]つを[FA]ノ[F9]Iしていなかったの{br}ではないのか？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADE0D8",
+  "addr": "AD:E0D8",
+  "op": "ADE0D7",
+  "len": 38,
+  "jp": "シュウ「あぁ。だが、またバイスハイトを{br}[F9]コす[F9]つがあってはマズイからな。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADE0FF",
+  "addr": "AD:E0FF",
+  "op": "ADE0FE",
+  "len": 42,
+  "jp": "[F9]{end}らがオレを[F9]H[F9]Iしようというつもりなら、{br}オレも[F9]{end}らを[F9]H[F9]Iしてやるさ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADE152",
+  "addr": "AD:E152",
+  "op": "ADE151",
+  "len": 24,
+  "jp": "{c0C:01}「う[F9]○ん、[FA]むるにはまだ{br}[F9]Bいかな。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADE1C5",
+  "addr": "AD:E1C5",
+  "op": "ADE1C4",
+  "len": 18,
+  "jp": "    そして、コンサート[F9]ぱ[F9]た{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADE704",
+  "addr": "AD:E704",
+  "op": "ADE703",
+  "len": 21,
+  "jp": "イオン「[FA]はたわね。[FC]き[F9]もは[FA]りった？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADE71B",
+  "addr": "AD:E71B",
+  "op": "ADE71A",
+  "len": 30,
+  "jp": "{c0C:01}「オレ[F9]gの[F9]ニにもランナー[F9]メいが{br}いるようだな。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADE73B",
+  "addr": "AD:E73B",
+  "op": "ADE73A",
+  "len": 61,
+  "jp": "「[FB]ぁ[F9]ゲ[F9]C[F9]ぱてのゴロツキよ。{br}どうせあいつらにデイモンは[FA]＆せないわ。{br}バイオモンスター[F9][FC]りが[FA]ゆい[FA]ソ[F9]ヒね。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADE779",
+  "addr": "AD:E779",
+  "op": "ADE778",
+  "len": 42,
+  "jp": "そういえば、{c0C:01}。あなた、バイオ{br}モンスターのテロ[FB]ギ[FB]グと[FA]デったんですって？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADE7A5",
+  "addr": "AD:E7A5",
+  "op": "ADE7A4",
+  "len": 18,
+  "jp": "「[FC]けが[F9]Bいな。[F9]7からそれを？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADE7B9",
+  "addr": "AD:E7B9",
+  "op": "ADE7B8",
+  "len": 64,
+  "jp": "「あたしだって[F9]ば[F9]アよ。[FB]り[FA]4[F9]ゥの1つや{br}2つは[F9]ィってるわ。それよりもどうだったの{br}[F9]{end}らのリーダーは[F9]ち[FC]えめたの？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADE7FB",
+  "addr": "AD:E7FB",
+  "op": "ADE7FA",
+  "len": 40,
+  "jp": "「いや、あいつ[F9]Qラオエルにとどめは{br}させなかった。[F9]っは[F9]{end}は[F9]Q[F9]Q[F9]Q。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADE828",
+  "addr": "AD:E828",
+  "op": "ADE827",
+  "len": 21,
+  "jp": "「[F9]Q[F9]Q[F9]Q[F9]Q[F9]Q[F9]Qそうだったの。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADE83E",
+  "addr": "AD:E83E",
+  "op": "ADE83D",
+  "len": 58,
+  "jp": "ババリアによって[FA]ぅみ[F9]いされた{br}バイオモンスター、しかも[FA]ク[FA]M[F9]、と{br}[F9]カわれて[F9]イ[FA]ぞされそうになるなんて。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADE879",
+  "addr": "AD:E879",
+  "op": "ADE878",
+  "len": 55,
+  "jp": "[F9]け[F9]そに[FA]Oする[FC]こしみも[F9]＆かるような{br}[F9]テがするわ。あたしだって、あいつらに{br}[FA]Oする[FC]こしみは[F9]Q。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADE8B2",
+  "addr": "AD:E8B2",
+  "op": "ADE8B1",
+  "len": 12,
+  "jp": "「[F9]まだって、イオン？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADE8C3",
+  "addr": "AD:E8C3",
+  "op": "ADE8C2",
+  "len": 16,
+  "jp": "「あ、いいえ。[F9]までもないわ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADE8D5",
+  "addr": "AD:E8D5",
+  "op": "ADE8D4",
+  "len": 9,
+  "jp": "「[F9]Q[F9]Q[F9]Q？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADE8E0",
+  "addr": "AD:E8E0",
+  "op": "ADE8DF",
+  "len": 41,
+  "jp": "「ねぇお[F9]どい、{c0C:01}。[F9]れしの[F9]そで{br}いいの。1[F9]けにさせてもらえないかしら。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADE90B",
+  "addr": "AD:E90B",
+  "op": "ADE90A",
+  "len": 28,
+  "jp": "「ああ、それは[FA]サわないけど。[F9]2[F9]ソどう{br}したんだ？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADE929",
+  "addr": "AD:E929",
+  "op": "ADE928",
+  "len": 36,
+  "jp": "「ごめんなさい。ちょっと[FA]いを[F9]jち[F9]kかせ{br}たいの。すぐに[F9]セるわ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADE959",
+  "addr": "AD:E959",
+  "op": "ADE958",
+  "len": 43,
+  "jp": "カーク「[F9]まを[F9]カいかけていたのじゃろうな。{br}[FA]C[FA]づらしくない[F9]ヂ[F9][FA]じゃったが。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADE986",
+  "addr": "AD:E986",
+  "op": "ADE985",
+  "len": 34,
+  "jp": "{c0C:01}「そうだったな。[FC]こしみがどう{br}とか[F9]カっていたようだけど。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADE9AA",
+  "addr": "AD:E9AA",
+  "op": "ADE9A9",
+  "len": 58,
+  "jp": "「[FA]C[FA]づにも[F9]けに[F9]カえん[F9]つ[FB]りがあるという[F9]つ{br}じゃろうな。しばらくそっとしておいた[F9]さが{br}[FA]ゆいじゃろう。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADE9E6",
+  "addr": "AD:E9E6",
+  "op": "ADE9E5",
+  "len": 24,
+  "jp": "「[F9]ニのランナー[F9]メいに[F9]かを[F9]きいてみるか。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADEA0E",
+  "addr": "AD:EA0E",
+  "op": "ADEA0D",
+  "len": 32,
+  "jp": "カーク「イオンの[F9]つは、[F9]れしそっとして{br}おいた[F9]さが[FA]ゆい。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADEA49",
+  "addr": "AD:EA49",
+  "op": "ADEA48",
+  "len": 32,
+  "jp": "「ヘッ、デイモンを[FA]＆して[FB]ぁ[F9]ゲを[FC]さくのは{br}このオレだぜ！{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADEA7F",
+  "addr": "AD:EA7F",
+  "op": "ADEA7E",
+  "len": 48,
+  "jp": "「デイモンを[FA]＆せば、ジャスティスで[FB]Q[FB]ホ{br}するよりも[F9]ヒっ[F9]ヲり[F9]Bく[FA]ぼ[F9]ぇになれるな。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADEACF",
+  "addr": "AD:EACF",
+  "op": "ADEACE",
+  "len": 57,
+  "jp": "「お[F9]むもデイモンを[FB]そってるのか。あいにく{br}だが、[F9]{end}はおれのエモノだ。[FA]ダにお[F9]むから{br}[F9]イ[FA]ぞしてやるぜ！{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADEB2D",
+  "addr": "AD:EB2D",
+  "op": "ADEB2C",
+  "len": 42,
+  "jp": "「まったく、こんなにランナーがいるんじゃ{br}デイモンなんて[F9]いてこないんじゃないか？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADEB73",
+  "addr": "AD:EB73",
+  "op": "ADEB72",
+  "len": 29,
+  "jp": "{c0C:01}「イオンの[F9]{end}、[FB][FB]いな。どこまで{br}[F9]こったんだ？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADEB98",
+  "addr": "AD:EB98",
+  "op": "ADEB97",
+  "len": 28,
+  "jp": "イオン「{c0C:01}、デイモンが[FA]キれたわ、{br}[F9]Bく[FA]はて！{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADEBBC",
+  "addr": "AD:EBBC",
+  "op": "ADEBBB",
+  "len": 17,
+  "jp": "「イオン、[F9]ガどこにいるんだ！？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADEBCF",
+  "addr": "AD:EBCF",
+  "op": "ADEBCE",
+  "len": 43,
+  "jp": "「[FA]J[FA]K[FA]ぁの[FB]るの[F9]さよ。{br}[F9]Bく、[F9]Bく[FA]はて！{br}もう[F9]ィちこたえられない！！{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADEBFC",
+  "addr": "AD:EBFC",
+  "op": "ADEBFB",
+  "len": 17,
+  "jp": "「[F9]ろってろイオン、[F9]ガ[F9]こく！{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADEC0F",
+  "addr": "AD:EC0F",
+  "op": "ADEC0E",
+  "len": 9,
+  "jp": "「キャアアアア！{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADEC1D",
+  "addr": "AD:EC1D",
+  "op": "ADEC1C",
+  "len": 15,
+  "jp": "「イオン！ おい、イオン！！{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADEC3B",
+  "addr": "AD:EC3B",
+  "op": "ADEC3A",
+  "len": 27,
+  "jp": "{c0C:01}「イオン、[FA]ぅきているのか？{br}[F9]ン[F9]つしろ！！{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADEC5B",
+  "addr": "AD:EC5B",
+  "op": "ADEC5A",
+  "len": 31,
+  "jp": "カーク「ランナーからは[FA]ぅ[F9]ソ[F9]ベ[F9]ボは[F9]ツ[F9]ゃ{br}できんぞ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADEC7F",
+  "addr": "AD:EC7F",
+  "op": "ADEC7E",
+  "len": 20,
+  "jp": "「そんな、ウソだろ。あのイオンが[F9]Q！{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADEC98",
+  "addr": "AD:EC98",
+  "op": "ADEC97",
+  "len": 19,
+  "jp": "イオン「あたしはここよ、{c0C:01}[F9]Q。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADECB4",
+  "addr": "AD:ECB4",
+  "op": "ADECB3",
+  "len": 6,
+  "jp": "「イオン！{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADECBF",
+  "addr": "AD:ECBF",
+  "op": "ADECBE",
+  "len": 35,
+  "jp": "「しっかりするんだ！ おいカーク、{br}[FA]C[FA]づの[FC]あ[FA]ゥはどうなんだ？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADECEF",
+  "addr": "AD:ECEF",
+  "op": "ADECEE",
+  "len": 36,
+  "jp": "「[FA]い[FA]うせんでいい、[F9]で[F9]ェ[F9]ォじゃ。{br}[F9]。にかかわる[FB]えではない。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADED17",
+  "addr": "AD:ED17",
+  "op": "ADED16",
+  "len": 36,
+  "jp": "「ランナーを[FA]か[FB]）したおかげで、[F9]。を{br}[F9]jとさずに[FB]＄んだんです。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADED3C",
+  "addr": "AD:ED3C",
+  "op": "ADED3B",
+  "len": 47,
+  "jp": "デイモンは[F9]！[F9]いした[F9]K[F9]gに[F9]Cもくれず、{br}ランナーを[F9]5[FA]Qして[FA]Dって[F9]こきました。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADED6F",
+  "addr": "AD:ED6F",
+  "op": "ADED6E",
+  "len": 68,
+  "jp": "「{c0C:01}、デイモンは[FA]jい、[FA]jすぎる。{br}あたしは[FC]すえるのが[FA]れ[F9]2[FA]ろで[F9]Q。うかつに{br}[F9]ヒを[F9]いせば、やられるわ。[F9]テをつけて。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADEDB8",
+  "addr": "AD:EDB8",
+  "op": "ADEDB7",
+  "len": 22,
+  "jp": "「ミネルバ、デイモンは[F9]ま[FA]{endFD}へ[F9]こった？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADEDD3",
+  "addr": "AD:EDD3",
+  "op": "ADEDD2",
+  "len": 21,
+  "jp": "「デイモンは、[FC]pの[F9]さへ[F9]こきました。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADEDE9",
+  "addr": "AD:EDE9",
+  "op": "ADEDE8",
+  "len": 48,
+  "jp": "{c0C:01}さん、[FA]Qされたブリガンティアの{br}[FC]ィを[F9]ヲって[F9]マさい。{br}イオンは[F9]Kが[F9]ヌています。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADEE1B",
+  "addr": "AD:EE1B",
+  "op": "ADEE1A",
+  "len": 33,
+  "jp": "「よし、[F9]ろってろよイオン。[F9]ヤずデイモンを{br}ぶっつぶしてやる！{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADEEC6",
+  "addr": "AD:EEC6",
+  "op": "ADEEC5",
+  "len": 24,
+  "jp": "イオン「デイモンは[FA]jいわ。[F9]テをつけて[F9]Q。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADEF36",
+  "addr": "AD:EF36",
+  "op": "ADEF35",
+  "len": 34,
+  "jp": "ミネルバ「イオンは[F9]Kが[F9]ヌています。[FA]い[FA]う{br}しないで[F9]マさい。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADEF9F",
+  "addr": "AD:EF9F",
+  "op": "ADEF9E",
+  "len": 11,
+  "jp": "{c0C:01}「これは[F9]Q。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADEFAF",
+  "addr": "AD:EFAF",
+  "op": "ADEFAE",
+  "len": 32,
+  "jp": "カーク「デイモンを[FB]そって、[F9]ンり[FC]せちに{br}あったようじゃな。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADEFD1",
+  "addr": "AD:EFD1",
+  "op": "ADEFD0",
+  "len": 18,
+  "jp": "「[F9]{end}はまだこの[F9]りくにいるのか？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADEFE9",
+  "addr": "AD:EFE9",
+  "op": "ADEFE8",
+  "len": 37,
+  "jp": "「{c0C:01}、[F9]ー[F9]ソ[F9]ベ[F9]ボを[F9]ツ[F9]ゃしたぞ。{br}[F9]{end}は[FA]J[FA]Kの[F9]（じゃ！{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADF3D0",
+  "addr": "AD:F3D0",
+  "op": "ADF3CF",
+  "len": 17,
+  "jp": "{c0C:01}「[F9]ヌつけたぞ、デイモン。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADF3E8",
+  "addr": "AD:F3E8",
+  "op": "ADF3E7",
+  "len": 62,
+  "jp": "デイモンのパイロット「ケケケ、[F9]。[F9]ゃらずが{br}また1[F9]け[FA]はやがったか。お[F9]むも[F9]ニの[F9]{end}らと{br}[F9]fじように[F9]Dしてやる！{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADF428",
+  "addr": "AD:F428",
+  "op": "ADF427",
+  "len": 36,
+  "jp": "「お[F9]むの[F9]C[FA]）は[F9]まだ、なぜランナーを{br}[FB]ぢったりなんかするんだ？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADF44E",
+  "addr": "AD:F44E",
+  "op": "ADF44D",
+  "len": 61,
+  "jp": "「[F9]C[FA]）だと？ ケッ、[F9]Dしが[FB]かしいからに{br}[F9]oまってんだろぉ！ くだらねぇ[F9]つを{br}[F9]きくんじゃねぇよ、マヌケがぁ。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADF48C",
+  "addr": "AD:F48C",
+  "op": "ADF48B",
+  "len": 49,
+  "jp": "お[F9]むもこのランナーに[FA]ッってみれば{br}[F9]＆かるぜぇ。こいつはよぉ、すっげえ{br}ゴキゲンなんだぜぇ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADF4C9",
+  "addr": "AD:F4C9",
+  "op": "ADF4C8",
+  "len": 13,
+  "jp": "「ちっ、イカレてやがる。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADF4F2",
+  "addr": "AD:F4F2",
+  "op": "ADF4F1",
+  "len": 55,
+  "jp": "{c0C:01}「[F9]パない[F9] だったぜ。もし{br}あの[F9]＝、あいつに[FB][F9][F9]みが[FB]マきなかったら、{br}[F9]よ[F9]っにやられていた。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADF52A",
+  "addr": "AD:F52A",
+  "op": "ADF529",
+  "len": 61,
+  "jp": "だが、このランナーの[FA]jさ[F9]Qこれからの{br}ババリアとの[FA]デいに[F9]ヤ[F9]ユな[F9]ヅだ。[F9]まとか{br}[F9]ヒに[F9]ふれられないだろうか。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADF56C",
+  "addr": "AD:F56C",
+  "op": "ADF56B",
+  "len": 20,
+  "jp": "デイモンのパーツを[F9]ヒに[F9]ふれました。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADF668",
+  "addr": "AD:F668",
+  "op": "ADF667",
+  "len": 51,
+  "jp": "イオン「[F9]Qでも、あの[F9]＝の{c0C:01}の{br}[FB]りけない[FA]ヂったら、[F9]キい[F9]いすだけで{br}ふき[F9]いしちゃうわ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADF69D",
+  "addr": "AD:F69D",
+  "op": "ADF69C",
+  "len": 49,
+  "jp": "{c0C:01}「おいおい、ひどいな。オレは{br}お[F9]むがデイモンにやられたもんだと{br}ばっかり[F9]キったんだぜ？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADF6D3",
+  "addr": "AD:F6D3",
+  "op": "ADF6D2",
+  "len": 53,
+  "jp": "カーク「いやいや、イオンのいう[F9]てり{br}じゃぞ。[F9]よかにあの[F9]＝のお[F9]むは、[FB]りけない{br}[FA]ヂをしとったぞ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADF70F",
+  "addr": "AD:F70F",
+  "op": "ADF70E",
+  "len": 14,
+  "jp": "「カ、カーク、お[F9]むなぁ！{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADF722",
+  "addr": "AD:F722",
+  "op": "ADF721",
+  "len": 20,
+  "jp": "「アハハハハ。もう、あなた[F9]gったら。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADF73B",
+  "addr": "AD:F73B",
+  "op": "ADF73A",
+  "len": 29,
+  "jp": "ミネルバ「イオン、あんまり[FC]そうと[FA]アに{br}ひびきますよ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADF75D",
+  "addr": "AD:F75D",
+  "op": "ADF75C",
+  "len": 16,
+  "jp": "「いたたたた。ほ、[F9]ぼ[F9]ぱね。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADF771",
+  "addr": "AD:F771",
+  "op": "ADF770",
+  "len": 64,
+  "jp": "ところで{c0C:01}、[FB]ぁ[F9]ゲの[F9]つなんだけど{br}あたしは[F9]まもできなかったから、[F9]タ[F9]ね{br}あなたにもらってもらおうと[F9]キうんだけど。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADF7B4",
+  "addr": "AD:F7B4",
+  "op": "ADF7B3",
+  "len": 8,
+  "jp": "どうしますか？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADF7BE",
+  "addr": "AD:F7BE",
+  "op": "ADF7BC",
+  "len": 42,
+  "jp": "  [F9]ぱ[FA]カ、[FA]ら[F9]＆が[F9]タ[FC]たもらう{br}  やっぱりイオンと[FC]ち[F9]＆ずつに[F9]＆ける{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADF7F7",
+  "addr": "AD:F7F7",
+  "op": "ADF7F6",
+  "len": 45,
+  "jp": "「[F9]ぼ[F9]ぱかい？ それはありがたいな。{br}それじゃ[F9]タ[FC]た[FC]さくとするよ。[F9]ノいなイオン。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADF829",
+  "addr": "AD:F829",
+  "op": "ADF828",
+  "len": 39,
+  "jp": "「いえ、いいのよ。デイモンを[FA]＆したのは{br}あなたなんだし、[F9]ぱ[FA]カの[F9]つよ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADF855",
+  "addr": "AD:F855",
+  "op": "ADF854",
+  "len": 35,
+  "jp": "「[FA]{endFE}[F9]sする[F9]＝には[FB]ユ[F9]ごでも[F9]ィって、[F9]Vえに{br}[FA]はてやるよ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADF87D",
+  "addr": "AD:F87D",
+  "op": "ADF87C",
+  "len": 40,
+  "jp": "「やめとけ、やめとけ。3[FC]つ[F9]Cのお[F9]むに{br}そんなキザなマネは[F9]ズ[F9]ゼわんよ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADF8A7",
+  "addr": "AD:F8A7",
+  "op": "ADF8A6",
+  "len": 32,
+  "jp": "「カーク、3[FC]つ[F9]Cはないだろ。こんなイイ[F9]サ{br}をつかまえて。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADF8D7",
+  "addr": "AD:F8D7",
+  "op": "ADF8D6",
+  "len": 60,
+  "jp": "「いや、[FB]びってくれたのはイオンなんだし、{br}デイモンの[FA]jさを[F9]きいてなかったら、{br}オレも[F9]fじようにやられていたよ。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADF914",
+  "addr": "AD:F914",
+  "op": "ADF913",
+  "len": 33,
+  "jp": "だから、[FB]ぁ[F9]ゲは2[F9]けで[FB]ぇ[F9]＆けにしよう。{br}それでどうだい？{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADF93A",
+  "addr": "AD:F93A",
+  "op": "ADF939",
+  "len": 47,
+  "jp": "「[F9]ぼ[F9]ぱに？ うれしいわ、{c0C:01}。{br}あたし、あなたの[F9]つを[F9]れし[FC]て[FB]リしていた{br}みたい。{endFD}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADF96A",
+  "addr": "AD:F96A",
+  "op": "ADF969",
+  "len": 43,
+  "jp": "もっとお[F9]ゲの[F9]つに[FA]Oしてクールな[F9]けだと{br}[F9]キっていたわ。[F9]ぼ[F9]ぱにありがとう。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADF99A",
+  "addr": "AD:F99A",
+  "op": "ADF999",
+  "len": 52,
+  "jp": "「イオン、あんまり{c0C:01}を[FA]わい{br}かぶらない[F9]さがよいぞ。どうせ[F9]マ[FA]いが{br}あるに[F9]oまっとるんじゃ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADF9D2",
+  "addr": "AD:F9D2",
+  "op": "ADF9D1",
+  "len": 38,
+  "jp": "「バ、バカ。[F9]ま[F9]カってるんだ、カーク！{br}[F9]マ[FA]いなんてあるわけないだろ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_ADF9FA",
+  "addr": "AD:F9FA",
+  "op": "ADF9F9",
+  "len": 10,
+  "jp": "「アハハハハ[F9]Q。{end}",
+  "en": "",
+  "notes": ""
+ }
+]

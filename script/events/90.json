@@ -1,0 +1,227 @@
+[
+ {
+  "id": "ev_908424",
+  "addr": "90:8424",
+  "op": "908423",
+  "len": 44,
+  "jp": "サンタナ「[FA]O[FA]デ[FA]ソ[F9]ヒにビビってしまったか？{br}なさけない[F9]つに{c0C:02}はリタイアだ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90DD2B",
+  "addr": "90:DD2B",
+  "op": "90DD2A",
+  "len": 23,
+  "jp": "「[FA]ク[FA]Mじゃ。[FA]p[FB]いを[F9]ぐ[FC]ぽされたぞ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90DD5F",
+  "addr": "90:DD5F",
+  "op": "90DD5E",
+  "len": 19,
+  "jp": "「[F9]のしたぞ。データを[FC]ぁ[FB]スする。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90DD8C",
+  "addr": "90:DD8C",
+  "op": "90DD8B",
+  "len": 20,
+  "jp": "「ダメージを[F9]ら[F9]t[FB]なに[FC]ぎえたぞ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90DDBF",
+  "addr": "90:DDBF",
+  "op": "90DDBE",
+  "len": 21,
+  "jp": "「いいぞ、[F9]ぐ[FC]ぽパターン[FB]6[FC]くじゃ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90DDD8",
+  "addr": "90:DDD8",
+  "op": "90DDD7",
+  "len": 24,
+  "jp": "「[F9]ぐ[FC]ぽぷろぐらむ、[FB]ス[FA]ギニ[F9]、[F9]ー[F9]（。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90DE29",
+  "addr": "90:DE29",
+  "op": "90DE28",
+  "len": 26,
+  "jp": "「[F9]め[F9]9、これ[FA]」[FA]ねの[FC]ぃ[FC] は[F9]パ[F9]ピじゃ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90DE93",
+  "addr": "90:DE93",
+  "op": "90DE92",
+  "len": 23,
+  "jp": "「[FA]ちランナーは、もう[F9]こ[F9]ー[F9]し[F9]ぞじゃ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90DEC9",
+  "addr": "90:DEC9",
+  "op": "90DEC8",
+  "len": 22,
+  "jp": "「[FA]ち[FA]ぅ[F9]O、[FB]ネ[F9]ーを[FC]ぇ[F9]ほしたぞ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90DF76",
+  "addr": "90:DF76",
+  "op": "90DF75",
+  "len": 22,
+  "jp": "「ユニットが[F9]5[FC]ぉしたぞ。[F9]プ[F9]ペしろ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90DFA4",
+  "addr": "90:DFA4",
+  "op": "90DFA3",
+  "len": 25,
+  "jp": "「ダメージが[FB]な[FA]まを[FC]っえた。[F9]4[F9]8するぞ！{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90DFDB",
+  "addr": "90:DFDB",
+  "op": "90DFDA",
+  "len": 17,
+  "jp": "「[F9]▼[FC]ひが[FB]ウに[FA]▼されたぞ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90E006",
+  "addr": "90:E006",
+  "op": "90E005",
+  "len": 22,
+  "jp": "「[F9]ベ[F9]ボ[FB]ぉ[F9]aが[F9]マがってしまったぞ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90E03B",
+  "addr": "90:E03B",
+  "op": "90E03A",
+  "len": 27,
+  "jp": "「[F9]。[F9]（[FB]ヅと[F9]ぐ[FC]ぽ[FB]ヅが[F9]マがってしまったぞ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90E0A5",
+  "addr": "90:E0A5",
+  "op": "90E0A4",
+  "len": 20,
+  "jp": "「[FA]ちの[F9]▼[FC]ひを[FB]ウで[FB]うらせたぞ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90E0D6",
+  "addr": "90:E0D6",
+  "op": "90E0D5",
+  "len": 21,
+  "jp": "「[FA]ちの[F9]ベ[F9]ボ[FB]ぉ[F9]aが[F9]マがったぞ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90E108",
+  "addr": "90:E108",
+  "op": "90E107",
+  "len": 26,
+  "jp": "「[FA]ちの[F9]。[F9]（[FB]ヅと[F9]ぐ[FC]ぽ[FB]ヅが[F9]マがったぞ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90E144",
+  "addr": "90:E144",
+  "op": "90E143",
+  "len": 20,
+  "jp": "「[FA]ちの[F9]▼[FC]ひを[FB]ヨで[FB]うらせたぞ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90E175",
+  "addr": "90:E175",
+  "op": "90E174",
+  "len": 18,
+  "jp": "「だめじゃ、[F9]コ[FA]x[FA]ク[FA]Mじゃ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90E1D2",
+  "addr": "90:E1D2",
+  "op": "90E1D1",
+  "len": 25,
+  "jp": "「[FA]G[FA]H[F9]（は[F9]ーけんぞ、[F9]テをつけるんじゃ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90E281",
+  "addr": "90:E281",
+  "op": "90E280",
+  "len": 22,
+  "jp": "「[FB]ヨを[F9]ぶけた[F9]▼[FC]ひが[F9]ぐ[FB]Gしたぞ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90E2B6",
+  "addr": "90:E2B6",
+  "op": "90E2B5",
+  "len": 25,
+  "jp": "「[FC]す[FB]ヨ[F9]▼[FC]ひで[FB]ヨの[FB]＝[FC]なを[FC]ぼいだぞ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90E2F1",
+  "addr": "90:E2F1",
+  "op": "90E2F0",
+  "len": 25,
+  "jp": "「[FC]す[FB]ウ[F9]▼[FC]ひで[FB]ウの[FB]＝[FC]なを[FC]ぼいだぞ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90E32C",
+  "addr": "90:E32C",
+  "op": "90E32B",
+  "len": 25,
+  "jp": "「[FC]す[FC]ゃ[F9]▼[FC]ひで[FC]ゃの[FB]＝[FC]なを[FC]ぼいだぞ。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_90E3A6",
+  "addr": "90:E3A6",
+  "op": "90E3A5",
+  "len": 23,
+  "jp": "「[FA]ちの[F9]ーきを[FC]8んで[F9]こ[F9]ーするのじゃ。{endFE}",
+  "en": "",
+  "notes": ""
+ }
+]
