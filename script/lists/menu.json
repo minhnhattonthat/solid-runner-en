@@ -60,7 +60,7 @@
   "addr": "82:C4DD",
   "len": 29,
   "jp": "左肩： 右肩： 左腕： 右腕： {end}",
-  "en": "Left Shoulder: | Right Shoulder: | Left Arm: | Right Arm:{end}",
+  "en": "Left Shoulder | Right Shoulder | Left Arm | Right Arm{end}",
   "notes": ""
  },
  {

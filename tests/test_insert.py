@@ -80,3 +80,15 @@ def test_jump_codes_in_the_control_table(built):
     assert out[0x022967:0x02296A] == bytes.fromhex("FC00E0")  # JSR (ctl_table,x)
     assert out[0x00C942:0x00C946] == bytes.fromhex("BF02E084")  # LDA ctl_table+2,x
     assert out[0x026040 + 2:0x026040 + 4] == b"\x03\x00" and out[0x026048 + 2] == 1  # argc of cc 20 / cc 24
+
+
+def test_window_sheets_repacked(built):
+    """Bank $9C re-packed by tools/winmap.py: every block, reached through the new table, decodes to the original
+    sheet, or to the edited one for the sheets the English menus re-lay."""
+    import winmap
+    rom, out, _ = built
+    for i in range(23):
+        rows = winmap.sheet(rom, i)
+        for edit in winmap.EDITS.get(i, []):
+            rows = edit(rows)
+        assert winmap.sheet(out, i) == rows, i

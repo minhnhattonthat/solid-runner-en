@@ -76,8 +76,9 @@ def english(e, cells):
         items = en.split(" | ")
         pre = cells[e["id"]]
         assert len(items) <= len(pre), e["id"]
-        return "".join((TAB % p if isinstance(p, int) and (p or i) else p if isinstance(p, str) else "") + x
-                       for i, (p, x) in enumerate(zip(pre, items)))
+        if all(isinstance(p, (int, list)) for p in pre):  # cells: blank the menu's whole run, then tab to each item
+            return clear(e, pre) + "".join(TAB % cell(pre, i)[0] + x for i, x in enumerate(items))
+        return "".join(p + x for p, x in zip(pre, items))
     import batches
     return layout(e["jp"], en, batches.box(e["id"], e["jp"])["px"])
 
@@ -125,14 +126,33 @@ def load_cells():
     return {k: v for k, v in json.loads(CELLS.read_text(encoding="utf-8")).items() if not k.startswith("#")}
 
 
-def sliced_errors(text, cols):
-    """Items of a sliced menu as laid out by english(): each must end before the next item's column."""
+def cell(pre, i):
+    """(column, room in px) of item i of a sliced menu: cells.json gives n (room up to the next item's column, the
+    last item as wide as the one before) or [n, px] (a window laid out for the English: tools/winmap.py)."""
+    p = pre[i]
+    if isinstance(p, list):
+        return tuple(p)
+    col = lambda j: pre[j][0] if isinstance(pre[j], list) else pre[j]  # noqa: E731
+    nxt = col(i + 1) if i + 1 < len(pre) else p + (p - col(i - 1) if i else 99)
+    return p, 12 * (nxt - p)
+
+
+def clear(e, pre):
+    """Blanks over every cell the menu's run covers, then back to column 0: the VWF draws only its glyphs' pixels,
+    where the original's fixed cells and padding overwrote the whole run (menu_info showed the field menu's leftovers).
+    A blank is 12 px in overwrite mode ($18B9 = 0)."""
     import batches
-    errs, items = [], re.split(r"\{tab:([0-9A-F]{2})\}", text)
-    starts = [cols[0] if isinstance(cols[0], int) else 0] + [int(c, 16) for c in items[1::2]]
-    for i, item in enumerate(items[0::2]):
-        room = 12 * ((starts[i + 1] if i + 1 < len(starts) else starts[i] + (starts[i] - starts[i - 1] if i else 99))
-                     - starts[i])
+    jp = len(batches.CODE.sub("", batches.END.sub("", e["jp"])))
+    end = max([c * 12 + room for c, room in (p for p in pre if isinstance(p, list))] or [0])  # English-only cells
+    return "{blank}" * max(jp, -(-end // 12))
+
+
+def sliced_errors(en, pre):
+    """Items of a sliced menu (' | ' pieces): each must fit its cell room (cell())."""
+    import batches
+    errs = []
+    for i, item in enumerate(batches.END.sub("", en).split(" | ")):
+        room = cell(pre, i)[1]
         if batches.width(item) > room:
             errs.append(f"{item!r} {batches.width(item)}px > {room}px")
     return errs
@@ -144,8 +164,8 @@ def fit_errors(e, cells):
     import batches
     b = batches.box(e["id"], e["jp"])
     text = batches.END.sub("", english(e, cells))
-    if e["id"] in cells and all(isinstance(c, int) for c in cells[e["id"]]):
-        errs = sliced_errors(text, cells[e["id"]])
+    if e["id"] in cells and all(isinstance(c, (int, list)) for c in cells[e["id"]]):
+        errs = sliced_errors(e["en"], cells[e["id"]])
     elif e["id"] in cells:  # a menu laid out in lines: each label fits its column, no more lines than the JP
         jl = batches.END.sub("", e["jp"]).split("{br}")
         lines = text.split("{br}")
@@ -282,7 +302,8 @@ def plan(rom):
     return writes, report
 
 
-ASM_SITES = [(0x00C942, 4), (0x022967, 3), (0x022993, 6), (0x022A2A, 3), (0x026000, 0x2000)]  # asm/vwf.asm
+ASM_SITES = [(0x00C942, 4), (0x022967, 3), (0x022993, 6), (0x022A2A, 3), (0x026000, 0x2000),  # asm/vwf.asm
+             (0x012923, 1), (0x012A6B, 5), (0x012AF9, 4), (0x012A00, 1), (0x012F34, 3)]  # asm/menus.asm
 FONT = (0x170000, 0x500 * 22)  # $AE:8000 glyphs (tools/font.py)
 
 
@@ -297,7 +318,8 @@ def allowed(rom):
         ok.update(range(s, e))
     for s, n in ASM_SITES + [FONT, (0x7FDC, 4)]:
         ok.update(range(s, s + n))
-    return ok
+    import winmap
+    return ok | winmap.allowed(rom)
 
 
 def main():

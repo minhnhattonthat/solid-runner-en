@@ -82,9 +82,9 @@
    "how": "measured: shop weapon list (work/play/shop/0003.png) bottom box line 1 from x 8, the weapon sprite from x 192; the JP {br} is not honoured there (one line): write none"
   },
   "slot_label": {
-   "px": 36,
+   "px": 80,
    "lines": 1,
-   "how": "measured: setup_slot header label x 112, part name at 150"
+   "how": "phase 7 layout (tools/winmap.py setup_slot): the header has two lines, the label has the first (10 tiles of strip $14), the part name the second (was: label x 112, name at 150)"
   },
   "remove": {
    "px": 116,
@@ -94,8 +94,8 @@
   "setup_labels": {
    "sliced": true,
    "cells": 4,
-   "px": 46,
-   "how": "measured: menu_setup rows of 4 cells x 24-70, part names from x 72"
+   "px": 72,
+   "how": "phase 7 layout (tools/winmap.py setup): labels 72 px (the arms 48), part names from x 104; per-item rooms in cells.json (was rows of 4 cells x 24-70, part names from x 72)"
   },
   "setup_stats": {
    "sliced": true,
@@ -282,9 +282,9 @@
   },
   "data_submenu": {
    "sliced": true,
-   "cells": 2,
-   "px": 22,
-   "how": "measured: info_data submenu rows of 2 cells x 118, frame 143 (phase 7: widen)"
+   "cells": 6,
+   "px": 72,
+   "how": "phase 7 layout (tools/winmap.py data_submenu): window 12 wide, per-item rooms in cells.json (was rows of 2 cells x 118, frame 143)"
   },
   "field_menu": {
    "sliced": true,
@@ -18387,28 +18387,28 @@
    "variant": "item_desc"
   },
   "labels_82AB25": {
-   "px": 36,
+   "px": 80,
    "how": "variant",
    "variant": "slot_label",
    "scene": "setup_slot"
   },
   "labels_82AB2A": {
-   "px": 36,
+   "px": 80,
    "how": "variant",
    "variant": "slot_label"
   },
   "labels_82AB2F": {
-   "px": 36,
+   "px": 80,
    "how": "variant",
    "variant": "slot_label"
   },
   "labels_82AB34": {
-   "px": 36,
+   "px": 80,
    "how": "variant",
    "variant": "slot_label"
   },
   "labels_82AEF4": {
-   "px": 22,
+   "px": 72,
    "how": "variant",
    "variant": "data_submenu",
    "scene": "data_info_list"
@@ -18676,7 +18676,7 @@
    "scene": "info_requests"
   },
   "menu_82C4DD": {
-   "px": 46,
+   "px": 72,
    "how": "variant",
    "variant": "setup_labels",
    "scene": "menu_setup"

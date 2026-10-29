@@ -94,6 +94,10 @@ S.list = {
   data_people_list = data({ { 400, "down" }, { 440, "a" } }, PEOPLE),
   data_people_page = data({ { 400, "down" }, { 440, "a" }, { 520, "a" } }, PEOPLE),
   setup_slot = field({ { 0, "x" }, { 60, "down" }, { 120, "a" }, { 200, "a" } }),
+  -- equip the list's second row on the left shoulder (header redraw), then back to the setup window
+  setup_equip = field({ { 0, "x" }, { 60, "down" }, { 120, "a" }, { 200, "a" }, { 280, "down" }, { 340, "a" } }),
+  setup_back = field({ { 0, "x" }, { 60, "down" }, { 120, "a" }, { 200, "a" }, { 280, "down" }, { 340, "a" },
+    { 460, "b" } }),
   -- info terminal (object in area 02 room 00, script 95:DC37): native menu 87:8359 (list 87:8558) and the runner
   -- data analysis screen 87:B227 (runner_status), called by VM op 05 injected over the opening thread
   info_terminal = { area = 0x01, room = 0x00, run = { 0x05, 0x59, 0x83, 0x87, 0x00 } },

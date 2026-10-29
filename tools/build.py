@@ -24,7 +24,7 @@ ROOT = Path(__file__).resolve().parents[1]
 ORIG = ROOT / "rom" / "Solid Runner (Japan).sfc"
 OUT = ROOT / "build" / "solid_runner_en.sfc"
 ASAR = ROOT / "tools" / "asar" / "asar.exe"
-ASM = [ROOT / "asm" / "vwf.asm"]
+ASM = [ROOT / "asm" / "vwf.asm", ROOT / "asm" / "menus.asm"]
 WIDTHS = 0x027F00  # $84:FF00, vwf_widths in asm/vwf.asm
 
 
@@ -83,7 +83,8 @@ def build(orig, engine=True, markers=False, qa=()):
             i += 1
     if engine and not (markers or qa):
         import insert
-        for off, data, by in insert.plan(orig)[0]:
+        import winmap
+        for off, data, by in insert.plan(orig)[0] + winmap.plan(orig):
             put(off, data, by)
     if markers or qa:
         import marker

@@ -4,7 +4,7 @@
   "addr": "82:AB25",
   "len": 5,
   "jp": "左肩{end}",
-  "en": "Left{br}Shoulder{end}",
+  "en": "Left Shoulder{end}",
   "notes": ""
  },
  {
@@ -12,7 +12,7 @@
   "addr": "82:AB2A",
   "len": 5,
   "jp": "右肩{end}",
-  "en": "Right{br}Shoulder{end}",
+  "en": "Right Shoulder{end}",
   "notes": ""
  },
  {
@@ -20,7 +20,7 @@
   "addr": "82:AB2F",
   "len": 5,
   "jp": "左腕{end}",
-  "en": "Left{br}Arm{end}",
+  "en": "Left Arm{end}",
   "notes": ""
  },
  {
@@ -28,7 +28,7 @@
   "addr": "82:AB34",
   "len": 5,
   "jp": "右腕{end}",
-  "en": "Right{br}Arm{end}",
+  "en": "Right Arm{end}",
   "notes": ""
  },
  {

@@ -68,6 +68,40 @@ def compress(data):
     return bytes(out + b"\x00")
 
 
+def compress_min(data):
+    """Smallest encoding (dynamic programming over every literal run and copy length): for data that must fit the
+    slot of a block it was edited from (tools/winmap.py). Slower than compress()."""
+    n, seen, best = len(data), {}, []  # best[i] = (longest match at i, its distance)
+    for i in range(n):
+        m, dist = 0, 0
+        for j in reversed(seen.get(data[i:i + 3], ())):
+            if i - j > 256:
+                break
+            k = 0
+            while k < 130 and i + k < n and data[i + k] == data[j + k]:
+                k += 1
+            if k > m:
+                m, dist = k, i - j
+        best.append((m, dist))
+        seen.setdefault(data[i:i + 3], []).append(i)
+    cost, how = [0] * (n + 1), [None] * (n + 1)
+    for i in range(n - 1, -1, -1):
+        cost[i], how[i] = min((1 + k + cost[i + k], ("lit", k)) for k in range(1, min(0x7F, n - i) + 1))
+        m, dist = best[i]
+        for k in range(3, m + 1):
+            if 2 + cost[i + k] < cost[i]:
+                cost[i], how[i] = 2 + cost[i + k], ("copy", k, dist)
+    out, i = bytearray(), 0
+    while i < n:
+        h = how[i]
+        if h[0] == "lit":
+            out += bytes([h[1]]) + data[i:i + h[1]]
+        else:
+            out += bytes([0x80 | (h[1] - 3), h[2] - 1])
+        i += h[1]
+    return bytes(out + b"\x00")
+
+
 def blocks(rom):
     """Yield (name, file offset) for every LZ block behind a bank-start pointer table (as gfx_sweep.py finds them)."""
     for b in range(len(rom) // 0x8000):

@@ -66,11 +66,13 @@ VARIANTS = {
     "parts_desc": {"px": 182, "lines": 1, "ranges": [("parts", 0x83A8D8, 0x83AE5F)],
                    "how": "measured: shop weapon list (work/play/shop/0003.png) bottom box line 1 from x 8, the weapon "
                           "sprite from x 192; the JP {br} is not honoured there (one line): write none"},
-    "slot_label": {"px": 36, "lines": 1, "ranges": [("labels", 0x82AB25, 0x82AB39)],
-                   "how": "measured: setup_slot header label x 112, part name at 150"},
+    "slot_label": {"px": 80, "lines": 1, "ranges": [("labels", 0x82AB25, 0x82AB39)],
+                   "how": "phase 7 layout (tools/winmap.py setup_slot): the header has two lines, the label has the "
+                          "first (10 tiles of strip $14), the part name the second (was: label x 112, name at 150)"},
     "remove": {"px": 116, "lines": 1, "ids": ["labels_82C1DB"], "how": "measured: setup_slot list x 118 to 236"},
-    "setup_labels": {"sliced": True, "cells": 4, "px": 46, "ids": ["menu_82C4DD"],
-                     "how": "measured: menu_setup rows of 4 cells x 24-70, part names from x 72"},
+    "setup_labels": {"sliced": True, "cells": 4, "px": 72, "ids": ["menu_82C4DD"],
+                     "how": "phase 7 layout (tools/winmap.py setup): labels 72 px (the arms 48), part names from x "
+                            "104; per-item rooms in cells.json (was rows of 4 cells x 24-70, part names from x 72)"},
     "setup_stats": {"sliced": True, "cells": 6, "px": 68, "ids": ["menu_82C4FA"],
                     "how": "measured: setup_slot left panel rows x 24 to frame 95"},
     "info_menu": {"sliced": True, "cells": 5, "px": 58, "ids": ["menu_82C515"],
@@ -147,8 +149,9 @@ VARIANTS = {
                     "how": "measured: 'current' label x 18 to its value at 58, cost label x 138 to the number at 194; "
                            "the add-armor yes/no (増やす/やめる) needs a level-up, not seen: take the smaller box"},    "third_name": {"px": 90, "lines": 1, "chars": 6, "ids": ["default_names_93CB38", "places2_93C20B"],
                    "how": "measured: runner name ($1ACF, 6 glyphs + FF) in name_entry_a x 144 to frame 236"},
-    "data_submenu": {"sliced": True, "cells": 2, "px": 22, "ids": ["labels_82AEF4"],
-                     "how": "measured: info_data submenu rows of 2 cells x 118, frame 143 (phase 7: widen)"},
+    "data_submenu": {"sliced": True, "cells": 6, "px": 72, "ids": ["labels_82AEF4"],
+                     "how": "phase 7 layout (tools/winmap.py data_submenu): window 12 wide, per-item rooms in "
+                            "cells.json (was rows of 2 cells x 118, frame 143)"},
     "field_menu": {"sliced": True, "cells": 6, "px": 70, "ids": ["menu_82C48F"],
                    "how": "measured: menu shows the run in rows of 6 cells (x 24-96)"},
     "parts_labels": {"sliced": True, "cells": 4, "px": 44, "ids": ["status_93951C"],
