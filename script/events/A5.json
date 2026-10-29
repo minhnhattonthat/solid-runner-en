@@ -122,7 +122,7 @@
   "op": "A5A096",
   "len": 40,
   "jp": "「好き…というよりも、気にかかって仕方の{br}ない妹みたいなもんだな。{endFD}",
-  "en": "\"It's less that I like her, and more that she's{br}like a little sister I can't help worrying{br}about.\"{endFD}",
+  "en": "\"It's less that I like her, and more that she's{br}like a little sister I can't help{br}worrying about.\"{endFD}",
   "notes": ""
  },
  {
@@ -221,7 +221,7 @@
   "op": "A5A2F6",
   "len": 30,
   "jp": "{c0C:01}「ん？ ブランドルとレクターの{br}姿が見えないぞ。{end}",
-  "en": "{c0C:01}: Hm? There's no sign of Brundle and{br}Lecter.{end}",
+  "en": "{c0C:01}: Hm? There's no sign of Brundle{br}and Lecter.{end}",
   "notes": ""
  },
  {
@@ -347,7 +347,7 @@
   "op": "A5A5FD",
   "len": 46,
   "jp": "「汚らわしいですって！？ あなたのやろう{br}としていた事の方がよっぽど汚らわしいわ！{end}",
-  "en": "\"Filthy?! What you were trying to do is far{br}filthier!\"{end}",
+  "en": "\"Filthy?! What you were trying to do is{br}far filthier!\"{end}",
   "notes": ""
  },
  {
@@ -410,7 +410,7 @@
   "op": "A5A742",
   "len": 32,
   "jp": "{c0C:01}「今度こそ決着をつけてやるぜ、{br}バイスハイト！！{end}",
-  "en": "{c0C:01}: This time we settle this for good,{br}Weissheit!!{end}",
+  "en": "{c0C:01}: This time we settle this for{br}good, Weissheit!!{end}",
   "notes": ""
  },
  {
@@ -428,7 +428,7 @@
   "op": "A5A785",
   "len": 33,
   "jp": "カーク「この建物が、外から攻撃を受けて{br}いるんじゃ。{end}",
-  "en": "Kirk: This building is under attack from{br}outside.{end}",
+  "en": "Kirk: This building is under attack{br}from outside.{end}",
   "notes": ""
  },
  {
@@ -896,7 +896,7 @@
   "op": "A5C0A0",
   "len": 32,
   "jp": "カードキー2の差し込み口がある。{br}カードを入れますか？{end}",
-  "en": "There's a slot for Card Key 2. Insert the{br}card?{end}",
+  "en": "There's a slot for Card Key 2. Insert{br}the card?{end}",
   "notes": ""
  },
  {
@@ -1139,7 +1139,7 @@
   "op": "A5EA26",
   "len": 22,
   "jp": "「やっぱり、お前らハナからそのつもりで！{end}",
-  "en": "\"So you were planning this right from the{br}start!\"{end}",
+  "en": "\"So you were planning this right from{br}the start!\"{end}",
   "notes": ""
  },
  {
@@ -1157,7 +1157,7 @@
   "op": "A5EA8E",
   "len": 58,
   "jp": "もうお前らのようなアウトローが必要な時代{br}も終わりだ。新たなソリッドシティにお前ら{br}は不要だ。{end}",
-  "en": "The age when outlaws like you were needed is{br}over. The new Solid City has no need for your{br}kind.{end}",
+  "en": "The age when outlaws like you were needed is{br}over. The new Solid City has no need for{br}your kind.{end}",
   "notes": ""
  },
  {
@@ -1175,7 +1175,7 @@
   "op": "A5EB0E",
   "len": 58,
   "jp": "「フッ、お前とて我々を利用するつもりで{br}いたのだろう。どちらも考えている事はそう{br}変わりはしない。{endFD}",
-  "en": "\"Hmph, you meant to use us as well, did you{br}not? Neither side's thinking is all that{br}different.\"{endFD}",
+  "en": "\"Hmph, you meant to use us as well, did you{br}not? Neither side's thinking is all{br}that different.\"{endFD}",
   "notes": ""
  },
  {
@@ -1391,7 +1391,7 @@
   "op": "A5F170",
   "len": 48,
   "jp": "「脳を改造して狂ったか、バイスハイト。{br}お前だけは絶対に、絶対に許さん！！{end}",
-  "en": "\"Did messing with your brain drive you mad,{br}Weissheit? You're the one guy I'll never, ever{br}forgive!!\"{end}",
+  "en": "\"Did messing with your brain drive you mad,{br}Weissheit? You're the one guy I'll never,{br}ever forgive!!\"{end}",
   "notes": ""
  },
  {
@@ -1517,7 +1517,7 @@
   "op": "A5F3ED",
   "len": 26,
   "jp": "{c0C:01}「こ、これがバイスハイトの姿{br}なのか…？{end}",
-  "en": "{c0C:01}: Th-this is what Weissheit really looks{br}like...?{end}",
+  "en": "{c0C:01}: Th-this is what Weissheit really{br}looks like...?{end}",
   "notes": ""
  },
  {

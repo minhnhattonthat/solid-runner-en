@@ -279,7 +279,7 @@ def plan(rom):
             continue
         short = [e for _, e in run if e["len"] < 6]
         bank = None
-        if kind0 in TABLES and short:
+        if kind0 in TABLES:  # every entry repointed: the battle HUD's 8x8 renderer reads names by table, no jumps
             bank = rom_bank = off(TABLES[kind0][0]) >> 15 | 0x80
         elif short:
             bank = TEXTBANK
@@ -290,16 +290,18 @@ def plan(rom):
             writes.append((p, d, "en " + e["id"]))
             a = cpu(p)
             end = rom[o + n - 1:o + n]
-            if n >= 6:
+            slot = None
+            if kind in TABLES:
+                ws = table_slots(rom, kind, o)  # none: a string only reached through another one's wrap
+                assert (ws or n >= 6) and a >> 16 == rom_bank, e["id"]
+                for w in ws:
+                    writes.append((w, (a & 0xFFFF).to_bytes(2, "little"), "table " + e["id"]))
+                report["table"] += 1
+            if n >= 6:  # table entries too, for any reader that has the slot's address rather than the table
                 slot = bytes([0xF8, 0x20, a & 0xFF, a >> 8 & 0xFF, a >> 16]) + b"\x01" * (n - 6) + end
                 report["jump"] += 1
             elif kind in TABLES:
-                ws = table_slots(rom, kind, o)
-                assert ws and a >> 16 == rom_bank, e["id"]
-                for w in ws:
-                    writes.append((w, (a & 0xFFFF).to_bytes(2, "little"), "table " + e["id"]))
-                slot = None
-                report["table"] += 1
+                pass
             elif n >= 4 and kind != "events" or n == 5:
                 assert a >> 16 == TEXTBANK
                 slot = bytes([0xF8, 0x22, a & 0xFF, a >> 8 & 0xFF]) + (end if n == 5 else b"")

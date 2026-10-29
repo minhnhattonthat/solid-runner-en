@@ -212,7 +212,7 @@
   "addr": "87:CCF9",
   "len": 44,
   "jp": "エリア9の政府施設を武装テロリスト{br}集団が襲撃、ケガ人多数。{end}",
-  "en": "Armed terrorist group attacks{br}government facility in Area 9; many{br}injured.{end}",
+  "en": "Armed terrorists attack government{br}facility in Area 9; many injured.{end}",
   "notes": ""
  },
  {
@@ -380,7 +380,7 @@
   "addr": "87:D0CB",
   "len": 26,
   "jp": "武装テロ集団が武器ショップを襲撃。{end}",
-  "en": "Armed terrorist group raids a weapon{br}shop.{end}",
+  "en": "Armed terrorist group raids a{br}weapon shop.{end}",
   "notes": ""
  },
  {
@@ -388,7 +388,7 @@
   "addr": "87:D0EA",
   "len": 65,
   "jp": "エリア13の闘技場近くにある武器店が{br}バイオモンスターのテロリスト集団に{br}襲撃される事件が起こった。{end}",
-  "en": "A weapon shop near the arena in Area 13{br}was raided by the bio-monster terrorist{br}group.{end}",
+  "en": "A weapon shop near the arena in Area 13{br}was raided by the bio-monster{br}terrorist group.{end}",
   "notes": ""
  },
  {
@@ -516,7 +516,7 @@
   "addr": "87:D3C2",
   "len": 23,
   "jp": "エリア11の倉庫街で火災発生。{end}",
-  "en": "Fire breaks out in the Area 11 Warehouse{br}District.{end}",
+  "en": "Fire breaks out in the Area 11{br}Warehouse District.{end}",
   "notes": ""
  },
  {
@@ -588,7 +588,7 @@
   "addr": "87:D565",
   "len": 63,
   "jp": "エリア5においてバイオモンスターの{br}目撃情報が多数報告されている。{br}警察では注意を呼びかけている。{end}",
-  "en": "Many bio-monster sightings have been{br}reported in Area 5. Police are urging{br}caution.{end}",
+  "en": "Many bio-monster sightings have been{br}reported in Area 5. Police are{br}urging caution.{end}",
   "notes": ""
  },
  {
@@ -604,7 +604,7 @@
   "addr": "87:D5B2",
   "len": 41,
   "jp": "ソリッドシティにおける失そう事件、{br}過去最高の件数を記録。{end}",
-  "en": "Disappearances in Solid City hit a record{br}high.{end}",
+  "en": "Disappearances in Solid City hit a{br}record high.{end}",
   "notes": ""
  },
  {
@@ -636,7 +636,7 @@
   "addr": "87:D677",
   "len": 36,
   "jp": "SCBC局記者が武装テロリスト集団を{br}追跡取材。{end}",
-  "en": "SCBC reporter follows the armed terrorist{br}group.{end}",
+  "en": "SCBC reporter follows the armed{br}terrorist group.{end}",
   "notes": ""
  },
  {
@@ -716,7 +716,7 @@
   "addr": "87:D83B",
   "len": 40,
   "jp": "これを知った腕に自信のある者達は、{br}デイモンを探し回っている。{end}",
-  "en": "On hearing this, those confident in their{br}skills are searching high and low for{br}Daemon.{end}",
+  "en": "On hearing this, those confident in their{br}skills are searching high and low{br}for Daemon.{end}",
   "notes": ""
  },
  {
@@ -756,7 +756,7 @@
   "addr": "87:D8D0",
   "len": 25,
   "jp": "対戦競技『ジャスティス』が大人気。{end}",
-  "en": "The combat sport 'Justice' is hugely{br}popular.{end}",
+  "en": "The combat sport 'Justice' is{br}hugely popular.{end}",
   "notes": ""
  },
  {
@@ -788,7 +788,7 @@
   "addr": "87:D979",
   "len": 26,
   "jp": "人工血液のヤミ売買事件が増加。{end}",
-  "en": "Black-market artificial blood deals on the{br}rise.{end}",
+  "en": "Black-market artificial blood deals on{br}the rise.{end}",
   "notes": ""
  },
  {
@@ -828,7 +828,7 @@
   "addr": "87:DA60",
   "len": 24,
   "jp": "犯罪組織ババリアの事件が続発。{end}",
-  "en": "Bavaria crime syndicate incidents keep{br}occurring.{end}",
+  "en": "Bavaria crime syndicate incidents{br}keep occurring.{end}",
   "notes": ""
  },
  {
@@ -956,7 +956,7 @@
   "addr": "87:DD15",
   "len": 38,
   "jp": "まったく恐ろしい話だよな。{br}バケモノ共が人間を襲うんだからよ。{end}",
-  "en": "Scary stuff, huh? Monsters attacking{br}humans.{end}",
+  "en": "Scary stuff, huh? Monsters{br}attacking humans.{end}",
   "notes": ""
  },
  {
@@ -1084,7 +1084,7 @@
   "addr": "87:DF89",
   "len": 36,
   "jp": "倉庫街のどこかにマフィアの{br}ドラッグ工場があるらしいッスよ。{end}",
-  "en": "Word is there's a mafia drug factory{br}somewhere in the Warehouse District,{br}man.{end}",
+  "en": "Word is there's a mafia drug factory{br}somewhere in the Warehouse{br}District, man.{end}",
   "notes": ""
  },
  {
@@ -1124,7 +1124,7 @@
   "addr": "87:E057",
   "len": 57,
   "jp": "それがぶっとばされちまったもんだから{br}市場はバイビジブルがシメてるぜ。{br}ドラッグも値上がりしちまうしよ。{end}",
-  "en": "Now that it got blown sky-high, Bivisible{br}runs the market. And drug prices went up{br}too.{end}",
+  "en": "Now that it got blown sky-high, Bivisible{br}runs the market. And drug prices went{br}up too.{end}",
   "notes": ""
  },
  {
@@ -1500,7 +1500,7 @@
   "addr": "87:E854",
   "len": 53,
   "jp": "腕の立つランナーの改造屋。{br}現在はレジスタンスと共にエリア1の{br}地下に潜っている。{end}",
-  "en": "A skilled runner mechanic. Now{br}underground in Area 1 with the{br}Resistance.{end}",
+  "en": "A skilled runner mechanic. Now{br}underground in Area 1 with{br}the Resistance.{end}",
   "notes": ""
  },
  {
@@ -1716,7 +1716,7 @@
   "addr": "87:ECB4",
   "len": 54,
   "jp": "軍時代、{c0C:01}と同じ部隊に{br}所属していた戦友。{br}{c0C:01}とはウマが合う人間だった。{end}",
-  "en": "{c0C:01}'s comrade from his army days, in{br}the same unit. He and {c0C:01} got along{br}well.{end}",
+  "en": "{c0C:01}'s comrade from his army days, in{br}the same unit. He and {c0C:01} got{br}along well.{end}",
   "notes": ""
  },
  {
@@ -1828,7 +1828,7 @@
   "addr": "87:EF56",
   "len": 59,
   "jp": "警備ロボット。一般にも広く使われている。{br}戦闘用に作られたものではないので、あまり{br}強くない。{end}",
-  "en": "A security robot, widely used by the public as{br}well. Not built for combat, so it isn't very{br}strong.{end}",
+  "en": "A security robot, widely used by the public as{br}well. Not built for combat, so it isn't{br}very strong.{end}",
   "notes": ""
  },
  {
@@ -1988,7 +1988,7 @@
   "addr": "87:F338",
   "len": 41,
   "jp": "ライオンのような姿のバイオモンスター。{br}たてがみが触手のようになっている。{end}",
-  "en": "A lion-like bio-monster. Its mane works like{br}tentacles.{end}",
+  "en": "A lion-like bio-monster. Its mane works{br}like tentacles.{end}",
   "notes": ""
  },
  {
@@ -2004,7 +2004,7 @@
   "addr": "87:F387",
   "len": 49,
   "jp": "マウンテンゴリラの遺伝子を操作して作ら{br}れたバイオモンスター。怪力の持ち主。{end}",
-  "en": "A bio-monster created by manipulating{br}mountain gorilla genes. It has tremendous{br}strength.{end}",
+  "en": "A bio-monster created by manipulating{br}mountain gorilla genes. It has{br}tremendous strength.{end}",
   "notes": ""
  },
  {
@@ -2036,7 +2036,7 @@
   "addr": "87:F437",
   "len": 51,
   "jp": "人間の遺伝子を操作して作られたバイオモ{br}ンスター。体の表面がドロドロしている。{end}",
-  "en": "A bio-monster created by manipulating{br}human genes. Its body is covered in oozing{br}sludge.{end}",
+  "en": "A bio-monster created by manipulating{br}human genes. Its body is covered in{br}oozing sludge.{end}",
   "notes": ""
  },
  {
@@ -2044,7 +2044,7 @@
   "addr": "87:F46A",
   "len": 49,
   "jp": "バイオ技術とランナー技術を組み合わせて{br}作られた実験タイプのバイオモンスター。{end}",
-  "en": "An experimental bio-monster built by{br}combining bio-technology and runner{br}technology.{end}",
+  "en": "An experimental bio-monster built by{br}combining bio-technology and{br}runner technology.{end}",
   "notes": ""
  },
  {
@@ -2052,7 +2052,7 @@
   "addr": "87:F49B",
   "len": 45,
   "jp": "ドロ人形のような姿のバイオモンスター。{br}体の各部分があいまいになっている。{end}",
-  "en": "A bio-monster that looks like a mud doll.{br}The parts of its body are vague and{br}ill-defined.{end}",
+  "en": "A bio-monster that looks like a mud doll.{br}The parts of its body are vague{br}and ill-defined.{end}",
   "notes": ""
  },
  {
@@ -2100,7 +2100,7 @@
   "addr": "87:F5A0",
   "len": 55,
   "jp": "バイオモンスターばかりで構成された{br}テロリスト集団のリーダー。{br}ランナー並の強さを持っている。{end}",
-  "en": "Leader of a terrorist group made up{br}entirely of bio-monsters. As strong as a{br}runner.{end}",
+  "en": "Leader of a terrorist group made up{br}entirely of bio-monsters. As strong as{br}a runner.{end}",
   "notes": ""
  },
  {

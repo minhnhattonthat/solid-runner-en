@@ -61,3 +61,11 @@ def test_inserted_text_fits():
         if not errs and e["id"] in todo:
             bad.append((e["id"], "fits now: delete it from script/engine_todo.txt"))
     assert not bad, f"{len(bad)} entries: {bad[:40]}"
+
+
+def test_dewidow():
+    b = {"px": 240}
+    assert batches.dewidow("Tao: one two three{br}four.{endFD}", b) == "Tao: one two{br}three four.{endFD}"
+    assert batches.dewidow("one two{br}three.{end}", b) is None  # the line before keeps two words
+    assert batches.dewidow("Next Page{br}Back{end}", b) is None  # no prose ending: a menu, not a widow
+    assert batches.dewidow("{c1C:1E}one two three{br}DAN...GER.{end}", b) is None

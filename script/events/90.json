@@ -113,7 +113,7 @@
   "op": "90DE28",
   "len": 26,
   "jp": "「警告、これ以上の被弾は危険じゃ。{endFE}",
-  "en": "\"Warning! Any more hits will be most{br}dangerous.\"{endFE}",
+  "en": "\"Warning! Any more hits will be{br}most dangerous.\"{endFE}",
   "notes": ""
  },
  {
@@ -284,7 +284,7 @@
   "op": "90E0A4",
   "len": 20,
   "jp": "「敵の装甲を毒で弱らせたぞ。{endFE}",
-  "en": "\"We've weakened the enemy's armor with{br}poison.\"{endFE}",
+  "en": "\"We've weakened the enemy's armor{br}with poison.\"{endFE}",
   "notes": ""
  },
  {
@@ -311,7 +311,7 @@
   "op": "90E107",
   "len": 26,
   "jp": "「敵の命中率と回避率が下がったぞ。{endFE}",
-  "en": "\"The enemy's Accuracy and Evasion have{br}dropped.\"{endFE}",
+  "en": "\"The enemy's Accuracy and Evasion{br}have dropped.\"{endFE}",
   "notes": ""
  },
  {
@@ -356,7 +356,7 @@
   "op": "90E19E",
   "len": 23,
   "jp": "「アイテム使用中は無防備じゃぞ。{endFE}",
-  "en": "\"Mind you, we're defenseless while using an{br}item.\"{endFE}",
+  "en": "\"Mind you, we're defenseless while using{br}an item.\"{endFE}",
   "notes": ""
  },
  {
@@ -383,7 +383,7 @@
   "op": "90E1EE",
   "len": 27,
   "jp": "「交換中ハ動ケマセン。注意シテ下サイ。{endFE}",
-  "en": "\"CANNOT MOVE WHILE SWAPPING. PLEASE BE{br}CAREFUL.\"{endFE}",
+  "en": "\"CANNOT MOVE WHILE SWAPPING. PLEASE{br}BE CAREFUL.\"{endFE}",
   "notes": ""
  },
  {
@@ -392,7 +392,7 @@
   "op": "90E20D",
   "len": 26,
   "jp": "「防御フィールドで敵の攻撃を防いだぞ。{endFE}",
-  "en": "\"The defense field blocked the enemy's{br}attack.\"{endFE}",
+  "en": "\"The defense field blocked the{br}enemy's attack.\"{endFE}",
   "notes": ""
  },
  {
@@ -509,7 +509,7 @@
   "op": "90E3A5",
   "len": 23,
   "jp": "「敵の動きを読んで行動するのじゃ。{endFE}",
-  "en": "\"One must read the enemy's moves before{br}acting.\"{endFE}",
+  "en": "\"One must read the enemy's moves{br}before acting.\"{endFE}",
   "notes": ""
  },
  {
@@ -518,7 +518,7 @@
   "op": "90E3C0",
   "len": 25,
   "jp": "「敵ノ行動ヲ考エテ攻撃シテ下サイ。{endFE}",
-  "en": "\"PLEASE CONSIDER ENEMY ACTIONS BEFORE{br}ATTACKING.\"{endFE}",
+  "en": "\"PLEASE CONSIDER ENEMY ACTIONS{br}BEFORE ATTACKING.\"{endFE}",
   "notes": ""
  },
  {

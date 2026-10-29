@@ -86,7 +86,7 @@
   "op": "AD8D1C",
   "len": 32,
   "jp": "カードキーを差し込みました。{br}B1Fの扉が開きました。{end}",
-  "en": "Inserted the card key. The door on B1F{br}opened.{end}",
+  "en": "Inserted the card key. The door on{br}B1F opened.{end}",
   "notes": ""
  },
  {
@@ -122,7 +122,7 @@
   "op": "AD8DE4",
   "len": 31,
   "jp": "カードキーを差し込みました。{br}2Fの扉が開きました。{end}",
-  "en": "Inserted the card key. The door on 2F{br}opened.{end}",
+  "en": "Inserted the card key. The door on{br}2F opened.{end}",
   "notes": ""
  },
  {
@@ -140,7 +140,7 @@
   "op": "AD8E47",
   "len": 31,
   "jp": "カードキーを差し込みました。{br}3Fの扉が開きました。{end}",
-  "en": "Inserted the card key. The door on 3F{br}opened.{end}",
+  "en": "Inserted the card key. The door on{br}3F opened.{end}",
   "notes": ""
  },
  {
@@ -194,7 +194,7 @@
   "op": "AD959E",
   "len": 47,
   "jp": "カーク「用事がすんだら、明日に備えて{br}ベッドに入ってグッスリ寝ておくんじゃな。{end}",
-  "en": "Kirk: Once your business is done, get into bed{br}and have a good sleep, so you're ready for{br}tomorrow.{end}",
+  "en": "Kirk: Once your business is done, get into bed{br}and have a good sleep, so you're ready{br}for tomorrow.{end}",
   "notes": ""
  },
  {
@@ -203,7 +203,7 @@
   "op": "AD9A7D",
   "len": 24,
   "jp": "   悪夢の日から1カ月が過ぎた…{endFE}",
-  "en": "A month has passed since the day of the{br}nightmare...{endFE}",
+  "en": "A month has passed since the day of{br}the nightmare...{endFE}",
   "notes": ""
  },
  {
@@ -257,7 +257,7 @@
   "op": "AD9FD2",
   "len": 58,
   "jp": "リフ「よう、{c0C:01}。ガソリン車を{br}送迎に使うなんざ、アイリーンの親父さんは{br}良い趣味してるねぇ。{end}",
-  "en": "Riff: Hey, {c0C:01}. Sending a gasoline car to{br}pick you up - Irene's old man sure has fine{br}taste.{end}",
+  "en": "Riff: Hey, {c0C:01}. Sending a gasoline car to{br}pick you up - Irene's old man sure has{br}fine taste.{end}",
   "notes": ""
  },
  {
@@ -266,7 +266,7 @@
   "op": "ADA010",
   "len": 62,
   "jp": "{c0C:01}「世の中、電気自動車が当たり前{br}ガソリン車は金持ちのぜいたく品だからな。{br}それよりも…。{end}",
-  "en": "{c0C:01}: These days electric cars are the{br}norm. Gas cars are a luxury for the rich.{br}Anyway...{end}",
+  "en": "{c0C:01}: These days electric cars are the{br}norm. Gas cars are a luxury for the{br}rich. Anyway...{end}",
   "notes": ""
  },
  {
@@ -329,7 +329,7 @@
   "op": "ADA18F",
   "len": 55,
   "jp": "ま、武器やアイテムが必要なら{br}エリア13にパーツショップがあるから{br}そこで調達するといいだろう。{endFD}",
-  "en": "Anyway, if you need weapons or items, there's{br}a parts shop in Area 13. You can stock up{br}there.{endFD}",
+  "en": "Anyway, if you need weapons or items, there's{br}a parts shop in Area 13. You can stock{br}up there.{endFD}",
   "notes": ""
  },
  {
@@ -392,7 +392,7 @@
   "op": "ADA3FA",
   "len": 24,
   "jp": "「ああ…コイツじゃ頼りないのは確かだな。{end}",
-  "en": "\"Yeah... No doubt this thing isn't very{br}reliable.\"{end}",
+  "en": "\"Yeah... No doubt this thing isn't{br}very reliable.\"{end}",
   "notes": ""
  },
  {
@@ -410,7 +410,7 @@
   "op": "ADA454",
   "len": 57,
   "jp": "ダ・シルヴァの小僧だって、良いマシンと{br}良いスタッフがいたからこそ、チャンプに{br}なる事ができたんだぞ。{end}",
-  "en": "Even that Da Silva kid only became champ{br}because he had a good machine and a good{br}crew.{end}",
+  "en": "Even that Da Silva kid only became champ{br}because he had a good machine and a{br}good crew.{end}",
   "notes": ""
  },
  {
@@ -464,7 +464,7 @@
   "op": "ADA6EE",
   "len": 32,
   "jp": "{c0C:01}「リフ、ついにババリアの{br}アジトの1つが分かったんだ。{end}",
-  "en": "{c0C:01}: Riff, I finally found one of Bavaria's{br}hideouts.{end}",
+  "en": "{c0C:01}: Riff, I finally found one of{br}Bavaria's hideouts.{end}",
   "notes": ""
  },
  {
@@ -500,7 +500,7 @@
   "op": "ADA76B",
   "len": 54,
   "jp": "「ああ、カークにも言われたよ。{br}だけど、奴らに一発かましてやらなきゃ{br}オレの気が済まないんだ！{end}",
-  "en": "\"Yeah, Kirk told me the same thing. But I{br}won't be satisfied until I land one on those{br}bastards!\"{end}",
+  "en": "\"Yeah, Kirk told me the same thing. But I{br}won't be satisfied until I land one on{br}those bastards!\"{end}",
   "notes": ""
  },
  {
@@ -815,7 +815,7 @@
   "op": "ADB0EC",
   "len": 26,
   "jp": "リフ「一体、いつまで{br}そうしているつもりじゃ？{end}",
-  "en": "Riff: Just how long do you plan on staying like{br}that?{end}",
+  "en": "Riff: Just how long do you plan on staying{br}like that?{end}",
   "notes": ""
  },
  {
@@ -833,7 +833,7 @@
   "op": "ADB11E",
   "len": 50,
   "jp": "「こいつは重傷だな。{br}天国にいるアイリーンが{br}その情けない姿を見たら何というかの。{end}",
-  "en": "\"You've got it bad. What would Irene up in{br}heaven say if she saw you in this sorry{br}state?\"{end}",
+  "en": "\"You've got it bad. What would Irene up in{br}heaven say if she saw you in this{br}sorry state?\"{end}",
   "notes": ""
  },
  {
@@ -869,7 +869,7 @@
   "op": "ADB1E2",
   "len": 32,
   "jp": "「ああ…分かってるよ。{br}だけど、どうすりゃいいってんだよ？{end}",
-  "en": "\"Yeah... I know. But what am I supposed to{br}do?\"{end}",
+  "en": "\"Yeah... I know. But what am I supposed{br}to do?\"{end}",
   "notes": ""
  },
  {
@@ -950,7 +950,7 @@
   "op": "ADB339",
   "len": 41,
   "jp": "「タオは奴らがソリッドシティに{br}進出して来ているのを気にしていた…。{end}",
-  "en": "\"Tao was worried about them moving into Solid{br}City...\"{end}",
+  "en": "\"Tao was worried about them moving into{br}Solid City...\"{end}",
   "notes": ""
  },
  {
@@ -977,7 +977,7 @@
   "op": "ADB3C4",
   "len": 56,
   "jp": "「わしだってここまで調べるのに{br}相当な時間がかかったんだ。{br}お前は飲んだくれてばかりだったがな！{end}",
-  "en": "\"It took me a good long while to dig up this{br}much, you know! All you did was drink yourself{br}stupid!\"{end}",
+  "en": "\"It took me a good long while to dig up this{br}much, you know! All you did was drink{br}yourself stupid!\"{end}",
   "notes": ""
  },
  {
@@ -1022,7 +1022,7 @@
   "op": "ADB569",
   "len": 43,
   "jp": "ナビロボ「新しいパートナーがどんな{br}人間かと思えば、まだヒヨッコではないか。{end}",
-  "en": "Navi-Robo: I wondered what sort of man my{br}new partner would be, and he's nothing but a{br}greenhorn.{end}",
+  "en": "Navi-Robo: I wondered what sort of man my{br}new partner would be, and he's nothing but{br}a greenhorn.{end}",
   "notes": ""
  },
  {
@@ -1031,7 +1031,7 @@
   "op": "ADB599",
   "len": 54,
   "jp": "「何だとぉ、コイツ？{br}俺は24だ。ヒヨッコなんかじゃない！{br}お前、ナビロボのくせに生意気だぞ！{end}",
-  "en": "\"What'd you say, you little punk?! I'm 24. I'm{br}no greenhorn! You've got some lip for a{br}Navi-Robo!\"{end}",
+  "en": "\"What'd you say, you little punk?! I'm 24. I'm{br}no greenhorn! You've got some lip for{br}a Navi-Robo!\"{end}",
   "notes": ""
  },
  {
@@ -1067,7 +1067,7 @@
   "op": "ADB66E",
   "len": 45,
   "jp": "人格の刷り込みをしてあるナビロボは{br}新品じゃあ高価で手に入らんからな{endFD}",
-  "en": "A brand-new Navi-Robo with a personality{br}imprint costs way too much to get your hands{br}on.{endFD}",
+  "en": "A brand-new Navi-Robo with a personality{br}imprint costs way too much to get your{br}hands on.{endFD}",
   "notes": ""
  },
  {
@@ -1265,7 +1265,7 @@
   "op": "ADBC42",
   "len": 27,
   "jp": "「大丈夫だ。助かる時は、みんな一緒さ。{end}",
-  "en": "\"You'll be fine. If we make it, we all make it{br}together.\"{end}",
+  "en": "\"You'll be fine. If we make it, we all make{br}it together.\"{end}",
   "notes": ""
  },
  {
@@ -1274,7 +1274,7 @@
   "op": "ADBC62",
   "len": 27,
   "jp": "兵士「お、おれはこんなとこで死ぬのは{br}いやだ。{end}",
-  "en": "Soldier: I-I don't want to die in a place like{br}this.{end}",
+  "en": "Soldier: I-I don't want to die in a place{br}like this.{end}",
   "notes": ""
  },
  {
@@ -1463,7 +1463,7 @@
   "op": "ADBF68",
   "len": 36,
   "jp": "きのう、あんたたち、ゲリラのランナー{br}やっつけた。だ…か…ら…。{end}",
-  "en": "Yesterday, you beat guerrilla runner. So...{br}so...{end}",
+  "en": "Yesterday, you beat guerrilla runner.{br}So... so...{end}",
   "notes": ""
  },
  {
@@ -1472,7 +1472,7 @@
   "op": "ADBF9E",
   "len": 22,
   "jp": "ナビロボ「政府軍ノ輸送機デス！{end}",
-  "en": "Navi-Robo: IT IS A GOVERNMENT ARMY{br}TRANSPORT!{end}",
+  "en": "Navi-Robo: IT IS A GOVERNMENT{br}ARMY TRANSPORT!{end}",
   "notes": ""
  },
  {
@@ -1508,7 +1508,7 @@
   "op": "ADC831",
   "len": 34,
   "jp": "アイリーン「ずっとうなされていたわ。{br}またいやな夢を見たのね。{end}",
-  "en": "Irene: You were tossing and turning the whole{br}time. You had that bad dream again, didn't{br}you?{end}",
+  "en": "Irene: You were tossing and turning the whole{br}time. You had that bad dream again,{br}didn't you?{end}",
   "notes": ""
  },
  {
@@ -1553,7 +1553,7 @@
   "op": "ADC8EC",
   "len": 34,
   "jp": "「{c0C:01}………。{br}お願い、そんなに自分を責めないで。{endFD}",
-  "en": "\"{c0C:01}...... Please, don't blame yourself so{br}much.\"{endFD}",
+  "en": "\"{c0C:01}...... Please, don't blame yourself{br}so much.\"{endFD}",
   "notes": ""
  },
  {
@@ -1562,7 +1562,7 @@
   "op": "ADC90F",
   "len": 53,
   "jp": "ここは戦場じゃないのよ。{br}私がいつもあなたの側にいるわ。{br}だから、つらい事はもう忘れて…。{end}",
-  "en": "This isn't a battlefield. I'm always right here{br}beside you. So please, forget those painful{br}things...{end}",
+  "en": "This isn't a battlefield. I'm always right here{br}beside you. So please, forget those{br}painful things...{end}",
   "notes": ""
  },
  {
@@ -1589,7 +1589,7 @@
   "op": "ADC9C2",
   "len": 28,
   "jp": "くそっ、切れたか。{br}チャイナタウンへ急がなければ！{end}",
-  "en": "Damn, the line's dead. I've got to hurry to{br}Chinatown!{end}",
+  "en": "Damn, the line's dead. I've got to hurry{br}to Chinatown!{end}",
   "notes": ""
  },
  {
@@ -1742,7 +1742,7 @@
   "op": "ADCD60",
   "len": 55,
   "jp": "テオ「先日は随分と派手にやりましたね。{br}おかげで、ネズミどもの動きが騒がしく{br}なりましたよ。{end}",
-  "en": "Theo: You certainly made a splash the other{br}day. Thanks to you, the rats are scurrying{br}about.{end}",
+  "en": "Theo: You certainly made a splash the other{br}day. Thanks to you, the rats are{br}scurrying about.{end}",
   "notes": ""
  },
  {
@@ -1877,7 +1877,7 @@
   "op": "ADD06C",
   "len": 39,
   "jp": "「最近多発しているバイオモンスターの{br}事件についてはどうなんだ？{end}",
-  "en": "\"What about all the bio-monster incidents{br}lately?\"{end}",
+  "en": "\"What about all the bio-monster{br}incidents lately?\"{end}",
   "notes": ""
  },
  {
@@ -1931,7 +1931,7 @@
   "op": "ADD1AF",
   "len": 63,
   "jp": "生まれは不明、居場所も不明。{br}金色のたてがみを持ち、非常に知能の{br}高いバイオモンスターです。{end}",
-  "en": "Origin unknown, whereabouts unknown. A{br}highly intelligent bio-monster with a golden{br}mane.{end}",
+  "en": "Origin unknown, whereabouts unknown. A{br}highly intelligent bio-monster with a{br}golden mane.{end}",
   "notes": ""
  },
  {
@@ -2084,7 +2084,7 @@
   "op": "ADD5EA",
   "len": 41,
   "jp": "リフ「あわてるな、あわてるな。作業が{br}終わるまで、息抜きでもしてこい。{end}",
-  "en": "Riff: Easy, easy. Go take a breather until I'm{br}done.{end}",
+  "en": "Riff: Easy, easy. Go take a breather until{br}I'm done.{end}",
   "notes": ""
  },
  {
@@ -2093,7 +2093,7 @@
   "op": "ADD627",
   "len": 47,
   "jp": "リフ「待ってたぞ、{c0C:01}。{br}どうじゃ、今までのランナーよりもずっと{br}パワーアップしたぞ。{endFD}",
-  "en": "Riff: Been waiting for you, {c0C:01}. How about{br}that? It's way more powerful than your old{br}runner.{endFD}",
+  "en": "Riff: Been waiting for you, {c0C:01}. How about{br}that? It's way more powerful than your{br}old runner.{endFD}",
   "notes": ""
  },
  {
@@ -2174,7 +2174,7 @@
   "op": "ADD791",
   "len": 31,
   "jp": "「すまない、リフ。{br}今ちょっと持ち合わせがないんだよ。{end}",
-  "en": "\"Sorry, Riff. I'm a little short on cash right{br}now.\"{end}",
+  "en": "\"Sorry, Riff. I'm a little short on cash{br}right now.\"{end}",
   "notes": ""
  },
  {
@@ -2228,7 +2228,7 @@
   "op": "ADD86F",
   "len": 32,
   "jp": "カーク「ワシはそういった遊びは気が{br}進まないのじゃがな。{end}",
-  "en": "Kirk: I must say, I have little taste for such{br}games.{end}",
+  "en": "Kirk: I must say, I have little taste for{br}such games.{end}",
   "notes": ""
  },
  {
@@ -2264,7 +2264,7 @@
   "op": "ADDB43",
   "len": 36,
   "jp": "カーク「イオンがさらわれたのか。とんでも{br}ない事になったものじゃな。{end}",
-  "en": "Kirk: Ion has been kidnapped? This is a fine{br}mess.{end}",
+  "en": "Kirk: Ion has been kidnapped? This is a{br}fine mess.{end}",
   "notes": ""
  },
  {
@@ -2417,7 +2417,7 @@
   "op": "ADDF94",
   "len": 60,
   "jp": "「この間、ババリアのアジトに侵入した{br}だろ？ きっとあれで、バイスハイトの奴が{br}危機感を覚えたんだぜ。{end}",
-  "en": "\"You broke into a Bavaria hideout the other{br}day, right? Bet that's what got Weissheit{br}spooked.\"{end}",
+  "en": "\"You broke into a Bavaria hideout the other{br}day, right? Bet that's what got{br}Weissheit spooked.\"{end}",
   "notes": ""
  },
  {
@@ -2525,7 +2525,7 @@
   "op": "ADE73A",
   "len": 61,
   "jp": "「賞金目当てのゴロツキよ。{br}どうせあいつらにデイモンは倒せないわ。{br}バイオモンスター辺りが良い相手ね。{endFD}",
-  "en": "\"Bounty-hunting thugs. They'll never beat{br}Daemon anyway. Bio-monsters are more their{br}speed.\"{endFD}",
+  "en": "\"Bounty-hunting thugs. They'll never beat{br}Daemon anyway. Bio-monsters are more{br}their speed.\"{endFD}",
   "notes": ""
  },
  {
@@ -2660,7 +2660,7 @@
   "op": "ADE985",
   "len": 34,
   "jp": "{c0C:01}「そうだったな。憎しみがどう{br}とか言っていたようだけど。{end}",
-  "en": "{c0C:01}: Yeah. She said something about{br}hatred.{end}",
+  "en": "{c0C:01}: Yeah. She said something{br}about hatred.{end}",
   "notes": ""
  },
  {
@@ -2732,7 +2732,7 @@
   "op": "ADEB72",
   "len": 29,
   "jp": "{c0C:01}「イオンの奴、遅いな。どこまで{br}行ったんだ？{end}",
-  "en": "{c0C:01}: Ion's taking her time. Where'd she{br}go?{end}",
+  "en": "{c0C:01}: Ion's taking her time. Where'd{br}she go?{end}",
   "notes": ""
  },
  {
@@ -2930,7 +2930,7 @@
   "op": "ADEF35",
   "len": 34,
   "jp": "ミネルバ「イオンは私が見ています。心配{br}しないで下さい。{end}",
-  "en": "Minerva: I'll look after Ion. Please don't{br}worry.{end}",
+  "en": "Minerva: I'll look after Ion. Please{br}don't worry.{end}",
   "notes": ""
  },
  {
@@ -2966,7 +2966,7 @@
   "op": "ADEFE8",
   "len": 37,
   "jp": "「{c0C:01}、動体反応を感知したぞ。{br}奴は倉庫の中じゃ！{end}",
-  "en": "\"{c0C:01}, I detect movement. It is inside the{br}warehouse!\"{end}",
+  "en": "\"{c0C:01}, I detect movement. It is inside{br}the warehouse!\"{end}",
   "notes": ""
  },
  {
@@ -2993,7 +2993,7 @@
   "op": "ADF427",
   "len": 36,
   "jp": "「お前の目的は何だ、なぜランナーを{br}襲ったりなんかするんだ？{end}",
-  "en": "\"What are you after? Why are you attacking{br}runners?\"{end}",
+  "en": "\"What are you after? Why are you{br}attacking runners?\"{end}",
   "notes": ""
  },
  {

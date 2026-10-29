@@ -14,7 +14,7 @@
   "op": "978751",
   "len": 63,
   "jp": "開局当初は小さなローカル局でした我が社も{br}今では世界中に番組を配信するまでに至り{br}ました。{end}",
-  "en": "We started out as a small local station, but{br}now we broadcast our programs all over the{br}world.{end}",
+  "en": "We started out as a small local station, but{br}now we broadcast our programs all over{br}the world.{end}",
   "notes": ""
  },
  {
@@ -41,7 +41,7 @@
   "op": "97881A",
   "len": 29,
   "jp": "{c0C:01}「サントスという記者に{br}会いたいんだけどな？{end}",
-  "en": "{c0C:01}: I'd like to see a reporter named{br}Santos.{end}",
+  "en": "{c0C:01}: I'd like to see a reporter{br}named Santos.{end}",
   "notes": ""
  },
  {
@@ -68,7 +68,7 @@
   "op": "9788A7",
   "len": 29,
   "jp": "受付嬢「ようこそSCBCへ。{br}何かご用ですか？{end}",
-  "en": "Receptionist: Welcome to SCBC. How may I help{br}you?{end}",
+  "en": "Receptionist: Welcome to SCBC. How may I{br}help you?{end}",
   "notes": ""
  },
  {
@@ -104,7 +104,7 @@
   "op": "978925",
   "len": 30,
   "jp": "じゃあ、君の事だったら詳しく教えて{br}くれるのかな？{end}",
-  "en": "Then how about you tell me all about{br}yourself?{end}",
+  "en": "Then how about you tell me all{br}about yourself?{end}",
   "notes": ""
  },
  {
@@ -122,7 +122,7 @@
   "op": "978963",
   "len": 20,
   "jp": "カーク「こりゃ、何をやっとるんじゃ。{end}",
-  "en": "Kirk: Here now, what do you think you're{br}doing?{end}",
+  "en": "Kirk: Here now, what do you think{br}you're doing?{end}",
   "notes": ""
  },
  {
@@ -176,7 +176,7 @@
   "op": "978AC5",
   "len": 54,
   "jp": "プロデューサー「今ソリッドシティで{br}人気のあるミュージシャンといったら{br}アンナ＝ケリーが1番だな。{end}",
-  "en": "Producer: If you're talking popular musicians{br}in Solid City right now, Anna Kelly is number{br}one.{end}",
+  "en": "Producer: If you're talking popular musicians{br}in Solid City right now, Anna Kelly is{br}number one.{end}",
   "notes": ""
  },
  {
@@ -185,7 +185,7 @@
   "op": "978B06",
   "len": 30,
   "jp": "「アンナ＝ケリーだったら、グラミー賞も{br}夢じゃないな。{end}",
-  "en": "\"Anna Kelly could even win a Grammy{br}someday.\"{end}",
+  "en": "\"Anna Kelly could even win a{br}Grammy someday.\"{end}",
   "notes": ""
  },
  {
@@ -248,7 +248,7 @@
   "op": "978CDE",
   "len": 56,
   "jp": "タレント「俺みたいな有名人になると{br}変な奴から嫌がらせの手紙が来たりして{br}困っちゃうよ。{end}",
-  "en": "Celebrity: When you're as famous as me, you{br}get creepy hate mail from weirdos. It's such a{br}pain.{end}",
+  "en": "Celebrity: When you're as famous as me, you{br}get creepy hate mail from weirdos. It's such{br}a pain.{end}",
   "notes": ""
  },
  {
@@ -275,7 +275,7 @@
   "op": "978DB2",
   "len": 40,
   "jp": "警備員「これより先は、関係者以外{br}立ち入り禁止です。{end}",
-  "en": "Guard: Beyond this point, authorized personnel{br}only.{end}",
+  "en": "Guard: Beyond this point, authorized{br}personnel only.{end}",
   "notes": ""
  },
  {
@@ -311,7 +311,7 @@
   "op": "978E88",
   "len": 40,
   "jp": "警備員「これより先は、関係者以外{br}立ち入り禁止です。{end}",
-  "en": "Guard: Beyond this point, authorized personnel{br}only.{end}",
+  "en": "Guard: Beyond this point, authorized{br}personnel only.{end}",
   "notes": ""
  },
  {
@@ -329,7 +329,7 @@
   "op": "978EE0",
   "len": 30,
   "jp": "{c0C:01}「おいおい、どこへ連れて{br}行こうっていうんだよ。{end}",
-  "en": "{c0C:01}: Hey, hey, where are you dragging{br}me?{end}",
+  "en": "{c0C:01}: Hey, hey, where are you{br}dragging me?{end}",
   "notes": ""
  },
  {
@@ -365,7 +365,7 @@
   "op": "978FAF",
   "len": 60,
   "jp": "警備員「あぁ、あんたかい。{br}報道局へ行くんだったら、勝手に{br}通って構わないよ。好きにしてくれ。{end}",
-  "en": "Guard: Oh, it's you. If you're heading to the{br}news department, go right ahead. Suit{br}yourself.{end}",
+  "en": "Guard: Oh, it's you. If you're heading to the{br}news department, go right ahead.{br}Suit yourself.{end}",
   "notes": ""
  },
  {
@@ -374,7 +374,7 @@
   "op": "97902C",
   "len": 35,
   "jp": "記者「サントス以外は、みんな取材で{br}出払っているよ。{end}",
-  "en": "Reporter: Everyone except Santos is out on{br}assignment.{end}",
+  "en": "Reporter: Everyone except Santos is out{br}on assignment.{end}",
   "notes": ""
  },
  {
@@ -428,7 +428,7 @@
   "op": "979164",
   "len": 53,
   "jp": "「おいおい頼むよ、起きてくれないか？{br}バイオモンスターのテロ集団について{br}話が聞きたいんだ。{end}",
-  "en": "\"C'mon, gimme a break. Could you wake up? I{br}want to hear about the bio-monster terrorist{br}gang.\"{end}",
+  "en": "\"C'mon, gimme a break. Could you wake up? I{br}want to hear about the bio-monster{br}terrorist gang.\"{end}",
   "notes": ""
  },
  {
@@ -518,7 +518,7 @@
   "op": "979407",
   "len": 34,
   "jp": "でもな、実を言うとおれも奴らの情報は{br}知らないんだよ。{end}",
-  "en": "But truth is, I don't have any info on them{br}either.{end}",
+  "en": "But truth is, I don't have any info on{br}them either.{end}",
   "notes": ""
  },
  {
@@ -554,7 +554,7 @@
   "op": "9794C3",
   "len": 26,
   "jp": "「そいつのビデオフォンナンバーも{br}知らないのか？{end}",
-  "en": "\"You don't even know his videophone{br}number?\"{end}",
+  "en": "\"You don't even know his{br}videophone number?\"{end}",
   "notes": ""
  },
  {
@@ -563,7 +563,7 @@
   "op": "9794DF",
   "len": 50,
   "jp": "「ああ、そうなんだよ。{br}でも安心しろ、そろそろビデオフォンが{br}かかってくるハズだ………。{endFD}",
-  "en": "\"Yeah, that's right. But relax, he should be{br}calling on the videophone any minute{br}now.........\"{endFD}",
+  "en": "\"Yeah, that's right. But relax, he should be{br}calling on the videophone any{br}minute now.........\"{endFD}",
   "notes": ""
  },
  {
@@ -617,7 +617,7 @@
   "op": "979620",
   "len": 41,
   "jp": "{c0C:01}「本当かい？{br}で、そいつとコンタクトを取るには{br}どうすればいいんだ？{end}",
-  "en": "{c0C:01}: Really? So how do I get in touch with{br}him?{end}",
+  "en": "{c0C:01}: Really? So how do I get in touch{br}with him?{end}",
   "notes": ""
  },
  {
@@ -689,7 +689,7 @@
   "op": "9797A5",
   "len": 57,
   "jp": "サントス「みんな情けないぜ。{br}ババリアなんかの言う事を聞いてたら、{br}ブン屋の名がすたるってもんだよ。{end}",
-  "en": "Santos: They're all pathetic. Doing what{br}Bavaria says is a disgrace to the name of{br}newshound.{end}",
+  "en": "Santos: They're all pathetic. Doing what{br}Bavaria says is a disgrace to the name{br}of newshound.{end}",
   "notes": ""
  },
  {
@@ -833,7 +833,7 @@
   "op": "97A0BA",
   "len": 35,
   "jp": "{c0C:01}「ア、アイリーン？{br}{c1A:1E}そんなバカな、アイリーンはもう…。{end}",
-  "en": "{c0C:01}: I-Irene? {c1A:1E}That's impossible, Irene's{br}already...{end}",
+  "en": "{c0C:01}: I-Irene? {c1A:1E}That's impossible,{br}Irene's already...{end}",
   "notes": ""
  },
  {
@@ -878,7 +878,7 @@
   "op": "97A18C",
   "len": 47,
   "jp": "今はツアーの真っ最中で、{br}明日はこのソリッドシティでも{br}ライブを行うんですよ。{endFD}",
-  "en": "She's in the middle of a tour right now, and{br}tomorrow she's doing a live show here in Solid{br}City.{endFD}",
+  "en": "She's in the middle of a tour right now, and{br}tomorrow she's doing a live show here in{br}Solid City.{endFD}",
   "notes": ""
  },
  {
@@ -950,7 +950,7 @@
   "op": "97A28D",
   "len": 33,
   "jp": "「カーク、彼がかわいそうだから{br}そのくらいにしときましょうよ。{end}",
-  "en": "\"Kirk, let's leave it at that. I feel sorry for{br}him.\"{end}",
+  "en": "\"Kirk, let's leave it at that. I feel sorry{br}for him.\"{end}",
   "notes": ""
  },
  {
@@ -1076,7 +1076,7 @@
   "op": "97A4A7",
   "len": 33,
   "jp": "「何よ、まさかあなたストーカーが{br}怖いんじゃないでしょうね？{end}",
-  "en": "\"What? Don't tell me you're scared of a{br}stalker?\"{end}",
+  "en": "\"What? Don't tell me you're scared of{br}a stalker?\"{end}",
   "notes": ""
  },
  {
@@ -1103,7 +1103,7 @@
   "op": "97A535",
   "len": 35,
   "jp": "「オレの仕事は映画でやってる程{br}カッコイイものじゃないぜ。{end}",
-  "en": "\"My job's not as cool as it looks in the{br}movies.\"{end}",
+  "en": "\"My job's not as cool as it looks in{br}the movies.\"{end}",
   "notes": ""
  },
  {
@@ -1112,7 +1112,7 @@
   "op": "97A55C",
   "len": 58,
   "jp": "「とにかく話が決まって良かった。{br}これから番組の収録がありますから、{br}スタジオへ移動しましょう。{end}",
-  "en": "\"Anyway, I'm glad that's settled. We have a{br}show to record now, so let's head to the{br}studio.\"{end}",
+  "en": "\"Anyway, I'm glad that's settled. We have a{br}show to record now, so let's head to{br}the studio.\"{end}",
   "notes": ""
  },
  {
@@ -1130,7 +1130,7 @@
   "op": "97A681",
   "len": 38,
   "jp": "イオン「彼女の身辺は私がガードするから{br}あなたは外をお願い。{end}",
-  "en": "Ion: I'll guard her up close, so you watch the{br}outside.{end}",
+  "en": "Ion: I'll guard her up close, so you watch{br}the outside.{end}",
   "notes": ""
  },
  {
@@ -1148,7 +1148,7 @@
   "op": "97A6D4",
   "len": 39,
   "jp": "「あなたみたいな男を彼女にベッタリ{br}くっつけとく訳にはいかないわよ。{end}",
-  "en": "\"I can't have a guy like you glued to her{br}side.\"{end}",
+  "en": "\"I can't have a guy like you glued to{br}her side.\"{end}",
   "notes": ""
  },
  {
@@ -1328,7 +1328,7 @@
   "op": "97AA10",
   "len": 37,
   "jp": "もしかしたら、アンナを憎んでいる奴が{br}誰かをやとっているのかもな。{end}",
-  "en": "Or maybe someone who hates Anna hired{br}somebody.{end}",
+  "en": "Or maybe someone who hates Anna{br}hired somebody.{end}",
   "notes": ""
  },
  {
@@ -1418,7 +1418,7 @@
   "op": "97AC21",
   "len": 37,
   "jp": "「アンナの悪口は言わないで。{br}私と彼女は、お友達なのよ。{end}",
-  "en": "\"Don't speak badly of Anna. She and I are{br}friends.\"{end}",
+  "en": "\"Don't speak badly of Anna. She and I{br}are friends.\"{end}",
   "notes": ""
  },
  {
@@ -1445,7 +1445,7 @@
   "op": "97ACAA",
   "len": 31,
   "jp": "カーク「ワシはお前の方にも原因が{br}あると思うがな。{end}",
-  "en": "Kirk: I rather think you share some of the{br}blame.{end}",
+  "en": "Kirk: I rather think you share some of{br}the blame.{end}",
   "notes": ""
  },
  {
@@ -1472,7 +1472,7 @@
   "op": "97AD33",
   "len": 31,
   "jp": "ロドリゲス「いいんです。{br}彼女とは別収録ですから。{end}",
-  "en": "Rodriguez: It's fine. She's recording{br}separately.{end}",
+  "en": "Rodriguez: It's fine. She's{br}recording separately.{end}",
   "notes": ""
  },
  {
@@ -1625,7 +1625,7 @@
   "op": "97AFDF",
   "len": 24,
   "jp": "「何だよ、またオレは邪魔者扱いかよ。{end}",
-  "en": "\"What, I'm getting treated like I'm in the way{br}again?\"{end}",
+  "en": "\"What, I'm getting treated like I'm in the{br}way again?\"{end}",
   "notes": ""
  },
  {
@@ -1652,7 +1652,7 @@
   "op": "97B03C",
   "len": 35,
   "jp": "「あ、あの…{c0C:01}さん。{br}明日はどうかよろしくお願いします。{end}",
-  "en": "\"Um, er... {c0C:01}-san. Please take care of me{br}tomorrow.\"{end}",
+  "en": "\"Um, er... {c0C:01}-san. Please take care of{br}me tomorrow.\"{end}",
   "notes": ""
  },
  {
@@ -1679,7 +1679,7 @@
   "op": "97B0A2",
   "len": 55,
   "jp": "「それじゃあ、お願いね。{br}フラフラ遊んだりしないで、家に帰って{br}ランナーの整備でもしておくのよ。{end}",
-  "en": "\"I'm counting on you, then. No goofing around{br}- go home and do some maintenance on your{br}runner.\"{end}",
+  "en": "\"I'm counting on you, then. No goofing around{br}- go home and do some maintenance on{br}your runner.\"{end}",
   "notes": ""
  },
  {
@@ -1688,7 +1688,7 @@
   "op": "97B35D",
   "len": 53,
   "jp": "イオン「警察の調べでは、{br}ハンスの動機はシェリーにとってアンナが{br}邪魔だったからだそうよ。{endFD}",
-  "en": "Ion: According to the police investigation,{br}Hans's motive was that Anna was in Sherry's{br}way.{endFD}",
+  "en": "Ion: According to the police investigation,{br}Hans's motive was that Anna was in{br}Sherry's way.{endFD}",
   "notes": ""
  },
  {
@@ -1823,7 +1823,7 @@
   "op": "97B576",
   "len": 36,
   "jp": "{c0C:01}「これからは彼女の気持ちを{br}よく考えてあげる事だな。{endFD}",
-  "en": "{c0C:01}: From now on, think about how she{br}feels.{endFD}",
+  "en": "{c0C:01}: From now on, think about how{br}she feels.{endFD}",
   "notes": ""
  },
  {
@@ -1850,7 +1850,7 @@
   "op": "97B5F2",
   "len": 25,
   "jp": "「オレだって、たまにはこういう事も{br}言うさ。{end}",
-  "en": "\"Hey, even I say stuff like that once in a{br}while.\"{end}",
+  "en": "\"Hey, even I say stuff like that once in{br}a while.\"{end}",
   "notes": ""
  },
  {
@@ -1859,7 +1859,7 @@
   "op": "97B610",
   "len": 50,
   "jp": "「{c0C:01}、イオン、本当にありがとう。{br}これで、この後のツアーも安心して{br}続けられます。{end}",
-  "en": "\"{c0C:01}, Ion, thank you so much. Now I can{br}go on with the rest of the tour without{br}worrying.\"{end}",
+  "en": "\"{c0C:01}, Ion, thank you so much. Now I can{br}go on with the rest of the tour{br}without worrying.\"{end}",
   "notes": ""
  },
  {
@@ -1913,7 +1913,7 @@
   "op": "97B717",
   "len": 59,
   "jp": "でも、あなたを好きでいる事はやめない。{br}いつかこの想いが通じるまで、{br}あたし、心をこめて歌い続けます！{end}",
-  "en": "But I won't stop loving you. Until the day my{br}feelings reach you, I'll keep singing with all my{br}heart!{end}",
+  "en": "But I won't stop loving you. Until the day my{br}feelings reach you, I'll keep singing with all{br}my heart!{end}",
   "notes": ""
  },
  {
@@ -1940,7 +1940,7 @@
   "op": "97B784",
   "len": 27,
   "jp": "イオン「ちょっと{c0C:01}、{br}顔がデレデレしてるわよ。{end}",
-  "en": "Ion: Hey, {c0C:01}, your face has gone all{br}mushy.{end}",
+  "en": "Ion: Hey, {c0C:01}, your face has gone{br}all mushy.{end}",
   "notes": ""
  },
  {
@@ -2066,7 +2066,7 @@
   "op": "97BAE2",
   "len": 52,
   "jp": "コンピューターの{br}シンクロについて。元イギリス軍の研究者{br}トーマスの確保を要請…。{endFD}",
-  "en": "Regarding computer synchronization. Request{br}to secure former British Army researcher{br}Thomas...{endFD}",
+  "en": "Regarding computer synchronization. Request{br}to secure former British Army{br}researcher Thomas...{endFD}",
   "notes": ""
  },
  {
@@ -2138,7 +2138,7 @@
   "op": "97C230",
   "len": 33,
   "jp": "「へぇ、まるで人間自体まで管理している{br}みたいだな。{end}",
-  "en": "\"Huh. Sounds like it's managing the people{br}themselves.\"{end}",
+  "en": "\"Huh. Sounds like it's managing the{br}people themselves.\"{end}",
   "notes": ""
  },
  {
@@ -2327,7 +2327,7 @@
   "op": "97C51D",
   "len": 68,
   "jp": "我々は、このソリッドシティの安定の為に{br}働いているが、その為には解決しなくては{br}ならない数多くの問題がある。{endFD}",
-  "en": "We work for the stability of Solid City, but to{br}that end there are many problems we must{br}solve.{endFD}",
+  "en": "We work for the stability of Solid City, but to{br}that end there are many problems we{br}must solve.{endFD}",
   "notes": ""
  },
  {
@@ -2354,7 +2354,7 @@
   "op": "97C5C4",
   "len": 23,
   "jp": "もちろん、報酬の方は心配いらない。{end}",
-  "en": "Naturally, you needn't worry about the{br}reward.{end}",
+  "en": "Naturally, you needn't worry about{br}the reward.{end}",
   "notes": ""
  },
  {
@@ -2471,7 +2471,7 @@
   "op": "97C83C",
   "len": 32,
   "jp": "「あんたの所の依頼はもう引き受けたく{br}ないんだがな。{end}",
-  "en": "\"I'd rather not take any more jobs from your{br}lot.\"{end}",
+  "en": "\"I'd rather not take any more jobs from{br}your lot.\"{end}",
   "notes": ""
  },
  {
@@ -2480,7 +2480,7 @@
   "op": "97C85E",
   "len": 35,
   "jp": "「その病院がババリアに関係しているかも{br}知れないとしたら？{end}",
-  "en": "\"What if that hospital were connected to{br}Bavaria?\"{end}",
+  "en": "\"What if that hospital were connected{br}to Bavaria?\"{end}",
   "notes": ""
  },
  {
@@ -2606,7 +2606,7 @@
   "op": "97CCEB",
   "len": 60,
   "jp": "なぜババリアがそんな研究をしていたのか、{br}なぜピラーニャ・プレタの患者を使って{br}実験をしていたのか…。{end}",
-  "en": "Why was Bavaria doing that research? Why{br}were they experimenting on Piranha Preta{br}patients...?{end}",
+  "en": "Why was Bavaria doing that research? Why{br}were they experimenting on Piranha{br}Preta patients...?{end}",
   "notes": ""
  },
  {
@@ -2669,7 +2669,7 @@
   "op": "97CE2C",
   "len": 28,
   "jp": "「部下には、目を離さぬよう命じて{br}あります。{end}",
-  "en": "\"I've ordered my men to keep a close eye on{br}him.\"{end}",
+  "en": "\"I've ordered my men to keep a close eye{br}on him.\"{end}",
   "notes": ""
  },
  {
@@ -2741,7 +2741,7 @@
   "op": "97D056",
   "len": 54,
   "jp": "「違う、コンピューターは正常だ。何者かが{br}外部から侵入して、制御を移しているんだ。{end}",
-  "en": "\"No, the computer's working fine. Someone's{br}broken in from outside and is taking over{br}control.\"{end}",
+  "en": "\"No, the computer's working fine. Someone's{br}broken in from outside and is taking{br}over control.\"{end}",
   "notes": ""
  },
  {
@@ -2786,7 +2786,7 @@
   "op": "97D16C",
   "len": 23,
   "jp": "「何だ、お前らは。一体どういう…。{end}",
-  "en": "\"What? Who are you people? What's going{br}on...?\"{end}",
+  "en": "\"What? Who are you people? What's{br}going on...?\"{end}",
   "notes": ""
  },
  {
@@ -2867,7 +2867,7 @@
   "op": "97D637",
   "len": 58,
   "jp": "「クックック。これから、この街は{br}バイスハイト様によって統治されるんだ。{br}もうあなたは用済みなんだよ。{endFD}",
-  "en": "\"Heh heh heh. From now on, this city will be{br}ruled by Weissheit-sama. You've outlived your{br}usefulness.\"{endFD}",
+  "en": "\"Heh heh heh. From now on, this city will be{br}ruled by Weissheit-sama. You've outlived{br}your usefulness.\"{endFD}",
   "notes": ""
  },
  {
@@ -2948,7 +2948,7 @@
   "op": "97D8F1",
   "len": 55,
   "jp": "ブランドル「全て順調です。{br}作戦通りババリアのアジトを包囲し、攻撃を{br}行っております。{endFD}",
-  "en": "Brundle: All going smoothly. As planned, we've{br}surrounded the Bavaria hideout and are{br}attacking.{endFD}",
+  "en": "Brundle: All going smoothly. As planned, we've{br}surrounded the Bavaria hideout and{br}are attacking.{endFD}",
   "notes": ""
  },
  {
@@ -3083,7 +3083,7 @@
   "op": "97ECA1",
   "len": 24,
   "jp": "ウイルスの実験は順調に進行中…{end}",
-  "en": "The virus experiments are proceeding{br}smoothly...{end}",
+  "en": "The virus experiments are{br}proceeding smoothly...{end}",
   "notes": ""
  },
  {
@@ -3092,7 +3092,7 @@
   "op": "97ECC0",
   "len": 27,
   "jp": "{c0C:01}「ウイルス？ 実験？ …何の{br}事だ？{end}",
-  "en": "{c0C:01}: Virus? Experiments? ...What's this{br}about?{end}",
+  "en": "{c0C:01}: Virus? Experiments? ...What's{br}this about?{end}",
   "notes": ""
  },
  {
@@ -3173,7 +3173,7 @@
   "op": "97EE3D",
   "len": 19,
   "jp": "「くそっ、何て事をしやがるんだ。{end}",
-  "en": "\"Damn it, how could they do something like{br}this?\"{end}",
+  "en": "\"Damn it, how could they do something{br}like this?\"{end}",
   "notes": ""
  },
  {
@@ -3227,7 +3227,7 @@
   "op": "97EFA8",
   "len": 57,
   "jp": "カーク「人間の死体じゃな。{br}中をスキャンしてみたが、どれも原型を{br}とどめておらぬ。ひどいものじゃ。{end}",
-  "en": "Kirk: Human corpses. I scanned inside, and{br}none of them retain their original shape.{br}Ghastly.{end}",
+  "en": "Kirk: Human corpses. I scanned inside, and{br}none of them retain their original{br}shape. Ghastly.{end}",
   "notes": ""
  },
  {

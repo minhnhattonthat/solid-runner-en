@@ -5,7 +5,7 @@
   "op": "9381CB",
   "len": 33,
   "jp": "店のオヤジ「やぁ、いらっしゃい。{br}あんた、ここは初めてだね。{end}",
-  "en": "Shopkeeper: Hey, welcome. First time here,{br}huh?{end}",
+  "en": "Shopkeeper: Hey, welcome.{br}First time here, huh?{end}",
   "notes": ""
  },
  {
@@ -356,7 +356,7 @@
   "op": "93EB9B",
   "len": 21,
   "jp": "「何とか探索して行くしかないな。{end}",
-  "en": "\"Guess we'll just have to search our way{br}through.\"{end}",
+  "en": "\"Guess we'll just have to search our{br}way through.\"{end}",
   "notes": ""
  },
  {
@@ -455,7 +455,7 @@
   "op": "93F03E",
   "len": 31,
   "jp": "{c0C:01}「うう、ここはどこだ。オレは{br}どうなってしまったんだ？{endFD}",
-  "en": "{c0C:01}: Ugh, where am I? What's happened to{br}me?{endFD}",
+  "en": "{c0C:01}: Ugh, where am I? What's happened{br}to me?{endFD}",
   "notes": ""
  },
  {
@@ -554,7 +554,7 @@
   "op": "93F19E",
   "len": 34,
   "jp": "「安心しろ、{c0C:01}。お前はランナーに{br}取り込まれはせぬ。{end}",
-  "en": "\"Fear not, {c0C:01}. The runner shan't swallow{br}you.\"{end}",
+  "en": "\"Fear not, {c0C:01}. The runner shan't{br}swallow you.\"{end}",
   "notes": ""
  },
  {
@@ -572,7 +572,7 @@
   "op": "93F1D7",
   "len": 48,
   "jp": "「人間がランナーに取り込まれるのを防ぐ{br}機能がワシの中に隠されていたのじゃ。{endFD}",
-  "en": "\"There was a function hidden inside me that{br}stops a human from being swallowed by a{br}runner.\"{endFD}",
+  "en": "\"There was a function hidden inside me that{br}stops a human from being swallowed by{br}a runner.\"{endFD}",
   "notes": ""
  },
  {
@@ -581,7 +581,7 @@
   "op": "93F208",
   "len": 56,
   "jp": "どうやらスクラップにされかかった時から、{br}プログラムの存在自体を見失ってしまって{br}いたようじゃ。{end}",
-  "en": "It seems that ever since I was nearly{br}scrapped, I'd lost track of the program's very{br}existence.{end}",
+  "en": "It seems that ever since I was nearly{br}scrapped, I'd lost track of the program's{br}very existence.{end}",
   "notes": ""
  },
  {
@@ -617,7 +617,7 @@
   "op": "93F2E7",
   "len": 63,
   "jp": "「そうじゃ。ワシの元の主人じゃった将軍は{br}プロトタイプではあるが、その機能をワシに{br}組み込んでいたのじゃ。{end}",
-  "en": "\"Just so. The General, my former master, built{br}that function into me, though only as a{br}prototype.\"{end}",
+  "en": "\"Just so. The General, my former master, built{br}that function into me, though only as{br}a prototype.\"{end}",
   "notes": ""
  },
  {
@@ -635,7 +635,7 @@
   "op": "93F351",
   "len": 43,
   "jp": "「言ったじゃろう、ワシは『特別』じゃと。{br}じゃから安心するんじゃ、{c0C:01}。{endFD}",
-  "en": "\"Didn't I tell you? I'm 'special.' So rest easy,{br}{c0C:01}.\"{endFD}",
+  "en": "\"Didn't I tell you? I'm 'special.' So rest{br}easy, {c0C:01}.\"{endFD}",
   "notes": ""
  },
  {
@@ -644,7 +644,7 @@
   "op": "93F37D",
   "len": 63,
   "jp": "ワシも、お前との生活を楽しかったと思って{br}おるよ。ワシらは良き相棒、いや親友とでも{br}いう仲じゃったな。{end}",
-  "en": "I too have enjoyed our life together. We were{br}good partners - no, best friends, you might{br}say.{end}",
+  "en": "I too have enjoyed our life together. We were{br}good partners - no, best friends, you{br}might say.{end}",
   "notes": ""
  },
  {

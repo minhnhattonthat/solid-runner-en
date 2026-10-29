@@ -208,7 +208,8 @@ spaces round the slash: " / " is a forced line break).
   インフォメーション Information; データライブラリー Data Library; タレコミ情報 tip-off; チューンアップ tune-up;
   改造 modification; 強化 upgrade; 装甲 armor; 辻ランナー rogue runner; ランナー使い runner pilot; G (money) G.
 - Stats: 攻撃力 Attack; 防御力 Defense; 反応速度 Reaction Speed; 命中(率) Accuracy; 回避率 Evasion; 発射数 Shots;
-  弾倉 Magazine; 経験値 EXP; 防御 (command) Guard. Parts slots: 左肩 Left Shoulder, 右肩 Right Shoulder, 左腕 Left
+  弾倉 Magazine; 経験値 EXP; 防御 (command) Guard. Shop parts view only (3-cell labels before the values): 命中
+  Hit, 弾倉 Ammo. Parts slots: 左肩 Left Shoulder, 右肩 Right Shoulder, 左腕 Left
   Arm, 右腕 Right Arm (never L./R.).
 - Weapon types: ライフル rifle, マシンガン machine gun, ショットガン shotgun, グレネードガン grenade gun, バズーカ
   bazooka, ミサイルポッド missile pod, ガンポッド gun pod, パイルバンカー pile bunker, アームスパイク arm spike,

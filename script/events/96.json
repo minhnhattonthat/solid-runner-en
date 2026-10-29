@@ -5,7 +5,7 @@
   "op": "9682C2",
   "len": 40,
   "jp": "{c0C:01}「行きづまった時は現場に戻る。{br}これが捜査の鉄則だな。{end}",
-  "en": "{c0C:01}: When you hit a dead end, go back to{br}the scene. That's the golden rule of detective{br}work.{end}",
+  "en": "{c0C:01}: When you hit a dead end, go back to{br}the scene. That's the golden rule of{br}detective work.{end}",
   "notes": ""
  },
  {
@@ -32,7 +32,7 @@
   "op": "968509",
   "len": 55,
   "jp": "ナビロボ「…ピッピッピ。{br}生体反応不明、動体反応不明、{br}安全度不明デス。{end}",
-  "en": "Navi-Robo: ...BEEP BEEP BEEP. LIFE SIGNS{br}UNKNOWN. MOTION UNKNOWN. SAFETY LEVEL{br}UNKNOWN.{end}",
+  "en": "Navi-Robo: ...BEEP BEEP BEEP. LIFE SIGNS{br}UNKNOWN. MOTION UNKNOWN. SAFETY{br}LEVEL UNKNOWN.{end}",
   "notes": ""
  },
  {
@@ -131,7 +131,7 @@
   "op": "9687A3",
   "len": 40,
   "jp": "{c0C:01}「行きづまった時は現場に戻る。{br}これが捜査の鉄則だな。{end}",
-  "en": "{c0C:01}: When you hit a dead end, go back to{br}the scene. That's the golden rule of detective{br}work.{end}",
+  "en": "{c0C:01}: When you hit a dead end, go back to{br}the scene. That's the golden rule of{br}detective work.{end}",
   "notes": ""
  },
  {
@@ -167,7 +167,7 @@
   "op": "9688AA",
   "len": 59,
   "jp": "「もう、ソリッドシティはババリアの{br}ものなんだ。逆らうなんて利口な考え{br}じゃないよ。あんたもそう思うだろ？{end}",
-  "en": "\"Solid City belongs to Bavaria now. Fighting{br}them isn't a smart idea. Don't you think so{br}too?\"{end}",
+  "en": "\"Solid City belongs to Bavaria now. Fighting{br}them isn't a smart idea. Don't you think{br}so too?\"{end}",
   "notes": ""
  },
  {
@@ -230,7 +230,7 @@
   "op": "968A55",
   "len": 57,
   "jp": "「私の夫は、ババリアに逆らったばかりに{br}奴らに殺されました。{br}もう、どうしたら良いのか………。{end}",
-  "en": "\"My husband stood up to Bavaria, and they{br}killed him for it. I don't know what to do{br}anymore.........\"{end}",
+  "en": "\"My husband stood up to Bavaria, and they{br}killed him for it. I don't know what to{br}do anymore.........\"{end}",
   "notes": ""
  },
  {
@@ -302,7 +302,7 @@
   "op": "968C50",
   "len": 58,
   "jp": "「私のような年寄りが不自由なく暮らせる{br}ようになったのも、バイオ技術が発達した{br}おかげです。{end}",
-  "en": "\"It's thanks to advances in biotechnology that{br}an old person like me can live without{br}hardship.\"{end}",
+  "en": "\"It's thanks to advances in biotechnology that{br}an old person like me can live{br}without hardship.\"{end}",
   "notes": ""
  },
  {
@@ -374,7 +374,7 @@
   "op": "968E4E",
   "len": 37,
   "jp": "「…{c1A:3C}お前もミネルバみたいな性格だったら{br}良いんだけどな。{end}",
-  "en": "\"...{c1A:3C}If only you had a personality like{br}Minerva's.\"{end}",
+  "en": "\"...{c1A:3C}If only you had a personality{br}like Minerva's.\"{end}",
   "notes": ""
  },
  {
@@ -383,7 +383,7 @@
   "op": "968E75",
   "len": 31,
   "jp": "「まだ分かっとらんようじゃな。ワシは{br}特別なんじゃぞ。{end}",
-  "en": "\"You still don't understand, do you? I am{br}special.\"{end}",
+  "en": "\"You still don't understand, do you? I{br}am special.\"{end}",
   "notes": ""
  },
  {
@@ -464,7 +464,7 @@
   "op": "96904A",
   "len": 41,
   "jp": "「何か様子がおかしいというのは気がついた{br}けど、{c1A:28}何があったんだ？{end}",
-  "en": "\"I noticed something was off, but {c1A:28}what{br}happened?\"{end}",
+  "en": "\"I noticed something was off, but{br}{c1A:28}what happened?\"{end}",
   "notes": ""
  },
  {
@@ -482,7 +482,7 @@
   "op": "9690AA",
   "len": 35,
   "jp": "「街をコントロールするコンピューターが{br}ハックされたっていうのか？{end}",
-  "en": "\"The computer that controls the city got{br}hacked?\"{end}",
+  "en": "\"The computer that controls the city{br}got hacked?\"{end}",
   "notes": ""
  },
  {
@@ -536,7 +536,7 @@
   "op": "9691B1",
   "len": 59,
   "jp": "「サイコダイブは初めてだ。だが、イオンの{br}居場所を見つけるにはこれしかないんだろ？{br}だったらやるしかない。{end}",
-  "en": "\"It's my first Psycho Dive. But it's the only{br}way to find Ion, right? Then I've got to do{br}it.\"{end}",
+  "en": "\"It's my first Psycho Dive. But it's the only{br}way to find Ion, right? Then I've got to{br}do it.\"{end}",
   "notes": ""
  },
  {
@@ -644,7 +644,7 @@
   "op": "9693B2",
   "len": 28,
   "jp": "ミネルバ「{c0C:01}さん、{br}イオンの事をお願いします。{end}",
-  "en": "Minerva: {c0C:01}-san, please take care of{br}Ion.{end}",
+  "en": "Minerva: {c0C:01}-san, please take care{br}of Ion.{end}",
   "notes": ""
  },
  {
@@ -680,7 +680,7 @@
   "op": "9694F2",
   "len": 55,
   "jp": "私を隠すのが精一杯で、イオンはここへ{br}現れたババリアの男たちに連れ去られて{br}しまいました。{end}",
-  "en": "All she could do was hide me, and then{br}Bavaria's men showed up here and took Ion{br}away.{end}",
+  "en": "All she could do was hide me, and then{br}Bavaria's men showed up here and took{br}Ion away.{end}",
   "notes": ""
  },
  {
@@ -716,7 +716,7 @@
   "op": "96A092",
   "len": 34,
   "jp": "「えっ？ シスターから…？{br}あなた、シスターの知り合いなの？{end}",
-  "en": "\"Huh? From the Sister...? You know the{br}Sister?\"{end}",
+  "en": "\"Huh? From the Sister...? You know{br}the Sister?\"{end}",
   "notes": ""
  },
  {
@@ -725,7 +725,7 @@
   "op": "96A0B6",
   "len": 37,
   "jp": "「ああ。小さい頃、よくイタズラをして{br}あの婆さんに怒られてたよ。{endFD}",
-  "en": "\"Yeah. When I was little I was always pulling{br}pranks and getting chewed out by the old{br}bag.\"{endFD}",
+  "en": "\"Yeah. When I was little I was always pulling{br}pranks and getting chewed out by the{br}old bag.\"{endFD}",
   "notes": ""
  },
  {
@@ -950,7 +950,7 @@
   "op": "96B13D",
   "len": 39,
   "jp": "「アハハハ〜何だぁお前は？{br}ランナーなんかに乗ってバカじゃないのか？{end}",
-  "en": "\"Ahahaha... What're you supposed to be? Ridin'{br}around in a runner, are you stupid or{br}somethin'?\"{end}",
+  "en": "\"Ahahaha... What're you supposed to be? Ridin'{br}around in a runner, are you stupid{br}or somethin'?\"{end}",
   "notes": ""
  },
  {
@@ -968,7 +968,7 @@
   "op": "96B19D",
   "len": 30,
   "jp": "「ヘヘヘヘ、気持ちイイなぁ〜。{br}ここは最高だぁ。{end}",
-  "en": "\"Heheheh, feels sooo good... This place is the{br}best...\"{end}",
+  "en": "\"Heheheh, feels sooo good... This place is{br}the best...\"{end}",
   "notes": ""
  },
  {
@@ -1031,7 +1031,7 @@
   "op": "96B2D8",
   "len": 28,
   "jp": "{c0C:01}「ここのラインには何も{br}流れてないようだな。{end}",
-  "en": "{c0C:01}: Looks like nothing's running on this{br}line.{end}",
+  "en": "{c0C:01}: Looks like nothing's running on{br}this line.{end}",
   "notes": ""
  },
  {
@@ -1040,7 +1040,7 @@
   "op": "96B2FE",
   "len": 25,
   "jp": "カーク「{c0C:01}、ここが動力室の{br}ようじゃ。{end}",
-  "en": "Kirk: {c0C:01}, this appears to be the power{br}room.{end}",
+  "en": "Kirk: {c0C:01}, this appears to be the{br}power room.{end}",
   "notes": ""
  },
  {
@@ -1130,7 +1130,7 @@
   "op": "96B649",
   "len": 35,
   "jp": "カーク「わしのセンサーに{br}感知されないとは、大したものじゃな。{end}",
-  "en": "Kirk: Slipping past my sensors - quite{br}impressive.{end}",
+  "en": "Kirk: Slipping past my sensors -{br}quite impressive.{end}",
   "notes": ""
  },
  {
@@ -1175,7 +1175,7 @@
   "op": "96B704",
   "len": 60,
   "jp": "「そうか…。ひょっとしたら、お前とは{br}仲間になれそうな気がしたのだがな。{br}まぁいい、引き揚げるとしよう。{end}",
-  "en": "\"I see... I had a feeling we might be able to{br}become comrades. Well, no matter. I'll take my{br}leave.\"{end}",
+  "en": "\"I see... I had a feeling we might be able to{br}become comrades. Well, no matter. I'll take{br}my leave.\"{end}",
   "notes": ""
  },
  {
@@ -1193,7 +1193,7 @@
   "op": "96B769",
   "len": 32,
   "jp": "「オレを仲間にだと…？{br}奴め、何を考えているんだ。{end}",
-  "en": "\"Make me his comrade...? What's that guy{br}thinking?\"{end}",
+  "en": "\"Make me his comrade...? What's that{br}guy thinking?\"{end}",
   "notes": ""
  },
  {
@@ -1211,7 +1211,7 @@
   "op": "96BCB1",
   "len": 37,
   "jp": "カーク「バーサティリティーという{br}タイプじゃな。無人で動いておる。{end}",
-  "en": "Kirk: A Versatility type. It's running{br}unmanned.{end}",
+  "en": "Kirk: A Versatility type. It's{br}running unmanned.{end}",
   "notes": ""
  },
  {
@@ -1247,7 +1247,7 @@
   "op": "96C215",
   "len": 39,
   "jp": "{c0C:01}「依頼を受けて来たんだが、{br}ここの店長はどこにいるんだい？{end}",
-  "en": "{c0C:01}: I'm here about a job. Where's the{br}manager?{end}",
+  "en": "{c0C:01}: I'm here about a job. Where's{br}the manager?{end}",
   "notes": ""
  },
  {
@@ -1328,7 +1328,7 @@
   "op": "96C502",
   "len": 28,
   "jp": "{c0C:01}「へぇ、人格の刷り込みを{br}してあるのか。{end}",
-  "en": "{c0C:01}: Huh, so you've had a personality{br}imprinted.{end}",
+  "en": "{c0C:01}: Huh, so you've had a{br}personality imprinted.{end}",
   "notes": ""
  },
  {
@@ -1418,7 +1418,7 @@
   "op": "96C777",
   "len": 61,
   "jp": "「いいえ、それが違うのよ。{br}さっき、彼女の意識をサルベージする為に{br}電脳空間にダイブしてみたんだけど{endFD}",
-  "en": "\"No, that's not it. A little while ago I dove{br}into cyberspace to salvage her consciousness,{br}and...\"{endFD}",
+  "en": "\"No, that's not it. A little while ago I dove{br}into cyberspace to salvage her{br}consciousness, and...\"{endFD}",
   "notes": ""
  },
  {
@@ -1490,7 +1490,7 @@
   "op": "96C93B",
   "len": 32,
   "jp": "「そのホストセンターの中に{br}まだ人間は残っているのか？{end}",
-  "en": "\"Are there still people inside that Host{br}Center?\"{end}",
+  "en": "\"Are there still people inside that{br}Host Center?\"{end}",
   "notes": ""
  },
  {
@@ -1508,7 +1508,7 @@
   "op": "96C998",
   "len": 56,
   "jp": "「おそらくセキュリティシステムを{br}乗っ取られてしまったせいで、外界と{br}連絡がつかなくなってるのよ。{endFD}",
-  "en": "\"Probably because the security system was{br}taken over, they've lost contact with the{br}outside.\"{endFD}",
+  "en": "\"Probably because the security system was{br}taken over, they've lost contact with{br}the outside.\"{endFD}",
   "notes": ""
  },
  {
@@ -1634,7 +1634,7 @@
   "op": "96CC33",
   "len": 34,
   "jp": "「あなたは疲れてるのよ。もう少し横に{br}なって休むといいわ。{end}",
-  "en": "\"You're tired. Lie down and rest a little{br}longer.\"{end}",
+  "en": "\"You're tired. Lie down and rest a{br}little longer.\"{end}",
   "notes": ""
  },
  {
@@ -1742,7 +1742,7 @@
   "op": "96D42D",
   "len": 31,
   "jp": "{c0C:01}「次回リリース予定の{br}VRゲームのポスターだ。{end}",
-  "en": "{c0C:01}: A poster for a VR game coming out{br}next.{end}",
+  "en": "{c0C:01}: A poster for a VR game coming{br}out next.{end}",
   "notes": ""
  },
  {
@@ -1778,7 +1778,7 @@
   "op": "96DE2D",
   "len": 27,
   "jp": "{c0C:01}「ダメだ、ロックされていて{br}ドアが開かない。{end}",
-  "en": "{c0C:01}: No good, it's locked. The door won't{br}open.{end}",
+  "en": "{c0C:01}: No good, it's locked. The door{br}won't open.{end}",
   "notes": ""
  },
  {
@@ -1841,7 +1841,7 @@
   "op": "96DF83",
   "len": 65,
   "jp": "もしも、モンスターを先に倒してしまうと{br}彼女の意識がダメージを受ける恐れが{br}あるから、十分気を付けてよ。{end}",
-  "en": "If you defeat the monster first, her{br}consciousness could be damaged, so be very{br}careful.{end}",
+  "en": "If you defeat the monster first, her{br}consciousness could be damaged, so be{br}very careful.{end}",
   "notes": ""
  },
  {
@@ -1850,7 +1850,7 @@
   "op": "96DFC6",
   "len": 37,
   "jp": "{c0C:01}「モンスターへのダメージ量を{br}考えて戦わなきゃならないのか。{end}",
-  "en": "{c0C:01}: So I have to fight while keeping{br}track of how much damage I do to the{br}monster.{end}",
+  "en": "{c0C:01}: So I have to fight while keeping{br}track of how much damage I do to{br}the monster.{end}",
   "notes": ""
  },
  {
@@ -1886,7 +1886,7 @@
   "op": "96E058",
   "len": 59,
   "jp": "彼女、バイオモンスターと一緒なのに、{br}少しも恐れていなかったの。{br}まるで、楽しんでいるみたいだったわ。{end}",
-  "en": "She was with a bio-monster, yet she wasn't{br}afraid at all. It was like she was enjoying{br}herself.{end}",
+  "en": "She was with a bio-monster, yet she wasn't{br}afraid at all. It was like she was{br}enjoying herself.{end}",
   "notes": ""
  },
  {
@@ -1895,7 +1895,7 @@
   "op": "96E095",
   "len": 28,
   "jp": "「そのバイオモンスターとお友達にでも{br}なったのか。{end}",
-  "en": "\"Maybe she made friends with that{br}bio-monster.\"{end}",
+  "en": "\"Maybe she made friends with{br}that bio-monster.\"{end}",
   "notes": ""
  },
  {
@@ -1904,7 +1904,7 @@
   "op": "96E0B6",
   "len": 36,
   "jp": "「まさか………。{br}とにかく、普通考えられない反応だわ。{endFD}",
-  "en": "\"No way......... Anyway, it's not a normal{br}reaction.\"{endFD}",
+  "en": "\"No way......... Anyway, it's not a{br}normal reaction.\"{endFD}",
   "notes": ""
  },
  {
@@ -1976,7 +1976,7 @@
   "op": "96E2BD",
   "len": 34,
   "jp": "「何だって？{br}今バケモンって言ったけど、何か{br}見たのか？{end}",
-  "en": "\"What? You just said 'monster.' Did you see{br}something?\"{end}",
+  "en": "\"What? You just said 'monster.' Did you{br}see something?\"{end}",
   "notes": ""
  },
  {
@@ -2003,7 +2003,7 @@
   "op": "96E3AB",
   "len": 62,
   "jp": "警備員「ここまで来れば大丈夫だろう。{br}あんた、このキーを持って行くといいよ。{br}きっと役に立つハズだ。{end}",
-  "en": "Guard: We should be safe this far out. Here,{br}take this key with you. I'm sure it'll come in{br}handy.{end}",
+  "en": "Guard: We should be safe this far out. Here,{br}take this key with you. I'm sure it'll come{br}in handy.{end}",
   "notes": ""
  },
  {
@@ -2075,7 +2075,7 @@
   "op": "96E58D",
   "len": 51,
   "jp": "イオン「こちらイオン。{br}中に入るのはちょっと待って。{br}その前に聞いて欲しい事があるの。{endFD}",
-  "en": "Ion: This is Ion. Hold off on going in for a{br}moment. There's something I want you to hear{br}first.{endFD}",
+  "en": "Ion: This is Ion. Hold off on going in for a{br}moment. There's something I want you to{br}hear first.{endFD}",
   "notes": ""
  },
  {
@@ -2147,7 +2147,7 @@
   "op": "96E70C",
   "len": 33,
   "jp": "とにかく、これから突入するから{br}そっちもスタンバイしてくれ。{end}",
-  "en": "Anyway, I'm going in now, so stand by on your{br}end.{end}",
+  "en": "Anyway, I'm going in now, so stand by on{br}your end.{end}",
   "notes": ""
  },
  {
@@ -2210,7 +2210,7 @@
   "op": "96E845",
   "len": 26,
   "jp": "{c0C:01}「何だ、バイオモンスターが{br}しゃべった！？{end}",
-  "en": "{c0C:01}: What the...?! The bio-monster{br}talked?!{end}",
+  "en": "{c0C:01}: What the...?! The{br}bio-monster talked?!{end}",
   "notes": ""
  },
  {
@@ -2453,7 +2453,7 @@
   "op": "96F72A",
   "len": 32,
   "jp": "「モンスター共が組織化してるってのか？{br}冗談だろ。{end}",
-  "en": "\"The monsters are getting organized? You're{br}kidding.\"{end}",
+  "en": "\"The monsters are getting organized?{br}You're kidding.\"{end}",
   "notes": ""
  },
  {
@@ -2471,7 +2471,7 @@
   "op": "96F794",
   "len": 26,
   "jp": "報酬の方は口座へ振り込んでおきます。{end}",
-  "en": "Your reward will be transferred to your{br}account.{end}",
+  "en": "Your reward will be transferred to{br}your account.{end}",
   "notes": ""
  },
  {
@@ -2480,7 +2480,7 @@
   "op": "96F804",
   "len": 25,
   "jp": "{c0C:01}「おいナビロボ、何か探知{br}できるか？{end}",
-  "en": "{c0C:01}: Hey, Navi-Robo, can you detect{br}anything?{end}",
+  "en": "{c0C:01}: Hey, Navi-Robo, can you{br}detect anything?{end}",
   "notes": ""
  },
  {
@@ -2489,7 +2489,7 @@
   "op": "96F826",
   "len": 46,
   "jp": "ナビロボ「ピッピッピ…動体反応ヲ無数ニ{br}感知、安全度ハ20％デス。{end}",
-  "en": "Navi-Robo: BEEP BEEP BEEP... COUNTLESS{br}MOTION SIGNALS DETECTED. SAFETY LEVEL{br}20%.{end}",
+  "en": "Navi-Robo: BEEP BEEP BEEP... COUNTLESS{br}MOTION SIGNALS DETECTED. SAFETY{br}LEVEL 20%.{end}",
   "notes": ""
  },
  {
@@ -2507,7 +2507,7 @@
   "op": "96F89F",
   "len": 22,
   "jp": "ナビロボ「反応カラ遠ザカッテイマス。{end}",
-  "en": "Navi-Robo: WE ARE MOVING AWAY FROM THE{br}SIGNAL.{end}",
+  "en": "Navi-Robo: WE ARE MOVING AWAY FROM{br}THE SIGNAL.{end}",
   "notes": ""
  },
  {
@@ -2588,7 +2588,7 @@
   "op": "96FD01",
   "len": 28,
   "jp": "{c0C:01}「ちっ、まだ他のバイオ{br}モンスターがいたのか。{end}",
-  "en": "{c0C:01}: Tch, there are still more{br}bio-monsters?{end}",
+  "en": "{c0C:01}: Tch, there are still{br}more bio-monsters?{end}",
   "notes": ""
  },
  {

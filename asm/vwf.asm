@@ -182,9 +182,19 @@ vwf_pos:
     INX
     BRA -
 +   LDY $4216
-    BEQ +
+    BEQ .edge
     INC
-+   STA $18BA
+    BRA .set
+.edge:                      ; px on a strip edge: column 10 of the strip before, as the original leaves a full
+    CMP #$00                ; strip (a full line then {br} stepped down two lines: battle_A5CDF0)
+    BNE .set
+    CPX #$00
+    BEQ .set
+    LDA #10
+    DEX
+    DEX
+.set:
+    STA $18BA
     STA !col
     TXA
     CLC

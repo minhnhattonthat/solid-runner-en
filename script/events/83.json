@@ -23,7 +23,7 @@
   "op": "83B0CB",
   "len": 30,
   "jp": "{c18}を見つけましたが、{br}ストックが一杯で持てません{end}",
-  "en": "Found {c18}, but your stock is full. You can't carry{br}it.{end}",
+  "en": "Found {c18}, but your stock is full. You can't{br}carry it.{end}",
   "notes": ""
  },
  {

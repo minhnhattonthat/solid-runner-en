@@ -36,7 +36,8 @@ def scene_entries():
         if m:
             f = re.search(r"\bframes\s*=\s*(\d+)", line) or re.search(r"battle\((?:[^,)]*,){3}\s*(\d+)\s*\)", line)
             out.append((m.group(1), int(f.group(1)) if f else 2600 if "battle(" in line else
-                        15000 if "field(" in line else 15400 if "data(" in line else None))  # = scenes.lua
+                        15000 if "field(" in line else 15400 if "data(" in line else
+                        3600 if "vmtext(" in line else None))  # = scenes.lua
     return out
 
 

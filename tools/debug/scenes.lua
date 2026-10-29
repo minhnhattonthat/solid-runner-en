@@ -36,6 +36,10 @@ local function data(more, flags)
   for _, v in ipairs(more) do k[#k + 1] = v end
   return field(k, flags, 15400)
 end
+local function vmtext(op)
+  -- 0E 01 01: open the dialogue window (no portraits) first
+  return { area = 0x01, room = 0x00, run = { 0x0E, 0x01, 0x01, 0x43, op & 0xFF, (op >> 8) & 0xFF, op >> 16 }, frames = 3600 }
+end
 local function battle(lo, hi, bank, frames)
   return { area = 0x01, room = 0x00, run = { 0x7D, lo, hi, bank, 0x00 }, frames = frames or 2600 }
 end
@@ -116,6 +120,14 @@ S.list = {
   -- Riff in the arena garage (area 15 room 00, objects 94:8472, script 94:87A2 -> resume 94:8866: choices, tune-up)
   tune_riff = { area = 0x15, room = 0x00, flags = { [0x70003D] = 0x01 }, frames = 2400 },
   runner_status = { area = 0x01, room = 0x00, run = { 0x05, 0x27, 0xB2, 0x87, 0x00 } },
+  -- one VM text shown by jumping the opening thread to its text op (43 p24): elevator / keypad columns, new starts
+  vm_97F108 = vmtext(0x97F108),  -- elevator, two pages
+  vm_9EB3BE = vmtext(0x9EB3BE),  -- elevator 1F-3F + Next Page
+  vm_A8ECF1 = vmtext(0xA8ECF1),  -- elevator basement floors
+  vm_A9EF82 = vmtext(0xA9EF82),  -- keypad digits
+  vm_91940C = vmtext(0x91940C),
+  vm_95A2A9 = vmtext(0x95A2A9),
+  vm_979F07 = vmtext(0x979F07),
   -- scripted battles: op 7D records {id, formation, callback} found in the event banks
   battle_97DFE8 = battle(0xE8, 0xDF, 0x97),
   battle_9E87F3 = battle(0xF3, 0x87, 0x9E),

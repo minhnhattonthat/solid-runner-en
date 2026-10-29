@@ -68,7 +68,7 @@
   "op": "918D7E",
   "len": 52,
   "jp": "カーク「チャンスじゃ、{c0C:01}。何が{br}起こったのかは分からんが、今の内に奴を{br}倒すのじゃ！{end}",
-  "en": "Kirk: This is our chance, {c0C:01}. I don't know{br}what's happened, but take him down while we{br}can!{end}",
+  "en": "Kirk: This is our chance, {c0C:01}. I don't know{br}what's happened, but take him down while{br}we can!{end}",
   "notes": ""
  },
  {
@@ -131,7 +131,7 @@
   "op": "919220",
   "len": 69,
   "jp": "お前は、あの一件を気にして軍を除隊したが{br}あのガキは死ぬべくして死んだんだ。{br}それを自分のせいだと思うなんてな。{endFD}",
-  "en": "You left the army over that incident, but that{br}kid was bound to die. And you think it's your{br}fault.{endFD}",
+  "en": "You left the army over that incident, but that{br}kid was bound to die. And you think it's{br}your fault.{endFD}",
   "notes": ""
  },
  {
@@ -212,7 +212,7 @@
   "op": "919389",
   "len": 27,
   "jp": "「すまなかったな。{br}さっきはうるさいなんて言って。{end}",
-  "en": "\"Sorry about that. Telling you to shut up back{br}there.\"{end}",
+  "en": "\"Sorry about that. Telling you to shut up{br}back there.\"{end}",
   "notes": ""
  },
  {
@@ -239,7 +239,7 @@
   "op": "91942C",
   "len": 33,
   "jp": "カーク「この建物が、外から攻撃を受けて{br}いるんじゃ。{end}",
-  "en": "Kirk: The building is under attack from{br}outside!{end}",
+  "en": "Kirk: The building is under attack{br}from outside!{end}",
   "notes": ""
  },
  {
@@ -311,7 +311,7 @@
   "op": "91968A",
   "len": 22,
   "jp": "{c0C:01}「必ず倒してやる、覚悟しろ！{end}",
-  "en": "{c0C:01}: I'll take you down for sure. Get{br}ready!{end}",
+  "en": "{c0C:01}: I'll take you down for sure.{br}Get ready!{end}",
   "notes": ""
  },
  {
@@ -428,7 +428,7 @@
   "op": "9199BC",
   "len": 30,
   "jp": "カーク「いかん、{c0C:01}。システムが{br}作動してしまうぞ！{end}",
-  "en": "Kirk: No, {c0C:01}! The system's going to{br}activate!{end}",
+  "en": "Kirk: No, {c0C:01}! The system's going{br}to activate!{end}",
   "notes": ""
  },
  {
@@ -572,7 +572,7 @@
   "op": "919E45",
   "len": 51,
   "jp": "「ヘマをやった施設があるというので{br}始末しに来てみれば、{br}お前のようなヤツがいるとはな。{endFD}",
-  "en": "\"I came to clean up a facility that botched{br}things, and what do I find but someone like{br}you.\"{endFD}",
+  "en": "\"I came to clean up a facility that botched{br}things, and what do I find but someone{br}like you.\"{endFD}",
   "notes": ""
  },
  {
@@ -779,7 +779,7 @@
   "op": "91A391",
   "len": 32,
   "jp": "サンタナ「これは見事に決まったぁ、{br}{c0C:02}の勝利だ！{end}",
-  "en": "Santana: What a beautiful finish! {c0C:02}{br}wins!{end}",
+  "en": "Santana: What a beautiful finish!{br}{c0C:02} wins!{end}",
   "notes": ""
  },
  {
@@ -788,7 +788,7 @@
   "op": "91A3E3",
   "len": 29,
   "jp": "{c0C:01}「悪いなレクター。お前の分も{br}頑張るよ。{end}",
-  "en": "{c0C:01}: Sorry, Lecter. I'll fight hard for you{br}too.{end}",
+  "en": "{c0C:01}: Sorry, Lecter. I'll fight hard for{br}you too.{end}",
   "notes": ""
  },
  {
@@ -869,7 +869,7 @@
   "op": "91A5A2",
   "len": 51,
   "jp": "サンタナ「おぉ〜っと残念、{br}{c0C:02}はここでリタイアだ。{br}強くなったらまた挑戦してくれよ！{end}",
-  "en": "Santana: Ooh, too bad! {c0C:02} retires here.{br}Come back and challenge us again when you're{br}stronger!{end}",
+  "en": "Santana: Ooh, too bad! {c0C:02} retires here.{br}Come back and challenge us again when{br}you're stronger!{end}",
   "notes": ""
  },
  {

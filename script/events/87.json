@@ -5,7 +5,7 @@
   "op": "87B666",
   "len": 57,
   "jp": "ノーラ「このディスクを私以外の人が{br}見ているという事は、私の身に{br}何かあったのだと思います。{end}",
-  "en": "Nora: If someone other than me is viewing this{br}disc, then I think something has happened to{br}me.{end}",
+  "en": "Nora: If anyone but me is viewing this disc,{br}then something must have happened to me.{end}",
   "notes": ""
  },
  {
@@ -95,7 +95,7 @@
   "op": "87BF97",
   "len": 51,
   "jp": "「なんだ、人探しですか。{br}ま、シスターからの依頼とあっちゃあ{br}断る訳にはいかないですね。{end}",
-  "en": "\"Oh, just finding someone? Well, if it's a{br}request from the Sister, I can't exactly say{br}no.\"{end}",
+  "en": "\"Oh, just finding someone? Well, if it's a{br}request from the Sister, I can't exactly{br}say no.\"{end}",
   "notes": ""
  },
  {
@@ -113,7 +113,7 @@
   "op": "87BFE3",
   "len": 28,
   "jp": "「ありがとう{c0C:01}＝{c0C:00}。{br}それでは待っています。{end}",
-  "en": "\"Thank you, {c0C:01} {c0C:00}. I'll be waiting,{br}then.\"{end}",
+  "en": "\"Thank you, {c0C:01} {c0C:00}. I'll be{br}waiting, then.\"{end}",
   "notes": ""
  },
  {
@@ -149,7 +149,7 @@
   "op": "87C07B",
   "len": 30,
   "jp": "{c0C:01}「ハイ、こちら{br}{c0C:01}＝{c0C:00}探偵事務所。{end}",
-  "en": "{c0C:01}: Hi, {c0C:01} {c0C:00} Detective{br}Agency.{end}",
+  "en": "{c0C:01}: Hi, {c0C:01} {c0C:00}{br}Detective Agency.{end}",
   "notes": ""
  },
  {
@@ -185,7 +185,7 @@
   "op": "87C12C",
   "len": 25,
   "jp": "「現場の詳しい状況を知りたいんだが。{end}",
-  "en": "\"I'd like the details on the situation out{br}there.\"{end}",
+  "en": "\"I'd like the details on the situation{br}out there.\"{end}",
   "notes": ""
  },
  {
@@ -221,7 +221,7 @@
   "op": "87C1A7",
   "len": 59,
   "jp": "言っとくが、この仕事をキャンセル{br}しようものなら貴様のランナー免許は{br}取り上げだ。そのつもりでな。{end}",
-  "en": "Let me warn you: cancel this job, and your{br}runner license gets revoked. Keep that in{br}mind.{end}",
+  "en": "Let me warn you: cancel this job, and your{br}runner license gets revoked. Keep that{br}in mind.{end}",
   "notes": ""
  },
  {
@@ -374,7 +374,7 @@
   "op": "87C49F",
   "len": 32,
   "jp": "「やっぱり仲間がいやがったか。ブツは{br}用意できてるか？{end}",
-  "en": "\"Figured she had a partner. You got the goods{br}ready?\"{end}",
+  "en": "\"Figured she had a partner. You got the{br}goods ready?\"{end}",
   "notes": ""
  },
  {
@@ -383,7 +383,7 @@
   "op": "87C4C1",
   "len": 35,
   "jp": "{c0C:01}「あぁ、ディスクの事だろう。{br}ノーラは無事なんだろうな？{end}",
-  "en": "{c0C:01}: Yeah, you mean the disc. Nora's safe,{br}right?{end}",
+  "en": "{c0C:01}: Yeah, you mean the disc. Nora's{br}safe, right?{end}",
   "notes": ""
  },
  {
@@ -437,7 +437,7 @@
   "op": "87C5C1",
   "len": 35,
   "jp": "{c0C:01}「オレはこの仕事、降りるぜ。{br}奴を狩るのはゴメンだ。{end}",
-  "en": "{c0C:01}: I'm quitting this job. I'm not hunting{br}him.{end}",
+  "en": "{c0C:01}: I'm quitting this job. I'm not{br}hunting him.{end}",
   "notes": ""
  },
  {
@@ -455,7 +455,7 @@
   "op": "87C61E",
   "len": 27,
   "jp": "「オレはオウムじゃない、何度も言わせる{br}なよ。{end}",
-  "en": "\"I'm not a parrot. Don't make me repeat{br}myself.\"{end}",
+  "en": "\"I'm not a parrot. Don't make me{br}repeat myself.\"{end}",
   "notes": ""
  },
  {

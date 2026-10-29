@@ -6,6 +6,7 @@
     python -X utf8 tools/batches.py merge bNNN [..]        check, then write the wrapped English into script/*.json
     python -X utf8 tools/batches.py fit "text" [--box dialogue]   width per wrapped line (dry run for translators)
     python -X utf8 tools/batches.py pairs bNNN [..]        work/tl/bNNN.pairs.txt for the reviewer
+    python -X utf8 tools/batches.py dewidow               prose boxes ending on a lone word: pull the word before it down
 
 Input row: `id<TAB>speaker<TAB>form<TAB>limit<TAB>jp`; ` / ` = a JP line break. Output row: `id<TAB>EN`.
 English is written as one paragraph per box; the tool wraps it by pixel width into the box's lines. ` / ` in the
@@ -92,7 +93,8 @@ def box(eid, jp=None):
     if jp and not b.get("sliced"):
         jl = END.sub("", jp).split("{br}")
         b["lines"] = max(b["lines"], len(jl))
-        b["px"] = max(b["px"], max(len(plain(x)) * font.JP_ADV for x in jl))
+        if not b.get("clipped"):  # clipped: the screen cuts even the JP's longest line
+            b["px"] = max(b["px"], max(len(plain(x)) * font.JP_ADV for x in jl))
     return b
 
 
@@ -396,6 +398,42 @@ def merge(names):
     print(f"merged {n} entries")
 
 
+PROSE = ("dialogue", "database", "battle_msg", "tune_desc")
+
+
+def dewidow(en, b):
+    """English with a lone last word (a prose box's last line) joined by the word before it, or None. The
+    penultimate line keeps at least two words; slow-print lines ({c1C}) are left as written."""
+    body = END.sub("", en)
+    lines = body.split("{br}")
+    if len(lines) < 2 or "{c1C" in lines[-1] + lines[-2]:
+        return None
+    last, prev = lines[-1].split(" "), lines[-2].split(" ")
+    if len(last) != 1 or not last[0] or len(prev) < 3 or not re.search(r"[.!?…\"]$", last[0]):
+        return None
+    new = prev[-1] + " " + last[0]
+    if width(new) > b["px"]:
+        return None
+    return "{br}".join(lines[:-2] + [" ".join(prev[:-1]), new]) + en[len(body):]
+
+
+def cmd_dewidow():
+    n = 0
+    for f in sorted((ROOT / "script").glob("*/*.json")):
+        data = json.loads(f.read_text(encoding="utf-8"))
+        changed = False
+        for e in data:
+            if e.get("en") and e["id"] in budgets()[1]:
+                b = box(e["id"], e["jp"])
+                fixed = b["variant"] in PROSE and dewidow(e["en"], b)
+                if fixed:
+                    e["en"], changed = fixed, True
+                    n += 1
+        if changed:
+            f.write_text(json.dumps(data, indent=1, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
+    print(f"dewidowed {n} entries")
+
+
 def pairs(names):
     """work/tl/bNNN.pairs.txt for the reviewer: `>> id | speaker | JP` then the English, in script order."""
     for name in names:
@@ -408,7 +446,7 @@ def pairs(names):
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("cmd", choices=["dump", "split", "check", "merge", "fit", "pairs"])
+    ap.add_argument("cmd", choices=["dump", "split", "check", "merge", "fit", "pairs", "dewidow"])
     ap.add_argument("args", nargs="*")
     ap.add_argument("--box", default="dialogue", help="variant name for fit (see windows.json)")
     a = ap.parse_args()
@@ -422,6 +460,8 @@ def main():
         merge(a.args)
     elif a.cmd == "pairs":
         pairs(a.args)
+    elif a.cmd == "dewidow":
+        cmd_dewidow()
     else:
         variants, _ = budgets()
         b = dict(variants[a.box], variant=a.box)

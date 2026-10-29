@@ -121,10 +121,11 @@
    "how": "measured: data_people_list x 24 to frame 238"
   },
   "intro": {
-   "px": 240,
+   "px": 196,
    "lines": 2,
    "centred": true,
-   "how": "measured: boot crawl (area_01 f900) lines centred, no frame, x 8-247"
+   "clipped": true,
+   "how": "measured: boot crawl (area_01 f900) lines centred, shown only x 30-226 (phase 8: the JP's 17-glyph line loses its comma; English at 240 px was cut mid-word)"
   },
   "turbo": {
    "px": 240,

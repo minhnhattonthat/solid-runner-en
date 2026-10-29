@@ -23,7 +23,7 @@
   "op": "92B4F2",
   "len": 55,
   "jp": "あんた達だろうが、バイスハイトだろうが、{br}システムなんかに管理、いや支配される{br}なんてまっぴらだ。{endFE}",
-  "en": "Whether it's you people or Weissheit, I've had{br}it with being managed - no, ruled - by some{br}system.{endFE}",
+  "en": "Whether it's you people or Weissheit, I've had{br}it with being managed - no, ruled - by{br}some system.{endFE}",
   "notes": ""
  },
  {
@@ -203,7 +203,7 @@
   "op": "92BFB8",
   "len": 53,
   "jp": "「残ったバイオモンスター達はどうする。{br}皆、リーダーのお前を必要としているんじゃ{br}ないのか？{endFE}",
-  "en": "\"What about the bio-monsters you're leaving{br}behind? Don't they all need you as their{br}leader?\"{endFE}",
+  "en": "\"What about the bio-monsters you're leaving{br}behind? Don't they all need you as{br}their leader?\"{endFE}",
   "notes": ""
  },
  {
@@ -266,7 +266,7 @@
   "op": "92C11F",
   "len": 28,
   "jp": "イオン「想い出していたのね、{br}アイリーンの事を。{endFE}",
-  "en": "Ion: You were remembering Irene, weren't{br}you?{endFE}",
+  "en": "Ion: You were remembering Irene,{br}weren't you?{endFE}",
   "notes": ""
  },
  {
@@ -302,7 +302,7 @@
   "op": "92C1E0",
   "len": 23,
   "jp": "「そういえば、カークが見当たらないけど？{endFE}",
-  "en": "\"Now that you mention it, I don't see Kirk{br}anywhere.\"{endFE}",
+  "en": "\"Now that you mention it, I don't see{br}Kirk anywhere.\"{endFE}",
   "notes": ""
  },
  {
@@ -392,7 +392,7 @@
   "op": "92C4E5",
   "len": 27,
   "jp": "イオン「ラオエル………街を出て行くのね。{endFE}",
-  "en": "Ion: Raoel... you're leaving the city, aren't{br}you?{endFE}",
+  "en": "Ion: Raoel... you're leaving the city,{br}aren't you?{endFE}",
   "notes": ""
  },
  {
@@ -419,7 +419,7 @@
   "op": "92C54B",
   "len": 60,
   "jp": "「{c0C:01}にはお前が必要だ。{br}あいつはこれまで色んなものを失って来て、{br}今は心の安らぎを求めている。{endFE}",
-  "en": "\"{c0C:01} needs you. He's lost a lot of things{br}up to now, and now he's looking for peace of{br}mind.\"{endFE}",
+  "en": "\"{c0C:01} needs you. He's lost a lot of things{br}up to now, and now he's looking for peace{br}of mind.\"{endFE}",
   "notes": ""
  },
  {
@@ -527,7 +527,7 @@
   "op": "92C891",
   "len": 60,
   "jp": "「いや、おれの役目はもう終わりさ。{br}これからは、それぞれが自分の力で{br}未来を切り開いて行くんだ。{endFE}",
-  "en": "\"No, my part is done. From now on, each of{br}them will cut a path to the future on their{br}own.\"{endFE}",
+  "en": "\"No, my part is done. From now on, each of{br}them will cut a path to the future on{br}their own.\"{endFE}",
   "notes": ""
  },
  {
@@ -536,7 +536,7 @@
   "op": "92C8D2",
   "len": 60,
   "jp": "時間はかかるかも知れないが、{br}いつか人間とバイオモンスターが{br}共存して行ける日が来ると信じてる。{endFE}",
-  "en": "It may take time, but I believe a day will come{br}when humans and bio-monsters can live{br}together.{endFE}",
+  "en": "It may take time, but I believe a day will come{br}when humans and bio-monsters can{br}live together.{endFE}",
   "notes": ""
  },
  {
@@ -599,7 +599,7 @@
   "op": "92CA05",
   "len": 57,
   "jp": "{c0C:01}「楽しみにしてるよ。{br}今度会う時に、お前達の愛の結晶を{br}見られる事を………。{endFE}",
-  "en": "{c0C:01}: I'll be looking forward to it... to{br}seeing the fruit of your love next time we{br}meet...{endFE}",
+  "en": "{c0C:01}: I'll be looking forward to it... to{br}seeing the fruit of your love next time{br}we meet...{endFE}",
   "notes": ""
  },
  {
@@ -725,7 +725,7 @@
   "op": "92CD7F",
   "len": 50,
   "jp": "{c0C:01}「少しはのんびりできると{br}思ったが、まだまだオレ達の仕事は{br}終わりそうもないな。{endFE}",
-  "en": "{c0C:01}: I thought I'd get to kick back a{br}little, but looks like our work's nowhere near{br}done.{endFE}",
+  "en": "{c0C:01}: I thought I'd get to kick back a bit,{br}but looks like our work's nowhere near done.{endFE}",
   "notes": ""
  },
  {
@@ -770,7 +770,7 @@
   "op": "92CEC2",
   "len": 33,
   "jp": "「今夜はデートの約束があるんだ。{br}さっさと片づけるぞ！{endFE}",
-  "en": "\"I've got a date tonight. Let's wrap this up{br}fast!\"{endFE}",
+  "en": "\"I've got a date tonight. Let's wrap this{br}up fast!\"{endFE}",
   "notes": ""
  },
  {

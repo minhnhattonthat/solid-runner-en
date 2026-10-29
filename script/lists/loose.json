@@ -188,7 +188,7 @@
   "addr": "91:98D4",
   "len": 59,
   "jp": "「{c0C:01}、バイスハイトへのエネルギー{br}供給元はストップさせたわ。もうこれで、{br}あいつは回復できないハズよ。{end}",
-  "en": "\"{c0C:01}, I've cut off Weissheit's energy{br}supply. He shouldn't be able to recover{br}anymore.\"{end}",
+  "en": "\"{c0C:01}, I've cut off Weissheit's energy{br}supply. He shouldn't be able to{br}recover anymore.\"{end}",
   "notes": ""
  },
  {

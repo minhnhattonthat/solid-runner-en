@@ -4,7 +4,7 @@
   "addr": "93:951C",
   "len": 31,
   "jp": "攻撃力    発射数{br}命中     弾倉{end}",
-  "en": "Attack | Shots | Accuracy | Ammo{end}",
+  "en": "Attack | Shots | Hit | Ammo{end}",
   "notes": ""
  }
 ]

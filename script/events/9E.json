@@ -5,7 +5,7 @@
   "op": "9EA0E0",
   "len": 21,
   "jp": "「バイスハイトがまだドイツにいた頃よ。{endFE}",
-  "en": "\"It was back when Weissheit was still in{br}Germany.\"{endFE}",
+  "en": "\"It was back when Weissheit was still{br}in Germany.\"{endFE}",
   "notes": ""
  },
  {
@@ -77,7 +77,7 @@
   "op": "9EA797",
   "len": 40,
   "jp": "通路転送プログラムがロードされている。{br}プログラムを実行しますか？{end}",
-  "en": "A passage transfer program is loaded. Run the{br}program?{end}",
+  "en": "A passage transfer program is loaded. Run{br}the program?{end}",
   "notes": ""
  },
  {
@@ -257,7 +257,7 @@
   "op": "9EAACB",
   "len": 27,
   "jp": "そして、両親を殺したのはバイスハイト{br}なのよ。{end}",
-  "en": "And the one who killed my parents was{br}Weissheit.{end}",
+  "en": "And the one who killed my parents{br}was Weissheit.{end}",
   "notes": ""
  },
  {
@@ -293,7 +293,7 @@
   "op": "9EAB58",
   "len": 51,
   "jp": "「博士はあたしに復讐なんてバカげた事は{br}考えずに、自分の為に生きろと言ったわ。{endFD}",
-  "en": "\"The doctor told me not to think about{br}anything as stupid as revenge, and to live for{br}myself.\"{endFD}",
+  "en": "\"The doctor told me not to think about{br}anything as stupid as revenge, and to live{br}for myself.\"{endFD}",
   "notes": ""
  },
  {
@@ -302,7 +302,7 @@
   "op": "9EAB8C",
   "len": 59,
   "jp": "でもね、自分の両親が殺されたっていうのに{br}自分の事だけを考えて生きるなんて、できる{br}訳ないわ。{endFD}",
-  "en": "But my own parents were murdered. How could{br}I live thinking only about myself? There's no{br}way.{endFD}",
+  "en": "But my own parents were murdered. How could{br}I live thinking only about myself? There's{br}no way.{endFD}",
   "notes": ""
  },
  {
@@ -356,7 +356,7 @@
   "op": "9EACAC",
   "len": 24,
   "jp": "「{c0C:01}、バイスハイトを討つのは{br}あたしよ。{end}",
-  "en": "\"{c0C:01}, I'm the one who's taking Weissheit{br}down.\"{end}",
+  "en": "\"{c0C:01}, I'm the one who's taking{br}Weissheit down.\"{end}",
   "notes": ""
  },
  {
@@ -482,7 +482,7 @@
   "op": "9EB10D",
   "len": 28,
   "jp": "{c0C:01}「カーク、バイスハイトの行方は{br}分かるか？{end}",
-  "en": "{c0C:01}: Kirk, can you tell where Weissheit{br}went?{end}",
+  "en": "{c0C:01}: Kirk, can you tell where{br}Weissheit went?{end}",
   "notes": ""
  },
  {
@@ -491,7 +491,7 @@
   "op": "9EB12B",
   "len": 32,
   "jp": "カーク「ダメじゃ。もうセンサーの有効範囲{br}の外じゃ。{end}",
-  "en": "Kirk: No good. He's already out of sensor{br}range.{end}",
+  "en": "Kirk: No good. He's already out of{br}sensor range.{end}",
   "notes": ""
  },
  {
@@ -500,7 +500,7 @@
   "op": "9EB14D",
   "len": 29,
   "jp": "「何て事だ、やっとここまで来たっていう{br}のに…。{end}",
-  "en": "\"Dammit, and after we finally made it this{br}far...\"{end}",
+  "en": "\"Dammit, and after we finally made it{br}this far...\"{end}",
   "notes": ""
  },
  {
@@ -599,7 +599,7 @@
   "op": "9EB286",
   "len": 35,
   "jp": "「恋人の…{c1A:28}アイリーンのカタキを討つ事が{br}できたわね。{end}",
-  "en": "\"You managed to avenge your sweetheart...{c1A:28}{br}Irene.\"{end}",
+  "en": "\"You managed to avenge your{br}sweetheart...{c1A:28} Irene.\"{end}",
   "notes": ""
  },
  {
@@ -689,7 +689,7 @@
   "op": "9EB69D",
   "len": 25,
   "jp": "「これは清の時代に作られたものだそうだ。{end}",
-  "en": "\"This is supposed to be from the Qing{br}Dynasty.\"{end}",
+  "en": "\"This is supposed to be from the{br}Qing Dynasty.\"{end}",
   "notes": ""
  },
  {
@@ -707,7 +707,7 @@
   "op": "9EB6DF",
   "len": 27,
   "jp": "「お願いだから、{br}ドロボーみたいな事はしないで。{end}",
-  "en": "\"Please, don't do anything like a burglar{br}would.\"{end}",
+  "en": "\"Please, don't do anything like a{br}burglar would.\"{end}",
   "notes": ""
  },
  {
@@ -788,7 +788,7 @@
   "op": "9EB808",
   "len": 29,
   "jp": "{c0C:01}「アイリーンが生きていた頃の{br}写真だ…。{end}",
-  "en": "{c0C:01}: A photo from when Irene was still{br}alive...{end}",
+  "en": "{c0C:01}: A photo from when Irene was{br}still alive...{end}",
   "notes": ""
  },
  {
@@ -833,7 +833,7 @@
   "op": "9EB8EE",
   "len": 50,
   "jp": "{c0C:01}「宗教画みたいだな。{br}オレはもっと色気のあるポスターの方が{br}いいと思うけどな。{end}",
-  "en": "{c0C:01}: Looks like a religious painting. I'd{br}rather have a poster with a bit more sex{br}appeal.{end}",
+  "en": "{c0C:01}: Looks like a religious painting. I'd{br}rather have a poster with a bit more{br}sex appeal.{end}",
   "notes": ""
  },
  {
@@ -1328,7 +1328,7 @@
   "op": "9EC17C",
   "len": 30,
   "jp": "「お前の無鉄砲さならば、とっくに認めて{br}おるよ。{end}",
-  "en": "\"Oh, I acknowledged your recklessness long{br}ago.\"{end}",
+  "en": "\"Oh, I acknowledged your recklessness{br}long ago.\"{end}",
   "notes": ""
  },
  {
@@ -1382,7 +1382,7 @@
   "op": "9EC82D",
   "len": 34,
   "jp": "「しっかりアンナを守ってやる事だな。{br}クックック………。{end}",
-  "en": "\"You'd better protect Anna well. Heh heh{br}heh.........\"{end}",
+  "en": "\"You'd better protect Anna well. Heh{br}heh heh.........\"{end}",
   "notes": ""
  },
  {
@@ -1418,7 +1418,7 @@
   "op": "9EC8EB",
   "len": 46,
   "jp": "「予告してきたくらいだからな。{br}危険なのはやっぱり会場から移動する時か。{end}",
-  "en": "\"He went as far as giving us warning. I guess{br}the dangerous part is when she leaves the{br}venue.\"{end}",
+  "en": "\"He went as far as giving us warning. I guess{br}the dangerous part is when she leaves{br}the venue.\"{end}",
   "notes": ""
  },
  {
@@ -1481,7 +1481,7 @@
   "op": "9EC9DF",
   "len": 27,
   "jp": "「1曲ぐらいいいじゃない。{br}聞いてあげたらどう？{end}",
-  "en": "\"What's one song? Why not listen to it for{br}her?\"{end}",
+  "en": "\"What's one song? Why not listen to it{br}for her?\"{end}",
   "notes": ""
  },
  {
@@ -1634,7 +1634,7 @@
   "op": "9ECC3E",
   "len": 29,
   "jp": "「奴はエリア3のスラム街の方へ向かった{br}みたい。{end}",
-  "en": "\"Looks like he headed for the slums in Area{br}3.\"{end}",
+  "en": "\"Looks like he headed for the slums in{br}Area 3.\"{end}",
   "notes": ""
  },
  {
@@ -1841,7 +1841,7 @@
   "op": "9ED436",
   "len": 31,
   "jp": "「アンナもかわいそうに。{br}まだまだこれからだっていうのにな。{end}",
-  "en": "\"Poor Anna. And her career was just getting{br}started.\"{end}",
+  "en": "\"Poor Anna. And her career was just{br}getting started.\"{end}",
   "notes": ""
  },
  {
@@ -1850,7 +1850,7 @@
   "op": "9ED45A",
   "len": 41,
   "jp": "{c0C:01}「ずいぶんと確信を持った{br}言い方をするじゃないか、ハンスさんよ。{end}",
-  "en": "{c0C:01}: You sound awfully sure of that,{br}Hans-san.{end}",
+  "en": "{c0C:01}: You sound awfully sure of{br}that, Hans-san.{end}",
   "notes": ""
  },
  {
@@ -1976,7 +1976,7 @@
   "op": "9ED897",
   "len": 54,
   "jp": "イオン「あなたの事は、{c0C:01}から{br}連絡があって分かってたわ。{br}女だからって甘く見ない事ね。{end}",
-  "en": "Ion: I knew all about you - {c0C:01} called me.{br}Don't underestimate me just because I'm a{br}woman.{end}",
+  "en": "Ion: I knew all about you - {c0C:01} called me.{br}Don't underestimate me just because I'm{br}a woman.{end}",
   "notes": ""
  },
  {
@@ -2003,7 +2003,7 @@
   "op": "9ED931",
   "len": 27,
   "jp": "イオン「違うわよ。{br}その男がひ弱過ぎるのよ。{end}",
-  "en": "Ion: I did not. That man's just too much of a{br}weakling.{end}",
+  "en": "Ion: I did not. That man's just too much of{br}a weakling.{end}",
   "notes": ""
  },
  {
@@ -2048,7 +2048,7 @@
   "op": "9EDC92",
   "len": 37,
   "jp": "「ノーラさんはレイチェル院長を{br}母親のようにしたっていましたわ。{end}",
-  "en": "\"Nora-san loved Mother Superior Rachel like a{br}mother.\"{end}",
+  "en": "\"Nora-san loved Mother Superior Rachel like{br}a mother.\"{end}",
   "notes": ""
  },
  {
@@ -2102,7 +2102,7 @@
   "op": "9EDDDA",
   "len": 58,
   "jp": "「あっ、{c0C:01}さん、こ、こんにちは。{br}あ、あの…お会いできてうれしいです。{br}！…やだ、私ったら何を…。{end}",
-  "en": "\"Oh, {c0C:01}-san, g-good afternoon. Um... I'm{br}so happy to see you. ...Oh no, what am I{br}saying...\"{end}",
+  "en": "\"Oh, {c0C:01}-san, g-good afternoon. Um... I'm{br}so happy to see you. ...Oh no, what am{br}I saying...\"{end}",
   "notes": ""
  },
  {
@@ -2309,7 +2309,7 @@
   "op": "9EE29B",
   "len": 38,
   "jp": "「あの方は、よくこちらに{br}通っていましたから、少し気になるのです。{end}",
-  "en": "\"She used to visit here often, so I'm a little{br}worried.\"{end}",
+  "en": "\"She used to visit here often, so I'm a{br}little worried.\"{end}",
   "notes": ""
  },
  {
@@ -2390,7 +2390,7 @@
   "op": "9EE449",
   "len": 38,
   "jp": "レイチェル「{c0C:01}、お願いです。{br}どうかノーラを助け出して下さい。{end}",
-  "en": "Rachel: {c0C:01}, I beg you. Please rescue{br}Nora.{end}",
+  "en": "Rachel: {c0C:01}, I beg you. Please{br}rescue Nora.{end}",
   "notes": ""
  },
  {
@@ -2453,7 +2453,7 @@
   "op": "9EE63C",
   "len": 34,
   "jp": "「{c0C:01}＝{c0C:00}、お願いです。{br}ノーラを助け出して下さい。{end}",
-  "en": "\"{c0C:01} {c0C:00}, I beg you. Please rescue{br}Nora.\"{end}",
+  "en": "\"{c0C:01} {c0C:00}, I beg you. Please{br}rescue Nora.\"{end}",
   "notes": ""
  },
  {
@@ -2462,7 +2462,7 @@
   "op": "9EE667",
   "len": 35,
   "jp": "「待って下さいよ！{br}オレの仕事は小包を渡す事だけだ。{end}",
-  "en": "\"Hold on! My job was just to deliver the{br}parcel.\"{end}",
+  "en": "\"Hold on! My job was just to deliver{br}the parcel.\"{end}",
   "notes": ""
  },
  {
@@ -2498,7 +2498,7 @@
   "op": "9EE718",
   "len": 54,
   "jp": "「分かってもらえて良かったわ。{br}報酬の方は500Gにしますから、{br}ノーラの事は頼みましたよ。{end}",
-  "en": "\"I'm so glad you understand. I'll make the{br}reward 500G, so please take good care of{br}Nora.\"{end}",
+  "en": "\"I'm so glad you understand. I'll make the{br}reward 500G, so please take good care{br}of Nora.\"{end}",
   "notes": ""
  },
  {
@@ -2543,7 +2543,7 @@
   "op": "9EE90E",
   "len": 34,
   "jp": "シスターレイチェル「ノーラ！{br}良かった、無事だったのですね。{end}",
-  "en": "Sister Rachel: Nora! Thank goodness, you're{br}safe.{end}",
+  "en": "Sister Rachel: Nora! Thank goodness,{br}you're safe.{end}",
   "notes": ""
  },
  {
@@ -2651,7 +2651,7 @@
   "op": "9EEDAE",
   "len": 26,
   "jp": "{c0C:01}「こいつらは、一体{br}いつ休むんだろう？{end}",
-  "en": "{c0C:01}: When do these guys ever take a{br}break?{end}",
+  "en": "{c0C:01}: When do these guys ever take{br}a break?{end}",
   "notes": ""
  },
  {
@@ -2768,7 +2768,7 @@
   "op": "9EF21A",
   "len": 55,
   "jp": "「平和だったこの場所も、{br}今では夜になるとドラッグの売人が{br}うろつくようになってしまったよ。{end}",
-  "en": "\"This place used to be so peaceful, but these{br}days drug dealers prowl around here at{br}night.\"{end}",
+  "en": "\"This place used to be so peaceful, but these{br}days drug dealers prowl around here{br}at night.\"{end}",
   "notes": ""
  },
  {
@@ -3020,7 +3020,7 @@
   "op": "9EF77C",
   "len": 22,
   "jp": "「これはお礼です。とっておいて下さい。{end}",
-  "en": "\"This is a token of our thanks. Please take{br}it.\"{end}",
+  "en": "\"This is a token of our thanks. Please{br}take it.\"{end}",
   "notes": ""
  },
  {
@@ -3146,7 +3146,7 @@
   "op": "9EFA91",
   "len": 30,
   "jp": "なぁに、簡単な問題に答えてくれれば{br}いいだけだ。{endFD}",
-  "en": "Nothing to it. Just answer a few easy{br}questions.{endFD}",
+  "en": "Nothing to it. Just answer a few{br}easy questions.{endFD}",
   "notes": ""
  },
  {
@@ -3155,7 +3155,7 @@
   "op": "9EFAB1",
   "len": 32,
   "jp": "「その問題に答えれば、{br}情報を教えてくれるんだな？{end}",
-  "en": "\"If I answer them, you'll give me the{br}information?\"{end}",
+  "en": "\"If I answer them, you'll give me{br}the information?\"{end}",
   "notes": ""
  },
  {
@@ -3164,7 +3164,7 @@
   "op": "9EFAD3",
   "len": 53,
   "jp": "「ああ、そうだ。全問正解すればな。{br}問題は全部で3つだ。{br}それでは早速始めようか。{end}",
-  "en": "\"That's right. If you get every one right, that{br}is. There are three questions in all. Let's get{br}started.\"{end}",
+  "en": "\"That's right. If you get every one right, that{br}is. There are three questions in all. Let's{br}get started.\"{end}",
   "notes": ""
  },
  {
@@ -3263,7 +3263,7 @@
   "op": "9EFCE7",
   "len": 44,
   "jp": "「言っておくが、テロ集団についての{br}情報料は500Gだ。払えるだろうな？{end}",
-  "en": "\"Just so you know, information on the{br}terrorist band costs 500G. You can pay,{br}right?\"{end}",
+  "en": "\"Just so you know, information on the{br}terrorist band costs 500G. You can{br}pay, right?\"{end}",
   "notes": ""
  },
  {
@@ -3308,7 +3308,7 @@
   "op": "9EFD9F",
   "len": 30,
   "jp": "「おいおい、冗談はよせ。{br}金が足りないじゃないか。{end}",
-  "en": "\"Hey, hey, quit joking. You don't have enough{br}money.\"{end}",
+  "en": "\"Hey, hey, quit joking. You don't have{br}enough money.\"{end}",
   "notes": ""
  },
  {
@@ -3353,7 +3353,7 @@
   "op": "9EFE90",
   "len": 44,
   "jp": "奴らのアジトはエリア3のスラム街にある{br}廃墟の地下に隠されているらしい。{endFD}",
-  "en": "Their hideout is supposedly hidden{br}underground, beneath the Ruins in the Area 3{br}slums.{endFD}",
+  "en": "Their hideout is supposedly hidden{br}underground, beneath the Ruins in the Area{br}3 slums.{endFD}",
   "notes": ""
  },
  {

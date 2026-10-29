@@ -236,7 +236,7 @@
   "addr": "93:8D8A",
   "len": 17,
   "jp": "アイテム購入武器購入{end}",
-  "en": "Buy Items | Buy Weapons{end}",
+  "en": "Items | Weapons{end}",
   "notes": ""
  },
  {
@@ -244,7 +244,7 @@
   "addr": "93:8D9B",
   "len": 17,
   "jp": "アイテム売却武器売却{end}",
-  "en": "Sell Items | Sell Weapons{end}",
+  "en": "Items | Weapons{end}",
   "notes": ""
  }
 ]
