@@ -29,12 +29,28 @@ terminator (pad to a character boundary first: a kanji's second byte can be F8-F
 Other ops seen around a dialogue: `0E aa bb` (open window with portraits aa-1 / bb-1; 81:E860), `12` (set $18D0),
 `94-9D xx` (store xx to $0209-$0212: variables).
 
-## Opcode lengths still to read by hand (`dyn` in vm_oplen.py)
+## Disassembler (verified: `tools/events.py`, `tests/test_events.py`)
 
-03, 05 (indirect), 0A, 0B, 17-1A (text: computed by the scanner rule above; 1A is text-like with 4 bytes before it),
-1E, 29-2F, 38, 39, 3E, 3F, 45, 7B, 7C, 80, 81, 83, 84, and 54-6B: movement commands, `op aa` + a data block whose size
-is set per opcode by `LDA #n` before `JMP 81:D634` (54/55: 0, 56/57: 2, 58/59: 4, 5A/5B: 6, 5C/5D: 8, ...): length
-2 + n. Ops reporting `0,n` are waits or conditional jumps; find which by reading them before trusting a disassembly.
+Every opcode length and flow op is in `events.py` (`VM_LEN`, comments name the handlers). Recursive descent from all
+roots reaches 2828 entries / 22k instructions / 2876 inline texts with no invalid opcode and no overlapping
+instructions; every text roundtrips. Flow: `00` end, `01` park (81:C500: wait FF + flag; nothing after it runs
+unless jumped to), `41` return, `40 p24` call, `42 p16` / `43 p24` jump, `30-37` conditional branches (target16 at
++5/+7/+4/+6/+4), `45 addr24` switch on a byte with a table of p16 after it (no count: `SWITCH_COUNT` fixes two),
+`07-09`/`51 p24` start a thread, `4A p24` / `49 p16` set the resume script. `38/39 addr16 val` wait for an SRAM bit
+(len 4). `0,n` ops are waits, not jumps. `46/47 p24` set a native per-frame routine (not a script). `7D`'s battle
+record `{id, formation, flag, p24 if flag}` points at native code. `1A w16 mode` + text (4 bytes before the text).
+
+Roots (`map_entries`, `native_entries`):
+- **Room scripts** (80:C900, ops even 00-60, `ROOM_LEN`): `0A`/`60 p16` select a map header whose threads start at
+  header +0x17/+0x1A/+0x1D (bank 0 = none); `08 p16` loads a header without threads. `1A p24` call, `1C` branch,
+  `1E p16` / `5E p24` goto, `16 p24` native call, `24 p24` native object, `0C t24 u24 w16` = object/tile table.
+- **Object/tile table** (room op 0C, $1757; 7-byte records, no count): types 08/0A place an NPC whose script is the
+  p24 at +4 (flags at +1: bit 1 set = native routine); types 00-06 are tile events whose native routine is the p24 at
+  +1; routines A7:F10F/A7:F11E run the VM script at +4 (`TILE_SCRIPT`). Most NPC dialogue comes from here.
+- **Native code**: `$3E-$40` immediates before JSL A7:F1AC (or handler 81:D443 via 80:D813); `$3B-$3D` immediates
+  before 81:C13C/C14A (thread) or 81:C266 (spawn the object record there).
+- Not yet reached (phase 4 coverage report): a few scripts with no root found (e.g. 94:A430, 97:B89D, 95:99B1) and
+  native-pointer string lists in the script banks (Turbo File messages 92:AE85-B28C, objectives 92:9700-99B8).
 
 ## Map loading, story state, battles (verified by the phase-2 warp tool, `tools/debug/`)
 
