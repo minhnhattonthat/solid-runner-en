@@ -6,7 +6,8 @@ Skill: translate-retro-game; `python tools/skill.py` prints its folder. Read its
 - Build:    `python -X utf8 tools/build.py` -> build/solid_runner_en.sfc (checks the dump against `rom.sha1` first; written in phase 3)
 - Check:    `python -X utf8 tools/check.py`  (tests + lint; the pre-commit hook runs this)
 - Smoke:    `python -X utf8 "$(python tools/skill.py)/scripts/emu.py" build/solid_runner_en.sfc --out work/qa/smoke --route tools/routes/boot.txt --smoke`
-- Warp:     `python -X utf8 "$(python tools/skill.py)/scripts/emu.py" build/solid_runner_en.sfc --out work/qa/warp --script tools/debug/warp.lua --var "SCENE='<name>'" --frames 900 --sheet` (scenes: `tools/debug/scenes.lua`; written in phase 2; never ask the user to play to a scene)
+- Warp:     `python -X utf8 "$(python tools/skill.py)/scripts/emu.py" build/solid_runner_en.sfc --out work/qa/warp --script tools/debug/scenes.lua --script tools/debug/warp.lua --var "SCENE='<name>'" --frames 2400 --sheet` (cold boot; warp lands ~f1560; scenes and options in `tools/debug/scenes.lua`/`warp.lua`; never ask the user to play to a scene)
+- All scenes: `python -X utf8 tools/debug/run_scenes.py [names] [--raw AA:RR] [--states] [--rom R]` (parallel cold boots, shots in work/qa/scenes/, `--states` regenerates work/states/<scene>.mss)
 - Release:  `python -X utf8 tools/release.py` (patch + verify; written in phase 9; never publish without the user)
 - Clean:    `python -X utf8 tools/clean.py` (published projects: lists rebuildable/downloadable files; `--yes` deletes)
 

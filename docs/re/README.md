@@ -14,7 +14,7 @@ community docs for Solid Runner as of 2026-10-29).
 | File | Covers | State |
 |---|---|---|
 | [text.md](text.md) | encoding, control codes, font, text engine, where each text kind lives | encoding/font/engine verified; kanji table and some list locations pending |
-| [events.md](events.md) | event-script VM, text opcodes, map headers, insertion plan | dispatcher + text ops verified; ~40 opcode lengths to read |
+| [events.md](events.md) | event-script VM, text opcodes, map loading (area/room), story state in SRAM, battles, map headers, insertion plan | dispatcher, text ops, map loading, battle op verified; ~40 opcode lengths to read; story flags unmapped |
 | [rom-map.md](rom-map.md) | header, bank map, LZ/RLE compression, free space | LZ verified; bank map partly guessed |
 | [graphics.md](graphics.md) | graphics-text survey | sweep done for LZ blocks; mid/late-game screens wait for the debug tool |
 

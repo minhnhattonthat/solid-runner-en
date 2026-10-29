@@ -13,8 +13,12 @@ Most on-screen text (dialogue, menus, item lists, name entry, intro crawl) is dr
   table ($80-$89, $8B, $90, $91, $9F, $A4, $A6, $A7, $AE, $C8, $C9, $D2, $D9, $DA, $DF and the empty banks) and
   blocks that are not LZ or decompress to < 512 bytes. Raw (uncompressed) banks are noise as tiles. Not yet swept:
   RLE (A7:85ED) and the other decompressors (88:860D, 83:8D67, 83:BD91); sprites built at run time.
-- **Still to tour with the debug tool (phase 2):** battle screens, shops, game over, every chapter/area card, the
-  ending and credits. Add rows here as they turn up; the marker build tour (phase 5) is the final check.
+- **Phase-2 warp tour** (`python -X utf8 tools/debug/run_scenes.py`, shots in `work/qa/scenes/`): battle intro,
+  battle HUD, shop menus and lists, parts view, Game Over, both THE END screens, Results, staff roll, save/load,
+  Turbo File menu, psycho-dive scenes, field menu + submenus, every area's room 0. The Japanese text seen there
+  looks like the 12x11 font (text work; guess by eye, the marker build confirms it); the tile-drawn titles on those screens are already English (`WARNING`,
+  `Game Over`, `THE END`, `Results`, staff roll). No chapter/area title cards were seen (areas load straight in).
+  Rows below still stand; the marker build tour (phase 5) is the final check.
 
 ## Japanese as graphics
 
