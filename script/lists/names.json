@@ -1,5 +1,13 @@
 [
  {
+  "id": "names_87EEEC",
+  "addr": "87:EEEC",
+  "len": 8,
+  "jp": "{c0C:01}＝{c0C:00}{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
   "id": "names_87EEF4",
   "addr": "87:EEF4",
   "len": 6,

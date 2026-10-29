@@ -92,3 +92,29 @@ RTS/RTL (`60`/`6B`) with the string inline in the code bank. Phase 7 needs the r
 relocated in place. Some ranges are guesses at the edges (equipment labels at 93:B248/B274/B291 have no terminator
 between labels; database records start with 2-6 bytes such as `RゆRエ{br}` that may be data): the marker build
 checks them on screen. Banks $80-$93 hold code and tables mixed with these lists: never treat a whole bank as text.
+
+## Phase 5 corrections (verified by the marker tour, `fields.lua` logs and the shots)
+
+- **Database page pointers** (verified: all 49 prefixes point at the pages that follow): a description in
+  87:CA07-F616 starts with k **big-endian** 16-bit pointers to its pages, then `00`; the first page follows at once
+  (`strings.page_ptrs`). The pointers are data, cut out of the entries; phase 7 must rewrite them when pages move.
+  Records: 87:C76F (stride 7: title, client, description, id; info list = these, indexed by x), 87:C96C (stride 4:
+  ptr, id, id; entry 0 = 87:FF85 is blank and never unlocked).
+- **Unlock bits**: info entries $70:0153+x bit 6 (x 1-20), people $70:018F+x bit 7 (x 0-19) (82:D08D / 82:D0A5);
+  current request $70:013B (FF none; text table 82:C8B4 by index), shown if $70:0141+index bit 6 (82:ADC7); Results
+  mission $70:013E (names 92:9681, reports 92:9719).
+- **Tables that sat inside text ranges** (the marker build overwrote them; `test_no_pointer_table_inside_entries`
+  now gates this): missions report table 92:9719 (17 words) between names and reports; Turbo File table 92:AE6E
+  (19 words) after code that an orphan root had decoded as text. Names table is 87:EEC4 (first entry 87:EEEC =
+  `{c0C:01}＝{c0C:00}`, the player's full name).
+- **Name buffers**: $1AC3 / $1AC9 (given / family name, 5 glyphs + FF), $1ACF (6 + FF); defaults copied from
+  93:CB2C/32/38 by the {dest, src} table 93:CB20 (more copies at 83:8F1D/21 and 93:C163/69/20B). English names longer
+  than 5 letters need bigger buffers (phase 7).
+- **Sliced menus**: many menus draw one string as a linear run of 12 px cells that the window shows in rows of N
+  cells (field menu 6, setup labels 4, info menu 5, info>data submenu 2, Turbo File 7...; `fields.VARIANTS`
+  `sliced`). With the VWF each item must start at its cell boundary: phase 7 needs a tab-to-cell control.
+- **EE** (`−`) is redrawn as `*` by the English font: strings that use it as a dash (empty slots 82:C13F, 83:9A66)
+  must be re-encoded with `-` (AD).
+- **Second renderer 84:B017** (fixed-pitch 8x16 tilemap font): its only caller 82:9024 sits in a routine reached
+  through a pointer (no JSL/JSR to 82:8FBE-8FCD); not hit in setup, shop, status, item or battle scenes. Screen still
+  unknown.

@@ -164,6 +164,11 @@
    "px": 96,
    "how": "guess: menu_config window x 24 to frame 124; row slicing not read yet"
   },
+  "mission_report": {
+   "px": 160,
+   "lines": 2,
+   "how": "measured: results (original) report lines x 80-247 after the `report:` label; phase 7 rework of the code-positioned fields may widen it"
+  },
   "results": {
    "px": 120,
    "lines": 1,
@@ -18680,79 +18685,86 @@
    "variant": "results"
   },
   "missions_92973B": {
-   "px": 120,
+   "px": 160,
    "how": "variant",
-   "variant": "results"
+   "variant": "mission_report",
+   "scene": "results"
   },
   "missions_92975B": {
-   "px": 120,
+   "px": 160,
    "how": "variant",
-   "variant": "results"
+   "variant": "mission_report"
   },
   "missions_92978C": {
-   "px": 120,
+   "px": 160,
    "how": "variant",
-   "variant": "results"
+   "variant": "mission_report"
   },
   "missions_9297B0": {
-   "px": 120,
+   "px": 160,
    "how": "variant",
-   "variant": "results"
+   "variant": "mission_report"
   },
   "missions_9297D8": {
-   "px": 120,
+   "px": 160,
    "how": "variant",
-   "variant": "results"
+   "variant": "mission_report"
   },
   "missions_9297FD": {
-   "px": 120,
+   "px": 160,
    "how": "variant",
-   "variant": "results"
+   "variant": "mission_report"
   },
   "missions_929821": {
-   "px": 120,
+   "px": 160,
    "how": "variant",
-   "variant": "results"
+   "variant": "mission_report"
   },
   "missions_92985E": {
-   "px": 120,
+   "px": 160,
    "how": "variant",
-   "variant": "results"
+   "variant": "mission_report"
   },
   "missions_92987A": {
-   "px": 120,
+   "px": 160,
    "how": "variant",
-   "variant": "results"
+   "variant": "mission_report"
   },
   "missions_9298A9": {
-   "px": 120,
+   "px": 160,
    "how": "variant",
-   "variant": "results"
+   "variant": "mission_report"
   },
   "missions_9298DE": {
-   "px": 120,
+   "px": 160,
    "how": "variant",
-   "variant": "results"
+   "variant": "mission_report"
   },
   "missions_9298FD": {
-   "px": 120,
+   "px": 160,
    "how": "variant",
-   "variant": "results"
+   "variant": "mission_report"
   },
   "missions_929924": {
-   "px": 120,
+   "px": 160,
    "how": "variant",
-   "variant": "results"
+   "variant": "mission_report"
   },
   "missions_92995C": {
-   "px": 120,
+   "px": 160,
    "how": "variant",
-   "variant": "results"
+   "variant": "mission_report"
   },
   "missions_929993": {
-   "px": 120,
+   "px": 160,
    "how": "variant",
-   "variant": "results"
+   "variant": "mission_report"
+  },
+  "names_87EEEC": {
+   "px": 212,
+   "how": "variant",
+   "variant": "people",
+   "scene": "data_people_list"
   },
   "names_87EEF4": {
    "px": 212,

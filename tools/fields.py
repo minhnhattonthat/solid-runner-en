@@ -92,6 +92,9 @@ VARIANTS = {
     "config": {"sliced": True, "px": 96, "ids": ["menu_82C529", "menu_82C540", "menu_82C549", "menu_82C554",
                                                   "menu_82C574"],
                "how": "guess: menu_config window x 24 to frame 124; row slicing not read yet"},
+    "mission_report": {"px": 160, "lines": 2, "ranges": [("missions", 0x92973B, 0x9299C7)],
+                       "how": "measured: results (original) report lines x 80-247 after the `report:` label; phase 7 "
+                              "rework of the code-positioned fields may widen it"},
     "results": {"px": 120, "lines": 1, "lists": ["results", "missions"],
                 "how": "guess: code-positioned fields (results shot: label x 8, mission name, reward values at "
                        "x 112-120); phase 7 reworks the line into one string"},

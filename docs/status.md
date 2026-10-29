@@ -14,41 +14,32 @@ Updated at the end of every session. Keep it to what the next session needs; his
   dialogue box measured: 3 lines x 240 px (x 8-247; past 240 px text wraps mid-glyph into the next line), last line
   232 px when the page prompt shows (stress shots work/qa/stress, work/qa/stress2). Tests: `tests/test_engine.py`.
   Debug probes: `tools/lua/cpulog.lua` (registers/RAM/stack at PCs), `tools/lua/pcwrites.lua`.
-- **Found by the marker build:** some menu strings are sliced into fixed-length fields by code, not terminated:
-  menu_82C4A9 (`アイテム` title + `使用`/`廃棄` commands), the setup labels (`左肩：`... tag 2ss), equipment labels
-  (93:B248...). English there needs the drawing code changed (phase 7). Second renderer 84:B017/B055 (tilemap
-  writer, 8x16 VRAM tile font, fixed pitch; one caller 82:9024): which screen uses it is not known yet.
-- **Marker tour (73/73 scenes, no crash, no data broken by markers):** `python -X utf8 tools/debug/run_scenes.py
-  --rom build/marker.sfc --out work/qa/marker --script tools/lua/fields.lua`, then `python -X utf8 tools/fields.py`
-  writes `windows.json` (dialogue variant + per-entry px budgets: `next-field` from the logged column of the
-  next string on the row, `line-end`/`strip-end` geometric; see the docstring). 32 entries seen so far.
-- **Session 2026-10-30 (phase 5):** new lists `results` (92:95FD), `labels` (setup slot labels 82:AB25, info>data
-  submenu 82:AEF4, empty-slot dashes 82:C13F/83:9A66 - EE is `*` in en.tbl so English must use `-`, はずす 82:C1DB,
-  shop item labels 93:8AFB/8B02), `default_names` (copies at 83:8F1D/21 and 93:CB2C/32/38; 93:CB20 is a {RAM dest,
-  src} table into the name buffers $1AC3/$1AC9/$1ACF, 5 glyphs + FF each); missions list starts at 92:96A3 (table
-  92:9681; `母と娘` was missed). Database descriptions start with **big-endian page-pointer lists** + 00 (49 of
-  them; `strings.page_ptrs`): data, now cut out of the entries (the marker build had overwritten them). Missed
-  strings are found precisely by `fields.lua` logs: any logged ROM pointer no entry covers (scratch check: grep the
-  logs, `fields.lookup`). `fields.lua` now also hooks the typewriter (84:A7E1, string starts) - before, no
-  dialogue was logged. New scenes: info_status/requests/data, data_info_list/page, data_people_list/page (unlock
-  bits set when the field is ready: `ready_flags`; info $70:0154+x bit 6, people $70:018F+x bit 7, 82:D08D/D0A5),
-  requests_view ($70:013B = request index, $70:0141+i bit 6; 82:ADC7), item_use, setup_slot. `run_scenes.py --var`
-  passes probe settings. `tools/ruler.py` overlays a pixel ruler on shots (budget measuring). `fields.py` now has
-  `VARIANTS` (measured box widths per list/entry, see its comments) merged with logged next-field budgets into
-  `windows.json` (3461/4078 entries have a budget).
-- **Left in phase 5 (width gate):**
-  1. Measure the remaining variants with `tools/ruler.py` on the marker tour shots (`work/qa/marker`, rerun
-     `run_scenes.py --rom build/marker.sfc --out work/qa/marker --script tools/lua/fields.lua` after
-     `build.py --marker --out build/marker.sfc`) and add them to `fields.VARIANTS`: battle message box
-     (battle_fight; are battle event texts narrower than 240?), database list titles / info page title (2 lines) /
-     page body (3 lines x ~240) / people pages (data_* scenes), setup parts list + はずす (setup_slot), info and data
-     submenus (sliced, 2 cells per row), place names (area HUD, `places` are space-padded), intro crawl, Results
-     fields (code-positioned: needs a phase-7 rework into one line), runner_status/runners/names/missions (screens
-     not found yet: the info terminal (info list 87:8558) is an object in some town room).
-  2. Unassigned so far: database (264), parts descriptions, places/places2, runners, names, missions, info, turbo,
-     equip, menu, runner_status, intro, results, labels. `python -X utf8 tools/fields.py` prints the count.
-  3. Identify the screen of the second renderer (84:B017).
-  4. Before phase 6: kanji table (925 codes, see phase 4 notes below).
+- **Marker build + tour (93 scenes, no crash):** `python -X utf8 tools/build.py --marker --out build/marker.sfc`,
+  then `python -X utf8 tools/debug/run_scenes.py --rom build/marker.sfc --out work/qa/marker --script
+  tools/lua/fields.lua` (~45 min, run in the background), then `python -X utf8 tools/fields.py` -> `windows.json`.
+  `fields.lua` logs every string start (instant draw 84:A87B, typewriter 84:A7E1); a logged ROM pointer that no
+  entry covers is missed text (the last full tour + reruns: none left). Findings and fixes of 2026-10-30 are in
+  `docs/re/text.md` "Phase 5 corrections": new lists `results`, `labels`, `default_names`; missions start 92:96A3;
+  names table 87:EEC4 (adds the player's `name＝family`); database page-pointer prefixes are data (cut out); the
+  missions report table 92:9719 and the Turbo File table 92:AE6E had been inside entries (split; orphan 92:AE42
+  dropped; `test_no_pointer_table_inside_entries`). 4077 entries. `run_scenes.py --var` passes probe settings.
+- **Width gate (`windows.json`, from `fields.VARIANTS`):** every entry has a budget through a box variant measured
+  with `tools/ruler.py` on the tour shots (text start x to the window frame's inner edge; see each variant's `how`):
+  dialogue 240x3 (last line 232), battle messages (bank $90) 240x2, database/people pages 212x3, requests 220x5,
+  item names 94 / descriptions 222, part names 88, place names 240 centred, save slot 212 centred, names 58/66
+  (5 glyphs), menu titles 74, shop labels, Turbo File, intro crawl, and 14 **sliced** menus (window rows of N
+  cells: field menu 6, setup labels 4, info menu 5, info>data 2, ...; phase 7 needs a tab-to-cell control code and a
+  wider info>data submenu). Scenes added for it: info_status/requests/data, data_info_list/page,
+  data_people_list/page, requests_view, item_use, setup_slot (`ready_flags` = SRAM unlock bits written when the
+  field is ready).
+- **Left in phase 5:**
+  1. 225 entries still use variants tagged `guess` (screens not reached): parts descriptions, config submenus
+     (menu_config + A), Results labels/mission names (code-positioned: phase 7 reworks the line), runners list,
+     info terminal (info list 87:8558 + runner_status: an object in some town room; find it with the object tables,
+     `docs/re/events.md`), save-slot places (needs a save: save from the save menu in a scene first), equipment texts
+     (93:B33D...), third name ($1ACF). Measure each with a scene + `tools/ruler.py` and change its `how`.
+  2. Kanji table (925 codes, see phase 4 notes below): needed before phase 6.
+  3. Second renderer 84:B017 (screen unknown, `docs/re/text.md`): a tour hook on 84:B017 over all scenes finds it.
 - **Done (phase 4):** `tools/events.py` VM disassembler (`docs/re/events.md` "Disassembler": every opcode, room
   scripts, NPC/tile record tables, native roots, orphan roots incl. text-op roots synced to op boundaries; 3172
   inline texts, 0 bad ops, 0 overlaps). "Second script format" in $87/$91 is the same VM. `tools/strings.py`: 20

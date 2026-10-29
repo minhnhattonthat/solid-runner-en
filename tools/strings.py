@@ -29,7 +29,7 @@ LISTS = {
              (0x87A968, None), (0x87A97A, None)],
     "runner_status": [(0x87B1ED, 0x87B227), (0x87B2F9, None)],  # stat labels with a number code, model/memory
     "database": [(0x87CA07, 0x87EEC4), (0x87EF56, 0x87F616)],  # info database: requests, news, runners, monsters
-    "names": [(0x87EEF4, 0x87EF56)],  # character names, table 87:EEC6
+    "names": [(0x87EEEC, 0x87EF56)],  # character names, table 87:EEC4 (first: the player's `name＝family`)
     "intro": [(0x928F1F, 0x9290A5)],  # opening text crawl
     # mission names (table 92:9681, first entry 96A3) and reports (table 92:9719, between the two: data)
     "missions": [(0x9296A3, 0x929719), (0x92973B, 0x9299C7)],
