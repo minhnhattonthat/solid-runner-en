@@ -10,10 +10,23 @@ Updated at the end of every session. Keep it to what the next session needs; his
   `tests/test_batches.py::test_inserted_text_fits` (final encoded layout, sliced items, name buffers) and
   `tests/test_insert.py` (romdiff write log + allowed ranges, every slot followed to its English). Seen in game:
   opening dialogue, field/config/item/shop menus, Turbo File. Notes `docs/re/insert.md`. Debug field scenes now
-  15000 frames (English types ~2x longer; A doesn't skip typing).
-- **Phase 7 left:** `script/engine_todo.txt` (20 known overflows: name buffers D11, sliced rows of N cells for setup
-  labels / tune menu / data submenu / battle keys, tune_armor, slot labels, results title); extractor blind spots
-  (below); `{c1C}` timing; check elevator/turbo/countdown layouts in game; typing speed (phase 8 polish).
+  15000 frames (English types ~2x longer; A doesn't skip typing). Rewordings to fit 2-cell items (full words, not
+  abbreviations): Discard -> Drop (item_cmds), Normal -> Mid (message speed), Magazine -> Ammo (shop parts view).
+  Heads fixed (`insert.HEADS`, slot starts at the real op-18 text): ev_959A59, ev_959C40, ev_A8C91E (full EN).
+  Last build 2026-10-30 05:11, sha1 94b1a7b8..., smoke ok; `tools/check.py` 30 passed.
+- **Phase 7 left (next session, in this order):**
+  1. `script/engine_todo.txt` (20 known overflows the lint exempts): sliced menus show the bitmap in rows of N cells
+     (setup labels 4, tune menu 4, data submenu 2; battle keys code-placed, unseen): find the window tilemap builder's
+     row width and widen it (one routine for all?), move the setup part names right; tune_armor 54 px, slot labels
+     36 px, results title 120 px; name buffers (D11): $1AC3/$1AC9/$1ACF (5/5/6 + FF, money at $1AD6) are read by
+     F8 0C (handler 84:AB89), the name entry, save/load and the 8x8 save-slot line; defaults `default_names` are
+     skipped by insert (kept JP) until then.
+  2. Heads still JP: ev_93827B (real start 93:8267 `店のオヤジ「…`, after a `12` op, not a text op: find what reads
+     it) and ev_97BA44 (news headline); garbage entries ev_91940D, ev_92DE77, ev_95A2AA, ev_96DB26, ev_96DBF8,
+     ev_979F08, ev_A8D233, loose_93EED3, turbo_929F06, places2_93C015 (inserted as translated; check in game).
+  3. In game: elevators (` | ` columns), A5 countdown, info_data submenu, battle key config, Riff's tune-up, name
+     entry grid (charset in place, letters drawn proportional: cursor cells may not line up).
+  4. `{c1C:xx}` slow-print timing; typing speed (English ~2x glyphs; maybe halve the per-glyph delay).
 - **Phase 6 result:** all 4079 non-empty entries have `en` in `script/*.json` (wrapped with `{br}` by pixel width,
   end code copied from the JP; sliced menus keep ` | ` between cells). 36 batches, all `batches.py check` OK; 9
   reviewer passes, every Critical/Important fixed (no Critical found), most accuracy Minors applied in the same round.
@@ -23,17 +36,6 @@ Updated at the end of every session. Keep it to what the next session needs; his
   not yet seen in-game), `docs/synopsis.md`, glossary (rulings D9-D11 + "Decisions from earlier batches"),
   `docs/translation-notes.md` (wave-1 phase 7 items), `docs/terms_proposed.tsv` (terms pass source).
   `work/tl/` is gitignored; `split` regenerates the batch inputs identically, outputs live only in `script/`.
-- **Phase 7 must do (from phase 6, details in `docs/translation-notes.md`):**
-  - insert `en` (encode with `tbl/en.tbl`; ` | ` cells -> tab-to-cell code); lint = `test_batches` fit + romdiff.
-  - layout blanks dropped by translators: restore the JP's leading indent per line (choice cursor, 12 px per JP
-    blank) and a pad-to-x for column menus (elevators, keypad, turbo Yes/No) and centring (places_*, turbo_*).
-  - `engine_todo.txt`: widen name buffers (Erskine/Grandil, D11), tune_armor 54 px, slot labels 36 px, results
-    120 px; sliced menus in full words (`batches.py check b036` warnings, needs `split` first).
-  - extractor blind spot: 5 entries start mid-string (fake op inside a string; head bytes uncovered, stay JP):
-    ev_93827B, ev_959A59, ev_959C40, ev_97BA44, ev_A8C91E; garbage-prefixed/garbage entries: ev_91940D, ev_92DE77,
-    ev_95A2AA, ev_96DB26, ev_96DBF8, ev_979F08, ev_A8D233, loose_93EED3, turbo_929F06, places2_93C015. Sweep the
-    whole ROM for the form, fix extraction, re-translate the changed entries (full-string EN drafts in the notes).
-  - `{c1C:xx}` slow-print codes were moved off name interiors (Weissheit, Riff) to keep names whole: check timing.
 - **Done (phase 5):**
   - VWF `asm/vwf.asm` (asar 1.91 in `tools/asar/`): hooks glyph draw 84:A993, pixel cursor in the $7E:2000 line
     bitmap, centring via 84:AA2A, 10-column wrap kept at string end (`docs/re/vwf.md`). Font `fonts/vwf.txt` ->

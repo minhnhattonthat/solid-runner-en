@@ -43,12 +43,23 @@ def cpu(o):
     return (0x80 | o >> 15) << 16 | 0x8000 | (o & 0x7FFF)
 
 
+# Extractor blind spot: a byte pair inside these strings decodes as a text op, so the entry starts mid-string and
+# the head bytes belong to no entry. The real text op is just before these addresses (op 18, checked by decoding);
+# the slot starts there and the English covers the whole string.
+HEADS = {"ev_959A59": 0x959A43, "ev_959C40": 0x959C2F, "ev_A8C91E": 0xA8C910}
+
+
 def entries():
-    """[(list name, entry)]: events (and loose VM texts) are 'events', lists by file stem."""
+    """[(list name, entry)]: events (and loose VM texts) are 'events', lists by file stem. HEADS entries come with
+    their slot moved to the real string start."""
     out = []
     for f in sorted((ROOT / "script").glob("*/*.json")):
         kind = "events" if f.parent.name == "events" else f.stem
-        out += [(kind, e) for e in json.loads(f.read_text(encoding="utf-8"))]
+        for e in json.loads(f.read_text(encoding="utf-8")):
+            if e["id"] in HEADS:
+                h = HEADS[e["id"]]
+                e = dict(e, addr=f"{h >> 16:02X}:{h & 0xFFFF:04X}", len=e["len"] + off(e["addr"]) - off(h))
+            out.append((kind, e))
     return out
 
 
