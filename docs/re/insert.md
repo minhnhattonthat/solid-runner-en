@@ -44,8 +44,20 @@ $B3 (16 bytes after the last data byte), $82/$87 tails only for table runs. 349 
 - `' | '` in an entry: sliced menus (`cells.json`, item columns) or a JP line laid out in columns (elevators, Yes/No):
   each piece starts at the JP column's cell.
 - Sliced menus: the window shows the text bitmap in rows of N cells of one linear string (verified on menu_setup:
-  "Left Shoulder:" clipped at 48 px, the next row's tab overwrote the rest). An item can't pass its row without a
-  wider row in the window's tilemap builder: `script/engine_todo.txt`.
+  "Left Shoulder:" clipped at 48 px, the next row's tab overwrote the rest). Rows are the window sheet's tilemap
+  (32 words a row, text tile = strip*16 + t, +16 for the bottom half): `tools/winmap.py` re-lays the sheets
+  (setup, setup slot, data submenu, battle keys, Riff's tune-up, save slot) and re-packs bank $9C; descriptors and
+  code bytes in `asm/menus.asm`; `cells.json` `[col, px]` puts each item where the new rows read it.
+- Code-placed pieces that the original printed one after another (results `Mission '` + name + `' Complete`) collide
+  in the VWF: one string holds the whole line (mission names), the pieces are empty.
+- VWF overwrite mode clears a string's first 12 px cell from its first column: a one-letter key redrawn over another
+  (config key swap) left the old letter's stem.
+
+## Slot starts
+
+`insert.HEADS` moves a slot to the real string start (text after the VM's op 18, after `PLX : RTL`, places2's first
+entry one byte on: its "H" was the table's last byte). `insert.NOT_TEXT`: extracted entries that are code or VM data,
+never written. 8x8 font (save slot name line): AC_05 with the Er/sk/Gr pair tiles at $C2-$C4 (`winmap.font8`).
 
 ## Not covered yet
 

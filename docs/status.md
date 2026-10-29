@@ -2,7 +2,8 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 7 (insert, fit, check) **in progress** (2026-10-30).
+- **Phase:** 7 (insert, fit, check) **done** (2026-10-30): lint clean with `script/engine_todo.txt` empty, codes
+  matched, writes only in allowed ranges (`tests/test_insert.py`). Next: phase 8 (QA in the emulator).
 - **Phase 7 done so far:** `tools/insert.py` (run by `build.py`): every English entry in free space, each slot a
   jump (`F8 20 p24` / `F8 22 p16` / table word) keeping its length and end byte; new control table at 84:E000 with
   jump, jump16 and `{tab:n}` (asm/vwf.asm); `01` = 12 px `{blank}`, English space = code 02; indents and column
@@ -24,20 +25,25 @@ Updated at the end of every session. Keep it to what the next session needs; his
   codes, "Grandil" in 6, seen in game (name entry, "Shu Erskine" in dialogue). Name-entry grid's first row
   (93:CC73, missed by extraction) added; grid = A-Z, a-z, punctuation, digits. Tao pilot seen in game
   (`work/qa/pilot`, scene `opening_talk`; docs/style-reference.md).
-  Last build 2026-10-30 05:36, sha1 103d2f2be084..., smoke ok; `tools/check.py` 33 passed.
-- **Phase 7 left (next session, in this order):**
-  1. `script/engine_todo.txt` (15 known overflows the lint exempts): sliced menus show the bitmap in rows of N cells
-     (setup labels 4, tune menu 4, data submenu 2; battle keys code-placed, unseen): find the window tilemap builder's
-     row width and widen it (one routine for all?), move the setup part names right; tune_armor 54 px, slot labels
-     36 px, results title 120 px. The 8x8 save-slot line (name / TIME / LV) still draws English codes with the
-     8x8 kana font: find its font and draw Latin letters (and the 3 digraph codes) there.
-  2. Heads still JP: ev_93827B (real start 93:8267 `店のオヤジ「…`, after a `12` op, not a text op: find what reads
-     it) and ev_97BA44 (news headline); garbage entries ev_91940D, ev_92DE77, ev_95A2AA, ev_96DB26, ev_96DBF8,
-     ev_979F08, ev_A8D233, loose_93EED3, turbo_929F06, places2_93C015 (inserted as translated; check in game).
-  3. In game: elevators (` | ` columns), A5 countdown, info_data submenu, battle key config, Riff's tune-up, save
-     slot line. Name entry grid seen: letters line up with the cursor cells well enough.
+  Windows re-laid for the English (`tools/winmap.py` sheets in bank $9C + `asm/menus.asm`, seen in game): setup
+  labels/slot header, data submenu, Riff's tune-up (menu, title, armor list, current armor), battle key config
+  (labels in two columns, "Attack" dropped, keys moved), save slot (`=` blanked; 8x8 font AC_05 with Er/sk/Gr tiles
+  -> "Shu Erskine"). Results line: each mission name holds `Mission '...' Complete` (pieces collided), label
+  `Log:`, 帰らなかった男 = The Man Who Didn't Return (glossary). VWF clears a string's first cell from its first
+  column (config key swap read K for X). Slots that started inside code/VM data fixed (`insert.HEADS`,
+  `insert.NOT_TEXT`): places2_93C015 had overwritten its table's last byte (save slot place showed "ま狩B");
+  92:DE77 (65816 code), 96:DB26/DBF8, A8:D233 no longer written; 93:EED3 / 92:9F06 keep their `PLX : RTL`.
+  Last build 2026-10-30 07:09, sha1 8c88fb089d14..., smoke ok; `tools/check.py` 34 passed.
+- **Phase 8 next (in this order):**
+  1. Heads still JP: ev_93827B (real start 93:8267 `店のオヤジ「…`, after a `12` op, not a text op: find what reads
+     it) and ev_97BA44 (news headline): `jp_left.py` will list them.
+  2. In game, not yet seen with the English: elevators (` | ` columns), A5 countdown, Turbo File "No data" (92:9F08),
+     ev_91940D / ev_95A2AA / ev_979F08 (new starts), the load screen's slot (sheet DC_03 also has the `=`: check
+     which screen uses it), add-armor yes/no (needs a level-up).
+  3. `{c1C:xx}` slow-print timing; typing speed (English ~2x glyphs; maybe halve the per-glyph delay).
   Note: `run_scenes.py` defaults to the original ROM; pass `--rom build/solid_runner_en.sfc` for the English.
-  4. `{c1C:xx}` slow-print timing; typing speed (English ~2x glyphs; maybe halve the per-glyph delay).
+  Results with another mission: point table word 0 (92:9681) at the mission's name in a ROM copy (pin of
+  $70:013E didn't take).
 - **Phase 6 result:** all 4079 non-empty entries have `en` in `script/*.json` (wrapped with `{br}` by pixel width,
   end code copied from the JP; sliced menus keep ` | ` between cells). 36 batches, all `batches.py check` OK; 9
   reviewer passes, every Critical/Important fixed (no Critical found), most accuracy Minors applied in the same round.
