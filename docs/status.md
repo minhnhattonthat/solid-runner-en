@@ -2,14 +2,15 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 5 (engine spike + marker build) **done** 2026-10-30. **Next: phase 6 (translate).**
-- **Next (phase 6):** copy `translator-brief.md` / `reviewer-brief.md` (and the style reference) from the skill's
-  `assets/` into `docs/` (the `.claude/agents/` translator and reviewer types read them; they don't exist yet), fill
-  `glossary.md` (characters, places, terms; register/SFX rows are `<set in phase 6>`), cut `work/tl/<batch>.tsv`
-  batches with each entry's budget from `windows.json` (`fields` -> `variant` -> px/lines/sliced/centred), then
-  dispatch translator agents per `references/translation.md`. Notes for translators: `{c0C:01}` = player name,
-  `{c0C:02}` = runner name; `FAB1` ✕ is a censored word (`✕✕ババア`); ev_97BA44 `6功` is an original typo for `成功`;
-  sliced entries (14) are menu cells, each piece within `px`.
+- **Phase:** 6 (translate) **in progress** 2026-10-30.
+- **Phase 6 state:** `tools/batches.py` (split/check/merge/fit/pairs; English = one paragraph per box, wrapped by
+  pixel width from the VWF advance table; box never smaller than the JP's own geometry), `docs/translator-brief.md`,
+  `docs/reviewer-brief.md`, `docs/style-reference.md` (pilot = opening Tao scene, not yet seen in-game: insertion
+  is phase 7), `docs/synopsis.md`, glossary tables (terms pass over the whole script). 36 batches in `work/tl/`
+  (gitignored; `split` regenerates them identically): b001-b028 events, b029-b035 lists, b036 = the 21 sliced menu
+  cells (controller-translated, done; widths are phase 7 warnings). Wave 1 dispatched: 9 translator agents
+  (b001-4, b005-8, ..., b025-8, b029-31, b032-5). Then: merge NEW TERMs into glossary, `pairs` + reviewer per batch,
+  fix Critical/Important, `merge` all into `script/`, commit.
 - **Done (phase 5):**
   - VWF `asm/vwf.asm` (asar 1.91 in `tools/asar/`): hooks glyph draw 84:A993, pixel cursor in the $7E:2000 line
     bitmap, centring via 84:AA2A, 10-column wrap kept at string end (`docs/re/vwf.md`). Font `fonts/vwf.txt` ->
@@ -31,7 +32,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
     point an NPC's resume script (thread x: $7E:B4C2+x lo / B4E7+x hi / B50C+x bank, op 49/4A at 81:D33F) at another
     VM script. Riff's tune-up: from `work/play/riff3/0001.mss`, POKE x=13 to 93:A5AE (`work/play/riff6`). The
     add-armor yes/no (`増やす/やめる`) needs a level-up and was not seen.
-- **Phase 7 carry-overs:** tab-to-cell control code for the 14 sliced menus and a wider info>data submenu
+- **Phase 7 carry-overs:** name buffers 5/6 letters < Erskine / Grandil (D11: widen); sliced menus in full words
+  need wider cells (`batches.py check b036` lists them); tab-to-cell control code for the 14 sliced menus and a wider info>data submenu
   (`data_submenu` 22 px); `loose` VM texts need their roots found (watch $7E:B297 writes) before scripts are
   relocated; find users of the 8x8 kana font (AC_01/AC_05; the save slot's name/TIME/LV line is one).
 - **Done (phases 1-4):** recon (`docs/re/`), debug warp tool (`tools/debug/`, `run_scenes.py`; 93 scenes + raw
