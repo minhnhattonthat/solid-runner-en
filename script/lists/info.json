@@ -158,5 +158,21 @@
   "jp": "事柄  人物  敵{end}",
   "en": "Topics | People | Enemies{end}",
   "notes": ""
+ },
+ {
+  "id": "info_879759",
+  "addr": "87:9759",
+  "len": 9,
+  "jp": "依頼人：{end}",
+  "en": "Client:{end}",
+  "notes": ""
+ },
+ {
+  "id": "info_879762",
+  "addr": "87:9762",
+  "len": 14,
+  "jp": "報酬：{c04:02310170}G{end}",
+  "en": "Reward: {c04:02310170}G{end}",
+  "notes": ""
  }
 ]

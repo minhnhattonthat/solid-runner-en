@@ -136,6 +136,26 @@
    "lines": 1,
    "how": "measured: shop_buy_items left window labels x 24, values at x 92 / 88"
   },
+  "shop_count": {
+   "px": 42,
+   "lines": 1,
+   "how": "measured: shop_buy_count count window, label x 24 to the cursor arrow at x 66 (total indented one cell)"
+  },
+  "shop_total": {
+   "px": 24,
+   "lines": 1,
+   "how": "measured: shop_buy_count, string at column 6: the count digits (columns 6-7) show after the cursor, columns 8-9 under the label at x 23-47"
+  },
+  "info_offer_label": {
+   "px": 48,
+   "lines": 1,
+   "how": "measured: info_choice offer window, label x 76, the client's name drawn from x 124"
+  },
+  "info_offer_reward": {
+   "px": 120,
+   "lines": 1,
+   "how": "measured: info_choice offer window, label + amount from x 76; one strip (10 cells) before the wrap"
+  },
   "shop_menu_left": {
    "sliced": true,
    "cells": 5,
@@ -18506,6 +18526,36 @@
    "how": "variant",
    "variant": "shop_left",
    "scene": "shop_buy_items"
+  },
+  "labels_93851B": {
+   "px": 42,
+   "how": "variant",
+   "variant": "shop_count",
+   "scene": "shop_buy_count"
+  },
+  "labels_938522": {
+   "px": 24,
+   "how": "variant",
+   "variant": "shop_total",
+   "scene": "shop_buy_count"
+  },
+  "labels_9386C2": {
+   "px": 42,
+   "how": "variant",
+   "variant": "shop_count",
+   "scene": "shop_buy_count (sell count: same window; the new game has nothing to sell)"
+  },
+  "info_879759": {
+   "px": 48,
+   "how": "variant",
+   "variant": "info_offer_label",
+   "scene": "info_choice"
+  },
+  "info_879762": {
+   "px": 120,
+   "how": "variant",
+   "variant": "info_offer_reward",
+   "scene": "info_choice"
   },
   "loose_908366": {
    "px": 240,

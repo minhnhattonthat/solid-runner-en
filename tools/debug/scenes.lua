@@ -57,6 +57,7 @@ S.list = {
   shop_buy = { area = 0x16, room = 0x09, keys = { { 1200, "a" } }, frames = 3000 },
   shop_sell = { area = 0x16, room = 0x09, keys = { { 1200, "down" }, { 1240, "a" } }, frames = 3000 },
   shop_buy_items = { area = 0x16, room = 0x09, keys = { { 1200, "a" }, { 1260, "a" } }, frames = 3100 },
+  shop_buy_count = { area = 0x16, room = 0x09, keys = { { 1200, "a" }, { 1260, "a" }, { 1320, "a" } }, frames = 3200 },
   shop_buy_weapons = { area = 0x16, room = 0x09, keys = { { 1200, "a" }, { 1260, "down" }, { 1300, "a" } }, frames = 3100 },
   -- intro, endings, credits (area $17)
   staff_intro = { area = 0x17, room = 0x00 },

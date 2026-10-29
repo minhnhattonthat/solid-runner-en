@@ -45,7 +45,7 @@ def run(rom, out_root, name, var, frames, state, extra=()):
     shutil.rmtree(out, ignore_errors=True)
     cmd = [sys.executable, "-X", "utf8", str(Path(SCRIPTS) / "emu.py"), str(rom), "--out", str(out),
            "--script", str(SCENES), "--script", str(ROOT / "tools/debug/warp.lua"), "--frames", str(frames),
-           "--shot-every", "300"] + sum((["--var", v] for v in var), []) + sum((["--script", s] for s in extra), [])
+           "--shot-every", "300", "--sheet"] + sum((["--var", v] for v in var), []) + sum((["--script", s] for s in extra), [])
     if state:
         cmd += ["--state-out", str(ROOT / "work/states" / f"{name}.mss")]
     r = subprocess.run(cmd, cwd=ROOT, capture_output=True, text=True, encoding="utf-8", errors="replace")

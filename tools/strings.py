@@ -28,7 +28,8 @@ LISTS = {
              (0x879A3F, None), (0x879A52, None), (0x879FBD, None), (0x87A111, None), (0x87A124, None),
              (0x87A968, None), (0x87A97A, None),
              (0x8787B8, None),  # terminal menu (Latin in the original), drawn by 87:8785
-             (0x8791FE, None), (0x87A920, None)],  # price `nG` (87:911A...), data library column heads (87:A907)
+             (0x8791FE, None), (0x87A920, None),  # price `nG` (87:911A...), data library column heads (87:A907)
+             (0x879759, None), (0x879762, None)],  # request offer: client / reward labels (87:96F6, 87:9740)
     "runner_status": [(0x87B1ED, 0x87B227), (0x87B2F9, None)],  # stat labels with a number code, model/memory
     "database": [(0x87CA07, 0x87EEC4), (0x87EF56, 0x87F616)],  # info database: requests, news, runners, monsters
     "names": [(0x87EEEC, 0x87EF56)],  # character names, table 87:EEC4 (first: the player's `name＝family`)
@@ -55,7 +56,8 @@ LISTS = {
                (0x82AEF4, None),  # info > data submenu (two rows)
                (0x82C13F, None), (0x839A66, None),  # empty slot dashes (EE is '*' in en.tbl: re-encode as '-')
                (0x82C1DB, None),  # setup slot: remove
-               (0x938AFB, None), (0x938B02, None)],  # shop item list
+               (0x938AFB, None), (0x938B02, None),  # shop item list
+               (0x93851B, None), (0x938522, None), (0x9386C2, None)],  # shop buy/sell count, total (93:84A2..)
     "help": [(0x93C36F, 0x93C3BE)],  # table 93:C365
     "status": [(0x93951C, None)],  # status screen labels
     "charset": [(0x93CC73, 0x93CD23)],  # name entry grid

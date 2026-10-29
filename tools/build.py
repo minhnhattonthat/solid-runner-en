@@ -82,9 +82,10 @@ def build(orig, engine=True, markers=False, qa=()):
                 i = j
             i += 1
     if engine and not (markers or qa):
+        import gfx
         import insert
         import winmap
-        for off, data, by in insert.plan(orig)[0] + winmap.plan(orig):
+        for off, data, by in insert.plan(orig)[0] + winmap.plan(orig) + gfx.plan(orig):
             put(off, data, by)
     if markers or qa:
         import marker

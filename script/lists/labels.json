@@ -78,5 +78,29 @@
   "jp": "値段{end}",
   "en": "Price{end}",
   "notes": ""
+ },
+ {
+  "id": "labels_93851B",
+  "addr": "93:851B",
+  "len": 7,
+  "jp": "購入数{end}",
+  "en": "Amount{end}",
+  "notes": ""
+ },
+ {
+  "id": "labels_938522",
+  "addr": "93:8522",
+  "len": 7,
+  "jp": "01合計{end}",
+  "en": "01 | Cost{end}",
+  "notes": ""
+ },
+ {
+  "id": "labels_9386C2",
+  "addr": "93:86C2",
+  "len": 7,
+  "jp": "売却数{end}",
+  "en": "Amount{end}",
+  "notes": ""
  }
 ]

@@ -51,6 +51,8 @@ def cpu(o):
 # the head bytes belong to no entry. The real text op is just before these addresses (op 18, checked by decoding);
 # the slot starts there and the English covers the whole string.
 HEADS = {"ev_959A59": 0x959A43, "ev_959C40": 0x959C2F, "ev_A8C91E": 0xA8C910,
+         # no pointer or VM path reaches these two (dead copies?): started at the text anyway, in case one is shown
+         "ev_93827B": 0x938267, "ev_97BA44": 0x97BA0F,
          "places2_93C015": 0x93C016,  # its "H" is the high byte of the last word of the table at 93:BFE8
          "ev_91940D": 0x91941A, "ev_95A2AA": 0x95A2B1, "ev_979F08": 0x979F1D,  # text after the VM's op 18
          "loose_93EED3": 0x93EED5, "turbo_929F06": 0x929F08}  # after PLX : RTL (FA 6B, read as 選)
@@ -61,14 +63,19 @@ NOT_TEXT = {"ev_92DE77", "ev_96DB26", "ev_96DBF8", "ev_A8D233"}
 def entries():
     """[(list name, entry)]: events (and loose VM texts) are 'events', lists by file stem. HEADS entries come with
     their slot moved to the real string start."""
-    out = []
+    out, rom, jp_t = [], None, None
     for f in sorted((ROOT / "script").glob("*/*.json")):
         lst = "events" if f.parent.name == "events" else f.stem
         for e in json.loads(f.read_text(encoding="utf-8")):
             kind = "default_names" if e["id"] in NAME_DEFAULTS else lst
             if e["id"] in HEADS:
                 h = HEADS[e["id"]]
+                back = off(h) < off(e["addr"])  # a split head: the JP is the whole string from its real start
                 e = dict(e, addr=f"{h >> 16:02X}:{h & 0xFFFF:04X}", len=e["len"] + off(e["addr"]) - off(h))
+                if back:
+                    rom = rom or (ROOT / "rom" / "Solid Runner (Japan).sfc").read_bytes()
+                    jp_t = jp_t or Table.load(ROOT / "tbl" / "jp.tbl")
+                    e["jp"] = jp_t.decode(rom, off(e["addr"]), e["len"])[0]
             out.append((kind, e))
     return out
 
@@ -325,8 +332,9 @@ def allowed(rom):
         ok.update(range(s, e))
     for s, n in ASM_SITES + [FONT, (0x7FDC, 4)]:
         ok.update(range(s, s + n))
+    import gfx
     import winmap
-    return ok | winmap.allowed(rom)
+    return ok | winmap.allowed(rom) | gfx.allowed(rom)
 
 
 def main():
