@@ -1,10 +1,18 @@
 [
  {
+  "id": "equip_93B334",
+  "addr": "93:B334",
+  "len": 9,
+  "jp": "通常装甲{end}",
+  "en": "Standard Armor{end}",
+  "notes": ""
+ },
+ {
   "id": "equip_93B33D",
   "addr": "93:B33D",
   "len": 9,
   "jp": "耐火装甲{end}",
-  "en": "Fireproof{br}Armor{end}",
+  "en": "Fireproof Armor{end}",
   "notes": ""
  },
  {
@@ -12,7 +20,7 @@
   "addr": "93:B346",
   "len": 9,
   "jp": "耐電装甲{end}",
-  "en": "Insulated{br}Armor{end}",
+  "en": "Insulated Armor{end}",
   "notes": ""
  },
  {
@@ -20,7 +28,7 @@
   "addr": "93:B34F",
   "len": 9,
   "jp": "耐毒装甲{end}",
-  "en": "Poisonproof{br}Armor{end}",
+  "en": "Poisonproof Armor{end}",
   "notes": ""
  },
  {
@@ -28,7 +36,7 @@
   "addr": "93:B358",
   "len": 9,
   "jp": "耐酸装甲{end}",
-  "en": "Acidproof{br}Armor{end}",
+  "en": "Acidproof Armor{end}",
   "notes": ""
  },
  {
@@ -36,7 +44,7 @@
   "addr": "93:B361",
   "len": 9,
   "jp": "回復装甲{end}",
-  "en": "Recovery{br}Armor{end}",
+  "en": "Recovery Armor{end}",
   "notes": ""
  },
  {
@@ -85,6 +93,78 @@
   "len": 45,
   "jp": "非戦闘時にHPが回復して行く装甲{br}ただし、ダメージを多く受けやすい{end}",
   "en": "Armor that restores HP outside of battle.{br}However, it takes damage more easily.{end}",
+  "notes": ""
+ },
+ {
+  "id": "equip_93B2AC",
+  "addr": "93:B2AC",
+  "len": 9,
+  "jp": "装甲増加{end}",
+  "en": "Add Armor{end}",
+  "notes": ""
+ },
+ {
+  "id": "equip_93B2B9",
+  "addr": "93:B2B9",
+  "len": 9,
+  "jp": "装甲交換{end}",
+  "en": "Swap Armor{end}",
+  "notes": ""
+ },
+ {
+  "id": "equip_93B2C6",
+  "addr": "93:B2C6",
+  "len": 9,
+  "jp": "強化改造{end}",
+  "en": "Upgrade{end}",
+  "notes": ""
+ },
+ {
+  "id": "equip_93B2DE",
+  "addr": "93:B2DE",
+  "len": 9,
+  "jp": "通常装甲{end}",
+  "en": "Standard Armor{end}",
+  "notes": ""
+ },
+ {
+  "id": "equip_93B2EB",
+  "addr": "93:B2EB",
+  "len": 9,
+  "jp": "耐火装甲{end}",
+  "en": "Fireproof Armor{end}",
+  "notes": ""
+ },
+ {
+  "id": "equip_93B2F8",
+  "addr": "93:B2F8",
+  "len": 9,
+  "jp": "耐電装甲{end}",
+  "en": "Insulated Armor{end}",
+  "notes": ""
+ },
+ {
+  "id": "equip_93B305",
+  "addr": "93:B305",
+  "len": 9,
+  "jp": "耐毒装甲{end}",
+  "en": "Poisonproof Armor{end}",
+  "notes": ""
+ },
+ {
+  "id": "equip_93B312",
+  "addr": "93:B312",
+  "len": 9,
+  "jp": "耐酸装甲{end}",
+  "en": "Acidproof Armor{end}",
+  "notes": ""
+ },
+ {
+  "id": "equip_93B31F",
+  "addr": "93:B31F",
+  "len": 9,
+  "jp": "回復装甲{end}",
+  "en": "Recovery Armor{end}",
   "notes": ""
  },
  {

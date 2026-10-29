@@ -22,6 +22,33 @@ org $82AAF9
 org $82AF34
     db 0, 68, 12
 
+; Riff's tune-up (sheet 9C_02, tools/winmap.py tune): menu and title 11 wide; current armor box two lines high at
+; rows 6-11 (src rows 3-8); the add-armor yes/no window's rect moved to rows 32-37 to make room
+org $93A7A6
+    db 11
+org $93AAAE
+    db 11
+org $93AC24
+    db 6, 16, 3, 14, 6
+org $93AA9E
+    db 19, 32
+; strip $18 upload (DMA param 93:B29D, $7E:3800 -> VRAM $6C00): $200 -> $400, so strip $1A comes along
+org $93B2A1
+    db $04
+; current armor name records {column, strip, 0, 0}: column 6 of strip $18 -> column 0 of strip $1A (its own line)
+org $93B2DA
+    db 0, $1A
+org $93B2E7
+    db 0, $1A
+org $93B2F4
+    db 0, $1A
+org $93B301
+    db 0, $1A
+org $93B30E
+    db 0, $1A
+org $93B31B
+    db 0, $1A
+
 ; the slot screen's text upload at entry (DMA param 82:A9FC, $7E:3400 -> VRAM $6A00): strips $14-$1D -> $14-$1F, so
 ; it carries strip $1E
 org $82AA00

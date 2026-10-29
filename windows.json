@@ -256,13 +256,23 @@
   "tune_menu": {
    "sliced": true,
    "cells": 4,
-   "px": 54,
-   "how": "measured: tune-up menu x 24 to frame 80 (the picked row repeats as a title, x 26-88)"
+   "px": 72,
+   "how": "phase 7 layout (tools/winmap.py tune): 8-tile rows, per-item rooms in cells.json (was x 24 to frame 80)"
+  },
+  "tune_title": {
+   "px": 64,
+   "lines": 1,
+   "how": "phase 7 layout (tools/winmap.py tune): the picked row as a title, 8 tiles of strip $0E"
   },
   "tune_armor": {
-   "px": 54,
+   "px": 96,
    "lines": 1,
-   "how": "measured: armor exchange 'current' box value x 58 to frame 112 (the list itself x 138-240)"
+   "how": "phase 7 layout (tools/winmap.py tune): armor list rows 12 tiles (was 6, x 138-186)"
+  },
+  "tune_current": {
+   "px": 96,
+   "lines": 1,
+   "how": "phase 7 layout (tools/winmap.py tune): current armor box line 2, 12 tiles of strip $1A (was x 58 to frame 112 after the label)"
   },
   "tune_desc": {
    "px": 240,
@@ -1758,7 +1768,7 @@
    "scene": "shop_sell"
   },
   "equip_93B248": {
-   "px": 54,
+   "px": 72,
    "how": "variant",
    "variant": "tune_menu"
   },
@@ -1772,28 +1782,78 @@
    "how": "variant",
    "variant": "tune_labels"
   },
+  "equip_93B2AC": {
+   "px": 64,
+   "how": "variant",
+   "variant": "tune_title"
+  },
+  "equip_93B2B9": {
+   "px": 64,
+   "how": "variant",
+   "variant": "tune_title"
+  },
+  "equip_93B2C6": {
+   "px": 64,
+   "how": "variant",
+   "variant": "tune_title"
+  },
+  "equip_93B2DE": {
+   "px": 96,
+   "how": "variant",
+   "variant": "tune_current"
+  },
+  "equip_93B2EB": {
+   "px": 96,
+   "how": "variant",
+   "variant": "tune_current"
+  },
+  "equip_93B2F8": {
+   "px": 96,
+   "how": "variant",
+   "variant": "tune_current"
+  },
+  "equip_93B305": {
+   "px": 96,
+   "how": "variant",
+   "variant": "tune_current"
+  },
+  "equip_93B312": {
+   "px": 96,
+   "how": "variant",
+   "variant": "tune_current"
+  },
+  "equip_93B31F": {
+   "px": 96,
+   "how": "variant",
+   "variant": "tune_current"
+  },
+  "equip_93B334": {
+   "px": 96,
+   "how": "variant",
+   "variant": "tune_armor"
+  },
   "equip_93B33D": {
-   "px": 54,
+   "px": 96,
    "how": "variant",
    "variant": "tune_armor"
   },
   "equip_93B346": {
-   "px": 54,
+   "px": 96,
    "how": "variant",
    "variant": "tune_armor"
   },
   "equip_93B34F": {
-   "px": 54,
+   "px": 96,
    "how": "variant",
    "variant": "tune_armor"
   },
   "equip_93B358": {
-   "px": 54,
+   "px": 96,
    "how": "variant",
    "variant": "tune_armor"
   },
   "equip_93B361": {
-   "px": 54,
+   "px": 96,
    "how": "variant",
    "variant": "tune_armor"
   },

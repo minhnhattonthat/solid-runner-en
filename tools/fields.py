@@ -137,11 +137,18 @@ VARIANTS = {
                     "how": "measured: save_game slot (work/qa/savegame) place x 80 to frame 236, left-aligned; the "
                            "slot's name/TIME/LV line is the 8x8 font (name x 72 to TIME at 152: 10 cells)"},
     # Riff's tune-up (scene tune_riff + tools/lua/pin.lua POKE of his resume script, work/play/riff6 0002-0006)
-    "tune_menu": {"sliced": True, "cells": 4, "px": 54, "ids": ["equip_93B248"],
-                  "how": "measured: tune-up menu x 24 to frame 80 (the picked row repeats as a title, x 26-88)"},
-    "tune_armor": {"px": 54, "lines": 1, "ids": ["equip_93B33D", "equip_93B346", "equip_93B34F", "equip_93B358",
-                                                 "equip_93B361"],
-                   "how": "measured: armor exchange 'current' box value x 58 to frame 112 (the list itself x 138-240)"},
+    "tune_menu": {"sliced": True, "cells": 4, "px": 72, "ids": ["equip_93B248"],
+                  "how": "phase 7 layout (tools/winmap.py tune): 8-tile rows, per-item rooms in cells.json (was "
+                         "x 24 to frame 80)"},
+    "tune_title": {"px": 64, "lines": 1, "ids": ["equip_93B2AC", "equip_93B2B9", "equip_93B2C6"],
+                   "how": "phase 7 layout (tools/winmap.py tune): the picked row as a title, 8 tiles of strip $0E"},
+    "tune_armor": {"px": 96, "lines": 1, "ids": ["equip_93B334", "equip_93B33D", "equip_93B346", "equip_93B34F",
+                                                 "equip_93B358", "equip_93B361"],
+                   "how": "phase 7 layout (tools/winmap.py tune): armor list rows 12 tiles (was 6, x 138-186)"},
+    "tune_current": {"px": 96, "lines": 1, "ids": ["equip_93B2DE", "equip_93B2EB", "equip_93B2F8", "equip_93B305",
+                                                   "equip_93B312", "equip_93B31F"],
+                     "how": "phase 7 layout (tools/winmap.py tune): current armor box line 2, 12 tiles of strip $1A "
+                            "(was x 58 to frame 112 after the label)"},
     "tune_desc": {"px": 240, "lines": 2, "ids": ["equip_93B376", "equip_93B38F", "equip_93B3AB", "equip_93B3C9",
                                                  "equip_93B3E7", "equip_93B403"],
                   "how": "measured: armor exchange description in the dialogue box x 8-247"},

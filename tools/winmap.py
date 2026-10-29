@@ -84,17 +84,24 @@ def setup_slot(rows):
     return rows
 
 
-def window(w, lines, left=(0x2805, 0x2806, 0x2807, 0x2808), right=(0x6805, 0x6806, 0x6807, 0x6808)):
-    """Rows of a framed text window w wide: lines = [(strip, first tile, tiles)] one per text line, a blank column
-    before the text (the cursor's room)."""
-    rows = [[0x2801, 0x2802, 0x2803] + [0x2804] * (w - 5) + [0x6802, 0x6801]]
+def window(w, lines, frame=0x2800, blank=0, lead=1):
+    """Rows of a framed text window w wide: lines = [(strip, first tile, tiles)] one per text line, `lead` blank
+    columns before the text (the cursor's room). frame: the sheet's frame tiles are frame + 1..$C (right side
+    mirrored, + $4000); blank: its empty text cell."""
+    f = lambda n, mirror=False: frame + n + (0x4000 if mirror else 0)  # noqa: E731
+    rows = [[f(1), f(2), f(3)] + [f(4)] * (w - 6) + [f(3, True), f(2, True), f(1, True)]]
     last = 2 * len(lines) - 1
     for k in range(last + 1):
         strip, t0, n = lines[k // 2]
-        side = 3 if k == last else min(k, 2)  # frame sides: first row, second, middle rows, last row
-        rows.append([left[side], 0] + [text(strip, t0 + t, k % 2) for t in range(n)] + [0] * (w - 3 - n)
-                    + [right[side]])
-    return rows + [[0x2809, 0x280A, 0x280B] + [0x280C] * (w - 5) + [0x680A, 0x6809]]
+        side = 8 if k == last else 5 + min(k, 2)  # frame sides: first row, second, middle rows, last row
+        rows.append([f(side)] + [blank] * lead + [text(strip, t0 + t, k % 2) for t in range(n)]
+                    + [blank] * (w - 2 - lead - n) + [f(side, True)])
+    return rows + [[f(9), f(0xA), f(0xB)] + [f(0xC)] * (w - 6) + [f(0xB, True), f(0xA, True), f(9, True)]]
+
+
+def put(rows, r0, c0, rect):
+    for i, r in enumerate(rect):
+        rows[r0 + i][c0:c0 + len(r)] = r
 
 
 def data_submenu(rows):
@@ -105,7 +112,28 @@ def data_submenu(rows):
     return rows
 
 
-EDITS = {3: [setup], 0: [setup_slot, data_submenu]}
+def tune(rows):
+    """Riff's tune-up (sheet 9C_02, loaded at $7F:9000 beside a bank $9D sheet; descriptors in bank 93, src rows
+    relative to this sheet). Frame tiles $28C1-$28CC, blank cell $20C0.
+    Menu (93:A7A2, rows 0-9): 9 -> 11 wide; its string (equip_93B248) puts Add Armor / Upgrade at px 0 / 72 of strip
+    $10 and Swap Armor / Quit at px 120 / 192 (strip $12), as the setup labels.
+    Title (93:AAAA, rows 10-13, the picked row: strip $0E): 10 -> 11 wide, 8 tiles.
+    Armor list (93:AC1C, rows 14-28): each name (one strip each, $10-$16) 6 -> 12 tiles.
+    Current armor (93:AC23): 13x4 at rows 17-20 -> 14x6 at rows 3-8 cols 16-29 ("Current:" = strip $18 tiles 3-8,
+    the name = strip $1A on a line of its own: records 93:B2DA.., asm/menus.asm); the add-armor yes/no window
+    (93:AA9C) that sat there moves to rows 32-37 cols 19-26 (free)."""
+    kw = dict(frame=0x28C0, blank=0x20C0)
+    put(rows, 32, 19, [r[16:24] for r in rows[3:9]])
+    put(rows, 0, 0, window(11, [(0x10, 0, 8), (0x12, 0, 8), (0x10, 9, 6), (0x12, 9, 6)], **kw))
+    put(rows, 10, 0, window(11, [(0x0E, 0, 8)], **kw))
+    for line in range(4):
+        for half in (0, 1):
+            rows[15 + 2 * line + half][2:14] = [text(0x10 + 2 * line, t, half) for t in range(12)]
+    put(rows, 3, 16, window(14, [(0x18, 3, 6), (0x1A, 0, 12)], lead=0, **kw))
+    return rows
+
+
+EDITS = {3: [setup], 0: [setup_slot, data_submenu], 2: [tune]}
 
 
 def plan(rom):

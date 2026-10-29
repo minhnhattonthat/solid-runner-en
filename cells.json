@@ -1,8 +1,8 @@
 {
  "#": "Sliced menus: where each ' | ' item of the English starts. A number is the original column (12 px cell) of the JP item: tools/insert.py blanks the menu's run, then puts {tab:n} before each item (room: up to the next item's column). [n, px]: column n with px of room, for a window re-laid for the English (tools/winmap.py; menu_82C4DD: the shadow of Right Shoulder's last letter lands under the R of Right Arm). A string is put before the item as it is (for menus laid out in lines).",
- "equip_93B248": [0, 4, 8, 12],
+ "equip_93B248": [[0, 72], [10, 72], [6, 48], [16, 48]],
  "equip_93B274": [0, 4, 8],
- "equip_93B291": [0, 2],
+ "equip_93B291": [[0, 24], [2, 48]],
  "equip_938D77": [0, 4, 8],
  "equip_938D8A": [0, 6],
  "equip_938D9B": [0, 6],

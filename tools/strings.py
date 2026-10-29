@@ -37,7 +37,12 @@ LISTS = {
     "missions": [(0x9296A3, 0x929719), (0x92973B, 0x9299C7)],
     # Turbo File menu and errors, table 92:AE6E (19 words), then the not-connected message
     "turbo": [(0x92AE94, 0x92B2CE), (0x929F06, None)],
-    "equip": [(0x93B33D, 0x93B36A), (0x93B376, 0x93B430),  # tables 93:B32A, 93:B36A
+    "equip": [(0x93B334, 0x93B36A), (0x93B376, 0x93B430),  # tables 93:B328 (armor names), 93:B36A
+              # Riff's tune-up: titles (records `00 0E ptr16 text FF`, the picked menu row) and the current armor's
+              # name (records `06 18 00 00 text FF`: column, strip)
+              (0x93B2AC, None), (0x93B2B9, None), (0x93B2C6, None),
+              (0x93B2DE, None), (0x93B2EB, None), (0x93B2F8, None), (0x93B305, None), (0x93B312, None),
+              (0x93B31F, None),
               (0x93B62E, 0x93B64E),
               (0x93B248, None), (0x93B274, None), (0x93B291, None),  # menu labels, no terminator between them
               (0x938D77, 0x938DAC)],  # item menu

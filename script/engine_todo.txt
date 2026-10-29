@@ -1,14 +1,7 @@
 # Entries whose English keeps full names/terms (D4) but outgrows the box measured for the JP: phase 7 widens the
 # box, cell or buffer, then deletes the line here. batches.py check reports their width as a warning, not an error.
 # id	what phase 7 must do
-equip_93B33D	tune_armor 54 px < Fireproof Armor
-equip_93B346	tune_armor 54 px < Insulated Armor
-equip_93B34F	tune_armor 54 px < Poisonproof Armor
-equip_93B358	tune_armor 54 px < Acidproof Armor
-equip_93B361	tune_armor 54 px < Recovery Armor
 missions_9296FB	results 120 px < The Man Who Never Came Home
 # sliced menus: the window shows the text bitmap in rows of N cells (verified on menu_setup: each row is a 4-cell
 # run of one linear string), so an item can't pass its row without a wider row in the window's tilemap builder
-equip_93B248	tune_menu rows of 4 cells (48 px) < Add Armor 51, Swap Armor 58
-equip_93B291	tune labels Cost/Current: layout not seen in game (cells.json guess [0, 2])
 menu_82C574	battle_keys labels code-placed (budgets 50/50/55/55/104/55/104), not seen with the English yet
