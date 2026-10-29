@@ -38,7 +38,9 @@ Standing non-bugs, `ok`:
   inside them is expected.
 - English text types out about twice as long as the Japanese did; a box caught half-typed is fine.
 - Short labels are deliberate rewordings to fit their cells (glossary.md): Drop, Mid (field menu), Hit and Ammo
-  (shop parts view), Items / Weapons (shop Buy/Sell submenu), Cost (shop count window).
+  (shop parts view), Items / Weapons (shop Buy/Sell submenu), Cost (shop count window); battle HUD enemy names
+  N. Vague, G. Hunter, P. Lizard, Weissheit (for Neo Weissheit): the HUD holds 9 letters.
+- The `credits` scene is the boot intro crawl (area 17 room 08); the staff roll is `staff_intro`.
 - The boot intro crawl lines are centred in a narrow band (x 30-226); the original clips its own long lines there.
 
 ## Verdicts

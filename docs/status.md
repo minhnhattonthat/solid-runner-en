@@ -19,20 +19,21 @@ Updated at the end of every session. Keep it to what the next session needs; his
   as far as known, started at the real text anyway; `insert.entries` decodes a moved head's whole JP).
   New scenes: `shop_buy_count`, `vm_*` (`vmtext(op)`: 0E window + jump to a text op; elevators/keypad seen OK; the
   `vm_9194..` ones show garbage on the JP too = wrong entry, not a bug).
-- **Phase 8 next (in this order):**
-  1. (done) Results: the amount ($1A40, 7-glyph field) is first drawn where the label left the cursor, the count-up
-     redraws at column 6: labels end in `{tab:06}` now; ends 0G / 2500G like the JP.
-  2. Teal/green pixels above "Status" in the info submenu header and list row (menu_info, info_status, info_data,
-     data_people_*; zoom work/qa/zoom/c2/id_z2.png): not in JP. Topics selection bar in info_terminal_4 (DATA
-     LIBRARY tabs) keeps the JP 2-glyph width: widen it or shorten the label (Topics/People/Enemies).
-  2b. (done) teal marks (VWF clears rows 0-2/14-15 in overwrite mode), tab highlight 40 px (asm/menus.asm).
-  3. NEXT. A re-tour at `--jobs 12` was killed by Claude Code for low system memory (2026-10-30): `work/qa/tour` is
-     now a mix of the old and new build; re-run it whole with `--jobs 4`. Then re-tour everything on the final build (copy to build/qa_tour.sfc first), `textscan.py`, `qa_gate.py init`
-     (changed sheets lose their verdicts), `todo`, re-review, recheck files `verdicts/recheck_<n>.tsv` for fixed
-     issues, until `qa_gate.py check` exits 0.
-  4. Graphics rows: G3 (debug-menu font B3_10/11) not reachable in play; G4 (`EAは/あけて` tags, A3_05 tiles
-     0x1D80+, not in area_01's VRAM): find the screen or record as unused. Game Over / THE END / credits already
-     English (tour scenes game_over, ending_*, credits).
+  Round 2 (also fixed and seen): Results `{tab:06}`, teal marks (VWF clears rows 0-2/14-15 in overwrite mode),
+  DATA LIBRARY tab highlight 40 px. Round 3 found 3: item list rows all on row 1 (the end-of-string wrap now takes
+  column 0 of the next strip; vwf_pos `.edge` is for a full line before `{br}`), battle HUD enemy names over 9
+  letters (HUD reads its own runners table copy, `insert.HUD_NAMES`, D13). vm_9194/95A2/979F scenes start at
+  their text op. `textscan.py`: 0 Japanese in 4088 drawn strings.
+  Memory: Claude Code reaps background tours when RAM is low; run tours in foreground batches (`run_scenes.py
+  <names> --jobs 3`, ~35 scenes < 10 min). Verdict files of a new round get a new prefix (`r3_chunk_*.tsv`) so the
+  still-current ones survive. `run_scenes.py` writes an overview `sheet*.png` in the out dir: delete it from the
+  tour before `qa_gate.py init`.
+- **Phase 8 next:** round-3 review of the 101 changed sheets (final build c107c6ae, `work/qa/tour_rom.sha1`); fix,
+  recheck, until `qa_gate.py check` exits 0. Graphics rows: G3 debug-menu font not reachable in play; G4
+  (`EAは/あけて` tags, A3_05) not on any of the 104 tour screens: treated as unused. Staff roll = scene
+  `staff_intro` (English in the original), THE END / Game Over English.
+- **Phase 9:** `tools/release.py` written (build, tests, smoke, jp_left on script slots, gate + tour from this
+  build, checksum, BPS make/re-apply, README with hashes, zip). Not run yet.
   Non-blocking: English types ~2x the JP's glyphs; the player can set Message Speed: Fast. `{c1C:xx}` slow print not
   timed.
 - **Phase 7 done so far:** `tools/insert.py` (run by `build.py`): every English entry in free space, each slot a
@@ -114,4 +115,5 @@ Updated at the end of every session. Keep it to what the next session needs; his
   emu.py wrote default key mappings to `tools/mesen/settings.json`. (non-blocking) Name spellings chosen by the
   controller with no official source: Weissheit, Raoel, Brundle, Lecter, Orbiselus, Bivisible, Dark Dragon (暗龍),
   Daemon, runner/weapon names in glossary.md; register/SFX/speech layout D9-D10. Owner may override; a rename is a
-  glossary edit + `batches.py check` sweep.
+  glossary edit + `batches.py check` sweep. (non-blocking) Battle HUD short names N. Vague / G. Hunter /
+  P. Lizard / Weissheit (D13, D4's flagged last resort): owner may prefer other forms (`insert.HUD_NAMES`, 9 letters).
