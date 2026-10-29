@@ -154,7 +154,38 @@ def battle_keys(rows):
     return rows
 
 
-EDITS = {3: [setup], 0: [setup_slot, data_submenu], 1: [battle_keys], 2: [tune]}
+def save_slot(rows):
+    """Save/load slot (sheet 9C_17, 93:B707): the JP name line's `=` between first and last name (row 40 col 12)
+    becomes a blank: "Shu Erskine", as in the dialogue."""
+    rows[40][12] = 0x2400
+    return rows
+
+
+EDITS = {3: [setup], 0: [setup_slot, data_submenu], 1: [battle_keys], 2: [tune], 17: [save_slot]}
+
+# The 8x8 font of the save slot's name line (block AC_05, 2bpp; 93:B77D: tile = code - $41): the default names'
+# letter pairs (font.DIGRAPHS, codes 03-05) land on blank tiles $C2-$C4. Re-encoded it outgrows its slot, so it goes
+# to the FF run after bank $AC's last block and its table word is repointed.
+FONT8 = (0xAC, 5, 0xD99B)
+DIGRAPHS8 = {0xC2: ["###.....", "##......", "##..####", "###.##..", "##..##..", "##..##..", "###.##..", "........"],
+             0xC3: [".....#..", ".....#..", ".###.#.#", "##...##.", ".##..##.", "..##.#.#", "###..#.#", "........"],
+             0xC4: [".##.....", "#..#....", "#...####", "#.####..", "#..###..", "#..###..", ".###.#..", "........"]}
+
+
+def font8(rom):
+    """[(file offset, bytes, writer)]: AC_05 with the digraph tiles, and its table word."""
+    bank, i, addr = FONT8
+    base = (bank & 0x7F) * 0x8000
+    word = base + 2 * i
+    out = bytearray(lz.decompress(rom, base + (rom[word] | rom[word + 1] << 8) - 0x8000)[0])
+    for t, rows in DIGRAPHS8.items():
+        assert not any(out[t * 16:t * 16 + 16]), f"8x8 tile {t:02X} not blank"
+        for r, bits in enumerate(rows):
+            out[t * 16 + 2 * r] = int(bits.replace("#", "1").replace(".", "0"), 2)
+    data = lz.compress_min(bytes(out))
+    o = base + addr - 0x8000
+    assert rom[o:o + len(data) + MARGIN] == b"\xff" * (len(data) + MARGIN), "AC FF run taken"
+    return [(o, data, "font8 AC_05 (digraphs)"), (word, addr.to_bytes(2, "little"), "font8 table word")]
 
 
 def plan(rom):
@@ -176,12 +207,12 @@ def plan(rom):
         table += ((first + len(region)) & 0x7FFF | 0x8000).to_bytes(2, "little")
         region += data
     assert first + len(region) <= BASE + 0x8000 - MARGIN, "bank $9C full"
-    return [(BASE, bytes(table), "sheet table 9C"), (first, bytes(region), "sheets 9C (re-packed)")]
+    return [(BASE, bytes(table), "sheet table 9C"), (first, bytes(region), "sheets 9C (re-packed)")] + font8(rom)
 
 
 def allowed(rom):
-    """File offsets plan() may write: all of bank $9C (its table, blocks and FF tail)."""
-    return set(range(BASE, BASE + 0x8000))
+    """File offsets plan() may write: all of bank $9C (its table, blocks and FF tail), and font8()'s."""
+    return set(range(BASE, BASE + 0x8000)) | {o + k for o, d, _ in font8(rom) for k in range(len(d))}
 
 
 def main():
