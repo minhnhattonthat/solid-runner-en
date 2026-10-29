@@ -30,10 +30,16 @@ lorom
 !MC = $1D95        ; 3 bytes: overwrite clear mask, w px from sh+1
 !B = $1D98         ; 3 words: bitmap offsets of the 3 tiles the glyph touches
 !lp = $1D9E        ; pixel width of the line since the engine last zeroed $18B8 (16-bit)
+!ocol = $1DA1      ; the original's column ($18BA as it would be, 0-9), for its wrap at the end of a string
+!lpc = $1DA2       ; lp in 12 px columns, rounded up: the line width the centring code reads
+!ysave = $1DA3     ; Y on entry: index of the glyph's (last) byte in [$50]
 
 org $84A993
     JML vwf_draw
     NOP #2
+
+org $84AA2A
+    LDA !lpc                ; line lengths for centring (84:A8FA, 20 columns) in 12 px columns, not glyphs
 
 org $84F000
 vwf_draw:
@@ -41,6 +47,7 @@ vwf_draw:
     PHX
     PHY
     PHA
+    STY !ysave
     LDA $18B8               ; 0 at each string/line start (84:A87B, A8C6, A983): the redraw after A skips the
     BEQ .moved              ; typewriter (84:A71C) restarts at the same $18BA/$18BB the VWF left
     LDA $18BA
@@ -54,6 +61,7 @@ vwf_draw:
     STA !row
     STA !rowout
     LDA $18BA
+    STA !ocol
     STA $4202
     LDA #12
     STA $4203
@@ -65,6 +73,7 @@ vwf_draw:
 .same:
     LDA $18B8               ; the engine zeroes it at each string/line start
     BNE +
+    STZ !lpc
     STZ !lp
     STZ !lp+1
 +   PLA
@@ -94,11 +103,62 @@ vwf_draw:
     BNE .advance
     JSR vwf_plot
 .advance:
+    INC $18B8               ; glyph count, as the original: its field padding (84:A897) counts glyphs
+    REP #$21                ; lp += w, lpc = lp in 12 px columns rounded up (centring, see 84:AA2A above)
+    LDA !w
+    AND #$00FF
+    ADC !lp
+    STA !lp
+    STA $4204
+    SEP #$20
+    LDA #12
+    STA $4206
+    NOP #8
+    LDA $4214
+    LDX $4216
+    BEQ +
+    INC
++   STA !lpc
     REP #$21
     LDA !w
     AND #$00FF
     ADC !px
     STA !px
+    SEP #$20
+    ; The original wraps to the next strip when its column reaches 10. Mid-string the VWF wraps by pixels instead,
+    ; but at the end of a string it keeps the original's wrap: list rows (item name at column 0, count at 8) rely
+    ; on it to step down a row.
+    INC !ocol
+    LDA !ocol
+    CMP #10
+    BNE .pos
+    STZ !ocol
+    LDY !ysave
+    INY
+    LDA [$50],y
+    CMP #$FD
+    BCC .pos
+    REP #$20                ; px = start of the strip after the one holding the last pixel drawn
+    LDA !px
+    DEC
+    STA $4204
+    SEP #$20
+    LDA #120
+    STA $4206
+    NOP #8
+    LDA $4214
+    INC
+    STA $4202
+    LDA #120
+    STA $4203
+    NOP #4
+    REP #$20
+    LDA $4216
+    STA !px
+    SEP #$20
+.pos:
+    REP #$20
+    LDA !px
     STA $4204
     SEP #$20
     LDA #12
@@ -122,23 +182,6 @@ vwf_draw:
     ADC !row
     STA $18BB
     STA !rowout
-    ; $18B8 = the line's width so far in 12 px columns, rounded up: the engine centres lines (84:A8FA, from 20
-    ; columns) and pads fields to $18B7 columns (84:A897) with it, both by the original's 12 px count
-    REP #$21
-    LDA !w
-    AND #$00FF
-    ADC !lp
-    STA !lp
-    STA $4204
-    SEP #$20
-    LDA #12
-    STA $4206
-    NOP #8
-    LDA $4214
-    LDX $4216
-    BEQ +
-    INC
-+   STA $18B8
     SEP #$30
     LDA #$00                ; B = 0 on return, as the original draw leaves it: the typewriter's next
     XBA                     ; JSL $809DB2 (84:A856) takes its DMA size from 16-bit A
