@@ -123,8 +123,9 @@ VARIANTS = {
                    "how": "measured: info_terminal_1 price x 196 to frame 252"},
     "data_tabs": {"sliced": True, "px": 62, "ids": ["info_87A920"],
                   "how": "measured: info_terminal_4 column heads at x 24, 88, 152"},
-    "info_choice": {"sliced": True, "px": 140, "ids": ["info_879681"],
-                    "how": "guess: accept at cell 0, cancel at cell 12 of the list row; screen needs a request"},
+    "info_choice": {"sliced": True, "px": 78, "ids": ["info_879681"],
+                    "how": "measured: scene info_choice (request terminal, $70:0141+ bit 7) accept x 16, cancel x 96, "
+                           "frame 248: each word to 78 px (phase 7: cancel must start at x 96)"},
     "runner_data": {"px": 164, "lines": 4, "ids": ["runner_status_87B2F9"],
                     "how": "measured: runner_status data box x 78 to frame 244, 4 rows"},
     "people_stats": {"px": 212, "lines": 1, "lists": ["runner_status"],
@@ -133,9 +134,18 @@ VARIANTS = {
     "save_places": {"px": 154, "lines": 1, "lists": ["places2"],
                     "how": "measured: save_game slot (work/qa/savegame) place x 80 to frame 236, left-aligned; the "
                            "slot's name/TIME/LV line is the 8x8 font (name x 72 to TIME at 152: 10 cells)"},
-    "equip_other": {"px": 212, "lines": 1, "lists": ["equip"],
-                    "how": "guess: equipment texts not seen on screen (save/shop ones have their own variants)"},
-    "third_name": {"px": 90, "lines": 1, "chars": 6, "ids": ["default_names_93CB38", "places2_93C20B"],
+    # Riff's tune-up (scene tune_riff + tools/lua/pin.lua POKE of his resume script, work/play/riff6 0002-0006)
+    "tune_menu": {"sliced": True, "cells": 4, "px": 54, "ids": ["equip_93B248"],
+                  "how": "measured: tune-up menu x 24 to frame 80 (the picked row repeats as a title, x 26-88)"},
+    "tune_armor": {"px": 54, "lines": 1, "ids": ["equip_93B33D", "equip_93B346", "equip_93B34F", "equip_93B358",
+                                                 "equip_93B361"],
+                   "how": "measured: armor exchange 'current' box value x 58 to frame 112 (the list itself x 138-240)"},
+    "tune_desc": {"px": 240, "lines": 2, "ids": ["equip_93B376", "equip_93B38F", "equip_93B3AB", "equip_93B3C9",
+                                                 "equip_93B3E7", "equip_93B403"],
+                  "how": "measured: armor exchange description in the dialogue box x 8-247"},
+    "tune_labels": {"sliced": True, "px": 40, "ids": ["equip_93B274", "equip_93B291"],
+                    "how": "measured: 'current' label x 18 to its value at 58, cost label x 138 to the number at 194; "
+                           "the add-armor yes/no (増やす/やめる) needs a level-up, not seen: take the smaller box"},    "third_name": {"px": 90, "lines": 1, "chars": 6, "ids": ["default_names_93CB38", "places2_93C20B"],
                    "how": "measured: runner name ($1ACF, 6 glyphs + FF) in name_entry_a x 144 to frame 236"},
     "data_submenu": {"sliced": True, "cells": 2, "px": 22, "ids": ["labels_82AEF4"],
                      "how": "measured: info_data submenu rows of 2 cells x 118, frame 143 (phase 7: widen)"},

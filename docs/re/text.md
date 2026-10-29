@@ -135,7 +135,9 @@ checks them on screen. Banks $80-$93 hold code and tables mixed with these lists
   not 84:B017.
 - **Equipment texts** 93:B33D (labels, table 93:B32A) / 93:B376 (descriptions, table 93:B36A): index $1019, loaded
   from SRAM $70:0790 by the save room's init 93:B99E; drawn by 93:AD9A, registered as a callback by 93:AC50
-  (`$3E` + JSL 82:BE52). Screen not found yet (guess: a growth-mode menu, labels 93:B248/B274/B291).
+  (`$3E` + JSL 82:BE52). **Verified** screen: Riff's tune-up in the arena garage (area 15 room 00, script 93:A5AE;
+  menu 93:B248 装甲増加/装甲交換/強化改造/やめる; armor exchange shows names in a list + a "current" box and the
+  description in the dialogue box). Scene `tune_riff` + `tools/lua/pin.lua` (status.md).
 - **Second renderer 84:B017** (fixed-pitch 8x16 tilemap font): its only caller 82:9024 sits in a routine reached
-  through a pointer (no JSL/JSR to 82:8FBE-8FCD); not hit in setup, shop, status, item or battle scenes. Screen still
-  unknown.
+  through a pointer (no JSL/JSR to 82:8FBE-8FCD); not hit in any of the 92 tour scenes (cpulog, 2026-10-30). Screen
+  unknown; probably unused.

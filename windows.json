@@ -235,8 +235,8 @@
   },
   "info_choice": {
    "sliced": true,
-   "px": 140,
-   "how": "guess: accept at cell 0, cancel at cell 12 of the list row; screen needs a request"
+   "px": 78,
+   "how": "measured: scene info_choice (request terminal, $70:0141+ bit 7) accept x 16, cancel x 96, frame 248: each word to 78 px (phase 7: cancel must start at x 96)"
   },
   "runner_data": {
    "px": 164,
@@ -253,10 +253,26 @@
    "lines": 1,
    "how": "measured: save_game slot (work/qa/savegame) place x 80 to frame 236, left-aligned; the slot's name/TIME/LV line is the 8x8 font (name x 72 to TIME at 152: 10 cells)"
   },
-  "equip_other": {
-   "px": 212,
+  "tune_menu": {
+   "sliced": true,
+   "cells": 4,
+   "px": 54,
+   "how": "measured: tune-up menu x 24 to frame 80 (the picked row repeats as a title, x 26-88)"
+  },
+  "tune_armor": {
+   "px": 54,
    "lines": 1,
-   "how": "guess: equipment texts not seen on screen (save/shop ones have their own variants)"
+   "how": "measured: armor exchange 'current' box value x 58 to frame 112 (the list itself x 138-240)"
+  },
+  "tune_desc": {
+   "px": 240,
+   "lines": 2,
+   "how": "measured: armor exchange description in the dialogue box x 8-247"
+  },
+  "tune_labels": {
+   "sliced": true,
+   "px": 40,
+   "how": "measured: 'current' label x 18 to its value at 58, cost label x 138 to the number at 194; the add-armor yes/no (増やす/やめる) needs a level-up, not seen: take the smaller box"
   },
   "third_name": {
    "px": 90,
@@ -1737,74 +1753,74 @@
    "scene": "shop_sell"
   },
   "equip_93B248": {
-   "px": 212,
+   "px": 54,
    "how": "variant",
-   "variant": "equip_other"
+   "variant": "tune_menu"
   },
   "equip_93B274": {
-   "px": 212,
+   "px": 40,
    "how": "variant",
-   "variant": "equip_other"
+   "variant": "tune_labels"
   },
   "equip_93B291": {
-   "px": 212,
+   "px": 40,
    "how": "variant",
-   "variant": "equip_other"
+   "variant": "tune_labels"
   },
   "equip_93B33D": {
-   "px": 212,
+   "px": 54,
    "how": "variant",
-   "variant": "equip_other"
+   "variant": "tune_armor"
   },
   "equip_93B346": {
-   "px": 212,
+   "px": 54,
    "how": "variant",
-   "variant": "equip_other"
+   "variant": "tune_armor"
   },
   "equip_93B34F": {
-   "px": 212,
+   "px": 54,
    "how": "variant",
-   "variant": "equip_other"
+   "variant": "tune_armor"
   },
   "equip_93B358": {
-   "px": 212,
+   "px": 54,
    "how": "variant",
-   "variant": "equip_other"
+   "variant": "tune_armor"
   },
   "equip_93B361": {
-   "px": 212,
+   "px": 54,
    "how": "variant",
-   "variant": "equip_other"
+   "variant": "tune_armor"
   },
   "equip_93B376": {
-   "px": 212,
+   "px": 240,
    "how": "variant",
-   "variant": "equip_other"
+   "variant": "tune_desc"
   },
   "equip_93B38F": {
-   "px": 212,
+   "px": 240,
    "how": "variant",
-   "variant": "equip_other"
+   "variant": "tune_desc"
   },
   "equip_93B3AB": {
-   "px": 212,
+   "px": 240,
    "how": "variant",
-   "variant": "equip_other"
+   "variant": "tune_desc"
   },
   "equip_93B3C9": {
-   "px": 212,
+   "px": 240,
    "how": "variant",
-   "variant": "equip_other"
+   "variant": "tune_desc"
   },
   "equip_93B3E7": {
-   "px": 212,
+   "px": 240,
    "how": "variant",
-   "variant": "equip_other"
+   "variant": "tune_desc"
   },
   "equip_93B403": {
-   "px": 212,
+   "px": 240,
    "how": "variant",
-   "variant": "equip_other"
+   "variant": "tune_desc"
   },
   "equip_93B62E": {
    "px": 240,
@@ -17859,7 +17875,7 @@
    "variant": "info_status"
   },
   "info_879681": {
-   "px": 140,
+   "px": 78,
    "how": "variant",
    "variant": "info_choice"
   },

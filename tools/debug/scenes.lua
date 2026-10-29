@@ -98,6 +98,8 @@ S.list = {
   -- data analysis screen 87:B227 (runner_status), called by VM op 05 injected over the opening thread
   info_terminal = { area = 0x01, room = 0x00, run = { 0x05, 0x59, 0x83, 0x87, 0x00 } },
   info_terminal_1 = { area = 0x01, room = 0x00, run = { 0x05, 0x59, 0x83, 0x87, 0x00 }, keys = { { 500, "a" } } },
+  info_choice = { area = 0x01, room = 0x00, run = { 0x05, 0x59, 0x83, 0x87, 0x00 }, flags = fill(0x700141, 24, 0x80),
+    keys = { { 500, "a" }, { 580, "a" } } },
   info_terminal_2 = { area = 0x01, room = 0x00, run = { 0x05, 0x59, 0x83, 0x87, 0x00 },
     keys = { { 500, "down" }, { 540, "a" } } },
   info_terminal_3 = { area = 0x01, room = 0x00, run = { 0x05, 0x59, 0x83, 0x87, 0x00 },
@@ -106,6 +108,8 @@ S.list = {
     keys = { { 500, "down" }, { 540, "down" }, { 580, "down" }, { 620, "a" } } },
   -- Riff's tune-up (area 1C room 00 object, A8:86BD jumps to 93:A5AE): equipment/growth texts 93:B33D.. (93:AD9A)
   tune_shop = { area = 0x01, room = 0x00, run = { 0x43, 0xAE, 0xA5, 0x93 }, mash = { "a", 40, 200 }, frames = 3400 },
+  -- Riff in the arena garage (area 15 room 00, objects 94:8472, script 94:87A2 -> resume 94:8866: choices, tune-up)
+  tune_riff = { area = 0x15, room = 0x00, flags = { [0x70003D] = 0x01 }, frames = 2400 },
   runner_status = { area = 0x01, room = 0x00, run = { 0x05, 0x27, 0xB2, 0x87, 0x00 } },
   -- scripted battles: op 7D records {id, formation, callback} found in the event banks
   battle_97DFE8 = battle(0xE8, 0xDF, 0x97),
