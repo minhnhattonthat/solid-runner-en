@@ -17,6 +17,7 @@ community docs for Solid Runner as of 2026-10-29).
 | [events.md](events.md) | event-script VM, text opcodes, map loading (area/room), story state in SRAM, battles, map headers, insertion plan | dispatcher, text ops, map loading, battle op verified; ~40 opcode lengths to read; story flags unmapped |
 | [rom-map.md](rom-map.md) | header, bank map, LZ/RLE compression, free space | LZ verified; bank map partly guessed |
 | [vwf.md](vwf.md) | text bitmap layout (strips), typewriter upload, VWF hook, sliced strings, second renderer | verified by stress builds and marker tour |
+| [insert.md](insert.md) | English insertion: jump/tab control codes, slot forms, free space, layout | verified by tests/test_insert.py and the English build in game |
 | [graphics.md](graphics.md) | graphics-text survey | sweep done for LZ blocks; mid/late-game screens wait for the debug tool |
 
 Tools: `tools/font_sheet.py` (font with codes), `tools/vm_oplen.py` (VM opcode lengths), `tools/lz.py` (LZ codec),

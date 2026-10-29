@@ -157,6 +157,15 @@ vwf_draw:
     STA !px
     SEP #$20
 .pos:
+    JSR vwf_pos
+    LDA #$00                ; B = 0 on return, as the original draw leaves it: the typewriter's next
+    XBA                     ; JSL $809DB2 (84:A856) takes its DMA size from 16-bit A
+    PLY
+    PLX
+    JML $84AA16             ; CLC : RTS, as after the original draw
+
+vwf_pos:
+    ; $18BA/$18BB (and the VWF's copies) from px: the strip and column where the next glyph starts. M/X 8-bit
     REP #$20
     LDA !px
     STA $4204
@@ -183,11 +192,95 @@ vwf_draw:
     STA $18BB
     STA !rowout
     SEP #$30
-    LDA #$00                ; B = 0 on return, as the original draw leaves it: the typewriter's next
-    XBA                     ; JSL $809DB2 (84:A856) takes its DMA size from 16-bit A
+    RTS
+
+; ---- control codes ----
+; The engine's F8 cc table (84:AA39: handler, argc per even cc) ends at cc 1E with code right after it, so both
+; readers (the draw dispatch 84:A967 and the VM's text scanner 81:C942, which skips argc bytes) move to a copy
+; with three new codes:
+;   F8 20 lo hi bank   jump: read on at that address (the English in free space; a slot keeps its original length)
+;   F8 22 lo hi        jump into bank !textbank (slots of 4-5 bytes)
+;   F8 24 n            tab: move to the original's column n of this line (sliced menu cells, column layouts)
+!textbank = $BA
+
+org $84A967
+    JSR (ctl_table,x)
+org $81C942
+    LDA.l ctl_table+2,x
+
+org $84E000
+ctl_table:
+    !i = 0
+    while !i < 16
+        dw read2($84AA39+(!i*4)), read2($84AA3B+(!i*4))
+        !i #= !i+1
+    endwhile
+    dw ctl_jump, 3
+    dw ctl_jump16, 2
+    dw ctl_tab, 1
+
+ctl_jump:
+    ; in: Y = index of the first argument in [$50]; out: Y = index of the next byte to read (the engine's form)
+    LDA [$50],y
+    PHA
+    INY
+    LDA [$50],y
+    PHA
+    INY
+    LDA [$50],y
+    STA $52
+    PLA
+    STA $51
+    PLA
+    STA $50
+    LDY #$00
+    RTS
+
+ctl_jump16:
+    LDA [$50],y
+    PHA
+    INY
+    LDA [$50],y
+    STA $51
+    PLA
+    STA $50
+    LDA #!textbank
+    STA $52
+    LDY #$00
+    RTS
+
+ctl_tab:
+    LDA [$50],y
+    INY
+    PHY
+    PHA
+    LDA $18B8               ; no glyph yet in this line: px counts from the line's strip, as vwf_draw's restart
+    BNE +
+    LDA $18BB
+    STA !row
+    STZ !lp
+    STZ !lp+1
+    STZ !lpc
++   PLA
+    STA $4202
+    LDX #12
+    STX $4203
+    NOP #4
+    REP #$20
+    LDX $4216
+    STX !px
+    LDX $4217
+    STX !px+1
+    SEP #$20
+-   CMP #10                 ; the original's column for its end-of-string wrap
+    BCC +
+    SBC #10
+    BRA -
++   STA !ocol
+    JSR vwf_pos
+    INC $18B8               ; not a line start any more: the next glyph goes on from px
     PLY
-    PLX
-    JML $84AA16             ; CLC : RTS, as after the original draw
+    RTS
 
 macro plot(j)
     REP #$21
@@ -346,12 +439,18 @@ vwf_plot:
 vwf_rows:
     dw $0006, $0008, $000A, $000C, $000E, $0100, $0102, $0104, $0106, $0108, $010A
 ; tile t of a line -> strip t/15 (+$200 each), tile t%15 (+$10 each)
-vwf_tiles:
-    dw $0000, $0010, $0020, $0030, $0040, $0050, $0060, $0070, $0080, $0090, $00A0, $00B0
-    dw $00C0, $00D0, $00E0, $0200, $0210, $0220, $0230, $0240, $0250, $0260, $0270, $0280
-    dw $0290, $02A0, $02B0, $02C0, $02D0, $02E0, $0400, $0410, $0420, $0430, $0440, $0450
-    dw $0460, $0470, $0480, $0490, $04A0, $04B0, $04C0, $04D0, $04E0, $0600, $0610, $0620
+vwf_tiles:                  ; 8 strips: sliced menus run up to ~34 cells (408 px) in one string
+    !s = 0
+    while !s < 8
+        !t = 0
+        while !t < 15
+            dw (!s*$200)+(!t*$10)
+            !t #= !t+1
+        endwhile
+        !s #= !s+1
+    endwhile
+    dw $1000, $1010, $1020   ; a glyph straddling the last strip's end
 
-assert pc() <= $84FF00
+assert pc() <= $84F000
 org $84FF00
 vwf_widths:             ; 256 advance widths by code, written by tools/build.py from the font

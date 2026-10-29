@@ -599,7 +599,7 @@
   "op": "A5B693",
   "len": 62,
   "jp": "  地下2階     地下1階{br}  1階       次ページ{br}現在地下{c04:010C0270}階にいます。{endFE}",
-  "en": "B2 B1{br}1F Next Page{br}Now on B{c04:010C0270}F{endFE}",
+  "en": "B2F | B1F{br}1F | Next Page{br}Now on B{c04:010C0270}F{endFE}",
   "notes": ""
  },
  {
@@ -608,7 +608,7 @@
   "op": "A5B6E0",
   "len": 58,
   "jp": "  地下2階     地下1階{br}  1階       次ページ{br}現在{c04:010A0270}階にいます。{endFE}",
-  "en": "B2 B1{br}1F Next Page{br}Now on {c04:010A0270}F{endFE}",
+  "en": "B2F | B1F{br}1F | Next Page{br}Now on {c04:010A0270}F{endFE}",
   "notes": ""
  },
  {
@@ -617,7 +617,7 @@
   "op": "A5B729",
   "len": 56,
   "jp": "  2階       3階{br}  4階       次ページ{br}現在地下{c04:010C0270}階にいます。{endFE}",
-  "en": "2F 3F{br}4F Next Page{br}Now on B{c04:010C0270}F{endFE}",
+  "en": "2F | 3F{br}4F | Next Page{br}Now on B{c04:010C0270}F{endFE}",
   "notes": ""
  },
  {
@@ -626,7 +626,7 @@
   "op": "A5B770",
   "len": 52,
   "jp": "  2階       3階{br}  4階       次ページ{br}現在{c04:010A0270}階にいます。{endFE}",
-  "en": "2F 3F{br}4F Next Page{br}Now on {c04:010A0270}F{endFE}",
+  "en": "2F | 3F{br}4F | Next Page{br}Now on {c04:010A0270}F{endFE}",
   "notes": ""
  },
  {
@@ -635,7 +635,7 @@
   "op": "A5B7B3",
   "len": 56,
   "jp": "  5階       6階{br}  7階       次ページ{br}現在地下{c04:010C0270}階にいます。{endFE}",
-  "en": "5F 6F{br}7F Next Page{br}Now on B{c04:010C0270}F{endFE}",
+  "en": "5F | 6F{br}7F | Next Page{br}Now on B{c04:010C0270}F{endFE}",
   "notes": ""
  },
  {
@@ -644,7 +644,7 @@
   "op": "A5B7FA",
   "len": 52,
   "jp": "  5階       6階{br}  7階       次ページ{br}現在{c04:010A0270}階にいます。{endFE}",
-  "en": "5F 6F{br}7F Next Page{br}Now on {c04:010A0270}F{endFE}",
+  "en": "5F | 6F{br}7F | Next Page{br}Now on {c04:010A0270}F{endFE}",
   "notes": ""
  },
  {
@@ -860,7 +860,7 @@
   "op": "A5BF38",
   "len": 12,
   "jp": "{br}         3{end}",
-  "en": "3{end}",
+  "en": "{br}3{end}",
   "notes": ""
  },
  {
@@ -869,7 +869,7 @@
   "op": "A5BF47",
   "len": 12,
   "jp": "{br}         2{end}",
-  "en": "2{end}",
+  "en": "{br}2{end}",
   "notes": ""
  },
  {
@@ -878,7 +878,7 @@
   "op": "A5BF56",
   "len": 12,
   "jp": "{br}         1{end}",
-  "en": "1{end}",
+  "en": "{br}1{end}",
   "notes": ""
  },
  {
@@ -887,7 +887,7 @@
   "op": "A5BF65",
   "len": 14,
   "jp": "{br}        今だ！{end}",
-  "en": "Now!{end}",
+  "en": "{br}Now!{end}",
   "notes": ""
  },
  {
@@ -1067,7 +1067,7 @@
   "op": "A5E823",
   "len": 52,
   "jp": "  1階       2階{br}  3階       次ページ{br}現在{c04:010A0270}階にいます。{endFE}",
-  "en": "1F 2F{br}3F Next Page{br}Now on {c04:010A0270}F{endFE}",
+  "en": "1F | 2F{br}3F | Next Page{br}Now on {c04:010A0270}F{endFE}",
   "notes": ""
  },
  {
@@ -1076,7 +1076,7 @@
   "op": "A5E868",
   "len": 52,
   "jp": "  4階       5階{br}  7階       前ページ{br}現在{c04:010A0270}階にいます。{endFE}",
-  "en": "4F 5F{br}7F Previous Page{br}Now on {c04:010A0270}F{endFE}",
+  "en": "4F | 5F{br}7F | Previous Page{br}Now on {c04:010A0270}F{endFE}",
   "notes": ""
  },
  {

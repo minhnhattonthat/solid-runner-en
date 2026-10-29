@@ -18,7 +18,7 @@ local function field(keys, flags, frames)
   local k = {}  -- no A after the opening: it talks to Tao again
   for _, v in ipairs(keys or {}) do k[#k + 1] = { v[1] + 120, v[2] } end
   return { area = 0x01, room = 0x00, mash = { "a", 30, 100 }, wait = { { 0x700013, 1 }, { 0x7E1745, 0 } },
-    keys = k, ready_flags = flags, frames = frames or 6400 }
+    keys = k, ready_flags = flags, frames = frames or 15000 }  -- English types ~2x the JP's glyphs (A doesn't skip)
 end
 -- n SRAM bytes from lo set to v (unlock bits)
 local function fill(lo, n, v)
@@ -34,7 +34,7 @@ local function data(more, flags)
   local k = {}
   for _, v in ipairs(DATA) do k[#k + 1] = v end
   for _, v in ipairs(more) do k[#k + 1] = v end
-  return field(k, flags, 6800)
+  return field(k, flags, 15400)
 end
 local function battle(lo, hi, bank, frames)
   return { area = 0x01, room = 0x00, run = { 0x7D, lo, hi, bank, 0x00 }, frames = frames or 2600 }

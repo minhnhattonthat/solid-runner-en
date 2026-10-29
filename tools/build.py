@@ -81,6 +81,10 @@ def build(orig, engine=True, markers=False, qa=()):
                 put(i, patched[i:j], "asm")
                 i = j
             i += 1
+    if engine and not (markers or qa):
+        import insert
+        for off, data, by in insert.plan(orig)[0]:
+            put(off, data, by)
     if markers or qa:
         import marker
         ms = marker.build_markers(orig) if markers else []

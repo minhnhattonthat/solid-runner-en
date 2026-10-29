@@ -716,7 +716,7 @@
   "op": "979A80",
   "len": 50,
   "jp": "  1階       2階{br}  3階       4階{br}現在{c04:010A0270}階にいます。{endFE}",
-  "en": "1F 2F{br}3F 4F{br}Now on {c04:010A0270}F.{endFE}",
+  "en": "1F | 2F{br}3F | 4F{br}Now on {c04:010A0270}F.{endFE}",
   "notes": ""
  },
  {
@@ -3254,7 +3254,7 @@
   "op": "97F108",
   "len": 40,
   "jp": "  1階{br}  2階{br}  次ページ   現在{c04:010B0270}階にいます。{endFE}",
-  "en": "1F{br}2F{br}Next Page - Now on {c04:010B0270}F{endFE}",
+  "en": "1F{br}2F{br}Next Page | Now on {c04:010B0270}F{endFE}",
   "notes": ""
  },
  {
@@ -3263,7 +3263,7 @@
   "op": "97F134",
   "len": 44,
   "jp": "  1階{br}  2階{br}  次ページ   現在地下{c04:010B0270}階にいます。{endFE}",
-  "en": "1F{br}2F{br}Next Page - Now on B{c04:010B0270}F{endFE}",
+  "en": "1F{br}2F{br}Next Page | Now on B{c04:010B0270}F{endFE}",
   "notes": ""
  },
  {
@@ -3272,7 +3272,7 @@
   "op": "97F177",
   "len": 42,
   "jp": "  3階{br}  前ページ{br}  次ページ   現在{c04:010B0270}階にいます。{endFE}",
-  "en": "3F{br}Previous Page{br}Next Page - Now on {c04:010B0270}F{endFE}",
+  "en": "3F{br}Previous Page{br}Next Page | Now on {c04:010B0270}F{endFE}",
   "notes": ""
  },
  {
@@ -3281,7 +3281,7 @@
   "op": "97F1A5",
   "len": 46,
   "jp": "  3階{br}  前ページ{br}  次ページ   現在地下{c04:010B0270}階にいます。{endFE}",
-  "en": "3F{br}Previous Page{br}Next Page - Now on B{c04:010B0270}F{endFE}",
+  "en": "3F{br}Previous Page{br}Next Page | Now on B{c04:010B0270}F{endFE}",
   "notes": ""
  },
  {
@@ -3290,7 +3290,7 @@
   "op": "97F1EA",
   "len": 48,
   "jp": "  地下1階{br}  地下2階{br}  前ページ   現在{c04:010B0270}階にいます。{endFE}",
-  "en": "B1F{br}B2F{br}Previous Page - Now on {c04:010B0270}F{endFE}",
+  "en": "B1F{br}B2F{br}Previous Page | Now on {c04:010B0270}F{endFE}",
   "notes": ""
  },
  {
@@ -3299,7 +3299,7 @@
   "op": "97F21E",
   "len": 52,
   "jp": "  地下1階{br}  地下2階{br}  前ページ   現在地下{c04:010B0270}階にいます。{endFE}",
-  "en": "B1F{br}B2F{br}Previous Page - Now on B{c04:010B0270}F{endFE}",
+  "en": "B1F{br}B2F{br}Previous Page | Now on B{c04:010B0270}F{endFE}",
   "notes": ""
  },
  {

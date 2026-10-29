@@ -1,7 +1,10 @@
 # English table: same control codes as jp.tbl; letters, digits and punctuation reuse the Latin/symbol codes,
 # redrawn narrow by fonts/vwf.txt (tools/font.py). Kana and kanji codes keep their Japanese glyphs.
 00={br}
-01=\s
+# 01 stays the JP's 12 px blank (indents, column padding, the engine's own field padding); the English space is a
+# 4 px glyph drawn over the unused hiragana code 02.
+01={blank}
+02=\s
 A3=0
 A4=1
 A5=2
@@ -103,6 +106,10 @@ F818={c18}
 F81A={c1A:1}
 F81C={c1C:1}
 F81E={c1E}
+# asm/vwf.asm: F8 20 jump24 / F8 22 jump16 are written by tools/insert.py; {tab:n} goes to the original's column n
+F820={jump:3}
+F822={jump16:2}
+F824={tab:1}
 FD={endFD}
 FE={endFE}
 FF={end}

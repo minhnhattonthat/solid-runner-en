@@ -69,7 +69,7 @@ def selftest():
     missing = [c for c in printable if c not in g]
     assert not missing, f"no glyph for {missing}"
     _, adv = build(t, g)
-    assert adv[t.enc[" "][0]] == 4 and adv[0x02] == JP_ADV
+    assert adv[t.enc[" "][0]] == 4 and adv[0x01] == JP_ADV  # 01: the JP's 12 px blank, kept for indents
     assert encode_glyph(["#"])[2:4] == b"\x00\x80"
 
 

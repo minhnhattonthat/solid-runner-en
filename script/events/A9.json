@@ -2660,7 +2660,7 @@
   "op": "A9EF82",
   "len": 56,
   "jp": "  「0」      「1」{br}  「2」      「3」{br}{c04:01EA0170}つめのナンバーを入力してください。{endFE}",
-  "en": "\"0\" \"1\"{br}\"2\" \"3\"{br}Digit {c04:01EA0170}: enter a number.{endFE}",
+  "en": "\"0\" | \"1\"{br}\"2\" | \"3\"{br}Digit {c04:01EA0170}: enter a number.{endFE}",
   "notes": ""
  },
  {

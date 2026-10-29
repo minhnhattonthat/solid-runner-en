@@ -626,7 +626,7 @@
   "op": "9EB3BE",
   "len": 52,
   "jp": "  1階       2階{br}  3階       次ページ{br}現在{c04:010A0270}階にいます。{endFE}",
-  "en": "1F, 2F{br}3F, Next Page{br}Now on {c04:010A0270}F{endFE}",
+  "en": "1F | 2F{br}3F | Next Page{br}Now on {c04:010A0270}F{endFE}",
   "notes": ""
  },
  {
@@ -635,7 +635,7 @@
   "op": "9EB403",
   "len": 52,
   "jp": "  4階       5階{br}  6階       前ページ{br}現在{c04:010A0270}階にいます。{endFE}",
-  "en": "4F, 5F{br}6F, Previous Page{br}Now on {c04:010A0270}F{endFE}",
+  "en": "4F | 5F{br}6F | Previous Page{br}Now on {c04:010A0270}F{endFE}",
   "notes": ""
  },
  {

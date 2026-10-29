@@ -12,7 +12,7 @@
   "addr": "92:AEBC",
   "len": 57,
   "jp": " ターボファイルが初期化されていません{br}{br}      初期化しますか？{br}      はい   いいえ{end}",
-  "en": "The Turbo File isn't initialized.{br}{br}Initialize it?{br}Yes No{end}",
+  "en": "The Turbo File isn't initialized.{br}{br}Initialize it?{br}Yes | No{end}",
   "notes": ""
  },
  {
@@ -68,7 +68,7 @@
   "addr": "92:AF8A",
   "len": 32,
   "jp": " このファイルを削除しますか？{br}{br}    はい   いいえ{end}",
-  "en": "Delete this file?{br}{br}Yes No{end}",
+  "en": "Delete this file?{br}{br}Yes | No{end}",
   "notes": ""
  },
  {
@@ -132,7 +132,7 @@
   "addr": "92:B027",
   "len": 33,
   "jp": "  このファイルを上書きしますか？{br}    はい   いいえ{end}",
-  "en": "Overwrite this file?{br}Yes No{end}",
+  "en": "Overwrite this file?{br}Yes | No{end}",
   "notes": ""
  },
  {
@@ -140,7 +140,7 @@
   "addr": "92:B048",
   "len": 32,
   "jp": "  このファイルを削除しますか？{br}    はい   いいえ{end}",
-  "en": "Delete this file?{br}Yes No{end}",
+  "en": "Delete this file?{br}Yes | No{end}",
   "notes": ""
  },
  {
@@ -148,7 +148,7 @@
   "addr": "92:B068",
   "len": 31,
   "jp": "  このファイルをロードしますか？{br}    はい   いいえ{end}",
-  "en": "Load this file?{br}Yes No{end}",
+  "en": "Load this file?{br}Yes | No{end}",
   "notes": ""
  },
  {
@@ -172,7 +172,7 @@
   "addr": "92:B0AF",
   "len": 90,
   "jp": "     異常が発見されました{br} メンテナンスを実行すると異常ファイル{br} は削除されます{br}   メンテナンスを実行しますか？{br}      はい   いいえ{end}",
-  "en": "Errors were found.{br}Maintenance will delete the bad files.{br}Run maintenance?{br}Yes No{end}",
+  "en": "Errors were found.{br}Maintenance will delete{br}the bad files.{br}Run maintenance?{br}Yes | No{end}",
   "notes": ""
  },
  {

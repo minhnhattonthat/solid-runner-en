@@ -2,7 +2,18 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 6 (translate) **done** 2026-10-30. **Next: phase 7 (insert, fit, check).**
+- **Phase:** 7 (insert, fit, check) **in progress** (2026-10-30).
+- **Phase 7 done so far:** `tools/insert.py` (run by `build.py`): every English entry in free space, each slot a
+  jump (`F8 20 p24` / `F8 22 p16` / table word) keeping its length and end byte; new control table at 84:E000 with
+  jump, jump16 and `{tab:n}` (asm/vwf.asm); `01` = 12 px `{blank}`, English space = code 02; indents and column
+  layouts restored (`cells.json` for sliced menus, ` | ` columns for elevators / Yes-No). Lint
+  `tests/test_batches.py::test_inserted_text_fits` (final encoded layout, sliced items, name buffers) and
+  `tests/test_insert.py` (romdiff write log + allowed ranges, every slot followed to its English). Seen in game:
+  opening dialogue, field/config/item/shop menus, Turbo File. Notes `docs/re/insert.md`. Debug field scenes now
+  15000 frames (English types ~2x longer; A doesn't skip typing).
+- **Phase 7 left:** `script/engine_todo.txt` (20 known overflows: name buffers D11, sliced rows of N cells for setup
+  labels / tune menu / data submenu / battle keys, tune_armor, slot labels, results title); extractor blind spots
+  (below); `{c1C}` timing; check elevator/turbo/countdown layouts in game; typing speed (phase 8 polish).
 - **Phase 6 result:** all 4079 non-empty entries have `en` in `script/*.json` (wrapped with `{br}` by pixel width,
   end code copied from the JP; sliced menus keep ` | ` between cells). 36 batches, all `batches.py check` OK; 9
   reviewer passes, every Critical/Important fixed (no Critical found), most accuracy Minors applied in the same round.

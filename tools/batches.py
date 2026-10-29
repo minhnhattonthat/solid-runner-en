@@ -53,7 +53,11 @@ def width(text):
     a = adv()
     px = 0
     for tok in re.split(r"(\{[^}]*\})", text):
-        if tok.startswith("{"):
+        if tok.startswith("{tab:"):
+            px = int(tok[5:-1], 16) * font.JP_ADV  # the original's column n (asm/vwf.asm ctl_tab)
+        elif tok == "{blank}":
+            px += font.JP_ADV
+        elif tok.startswith("{"):
             px += NAME_PX.get(tok, 0)
         else:
             px += sum(a.get(c, font.JP_ADV) for c in tok)
@@ -269,7 +273,8 @@ def read_tsv(path, cols):
 
 
 def codes(s):
-    return sorted(c for c in CODE.findall(s) if c != "{br}")
+    """Control codes of a text, without line breaks and layout ({tab:n}, {blank}: tools/insert.py)."""
+    return sorted(c for c in CODE.findall(s) if c != "{br}" and c != "{blank}" and not c.startswith("{tab:"))
 
 
 def check(name, quiet=False):

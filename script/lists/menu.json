@@ -12,7 +12,7 @@
   "addr": "82:C4A9",
   "len": 15,
   "jp": " アイテム 使用廃棄{end}",
-  "en": "Item | Use | Discard{end}",
+  "en": "Item | Use | Drop{end}",
   "notes": ""
  },
  {
@@ -100,7 +100,7 @@
   "addr": "82:C549",
   "len": 11,
   "jp": "速い普通遅い{end}",
-  "en": "Fast | Normal | Slow{end}",
+  "en": "Fast | Mid | Slow{end}",
   "notes": ""
  },
  {

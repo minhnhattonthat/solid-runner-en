@@ -2507,7 +2507,7 @@
   "op": "A8ECF1",
   "len": 64,
   "jp": "  地下4階     地下3階{br}  地下2階     次ページ{br}現在地下{c04:010A0270}階にいます。{endFE}",
-  "en": "B4 B3{br}B2 Next Page{br}Now on B{c04:010A0270}F{endFE}",
+  "en": "B4F | B3F{br}B2F | Next Page{br}Now on B{c04:010A0270}F{endFE}",
   "notes": ""
  },
  {
@@ -2516,7 +2516,7 @@
   "op": "A8ED42",
   "len": 60,
   "jp": "  地下4階     地下3階{br}  地下2階     次ページ{br}現在{c04:010B0270}階にいます。{endFE}",
-  "en": "B4 B3{br}B2 Next Page{br}Now on {c04:010B0270}F{endFE}",
+  "en": "B4F | B3F{br}B2F | Next Page{br}Now on {c04:010B0270}F{endFE}",
   "notes": ""
  },
  {
@@ -2525,7 +2525,7 @@
   "op": "A8ED8F",
   "len": 65,
   "jp": "  地下1階     1階{br}  前ページ     非常用呼び出し{br}現在地下{c04:010A0270}階にいます。{endFE}",
-  "en": "B1 1F{br}Previous Page Emergency Call{br}Now on B{c04:010A0270}F{endFE}",
+  "en": "B1F | 1F{br}Previous Page | Emergency Call{br}Now on B{c04:010A0270}F{endFE}",
   "notes": ""
  },
  {
@@ -2534,7 +2534,7 @@
   "op": "A8EDE1",
   "len": 61,
   "jp": "  地下1階     1階{br}  前ページ     非常用呼び出し{br}現在{c04:010B0270}階にいます。{endFE}",
-  "en": "B1 1F{br}Previous Page Emergency Call{br}Now on {c04:010B0270}F{endFE}",
+  "en": "B1F | 1F{br}Previous Page | Emergency Call{br}Now on {c04:010B0270}F{endFE}",
   "notes": ""
  },
  {

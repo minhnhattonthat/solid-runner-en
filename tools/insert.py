@@ -1,0 +1,253 @@
+"""insert.py: script/*.json English -> ROM writes (called by tools/build.py; docs/re/insert.md).
+
+Every entry with `en` is encoded with tbl/en.tbl and placed in free space. Its original slot keeps its length and
+its terminator: `F8 20 lo hi bank` (jump, asm/vwf.asm), `01` fill, the original end byte. So the VM's text scanner
+(81:C930) still finds the end of an inline text, and a reader that walks a list by its terminators still lands on
+the next slot. Slots of 4-5 bytes get `F8 22 lo hi` (jump into bank $BA) instead. List entries that sit back to
+back are placed back to back, so a reader that draws one string and goes on past its end finds the next one.
+Slots under 4 bytes in a list with a pointer table get their table word repointed (the run is then placed in the
+table's own bank); `IN_PLACE` lists are written over the slot (the code copies or indexes their bytes).
+
+    python -X utf8 tools/insert.py      dry run: where everything goes, free space left
+"""
+import json
+import re
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).parent))
+import freespace  # noqa: E402
+from tbl import Table  # noqa: E402
+
+ROOT = Path(__file__).resolve().parents[1]
+EN_TBL = ROOT / "tbl" / "en.tbl"
+CELLS = ROOT / "cells.json"         # sliced menus: item columns (next to windows.json, outside the script globs)
+TEXTBANK = 0xBA                     # F8 22 targets (asm/vwf.asm !textbank)
+BANKS = [0xBA, 0xBB, 0xCD, 0xD3, 0xD4]  # whole banks of FF
+TAILS = [0x86, 0xD7, 0xAF, 0x91, 0x94, 0xB9, 0xC7, 0xCB, 0xD2, 0xB3]  # bank tails of FF (freespace.py), after BANKS
+MARGIN = 16                         # bytes left after the last data byte of a tail
+TABLES = {"names": (0x87EEC4, 0x87EEEC), "runners": (0x82A17F, 0x82A1C9)}  # list -> its 16-bit pointer table
+IN_PLACE = {"charset", "default_names"}  # name-entry grid (indexed by cell), defaults copied into name buffers
+TAB = "{tab:%02X}"
+
+
+def off(addr):
+    """CPU address (int or 'BB:AAAA') -> file offset."""
+    if isinstance(addr, str):
+        b, a = addr.split(":")
+        addr = int(b, 16) << 16 | int(a, 16)
+    return ((addr >> 16) & 0x7F) << 15 | (addr & 0x7FFF)
+
+
+def cpu(o):
+    return (0x80 | o >> 15) << 16 | 0x8000 | (o & 0x7FFF)
+
+
+def entries():
+    """[(list name, entry)]: events (and loose VM texts) are 'events', lists by file stem."""
+    out = []
+    for f in sorted((ROOT / "script").glob("*/*.json")):
+        kind = "events" if f.parent.name == "events" else f.stem
+        out += [(kind, e) for e in json.loads(f.read_text(encoding="utf-8"))]
+    return out
+
+
+def english(e, cells):
+    """The entry's English as it is encoded: ' | ' cells -> tabs to their original columns (cells.json);
+    other entries get the JP's layout blanks back (layout())."""
+    en = e["en"]
+    if e["id"] in cells:
+        items = en.split(" | ")
+        pre = cells[e["id"]]
+        assert len(items) <= len(pre), e["id"]
+        return "".join((TAB % p if isinstance(p, int) and (p or i) else p if isinstance(p, str) else "") + x
+                       for i, (p, x) in enumerate(zip(pre, items)))
+    import batches
+    return layout(e["jp"], en, batches.box(e["id"], e["jp"])["px"])
+
+
+def layout(jp, en, px=240):
+    """Leading blanks of the JP lines, which the translation dropped: an indent of 1-2 cells (a choice cursor's
+    room) is kept as it is; a deeper one centred the line, so the English line is centred on the same point.
+    Trailing empty JP lines come back too. Lines are matched one to one; other entries are left alone."""
+    import batches
+    end = batches.END.search(en)
+    tail = end.group(0) if end else ""
+    jl = batches.END.sub("", jp).split("{br}")
+    el = batches.END.sub("", en).split("{br}")
+    while len(el) < len(jl) and all(x == "" for x in jl[len(el):]):
+        el.append("")
+    if len(jl) != len(el):
+        return en
+    out = []
+    for j, x in zip(jl, el):
+        k = len(j) - len(j.lstrip(" "))
+        if " | " in x:  # columns: each ' | ' piece starts where the JP line's next blank-separated column does
+            cols, col, gap = [], 0, True
+            for t in re.findall(r"\{[^}]*\}| {2,}|.", j):
+                if t.startswith("{"):
+                    continue  # codes have no width
+                if t.startswith("  ") or t == " " and not cols:
+                    gap = True
+                elif gap:
+                    cols.append(col)
+                    gap = False
+                col += len(t)
+            parts = x.split(" | ")
+            assert len(parts) == len(cols), (jp, en)
+            out.append("".join((TAB % c if c else "") + p for c, p in zip(cols, parts)))
+            continue
+        if k and x and not x.startswith((" ", "{blank}", "{tab:")):
+            if k > 2:
+                k = max(0, round(k + (len(batches.plain(j)) * 12 - batches.width(x)) / 24))
+            x = "{blank}" * max(0, min(k, (px - batches.width(x)) // 12)) + x  # never out of the box
+        out.append(x)
+    return "{br}".join(out) + tail
+
+
+class Space:
+    """First-fit allocator over free ranges [start, end) of file offsets, one bank each."""
+
+    def __init__(self, rom):
+        tails = {b | 0x80: p for b, p, n, f in freespace.tails(rom) if f == 0xFF}
+        self.free = []
+        for b in BANKS:
+            s = off(b << 16 | 0x8000)
+            assert tails.get(b) == s, f"bank ${b:02X} is not all FF"
+            self.free.append([s, s + 0x8000])
+        for b in TAILS:
+            self.free.append([tails[b] + MARGIN, off(b << 16 | 0xFFFF) + 1])
+        for b in (0x82, 0x87):  # table lists only
+            self.free.append([tails[b] + MARGIN, off(b << 16 | 0xFFFF) + 1])
+        self.size = sum(e - s for s, e in self.free)
+
+    def alloc(self, n, bank=None):
+        for r in self.free:
+            b = cpu(r[0]) >> 16
+            if bank is not None and b != bank or bank is None and b in (0x82, 0x87):
+                continue
+            s = r[0]
+            while (cpu(s) & 0xFF) >= 0xFD or (cpu(s) >> 8 & 0xFF) >= 0xFD:  # no end byte inside a pointer
+                s += 1
+            if s + n <= r[1]:
+                r[0] = s + n
+                return s
+        raise SystemExit(f"free space: no room for {n} bytes" + (f" in bank ${bank:02X}" if bank else ""))
+
+    def left(self):
+        return sum(e - s for s, e in self.free)
+
+
+def runs(items):
+    """Group (kind, entry) of lists into runs of back-to-back slots; every event is its own run."""
+    out = []
+    for kind, e in sorted(items, key=lambda x: off(x[1]["addr"])):
+        o = off(e["addr"])
+        if out and kind != "events" and out[-1][-1][0] == kind and off(out[-1][-1][1]["addr"]) + out[-1][-1][1]["len"] == o:
+            out[-1].append((kind, e))
+        else:
+            out.append([(kind, e)])
+    return out
+
+
+def table_slots(rom, kind, o):
+    """File offsets of the 16-bit words in the list's pointer table that point at slot o."""
+    a, b = TABLES[kind]
+    want = (cpu(o) & 0xFFFF).to_bytes(2, "little")
+    return [off(a) + i for i in range(0, off(b) - off(a) - 1, 2) if rom[off(a) + i:off(a) + i + 2] == want]
+
+
+def plan(rom):
+    """[(file offset, bytes, writer)] for the whole script, and a report."""
+    en_t = Table.load(EN_TBL)
+    cells = {k: v for k, v in json.loads(CELLS.read_text(encoding="utf-8")).items() if not k.startswith("#")}
+    space = Space(rom)
+    writes, report = [], {"jump": 0, "jump16": 0, "table": 0, "in_place": 0, "skipped": []}
+    todo = [(k, e) for k, e in entries() if e["en"]]
+    rs = sorted(runs(todo), key=lambda r: all(e["len"] >= 6 for _, e in r))  # runs bound to a bank first
+    for run in rs:
+        data = []
+        for kind, e in run:
+            d = en_t.encode(english(e, cells))
+            assert d[-1] >= 0xFD, f"{e['id']}: English must end with its terminator"
+            data.append(d)
+        kind0, e0 = run[0]
+        if kind0 in IN_PLACE:
+            for (kind, e), d in zip(run, data):
+                o = off(e["addr"])
+                if len(d) > e["len"]:
+                    report["skipped"].append((e["id"], f"{len(d)} bytes > slot {e['len']} (in place)"))
+                    continue
+                if kind == "charset":  # grid rows keep their cells: pad with blanks before the end byte
+                    d = d[:-1] + b"\x01" * (e["len"] - len(d)) + d[-1:]
+                else:
+                    d = d + b"\xff" * (e["len"] - len(d))
+                writes.append((o, d, "text " + e["id"]))
+                report["in_place"] += 1
+            continue
+        short = [e for _, e in run if e["len"] < 6]
+        bank = None
+        if kind0 in TABLES and short:
+            bank = rom_bank = off(TABLES[kind0][0]) >> 15 | 0x80
+        elif short:
+            bank = TEXTBANK
+        base = space.alloc(sum(map(len, data)), bank)
+        p = base
+        for (kind, e), d in zip(run, data):
+            o, n = off(e["addr"]), e["len"]
+            writes.append((p, d, "en " + e["id"]))
+            a = cpu(p)
+            end = rom[o + n - 1:o + n]
+            if n >= 6:
+                slot = bytes([0xF8, 0x20, a & 0xFF, a >> 8 & 0xFF, a >> 16]) + b"\x01" * (n - 6) + end
+                report["jump"] += 1
+            elif kind in TABLES:
+                ws = table_slots(rom, kind, o)
+                assert ws and a >> 16 == rom_bank, e["id"]
+                for w in ws:
+                    writes.append((w, (a & 0xFFFF).to_bytes(2, "little"), "table " + e["id"]))
+                slot = None
+                report["table"] += 1
+            elif n >= 4 and kind != "events" or n == 5:
+                assert a >> 16 == TEXTBANK
+                slot = bytes([0xF8, 0x22, a & 0xFF, a >> 8 & 0xFF]) + (end if n == 5 else b"")
+                report["jump16"] += 1
+            else:
+                raise SystemExit(f"{e['id']}: slot of {n} bytes, no way to reach the English")
+            if slot:
+                writes.append((o, slot, "slot " + e["id"]))
+            p += len(d)
+    report["free_left"] = space.left()
+    report["free_total"] = space.size
+    return writes, report
+
+
+ASM_SITES = [(0x00C942, 4), (0x022967, 3), (0x022993, 6), (0x022A2A, 3), (0x026000, 0x2000)]  # asm/vwf.asm
+FONT = (0x170000, 0x500 * 22)  # $AE:8000 glyphs (tools/font.py)
+
+
+def allowed(rom):
+    """File offsets a build may change: text slots, the pointer tables, free space, the font, asm sites, checksum."""
+    ok = set()
+    for kind, e in entries():
+        ok.update(range(off(e["addr"]), off(e["addr"]) + e["len"]))
+    for a, b in TABLES.values():
+        ok.update(range(off(a), off(b)))
+    for s, e in Space(rom).free:
+        ok.update(range(s, e))
+    for s, n in ASM_SITES + [FONT, (0x7FDC, 4)]:
+        ok.update(range(s, s + n))
+    return ok
+
+
+def main():
+    rom = (ROOT / "rom" / "Solid Runner (Japan).sfc").read_bytes()
+    writes, rep = plan(rom)
+    skipped = rep.pop("skipped")
+    print(len(writes), "writes;", rep)
+    for eid, why in skipped:
+        print("  skipped", eid, why)
+
+
+if __name__ == "__main__":
+    main()
