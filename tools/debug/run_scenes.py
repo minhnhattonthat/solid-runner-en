@@ -40,12 +40,12 @@ def scene_entries():
     return out
 
 
-def run(rom, out_root, name, var, frames, state):
+def run(rom, out_root, name, var, frames, state, extra=()):
     out = out_root / name
     shutil.rmtree(out, ignore_errors=True)
     cmd = [sys.executable, "-X", "utf8", str(Path(SCRIPTS) / "emu.py"), str(rom), "--out", str(out),
            "--script", str(SCENES), "--script", str(ROOT / "tools/debug/warp.lua"), "--frames", str(frames),
-           "--shot-every", "300"] + sum((["--var", v] for v in var), [])
+           "--shot-every", "300"] + sum((["--var", v] for v in var), []) + sum((["--script", s] for s in extra), [])
     if state:
         cmd += ["--state-out", str(ROOT / "work/states" / f"{name}.mss")]
     r = subprocess.run(cmd, cwd=ROOT, capture_output=True, text=True, encoding="utf-8", errors="replace")
@@ -67,6 +67,7 @@ def main():
     ap.add_argument("--frames", type=int, default=2400, help="frames from power-on (the warp lands at ~f1560)")
     ap.add_argument("--jobs", type=int, default=4)
     ap.add_argument("--states", action="store_true")
+    ap.add_argument("--script", action="append", default=[], help="extra Lua probe for every run (e.g. fields.lua)")
     a = ap.parse_args()
 
     out_root = Path(a.out)
@@ -82,7 +83,7 @@ def main():
                 sys.exit(f"unknown scene {n}")
             jobs.append((n, [f"SCENE='{n}'"], known[n] or a.frames))
     with ThreadPoolExecutor(a.jobs) as ex:
-        res = list(ex.map(lambda j: run(a.rom, out_root, j[0], j[1], j[2], a.states), jobs))
+        res = list(ex.map(lambda j: run(a.rom, out_root, j[0], j[1], j[2], a.states, a.script), jobs))
     bad = [r for r in res if not r[1]]
     for name, ok, err in res:
         print(("ok  " if ok else "FAIL"), name, *err)

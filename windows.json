@@ -1,0 +1,170 @@
+{
+ "dialogue": {
+  "px": 240,
+  "lines": 3,
+  "last_px": 232,
+  "how": "measured: 40-digit stress lines, work/qa/stress2"
+ },
+ "fields": {
+  "equip_938D77": {
+   "px": 240,
+   "how": "line-end",
+   "scene": "shop_buy"
+  },
+  "equip_938D8A": {
+   "px": 216,
+   "how": "line-end",
+   "scene": "shop_buy"
+  },
+  "equip_938D9B": {
+   "px": 216,
+   "how": "line-end",
+   "scene": "shop_sell"
+  },
+  "equip_93B62E": {
+   "px": 120,
+   "how": "strip-end",
+   "scene": "save_load"
+  },
+  "equip_93B63C": {
+   "px": 120,
+   "how": "strip-end",
+   "scene": "save_load"
+  },
+  "equip_93B646": {
+   "px": 120,
+   "how": "strip-end",
+   "scene": "save_load"
+  },
+  "ev_9382B6": {
+   "px": 240,
+   "how": "line-end",
+   "scene": "shop_buy"
+  },
+  "help_93C36F": {
+   "px": 240,
+   "how": "line-end",
+   "scene": "area_01"
+  },
+  "help_93C388": {
+   "px": 120,
+   "how": "strip-end",
+   "scene": "name_entry_a"
+  },
+  "intro_928F1F": {
+   "px": 240,
+   "how": "line-end",
+   "scene": "area_01"
+  },
+  "items_8396AD": {
+   "px": 94,
+   "how": "next-field",
+   "scene": "menu_item"
+  },
+  "items_8396B5": {
+   "px": 240,
+   "how": "line-end",
+   "scene": "menu_item"
+  },
+  "items_8396C6": {
+   "px": 94,
+   "how": "next-field",
+   "scene": "menu_item"
+  },
+  "items_8396DF": {
+   "px": 120,
+   "how": "strip-end",
+   "scene": "shop_buy_items"
+  },
+  "items_8396F8": {
+   "px": 94,
+   "how": "next-field",
+   "scene": "menu_item"
+  },
+  "items_839710": {
+   "px": 120,
+   "how": "strip-end",
+   "scene": "shop_buy_items"
+  },
+  "items_839727": {
+   "px": 94,
+   "how": "next-field",
+   "scene": "menu_item"
+  },
+  "menu_82C48F": {
+   "px": 240,
+   "how": "line-end",
+   "scene": "menu"
+  },
+  "menu_82C4A9": {
+   "px": 120,
+   "how": "strip-end",
+   "scene": "menu_item"
+  },
+  "menu_82C4B8": {
+   "px": 120,
+   "how": "strip-end",
+   "scene": "menu_setup"
+  },
+  "menu_82C4BF": {
+   "px": 120,
+   "how": "strip-end",
+   "scene": "menu_info"
+  },
+  "menu_82C4C7": {
+   "px": 120,
+   "how": "strip-end",
+   "scene": "menu_config"
+  },
+  "menu_82C4DD": {
+   "px": 240,
+   "how": "line-end",
+   "scene": "menu_setup"
+  },
+  "menu_82C515": {
+   "px": 240,
+   "how": "line-end",
+   "scene": "menu_info"
+  },
+  "menu_82C529": {
+   "px": 240,
+   "how": "line-end",
+   "scene": "menu_config"
+  },
+  "parts_83A642": {
+   "px": 120,
+   "how": "strip-end",
+   "scene": "menu_setup"
+  },
+  "parts_83A7A1": {
+   "px": 120,
+   "how": "strip-end",
+   "scene": "menu_setup"
+  },
+  "parts_83A841": {
+   "px": 120,
+   "how": "strip-end",
+   "scene": "menu_setup"
+  },
+  "places_83B70C": {
+   "px": 240,
+   "how": "line-end",
+   "scene": "area_14"
+  },
+  "places_83B8DC": {
+   "px": 240,
+   "how": "line-end",
+   "scene": "area_1F"
+  },
+  "status_93951C": {
+   "px": 120,
+   "how": "strip-end",
+   "scene": "shop_buy_weapons"
+  },
+  "turbo_92AF0B": {
+   "px": 240,
+   "how": "line-end",
+   "scene": "turbofile_menu"
+  }
+ }
+}

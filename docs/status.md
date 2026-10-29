@@ -18,9 +18,20 @@ Updated at the end of every session. Keep it to what the next session needs; his
   menu_82C4A9 (`アイテム` title + `使用`/`廃棄` commands), the setup labels (`左肩：`... tag 2ss), equipment labels
   (93:B248...). English there needs the drawing code changed (phase 7). Second renderer 84:B017/B055 (tilemap
   writer, 8x16 VRAM tile font, fixed pitch; one caller 82:9024): which screen uses it is not known yet.
-- **Left in phase 5:** review the full marker tour (`run_scenes.py --rom build/marker.sfc --out work/qa/marker`) for
-  text still Japanese and non-text hits; measure every menu/list field budget (log field starts: cpulog at 84:A87B
-  with READS={0x7E18BA,0x7E18BB} gives each string's column/strip) into a window table the lint reads.
+- **Marker tour (73/73 scenes, no crash, no data broken by markers):** `python -X utf8 tools/debug/run_scenes.py
+  --rom build/marker.sfc --out work/qa/marker --script tools/lua/fields.lua`, then `python -X utf8 tools/fields.py`
+  writes `windows.json` (dialogue variant + per-entry px budgets: `next-field` from the logged column of the
+  next string on the row, `line-end`/`strip-end` geometric; see the docstring). 32 entries seen so far.
+- **Left in phase 5:**
+  1. Text still Japanese: Results screen labels at 92:95FD (`ミッション：` `報告：` `報酬：` `所持金合計：`, short
+     FF-separated runs under the coverage gate; `coverage.py` with `GATE=-5.6` lists ~70 such runs): add them to
+     `strings.py`, re-extract, rebuild marker, re-tour.
+  2. Budgets for the lists no scene shows yet (database/info pages, missions, shop parts/equipment, names, places in
+     the field HUD, help, Turbo File...): add scenes that open them (`scenes.lua` keys), rerun the tour with
+     fields.lua; check each `strip-end`/`line-end` guess against the window frame in a zoomed shot.
+  3. Identify the screen of the second renderer (84:B017), and the name length for `{c0C:01}` (name entry; the
+     default name entry is markered as `2zp`).
+  4. Before phase 6: kanji table (925 codes, see phase 4 notes below).
 - **Done (phase 4):** `tools/events.py` VM disassembler (`docs/re/events.md` "Disassembler": every opcode, room
   scripts, NPC/tile record tables, native roots, orphan roots incl. text-op roots synced to op boundaries; 3172
   inline texts, 0 bad ops, 0 overlaps). "Second script format" in $87/$91 is the same VM. `tools/strings.py`: 20
