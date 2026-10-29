@@ -1,0 +1,82 @@
+[
+ {
+  "id": "labels_82AB25",
+  "addr": "82:AB25",
+  "len": 5,
+  "jp": "[FC]ぶ[F9]w{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "labels_82AB2A",
+  "addr": "82:AB2A",
+  "len": 5,
+  "jp": "[FC]べ[F9]w{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "labels_82AB2F",
+  "addr": "82:AB2F",
+  "len": 5,
+  "jp": "[FC]ぶ[FC]の{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "labels_82AB34",
+  "addr": "82:AB34",
+  "len": 5,
+  "jp": "[FC]べ[FC]の{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "labels_82AEF4",
+  "addr": "82:AEF4",
+  "len": 9,
+  "jp": "[FB]り[FA]4[F9]け[F9]O{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "labels_82C13F",
+  "addr": "82:C13F",
+  "len": 9,
+  "jp": "−−−−−−−−{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "labels_839A66",
+  "addr": "83:9A66",
+  "len": 9,
+  "jp": "−−−−−−−−{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "labels_82C1DB",
+  "addr": "82:C1DB",
+  "len": 4,
+  "jp": "はずす{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "labels_938AFB",
+  "addr": "93:8AFB",
+  "len": 7,
+  "jp": "[F9] [F9]ィ[FA]ぱ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "labels_938B02",
+  "addr": "93:8B02",
+  "len": 5,
+  "jp": "[FB]5[FA]、{end}",
+  "en": "",
+  "notes": ""
+ }
+]

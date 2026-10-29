@@ -60,6 +60,14 @@ S.list = {
   menu_setup = field({ { 0, "x" }, { 60, "down" }, { 120, "a" } }),
   menu_info = field({ { 0, "x" }, { 60, "down" }, { 100, "down" }, { 160, "a" } }),
   menu_config = field({ { 0, "x" }, { 60, "down" }, { 100, "down" }, { 140, "down" }, { 200, "a" } }),
+  -- info submenu: status, requests, data (database pages)
+  info_status = field({ { 0, "x" }, { 60, "down" }, { 100, "down" }, { 160, "a" }, { 240, "a" } }),
+  info_requests = field({ { 0, "x" }, { 60, "down" }, { 100, "down" }, { 160, "a" }, { 220, "down" }, { 280, "a" } }),
+  info_data = field({ { 0, "x" }, { 60, "down" }, { 100, "down" }, { 160, "a" }, { 220, "down" }, { 260, "down" },
+    { 320, "a" } }),
+  info_data_page = field({ { 0, "x" }, { 60, "down" }, { 100, "down" }, { 160, "a" }, { 220, "down" }, { 260, "down" },
+    { 320, "a" }, { 400, "a" }, { 480, "a" } }),
+  setup_slot = field({ { 0, "x" }, { 60, "down" }, { 120, "a" }, { 200, "a" } }),
   -- scripted battles: op 7D records {id, formation, callback} found in the event banks
   battle_97DFE8 = battle(0xE8, 0xDF, 0x97),
   battle_9E87F3 = battle(0xF3, 0x87, 0x9E),

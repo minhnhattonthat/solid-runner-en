@@ -71,7 +71,7 @@ def budgets(logdir):
                 eid, off = lookup(index, ptr)
                 if eid is None:
                     continue
-                if pc.upper().endswith("A8C6"):
+                if pc.upper().endswith("A7E1"):
                     fields.setdefault(eid, []).append((DIALOGUE["px"], "dialogue", log.parent.name, off))
                     continue
                 later = [c for _, _, _, c, r in b if r == row and c > col]

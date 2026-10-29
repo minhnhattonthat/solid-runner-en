@@ -1,5 +1,13 @@
 [
  {
+  "id": "missions_9296A3",
+  "addr": "92:96A3",
+  "len": 6,
+  "jp": "[FA]ュと[F9]R{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
   "id": "missions_9296A9",
   "addr": "92:96A9",
   "len": 8,

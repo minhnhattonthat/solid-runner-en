@@ -1,0 +1,42 @@
+[
+ {
+  "id": "default_names_838F1D",
+  "addr": "83:8F1D",
+  "len": 4,
+  "jp": "シュウ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "default_names_838F21",
+  "addr": "83:8F21",
+  "len": 6,
+  "jp": "アースキン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "default_names_93CB2C",
+  "addr": "93:CB2C",
+  "len": 6,
+  "jp": "シュウ  {end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "default_names_93CB32",
+  "addr": "93:CB32",
+  "len": 6,
+  "jp": "アースキン{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "default_names_93CB38",
+  "addr": "93:CB38",
+  "len": 7,
+  "jp": "グランディル{end}",
+  "en": "",
+  "notes": ""
+ }
+]

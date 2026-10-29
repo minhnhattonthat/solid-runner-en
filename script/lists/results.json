@@ -1,0 +1,42 @@
+[
+ {
+  "id": "results_9295FD",
+  "addr": "92:95FD",
+  "len": 7,
+  "jp": "ミッション『{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "results_929604",
+  "addr": "92:9604",
+  "len": 6,
+  "jp": "』[F9]わ[FC]シ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "results_92960A",
+  "addr": "92:960A",
+  "len": 7,
+  "jp": "[FA]4[F9]9[FC]エ{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "results_929611",
+  "addr": "92:9611",
+  "len": 10,
+  "jp": "[FA]4[FA]5[FC]エ   {end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "results_92961B",
+  "addr": "92:961B",
+  "len": 13,
+  "jp": "[F9] [F9]ィ[F9]ゲ[F9]ゼ[FA]b[FC]エ{end}",
+  "en": "",
+  "notes": ""
+ }
+]
