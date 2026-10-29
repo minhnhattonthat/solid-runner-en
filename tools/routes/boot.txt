@@ -1,0 +1,4 @@
+# boot: logos and intro run to the title by ~f1050; press Start there, then wait for the next screen
+1300 -
+4 start
+400 -
