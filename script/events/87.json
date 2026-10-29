@@ -5,7 +5,7 @@
   "op": "87B666",
   "len": 57,
   "jp": "ノーラ「このディスクを私以外の人が{br}見ているという事は、私の身に{br}何かあったのだと思います。{end}",
-  "en": "",
+  "en": "Nora: If someone other than me is viewing this{br}disc, then I think something has happened to{br}me.{end}",
   "notes": ""
  },
  {
@@ -14,7 +14,7 @@
   "op": "87B6A0",
   "len": 62,
   "jp": "カタラカンパニーがエリア2の{br}修道院の土地を非合法的な手段で{br}ババリアに提供しようとしています。{end}",
-  "en": "",
+  "en": "Catala Company is trying to hand the{br}convent's land in Area 2 over to Bavaria by{br}illegal means.{end}",
   "notes": ""
  },
  {
@@ -23,7 +23,7 @@
   "op": "87B6DF",
   "len": 61,
   "jp": "このディスクの中には、その証拠となる{br}データが入っています。どうか、この{br}ディスクを警察に渡して下さい。{end}",
-  "en": "",
+  "en": "This disc contains data that proves it. Please,{br}take this disc to the police.{end}",
   "notes": ""
  },
  {
@@ -32,7 +32,7 @@
   "op": "87BE31",
   "len": 18,
   "jp": "{c0C:01}「はい、{br}{c0C:01}＝{c0C:00}だ。{end}",
-  "en": "",
+  "en": "{c0C:01}: Yeah, {c0C:01} {c0C:00} here.{end}",
   "notes": ""
  },
  {
@@ -41,7 +41,7 @@
   "op": "87BE45",
   "len": 48,
   "jp": "シスターレイチェル「もしもし、{br}{c0C:01}＝{c0C:00}ですね？{br}わたくしです。シスターレイチェルです。{end}",
-  "en": "",
+  "en": "Sister Rachel: Hello, {c0C:01} {c0C:00}? It's me.{br}Sister Rachel.{end}",
   "notes": ""
  },
  {
@@ -50,7 +50,7 @@
   "op": "87BE77",
   "len": 49,
   "jp": "「何だシスターですか。{br}珍しいですね、電話をかけてくるなんて。{br}一体何の用です？{end}",
-  "en": "",
+  "en": "\"Oh, it's you, Sister. That's rare, you calling{br}me. What's this about?\"{end}",
   "notes": ""
  },
  {
@@ -59,7 +59,7 @@
   "op": "87BEAA",
   "len": 27,
   "jp": "「あなたに1つ、仕事をしていただきたい{br}のです。{end}",
-  "en": "",
+  "en": "\"I'd like you to do a job for me.\"{end}",
   "notes": ""
  },
  {
@@ -68,7 +68,7 @@
   "op": "87BEDC",
   "len": 68,
   "jp": "「仕事ですか？ まさか、また今年も{br}街頭に立ってクリスマスの寄付集めを{br}手伝えって言うんじゃないでしょうね。{end}",
-  "en": "",
+  "en": "\"A job? Don't tell me you want me out on the{br}street corner again this year, helping collect{br}Christmas donations.\"{end}",
   "notes": ""
  },
  {
@@ -77,7 +77,7 @@
   "op": "87BF24",
   "len": 60,
   "jp": "去年にそれをやった時なんて、{br}ず〜っと立ちっぱなしで足は棒になるし、{br}声はかれるしで散々でしたよ。{end}",
-  "en": "",
+  "en": "When I did that last year, I was on my feet{br}the whole time, my legs went stiff as boards{br}and my voice gave out. It was awful.{end}",
   "notes": ""
  },
  {
@@ -86,7 +86,7 @@
   "op": "87BF62",
   "len": 48,
   "jp": "「いえ、大した仕事ではありません。{br}人探しをしていただきたいのです。{br}どうでしょう？{end}",
-  "en": "",
+  "en": "\"No, it's nothing so demanding. I'd like you to{br}find someone for me. Will you do it?\"{end}",
   "notes": ""
  },
  {
@@ -95,7 +95,7 @@
   "op": "87BF97",
   "len": 51,
   "jp": "「なんだ、人探しですか。{br}ま、シスターからの依頼とあっちゃあ{br}断る訳にはいかないですね。{end}",
-  "en": "",
+  "en": "\"Oh, just finding someone? Well, if it's a{br}request from the Sister, I can't exactly say{br}no.\"{end}",
   "notes": ""
  },
  {
@@ -104,7 +104,7 @@
   "op": "87BFCB",
   "len": 22,
   "jp": "今から修道院の方へ行きますよ。{end}",
-  "en": "",
+  "en": "I'll head over to the convent now.{end}",
   "notes": ""
  },
  {
@@ -113,7 +113,7 @@
   "op": "87BFE3",
   "len": 28,
   "jp": "「ありがとう{c0C:01}＝{c0C:00}。{br}それでは待っています。{end}",
-  "en": "",
+  "en": "\"Thank you, {c0C:01} {c0C:00}. I'll be waiting,{br}then.\"{end}",
   "notes": ""
  },
  {
@@ -122,7 +122,7 @@
   "op": "87C00F",
   "len": 43,
   "jp": "タオ「{c0C:01}、助けてくれ！！{br}今、誰か分からんが{br}わしらを襲ってきておる！{end}",
-  "en": "",
+  "en": "Tao: {c0C:01}, help us!! Someone - I don't{br}know who - is attacking us!{end}",
   "notes": ""
  },
  {
@@ -131,7 +131,7 @@
   "op": "87C03F",
   "len": 12,
   "jp": "{c0C:01}「何だって！？{end}",
-  "en": "",
+  "en": "{c0C:01}: What?!{end}",
   "notes": ""
  },
  {
@@ -140,7 +140,7 @@
   "op": "87C04D",
   "len": 27,
   "jp": "「アイリーンもここに来ておる。{br}早く助けに…{end}",
-  "en": "",
+  "en": "\"Irene is here too. Hurry and save...\"{end}",
   "notes": ""
  },
  {
@@ -149,7 +149,7 @@
   "op": "87C07B",
   "len": 30,
   "jp": "{c0C:01}「ハイ、こちら{br}{c0C:01}＝{c0C:00}探偵事務所。{end}",
-  "en": "",
+  "en": "{c0C:01}: Hi, {c0C:01} {c0C:00} Detective{br}Agency.{end}",
   "notes": ""
  },
  {
@@ -158,7 +158,7 @@
   "op": "87C09B",
   "len": 56,
   "jp": "コスタ「お前が{c0C:01}か。{br}私はCTI保安部のコスタという者だ。{br}依頼を引き受けるそうだな。{end}",
-  "en": "",
+  "en": "Costa: So you're {c0C:01}. I'm Costa, with the{br}CTI Security Division. I hear you've accepted{br}the job.{end}",
   "notes": ""
  },
  {
@@ -167,7 +167,7 @@
   "op": "87C0D5",
   "len": 32,
   "jp": "「あぁ、そうだが。{br}（何だコイツ やけに態度がでかいな）{end}",
-  "en": "",
+  "en": "\"Yeah, that's right. (What's with this guy?{br}Awfully full of himself.)\"{end}",
   "notes": ""
  },
  {
@@ -176,7 +176,7 @@
   "op": "87C0F7",
   "len": 51,
   "jp": "「バイオモンスターの退治といっても、{br}ペットに毛の生えたようなヤツだ。{br}大した事はない。{end}",
-  "en": "",
+  "en": "\"It's bio-monster extermination, but the{br}thing's hardly more than an overgrown pet.{br}Nothing to it.\"{end}",
   "notes": ""
  },
  {
@@ -185,7 +185,7 @@
   "op": "87C12C",
   "len": 25,
   "jp": "「現場の詳しい状況を知りたいんだが。{end}",
-  "en": "",
+  "en": "\"I'd like the details on the situation out{br}there.\"{end}",
   "notes": ""
  },
  {
@@ -194,7 +194,7 @@
   "op": "87C147",
   "len": 38,
   "jp": "「それは現場にテオという局員をやるから、{br}そいつから聞いてくれ。{end}",
-  "en": "",
+  "en": "\"I'm sending an officer named Theo to the{br}site. Ask him.\"{end}",
   "notes": ""
  },
  {
@@ -203,7 +203,7 @@
   "op": "87C16F",
   "len": 16,
   "jp": "「何だあんたは来ないのか？{end}",
-  "en": "",
+  "en": "\"What, you're not coming?\"{end}",
   "notes": ""
  },
  {
@@ -212,7 +212,7 @@
   "op": "87C184",
   "len": 34,
   "jp": "「ケッ冗談じゃない！{br}あんな所にこの私が行ってられるか。{end}",
-  "en": "",
+  "en": "\"Hah, don't make me laugh! As if someone like{br}me would go to a place like that.\"{end}",
   "notes": ""
  },
  {
@@ -221,7 +221,7 @@
   "op": "87C1A7",
   "len": 59,
   "jp": "言っとくが、この仕事をキャンセル{br}しようものなら貴様のランナー免許は{br}取り上げだ。そのつもりでな。{end}",
-  "en": "",
+  "en": "Let me warn you: cancel this job, and your{br}runner license gets revoked. Keep that in{br}mind.{end}",
   "notes": ""
  },
  {
@@ -230,7 +230,7 @@
   "op": "87C1F5",
   "len": 43,
   "jp": "コスタ「{c0C:01}＝{c0C:00}だな。{br}私が分かるな？{br}CTI保安部長のコスタだ。{end}",
-  "en": "",
+  "en": "Costa: {c0C:01} {c0C:00}, I presume. You know{br}who I am? Costa, CTI Security Chief.{end}",
   "notes": ""
  },
  {
@@ -239,7 +239,7 @@
   "op": "87C222",
   "len": 34,
   "jp": "{c0C:01}「ああ、あんたの顔は{br}一度見たら忘れられないって。{end}",
-  "en": "",
+  "en": "{c0C:01}: Yeah, once a guy's seen your face,{br}he never forgets it.{end}",
   "notes": ""
  },
  {
@@ -248,7 +248,7 @@
   "op": "87C246",
   "len": 54,
   "jp": "「何だ、その態度は！{br}そういった態度を取っていると、{br}この街で商売できない事になるぞ。{end}",
-  "en": "",
+  "en": "\"What's with that attitude?! Keep acting like{br}that, and you'll find you can't do business in{br}this city.\"{end}",
   "notes": ""
  },
  {
@@ -257,7 +257,7 @@
   "op": "87C27E",
   "len": 45,
   "jp": "「はいはい、大変申し訳ありませんでした。{br}（くそっいちいち勘にさわるヤツだな）{end}",
-  "en": "",
+  "en": "\"Yes, yes, I'm terribly sorry. (Damn, this guy{br}gets on my nerves every time.)\"{end}",
   "notes": ""
  },
  {
@@ -266,7 +266,7 @@
   "op": "87C2AD",
   "len": 51,
   "jp": "「…あまり感心せん態度だが、まあいい。{br}仕事の内容を教えてやる、よく聞くんだ。{end}",
-  "en": "",
+  "en": "\"...Not an attitude I care for, but fine. I'll tell{br}you what the job is, so listen carefully.\"{end}",
   "notes": ""
  },
  {
@@ -275,7 +275,7 @@
   "op": "87C2E1",
   "len": 55,
   "jp": "最近、テロを行っているバイオモンスターの{br}集団があるのは知ってるな？{br}奴らを始末するんだ。{end}",
-  "en": "",
+  "en": "You're aware there's a group of bio-monsters{br}carrying out terrorist attacks lately? You're{br}to get rid of them.{end}",
   "notes": ""
  },
  {
@@ -284,7 +284,7 @@
   "op": "87C319",
   "len": 62,
   "jp": "奴ら、バケモノのくせして人間様に{br}たてついておる。そんなふざけた奴らを{br}これ以上放っておくわけにはいかん。{end}",
-  "en": "",
+  "en": "Those freaks have the nerve to defy their{br}human betters. We can't leave such insolent{br}creatures alone any longer.{end}",
   "notes": ""
  },
  {
@@ -293,7 +293,7 @@
   "op": "87C359",
   "len": 17,
   "jp": "「…ラオエル達を狩るのか。{end}",
-  "en": "",
+  "en": "\"...So you want me to hunt Raoel's group.\"{end}",
   "notes": ""
  },
  {
@@ -302,7 +302,7 @@
   "op": "87C36C",
   "len": 40,
   "jp": "「ん？ それは奴らのリーダーの名前じゃ{br}ないか。奴を知っているのか？{end}",
-  "en": "",
+  "en": "\"Hm? Isn't that the name of their leader? You{br}know him?\"{end}",
   "notes": ""
  },
  {
@@ -311,7 +311,7 @@
   "op": "87C396",
   "len": 17,
   "jp": "「い、いや。ニュ、ニュースでな。{end}",
-  "en": "",
+  "en": "\"N-no. From the n-news.\"{end}",
   "notes": ""
  },
  {
@@ -320,7 +320,7 @@
   "op": "87C3A9",
   "len": 54,
   "jp": "「フン、おかしな奴だ。{br}間違っても失敗なんてするんじゃないぞ。{br}その時はタダではおかんからな。{end}",
-  "en": "",
+  "en": "\"Hmph, odd fellow. Don't you dare fail. If you{br}do, you won't get off lightly.\"{end}",
   "notes": ""
  },
  {
@@ -329,7 +329,7 @@
   "op": "87C3F2",
   "len": 13,
   "jp": "{c0C:01}「はい、もしもし。{end}",
-  "en": "",
+  "en": "{c0C:01}: Yeah, hello?{end}",
   "notes": ""
  },
  {
@@ -338,7 +338,7 @@
   "op": "87C401",
   "len": 45,
   "jp": "ミネルバ「{c0C:01}さん、大変です。{br}イオンがババリアに連れ去られてしまい{br}ました！{end}",
-  "en": "",
+  "en": "Minerva: {c0C:01}-san, it's terrible! Bavaria{br}has taken Ion away!{end}",
   "notes": ""
  },
  {
@@ -347,7 +347,7 @@
   "op": "87C433",
   "len": 9,
   "jp": "「何だって！？{end}",
-  "en": "",
+  "en": "\"What?!\"{end}",
   "notes": ""
  },
  {
@@ -356,7 +356,7 @@
   "op": "87C43E",
   "len": 62,
   "jp": "「イオンの家はエリア4の住宅街の北西に{br}あります。急いで来て下さい。{br}詳しい事はこちらで話します。{end}",
-  "en": "",
+  "en": "\"Ion's house is in the northwest of the{br}residential area in Area 4. Please come quickly.{br}I'll tell you the details here.\"{end}",
   "notes": ""
  },
  {
@@ -365,7 +365,7 @@
   "op": "87C47E",
   "len": 17,
   "jp": "「よし分かった、すぐに行く。{end}",
-  "en": "",
+  "en": "\"All right, I'm on my way.\"{end}",
   "notes": ""
  },
  {
@@ -374,7 +374,7 @@
   "op": "87C49F",
   "len": 32,
   "jp": "「やっぱり仲間がいやがったか。ブツは{br}用意できてるか？{end}",
-  "en": "",
+  "en": "\"Figured she had a partner. You got the goods{br}ready?\"{end}",
   "notes": ""
  },
  {
@@ -383,7 +383,7 @@
   "op": "87C4C1",
   "len": 35,
   "jp": "{c0C:01}「あぁ、ディスクの事だろう。{br}ノーラは無事なんだろうな？{end}",
-  "en": "",
+  "en": "{c0C:01}: Yeah, you mean the disc. Nora's safe,{br}right?{end}",
   "notes": ""
  },
  {
@@ -392,7 +392,7 @@
   "op": "87C4E6",
   "len": 47,
   "jp": "「女の命はディスクと交換だ。言っておくが{br}警察の動きはマークしているからな。{end}",
-  "en": "",
+  "en": "\"The girl's life for the disc. And I'm warning{br}you, we're keeping an eye on the police.\"{end}",
   "notes": ""
  },
  {
@@ -401,7 +401,7 @@
   "op": "87C517",
   "len": 18,
   "jp": "「安心しろ、そのつもりはない。{end}",
-  "en": "",
+  "en": "\"Relax, I've got no intention of calling them.\"{end}",
   "notes": ""
  },
  {
@@ -410,7 +410,7 @@
   "op": "87C52B",
   "len": 58,
   "jp": "「では交換の場所だが、{br}エリア11の港にある2番倉庫に来い。{br}くれぐれもバカな気はおこすなよ。{end}",
-  "en": "",
+  "en": "\"Now, the place for the exchange: Warehouse{br}No. 2, at the port in Area 11. And don't try{br}anything stupid.\"{end}",
   "notes": ""
  },
  {
@@ -419,7 +419,7 @@
   "op": "87C57A",
   "len": 42,
   "jp": "{c0C:01}{c1C:0A}「………………………………{c1E}{br}というわけだ。{end}",
-  "en": "",
+  "en": "{c0C:01}{c1C:0A}: ...................{c1E}{br}And that's how it is.{end}",
   "notes": ""
  },
  {
@@ -428,7 +428,7 @@
   "op": "87C5A6",
   "len": 25,
   "jp": "コスタ「な、何だと！？ 今、何と言った？{end}",
-  "en": "",
+  "en": "Costa: Wh-what?! What did you just say?{end}",
   "notes": ""
  },
  {
@@ -437,7 +437,7 @@
   "op": "87C5C1",
   "len": 35,
   "jp": "{c0C:01}「オレはこの仕事、降りるぜ。{br}奴を狩るのはゴメンだ。{end}",
-  "en": "",
+  "en": "{c0C:01}: I'm quitting this job. I'm not hunting{br}him.{end}",
   "notes": ""
  },
  {
@@ -446,7 +446,7 @@
   "op": "87C5E6",
   "len": 54,
   "jp": "「な、な、何いぃぃ！？{br}キサマ、何を考えてるんだ！？ CTIの{br}依頼を、こ、断るというのかぁ？{end}",
-  "en": "",
+  "en": "\"Wh-wh-whaaat?! What are you thinking?!{br}You're t-turning down a CTI job?!\"{end}",
   "notes": ""
  },
  {
@@ -455,7 +455,7 @@
   "op": "87C61E",
   "len": 27,
   "jp": "「オレはオウムじゃない、何度も言わせる{br}なよ。{end}",
-  "en": "",
+  "en": "\"I'm not a parrot. Don't make me repeat{br}myself.\"{end}",
   "notes": ""
  },
  {
@@ -464,7 +464,7 @@
   "op": "87C63B",
   "len": 40,
   "jp": "「な、何だ、そ、そ、その態度は！{br}キサマ〜ぜ、絶対に許さんぞ！！{end}",
-  "en": "",
+  "en": "\"Wh-what's with th-th-that attitude?! You...{br}I'll n-never forgive you for this!!\"{end}",
   "notes": ""
  },
  {
@@ -473,7 +473,7 @@
   "op": "87C665",
   "len": 20,
   "jp": "「フウ…やかましいな、もう切るぜ。{end}",
-  "en": "",
+  "en": "\"Phew... you're noisy. I'm hanging up.\"{end}",
   "notes": ""
  },
  {
@@ -482,7 +482,7 @@
   "op": "87C67B",
   "len": 18,
   "jp": "「お、おい待て。まだ話は…。{end}",
-  "en": "",
+  "en": "\"H-hey, wait. I'm not done ta...\"{end}",
   "notes": ""
  }
 ]

@@ -4,7 +4,7 @@
   "addr": "87:CA07",
   "len": 15,
   "jp": "ビル内のモンスター退治{end}",
-  "en": "",
+  "en": "Monster Extermination in a Building{end}",
   "notes": ""
  },
  {
@@ -12,7 +12,7 @@
   "addr": "87:CA16",
   "len": 11,
   "jp": "VRゲーセン店長{end}",
-  "en": "",
+  "en": "VR Game Center Manager{end}",
   "notes": ""
  },
  {
@@ -20,7 +20,7 @@
   "addr": "87:CA26",
   "len": 47,
   "jp": "ホストセンターにあるコンピューターに{br}侵入したバイオモンスターを退治して{br}下さい。{end}",
-  "en": "",
+  "en": "Please exterminate the bio-monsters that{br}have broken into the computer at the{br}Host Center.{end}",
   "notes": ""
  },
  {
@@ -28,7 +28,7 @@
   "addr": "87:CA55",
   "len": 32,
   "jp": "詳しい事はエリア7のVRゲームセンター{br}にてお話します。{end}",
-  "en": "",
+  "en": "I'll give you the details at the VR Game{br}Center in Area 7.{end}",
   "notes": ""
  },
  {
@@ -36,7 +36,7 @@
   "addr": "87:CA75",
   "len": 17,
   "jp": "地下道のモンスター退治{end}",
-  "en": "",
+  "en": "Monster Extermination in the Tunnels{end}",
   "notes": ""
  },
  {
@@ -44,7 +44,7 @@
   "addr": "87:CA86",
   "len": 15,
   "jp": "CTI保安部長コスタ{end}",
-  "en": "",
+  "en": "CTI Security Chief Costa{end}",
   "notes": ""
  },
  {
@@ -52,7 +52,7 @@
   "addr": "87:CA98",
   "len": 56,
   "jp": "エリア3の工場予定地の地下道に巣くって{br}いるバイオモンスター共を退治してもらい{br}たい。{end}",
-  "en": "",
+  "en": "I want you to exterminate the bio-monsters{br}nesting in the tunnels under the planned{br}factory site in Area 3.{end}",
   "notes": ""
  },
  {
@@ -60,7 +60,7 @@
   "addr": "87:CAD0",
   "len": 12,
   "jp": "夫を探してください{end}",
-  "en": "",
+  "en": "Please Find My Husband{end}",
   "notes": ""
  },
  {
@@ -68,7 +68,7 @@
   "addr": "87:CADC",
   "len": 10,
   "jp": "シャロン＝クレイン{end}",
-  "en": "",
+  "en": "Sharon Crane{end}",
   "notes": ""
  },
  {
@@ -76,7 +76,7 @@
   "addr": "87:CAE9",
   "len": 63,
   "jp": "仕事に出たきり、行方不明になったままの{br}夫を探し出して下さい。エリア7のカフェで{br}お待ちしています。{end}",
-  "en": "",
+  "en": "Please find my husband. He went out to work{br}and has been missing ever since. I'll be waiting{br}at the cafe in Area 7.{end}",
   "notes": ""
  },
  {
@@ -84,7 +84,7 @@
   "addr": "87:CB28",
   "len": 14,
   "jp": "モンスター退治を頼む{end}",
-  "en": "",
+  "en": "Monster Extermination Wanted{end}",
   "notes": ""
  },
  {
@@ -92,7 +92,7 @@
   "addr": "87:CB36",
   "len": 5,
   "jp": "ボーマン{end}",
-  "en": "",
+  "en": "Bowman{end}",
   "notes": ""
  },
  {
@@ -100,7 +100,7 @@
   "addr": "87:CB3E",
   "len": 57,
   "jp": "施設に侵入したバイオモンスターを{br}退治して欲しい。詳しい話は{br}エリア5のファンタジードームで。{end}",
-  "en": "",
+  "en": "Exterminate the bio-monsters that broke{br}into my facility. Details at the Fantasy{br}Dome in Area 5.{end}",
   "notes": ""
  },
  {
@@ -108,7 +108,7 @@
   "addr": "87:CB77",
   "len": 17,
   "jp": "行方不明のランナー探し{end}",
-  "en": "",
+  "en": "Find a Missing Runner{end}",
   "notes": ""
  },
  {
@@ -116,7 +116,7 @@
   "addr": "87:CB88",
   "len": 16,
   "jp": "ランナー研究所 所員{end}",
-  "en": "",
+  "en": "Runner Research Lab Staff{end}",
   "notes": ""
  },
  {
@@ -124,7 +124,7 @@
   "addr": "87:CB9B",
   "len": 69,
   "jp": "実験テスト中に行方不明になった試作{br}ランナーを探して下さい。エリア12の{br}研究所にて詳しいお話をします。{end}",
-  "en": "",
+  "en": "Please find a prototype runner that went{br}missing during an experimental test. We'll{br}give you the details at the lab in Area 12.{end}",
   "notes": ""
  },
  {
@@ -132,7 +132,7 @@
   "addr": "87:CBE0",
   "len": 10,
   "jp": "パートナー募集{end}",
-  "en": "",
+  "en": "Partner Wanted{end}",
   "notes": ""
  },
  {
@@ -140,7 +140,7 @@
   "addr": "87:CBEA",
   "len": 4,
   "jp": "イオン{end}",
-  "en": "",
+  "en": "Ion{end}",
   "notes": ""
  },
  {
@@ -148,7 +148,7 @@
   "addr": "87:CBF1",
   "len": 73,
   "jp": "辻ランナー『デイモン』を倒すのに協力して{br}くれるパートナーを募集中。ランナーの扱い{br}に自信のある方はエリア7のカフェまで。{end}",
-  "en": "",
+  "en": "Seeking a partner to help take down the{br}rogue runner 'Daemon.' If you're confident{br}handling a runner, come to the cafe in Area 7.{end}",
   "notes": ""
  },
  {
@@ -156,7 +156,7 @@
   "addr": "87:CC3A",
   "len": 12,
   "jp": "ボディーガード募集{end}",
-  "en": "",
+  "en": "Bodyguard Wanted{end}",
   "notes": ""
  },
  {
@@ -164,7 +164,7 @@
   "addr": "87:CC46",
   "len": 4,
   "jp": "イオン{end}",
-  "en": "",
+  "en": "Ion{end}",
   "notes": ""
  },
  {
@@ -172,7 +172,7 @@
   "addr": "87:CC4D",
   "len": 64,
   "jp": "芸能人のボディーガードをやってくれる{br}ランナー使いを探しています。引き受ける{br}方はエリア7のSCBC局まで。{end}",
-  "en": "",
+  "en": "Looking for a runner pilot to work as a{br}celebrity's bodyguard. If you'll take the{br}job, come to the SCBC station in Area 7.{end}",
   "notes": ""
  },
  {
@@ -180,7 +180,7 @@
   "addr": "87:CC8D",
   "len": 14,
   "jp": "反乱分子の排除{end}",
-  "en": "",
+  "en": "Eliminate the Rebels{end}",
   "notes": ""
  },
  {
@@ -188,7 +188,7 @@
   "addr": "87:CC9B",
   "len": 16,
   "jp": "CTI保安部長 コスタ{end}",
-  "en": "",
+  "en": "CTI Security Chief Costa{end}",
   "notes": ""
  },
  {
@@ -196,7 +196,7 @@
   "addr": "87:CCAE",
   "len": 64,
   "jp": "ソリッドシティの平和をおびやかしている{br}反乱分子を排除してもらいたい。{br}詳しい事はこちらから連絡する。{end}",
-  "en": "",
+  "en": "I want you to eliminate the rebels{br}threatening the peace of Solid City. We will{br}contact you with the details.{end}",
   "notes": ""
  },
  {
@@ -204,7 +204,7 @@
   "addr": "87:CCEE",
   "len": 11,
   "jp": "テロ事件発生{end}",
-  "en": "",
+  "en": "Terrorist Attack{end}",
   "notes": ""
  },
  {
@@ -212,7 +212,7 @@
   "addr": "87:CCF9",
   "len": 44,
   "jp": "エリア9の政府施設を武装テロリスト{br}集団が襲撃、ケガ人多数。{end}",
-  "en": "",
+  "en": "Armed terrorist group attacks{br}government facility in Area 9; many{br}injured.{end}",
   "notes": ""
  },
  {
@@ -220,7 +220,7 @@
   "addr": "87:CD2C",
   "len": 65,
   "jp": "エリア9にある政府施設が、テロリスト{br}集団の襲撃を受けた。このテロ集団は、{br}全てバイオモンスターという。{end}",
-  "en": "",
+  "en": "A government facility in Area 9 was{br}attacked by a terrorist group said to be{br}made up entirely of bio-monsters.{end}",
   "notes": ""
  },
  {
@@ -228,7 +228,7 @@
   "addr": "87:CD6D",
   "len": 54,
   "jp": "かなりの武装をしており、この襲撃で{br}施設の職員ら11人の負傷者が出た{br}模様。{end}",
-  "en": "",
+  "en": "The group was heavily armed, and the{br}attack appears to have left 11 people{br}injured, including facility staff.{end}",
   "notes": ""
  },
  {
@@ -236,7 +236,7 @@
   "addr": "87:CDA3",
   "len": 50,
   "jp": "これで、テロ集団の襲撃事件は5件目と{br}なり、市民には不安が拡がっている。{end}",
-  "en": "",
+  "en": "This makes the fifth attack by the{br}terrorist group, and unease is spreading{br}among citizens.{end}",
   "notes": ""
  },
  {
@@ -244,7 +244,7 @@
   "addr": "87:CDD5",
   "len": 17,
   "jp": "不動産取り引き好調{end}",
-  "en": "",
+  "en": "Real Estate Deals Booming{end}",
   "notes": ""
  },
  {
@@ -252,7 +252,7 @@
   "addr": "87:CDE6",
   "len": 34,
   "jp": "街の南エリアでの不動産取り引きが{br}好調のきざし。{end}",
-  "en": "",
+  "en": "Signs of a boom in real estate deals in{br}the city's southern areas.{end}",
   "notes": ""
  },
  {
@@ -260,7 +260,7 @@
   "addr": "87:CE0D",
   "len": 50,
   "jp": "ソリッドシティの南エリアを中心に、{br}不動産の取り引きが好調となってきて{br}いる。{end}",
-  "en": "",
+  "en": "Real estate deals are booming, centered{br}on the southern areas of Solid City.{end}",
   "notes": ""
  },
  {
@@ -268,7 +268,7 @@
   "addr": "87:CE3F",
   "len": 65,
   "jp": "特にカタラカンパニーは、この所好調な{br}伸びを続けている。しかし、一部では{br}マフィアとのつながりを噂されている。{end}",
-  "en": "",
+  "en": "Catala Company in particular has kept{br}growing strongly. However, it's rumored in{br}some quarters to have mafia ties.{end}",
   "notes": ""
  },
  {
@@ -276,7 +276,7 @@
   "addr": "87:CE80",
   "len": 17,
   "jp": "地下道にモンスター出没{end}",
-  "en": "",
+  "en": "Monsters Sighted in Tunnels{end}",
   "notes": ""
  },
  {
@@ -284,7 +284,7 @@
   "addr": "87:CE91",
   "len": 39,
   "jp": "街の地下下水道でバイオモンスター目撃{br}の報告が多数。{end}",
-  "en": "",
+  "en": "Many reports of bio-monster sightings in{br}the city's sewers.{end}",
   "notes": ""
  },
  {
@@ -292,7 +292,7 @@
   "addr": "87:CEBD",
   "len": 61,
   "jp": "最近、ソリッドシティの地下を通る{br}下水道でバイオモンスターの目撃例が{br}多数報告されている。{end}",
-  "en": "",
+  "en": "Recently, many bio-monster sightings{br}have been reported in the sewers{br}running beneath Solid City.{end}",
   "notes": ""
  },
  {
@@ -300,7 +300,7 @@
   "addr": "87:CEFA",
   "len": 67,
   "jp": "バイオモンスターについては、バイオ{br}研究所から実験体が逃亡したという噂が{br}あるが、詳しい事は分かっていない。{end}",
-  "en": "",
+  "en": "Rumor has it the bio-monsters are test{br}subjects that escaped from a{br}bio-research lab, but details are unknown.{end}",
   "notes": ""
  },
  {
@@ -308,7 +308,7 @@
   "addr": "87:CF3D",
   "len": 14,
   "jp": "VRゲーセンが大人気{end}",
-  "en": "",
+  "en": "VR Game Center a Huge Hit{end}",
   "notes": ""
  },
  {
@@ -316,7 +316,7 @@
   "addr": "87:CF4B",
   "len": 37,
   "jp": "VR（ヴァーチャル）ゲームセンターが{br}若者を中心に大人気。{end}",
-  "en": "",
+  "en": "The VR Game Center is a huge hit,{br}especially with young people.{end}",
   "notes": ""
  },
  {
@@ -324,7 +324,7 @@
   "addr": "87:CF77",
   "len": 59,
   "jp": "エリア7にオープンしてから半年が{br}たったヴァーチャルゲームセンターが、{br}今若者に大人気となっている。{end}",
-  "en": "",
+  "en": "Half a year after opening in Area 7, the{br}VR Game Center is now hugely popular{br}with young people.{end}",
   "notes": ""
  },
  {
@@ -332,7 +332,7 @@
   "addr": "87:CFB2",
   "len": 65,
   "jp": "開業当初はエリア13のファンタジー{br}ドームと客を争っていたが、VRゲーム{br}ブームに乗って人気を取り戻した。{end}",
-  "en": "",
+  "en": "At first it vied for customers with the{br}Fantasy Dome in Area 13, but the VR game{br}boom won its popularity back.{end}",
   "notes": ""
  },
  {
@@ -340,7 +340,7 @@
   "addr": "87:CFF3",
   "len": 65,
   "jp": "しかし、一部では新型VRマシンは{br}人体に危険という話も出ており、この{br}人気も長くないという見方も。{end}",
-  "en": "",
+  "en": "However, some say the new VR machines{br}are dangerous to the human body, and{br}some predict the boom won't last.{end}",
   "notes": ""
  },
  {
@@ -348,7 +348,7 @@
   "addr": "87:D034",
   "len": 13,
   "jp": "カタラカンパニー倒産{end}",
-  "en": "",
+  "en": "Catala Company Goes Bankrupt{end}",
   "notes": ""
  },
  {
@@ -356,7 +356,7 @@
   "addr": "87:D041",
   "len": 44,
   "jp": "不動産会社のカタラカンパニーが倒産。{br}原因はマフィアとの関係か？{end}",
-  "en": "",
+  "en": "Real estate firm Catala Company goes{br}bankrupt. Are mafia ties to blame?{end}",
   "notes": ""
  },
  {
@@ -364,7 +364,7 @@
   "addr": "87:D070",
   "len": 78,
   "jp": "不動産業のカタラカンパニーが倒産。{br}会社代表は現在行方不明で、警察では{br}噂だったマフィアとの関係を調査中。{end}",
-  "en": "",
+  "en": "Real estate firm Catala Company has{br}gone bankrupt. Its president is missing;{br}police are probing its rumored mafia ties.{end}",
   "notes": ""
  },
  {
@@ -372,7 +372,7 @@
   "addr": "87:D0BE",
   "len": 13,
   "jp": "テロ集団また出没{end}",
-  "en": "",
+  "en": "Terrorists Strike Again{end}",
   "notes": ""
  },
  {
@@ -380,7 +380,7 @@
   "addr": "87:D0CB",
   "len": 26,
   "jp": "武装テロ集団が武器ショップを襲撃。{end}",
-  "en": "",
+  "en": "Armed terrorist group raids a weapon{br}shop.{end}",
   "notes": ""
  },
  {
@@ -388,7 +388,7 @@
   "addr": "87:D0EA",
   "len": 65,
   "jp": "エリア13の闘技場近くにある武器店が{br}バイオモンスターのテロリスト集団に{br}襲撃される事件が起こった。{end}",
-  "en": "",
+  "en": "A weapon shop near the arena in Area 13{br}was raided by the bio-monster terrorist{br}group.{end}",
   "notes": ""
  },
  {
@@ -396,7 +396,7 @@
   "addr": "87:D12B",
   "len": 49,
   "jp": "幸いにも死傷者は出なかったが、店内に{br}あった多量の武器が持ち去られた。{end}",
-  "en": "",
+  "en": "Fortunately there were no casualties, but{br}a large quantity of weapons was taken{br}from the shop.{end}",
   "notes": ""
  },
  {
@@ -404,7 +404,7 @@
   "addr": "87:D15C",
   "len": 13,
   "jp": "新型ドラッグ流行{end}",
-  "en": "",
+  "en": "New Drug Spreading{end}",
   "notes": ""
  },
  {
@@ -412,7 +412,7 @@
   "addr": "87:D169",
   "len": 34,
   "jp": "ヴァーチャルドラッグ『ハリケイン』が{br}危険な流行のきざし。{end}",
-  "en": "",
+  "en": "The virtual drug 'Hurricane' shows{br}dangerous signs of spreading.{end}",
   "notes": ""
  },
  {
@@ -420,7 +420,7 @@
   "addr": "87:D192",
   "len": 41,
   "jp": "エリア3のスラムを中心にヴァーチャル{br}ドラッグ『ハリケイン』が流行中。{end}",
-  "en": "",
+  "en": "The virtual drug 'Hurricane' is spreading,{br}centered on the slums of Area 3.{end}",
   "notes": ""
  },
  {
@@ -428,7 +428,7 @@
   "addr": "87:D1BB",
   "len": 69,
   "jp": "このドラッグは神経節に直接電極を{br}接続して脳内マヒをうながす物だが、{br}意識が戻らなくなる恐れが大きい。{end}",
-  "en": "",
+  "en": "The drug wires electrodes straight into{br}the ganglia to numb the brain, but users{br}risk never regaining consciousness.{end}",
   "notes": ""
  },
  {
@@ -436,7 +436,7 @@
   "addr": "87:D200",
   "len": 63,
   "jp": "また、ハリケインの中毒者が犯罪を犯す{br}ケースも増えてきており、警察では{br}取りしまりを強化する事に。{end}",
-  "en": "",
+  "en": "Cases of Hurricane addicts committing{br}crimes are also rising, and police plan to{br}step up their crackdown.{end}",
   "notes": ""
  },
  {
@@ -444,7 +444,7 @@
   "addr": "87:D23F",
   "len": 19,
   "jp": "ドラッグ取り引きで店を捜査{end}",
-  "en": "",
+  "en": "Club Searched over Drug Deals{end}",
   "notes": ""
  },
  {
@@ -452,7 +452,7 @@
   "addr": "87:D252",
   "len": 41,
   "jp": "ヴァーチャルドラッグの取り引きを{br}行ったとされる店を警察が捜査。{end}",
-  "en": "",
+  "en": "Police search an establishment said to{br}have dealt in virtual drugs.{end}",
   "notes": ""
  },
  {
@@ -460,7 +460,7 @@
   "addr": "87:D280",
   "len": 63,
   "jp": "エリア7のナイトクラブ『ディルコア』{br}におけるVRドラッグ『ハリケイン』の{br}取り引き情報を得、警察が出動。{end}",
-  "en": "",
+  "en": "Acting on information about deals in the{br}VR drug 'Hurricane' at 'Dilcore,' a night{br}club in Area 7, police moved in.{end}",
   "notes": ""
  },
  {
@@ -468,7 +468,7 @@
   "addr": "87:D2BF",
   "len": 41,
   "jp": "店内をくまなく捜査したが、それらしき{br}物は全く発見できなかった。{end}",
-  "en": "",
+  "en": "They searched every inch of the club, but{br}found nothing of the kind.{end}",
   "notes": ""
  },
  {
@@ -476,7 +476,7 @@
   "addr": "87:D2E8",
   "len": 18,
   "jp": "ピラーニャ・プレタ患者増加{end}",
-  "en": "",
+  "en": "Piranha Preta Cases on the Rise{end}",
   "notes": ""
  },
  {
@@ -484,7 +484,7 @@
   "addr": "87:D2FA",
   "len": 37,
   "jp": "致死性の病気『ピラーニャ・プレタ』の{br}患者が増加中。{end}",
-  "en": "",
+  "en": "Patients with the fatal disease 'Piranha{br}Preta' on the rise.{end}",
   "notes": ""
  },
  {
@@ -492,7 +492,7 @@
   "addr": "87:D324",
   "len": 68,
   "jp": "発病すると体中の筋肉がなえ、腐り落ち{br}死に至るという奇病『ピラーニャ・{br}プレタ』の患者が増加している。{end}",
-  "en": "",
+  "en": "Cases are rising of 'Piranha Preta,' a{br}strange disease in which the body's{br}muscles wither and rot away until death.{end}",
   "notes": ""
  },
  {
@@ -500,7 +500,7 @@
   "addr": "87:D368",
   "len": 74,
   "jp": "致死性の高いこの病気の原因については{br}エマージングウィルス説や某国の細菌{br}兵器説などがあるが、詳細は不明。{end}",
-  "en": "",
+  "en": "Theories on the cause of this lethal{br}disease range from an emerging virus to{br}a foreign germ weapon. Details unknown.{end}",
   "notes": ""
  },
  {
@@ -508,7 +508,7 @@
   "addr": "87:D3B2",
   "len": 16,
   "jp": "倉庫街で火災発生{end}",
-  "en": "",
+  "en": "Fire in the Warehouse District{end}",
   "notes": ""
  },
  {
@@ -516,7 +516,7 @@
   "addr": "87:D3C2",
   "len": 23,
   "jp": "エリア11の倉庫街で火災発生。{end}",
-  "en": "",
+  "en": "Fire breaks out in the Area 11 Warehouse{br}District.{end}",
   "notes": ""
  },
  {
@@ -524,7 +524,7 @@
   "addr": "87:D3DE",
   "len": 82,
   "jp": "エリア11の倉庫街で、深夜に火災が{br}発生。出火の原因を調査中、倉庫の地下{br}に麻薬工場が隠されているのを発見。{end}",
-  "en": "",
+  "en": "Late-night fire in the Area 11 Warehouse{br}District. Probing the cause, police found a{br}drug factory hidden under a warehouse.{end}",
   "notes": ""
  },
  {
@@ -532,7 +532,7 @@
   "addr": "87:D430",
   "len": 72,
   "jp": "現在、火元はこの工場と見られている。{br}警察では、この工場を所有していた業者{br}から事情聴取を行っている。{end}",
-  "en": "",
+  "en": "The factory is currently believed to be{br}where the fire started. Police are{br}questioning the business that owned it.{end}",
   "notes": ""
  },
  {
@@ -540,7 +540,7 @@
   "addr": "87:D478",
   "len": 17,
   "jp": "ピラーニャ・プレタ対策チーム{end}",
-  "en": "",
+  "en": "Piranha Preta Task Force{end}",
   "notes": ""
  },
  {
@@ -548,7 +548,7 @@
   "addr": "87:D489",
   "len": 39,
   "jp": "『ピラーニャ・プレタ』対策として特別{br}チームをCTI内に結成。{end}",
-  "en": "",
+  "en": "Special 'Piranha Preta' task force formed{br}within CTI.{end}",
   "notes": ""
  },
  {
@@ -556,7 +556,7 @@
   "addr": "87:D4B5",
   "len": 76,
   "jp": "CTI統合管理局のグロリア局長は、{br}患者が急増している奇病『ピラーニャ・{br}プレタ』解明の為、特別チームを結成。{end}",
-  "en": "",
+  "en": "CTI Integrated Management Bureau{br}Director Gloria formed a special team to{br}crack 'Piranha Preta' as cases surge.{end}",
   "notes": ""
  },
  {
@@ -564,7 +564,7 @@
   "addr": "87:D501",
   "len": 55,
   "jp": "今後、バイオ研究所の人員や施設も{br}動員し、調査・研究して行く事を発表。{end}",
-  "en": "",
+  "en": "She announced that the team will also{br}draw on bio-research lab staff and{br}facilities for investigation and research.{end}",
   "notes": ""
  },
  {
@@ -572,7 +572,7 @@
   "addr": "87:D538",
   "len": 17,
   "jp": "バイオモンスター目撃情報{end}",
-  "en": "",
+  "en": "Bio-monster Sightings{end}",
   "notes": ""
  },
  {
@@ -580,7 +580,7 @@
   "addr": "87:D549",
   "len": 25,
   "jp": "エリア5で多数のモンスター目撃情報。{end}",
-  "en": "",
+  "en": "Many monster sightings in Area 5.{end}",
   "notes": ""
  },
  {
@@ -588,7 +588,7 @@
   "addr": "87:D565",
   "len": 63,
   "jp": "エリア5においてバイオモンスターの{br}目撃情報が多数報告されている。{br}警察では注意を呼びかけている。{end}",
-  "en": "",
+  "en": "Many bio-monster sightings have been{br}reported in Area 5. Police are urging{br}caution.{end}",
   "notes": ""
  },
  {
@@ -596,7 +596,7 @@
   "addr": "87:D5A4",
   "len": 14,
   "jp": "失そう事件が多発{end}",
-  "en": "",
+  "en": "Wave of Disappearances{end}",
   "notes": ""
  },
  {
@@ -604,7 +604,7 @@
   "addr": "87:D5B2",
   "len": 41,
   "jp": "ソリッドシティにおける失そう事件、{br}過去最高の件数を記録。{end}",
-  "en": "",
+  "en": "Disappearances in Solid City hit a record{br}high.{end}",
   "notes": ""
  },
  {
@@ -612,7 +612,7 @@
   "addr": "87:D5E0",
   "len": 75,
   "jp": "近頃、街のあちこちで失そう事件が多発{br}している。このままでは前年度の倍以上{br}もの発生件数になると見られている。{end}",
-  "en": "",
+  "en": "Disappearances are rife all over the city{br}lately. At this rate, cases are expected to{br}top double last year's figure.{end}",
   "notes": ""
  },
  {
@@ -620,7 +620,7 @@
   "addr": "87:D62B",
   "len": 61,
   "jp": "警察では事件の背後に大きな犯罪組織が{br}関係していると見て、詳しい捜査を{br}続けている。{end}",
-  "en": "",
+  "en": "Police believe a large criminal{br}organization is behind the cases and are{br}continuing a detailed investigation.{end}",
   "notes": ""
  },
  {
@@ -628,7 +628,7 @@
   "addr": "87:D668",
   "len": 15,
   "jp": "テロ集団を追う記者{end}",
-  "en": "",
+  "en": "Reporter on the Terrorists' Trail{end}",
   "notes": ""
  },
  {
@@ -636,7 +636,7 @@
   "addr": "87:D677",
   "len": 36,
   "jp": "SCBC局記者が武装テロリスト集団を{br}追跡取材。{end}",
-  "en": "",
+  "en": "SCBC reporter follows the armed terrorist{br}group.{end}",
   "notes": ""
  },
  {
@@ -644,7 +644,7 @@
   "addr": "87:D6A0",
   "len": 67,
   "jp": "エリア7にあるTV局、SCBCの{br}サントス記者は街の住民を不安におとし{br}いれているテロ集団を追い続けている。{end}",
-  "en": "",
+  "en": "Santos, a reporter at Area 7 TV station{br}SCBC, keeps pursuing the terrorist group{br}that has the city's residents on edge.{end}",
   "notes": ""
  },
  {
@@ -652,7 +652,7 @@
   "addr": "87:D6E3",
   "len": 71,
   "jp": "彼は時として警察を上回る早さで現場に{br}現れ、取材を行う。彼の情報網には、{br}警察もかなわないようである。{end}",
-  "en": "",
+  "en": "He sometimes beats the police to the{br}scene. Even the police seem no match for{br}his information network.{end}",
   "notes": ""
  },
  {
@@ -660,7 +660,7 @@
   "addr": "87:D72A",
   "len": 11,
   "jp": "辻ランナー出没{end}",
-  "en": "",
+  "en": "Rogue Runner on the Loose{end}",
   "notes": ""
  },
  {
@@ -668,7 +668,7 @@
   "addr": "87:D735",
   "len": 43,
   "jp": "無差別にランナーを襲う辻ランナーが{br}出没、被害者が続出中。{end}",
-  "en": "",
+  "en": "A rogue runner is attacking runners at{br}random; victims keep mounting.{end}",
   "notes": ""
  },
  {
@@ -676,7 +676,7 @@
   "addr": "87:D765",
   "len": 66,
   "jp": "一般ランナーを無差別に襲うという{br}辻ランナーが現れ、ランナーを使う{br}探偵達の間に不安が起きている。{end}",
-  "en": "",
+  "en": "A rogue runner said to attack ordinary{br}runners at random has appeared,{br}unsettling detectives who use runners.{end}",
   "notes": ""
  },
  {
@@ -684,7 +684,7 @@
   "addr": "87:D7A7",
   "len": 46,
   "jp": "この辻ランナーは、そのすさまじい{br}強さから『デイモン』と呼ばれ、{br}恐れられている。{end}",
-  "en": "",
+  "en": "Because of its terrifying strength, this{br}rogue runner is feared and called{br}'Daemon.'{end}",
   "notes": ""
  },
  {
@@ -692,7 +692,7 @@
   "addr": "87:D7D5",
   "len": 16,
   "jp": "辻ランナー退治に賞金{end}",
-  "en": "",
+  "en": "Bounty on Rogue Runner{end}",
   "notes": ""
  },
  {
@@ -700,7 +700,7 @@
   "addr": "87:D7E5",
   "len": 29,
   "jp": "辻ランナー『デイモン』に賞金が{br}かけられる事に。{end}",
-  "en": "",
+  "en": "A bounty to be placed on the rogue{br}runner 'Daemon.'{end}",
   "notes": ""
  },
  {
@@ -708,7 +708,7 @@
   "addr": "87:D807",
   "len": 52,
   "jp": "街のランナー使いを恐れさせている{br}デイモンに対して、ついに賞金が{br}かけられる事になった。{end}",
-  "en": "",
+  "en": "A bounty has finally been placed on{br}Daemon, who has struck fear into the{br}city's runner pilots.{end}",
   "notes": ""
  },
  {
@@ -716,7 +716,7 @@
   "addr": "87:D83B",
   "len": 40,
   "jp": "これを知った腕に自信のある者達は、{br}デイモンを探し回っている。{end}",
-  "en": "",
+  "en": "On hearing this, those confident in their{br}skills are searching high and low for{br}Daemon.{end}",
   "notes": ""
  },
  {
@@ -724,7 +724,7 @@
   "addr": "87:D863",
   "len": 10,
   "jp": "デイモン倒される{end}",
-  "en": "",
+  "en": "Daemon Defeated{end}",
   "notes": ""
  },
  {
@@ -732,7 +732,7 @@
   "addr": "87:D86D",
   "len": 19,
   "jp": "辻ランナー『デイモン』倒される。{end}",
-  "en": "",
+  "en": "Rogue runner 'Daemon' defeated.{end}",
   "notes": ""
  },
  {
@@ -740,7 +740,7 @@
   "addr": "87:D883",
   "len": 64,
   "jp": "数々の殺人を犯していたデイモンが{br}ついに倒された。賞金はデイモンを{br}倒した勇気ある探偵に渡された。{end}",
-  "en": "",
+  "en": "Daemon, guilty of numerous murders, has{br}finally been defeated. The bounty went{br}to the brave detective who did it.{end}",
   "notes": ""
  },
  {
@@ -748,7 +748,7 @@
   "addr": "87:D8C3",
   "len": 13,
   "jp": "ジャスティス大人気{end}",
-  "en": "",
+  "en": "Justice a Huge Hit{end}",
   "notes": ""
  },
  {
@@ -756,7 +756,7 @@
   "addr": "87:D8D0",
   "len": 25,
   "jp": "対戦競技『ジャスティス』が大人気。{end}",
-  "en": "",
+  "en": "The combat sport 'Justice' is hugely{br}popular.{end}",
   "notes": ""
  },
  {
@@ -764,7 +764,7 @@
   "addr": "87:D8EE",
   "len": 66,
   "jp": "エリア13のジャスティスドームで{br}行われている対戦競技ジャスティスの{br}観客動員数の新記録が続いている。{end}",
-  "en": "",
+  "en": "Attendance at Justice, the combat sport{br}held at the Justice Dome in Area 13,{br}keeps setting new records.{end}",
   "notes": ""
  },
  {
@@ -772,7 +772,7 @@
   "addr": "87:D930",
   "len": 57,
   "jp": "この命がけの競技、ジャスティスの{br}人気はとどまる所を知らず、記録は{br}まだまだ続きそうである。{end}",
-  "en": "",
+  "en": "The popularity of Justice, a sport where{br}lives are on the line, knows no bounds,{br}and the records look set to keep coming.{end}",
   "notes": ""
  },
  {
@@ -780,7 +780,7 @@
   "addr": "87:D969",
   "len": 16,
   "jp": "人工血液のヤミ売買{end}",
-  "en": "",
+  "en": "Black Market in Artificial Blood{end}",
   "notes": ""
  },
  {
@@ -788,7 +788,7 @@
   "addr": "87:D979",
   "len": 26,
   "jp": "人工血液のヤミ売買事件が増加。{end}",
-  "en": "",
+  "en": "Black-market artificial blood deals on the{br}rise.{end}",
   "notes": ""
  },
  {
@@ -796,7 +796,7 @@
   "addr": "87:D99A",
   "len": 75,
   "jp": "倫理問題の長期化で、21世紀を{br}過ぎてからようやく実用化された{br}人工血液だが、最近ヤミ売買が急増中。{end}",
-  "en": "",
+  "en": "Artificial blood, held up by ethics debates{br}until after the 21st century, now sells{br}more and more on the black market.{end}",
   "notes": ""
  },
  {
@@ -804,7 +804,7 @@
   "addr": "87:D9E5",
   "len": 62,
   "jp": "人工血液はウィルスにかかる心配が{br}ないのでピラーニャ・プレタ患者の{br}治療の為にも注目されている。{end}",
-  "en": "",
+  "en": "With no risk of viral infection, artificial{br}blood is also drawing attention as a{br}treatment for Piranha Preta.{end}",
   "notes": ""
  },
  {
@@ -812,7 +812,7 @@
   "addr": "87:DA23",
   "len": 48,
   "jp": "この事件の背後には大きな犯罪組織が{br}関わっているという噂も流れている。{end}",
-  "en": "",
+  "en": "There are also rumors that a large{br}criminal organization is involved behind{br}the scenes.{end}",
   "notes": ""
  },
  {
@@ -820,7 +820,7 @@
   "addr": "87:DA53",
   "len": 13,
   "jp": "犯罪組織ババリア{end}",
-  "en": "",
+  "en": "The Bavaria Crime Syndicate{end}",
   "notes": ""
  },
  {
@@ -828,7 +828,7 @@
   "addr": "87:DA60",
   "len": 24,
   "jp": "犯罪組織ババリアの事件が続発。{end}",
-  "en": "",
+  "en": "Bavaria crime syndicate incidents keep{br}occurring.{end}",
   "notes": ""
  },
  {
@@ -836,7 +836,7 @@
   "addr": "87:DA7D",
   "len": 73,
   "jp": "ヨーロッパからやって来た犯罪組織{br}『ババリア』が起こす事件が続発。{br}倉庫街の火災事件にも関係との情報。{end}",
-  "en": "",
+  "en": "'Bavaria,' a crime syndicate from Europe,{br}keeps causing incidents. It's reportedly{br}tied to the warehouse fire too.{end}",
   "notes": ""
  },
  {
@@ -844,7 +844,7 @@
   "addr": "87:DAC6",
   "len": 40,
   "jp": "警察では、ババリア対策の為の{br}特別チームを組織する様子。{end}",
-  "en": "",
+  "en": "Police appear set to organize a special{br}team to deal with Bavaria.{end}",
   "notes": ""
  },
  {
@@ -852,7 +852,7 @@
   "addr": "87:DAEE",
   "len": 12,
   "jp": "Bモンスターを目撃{end}",
-  "en": "",
+  "en": "Bio-monsters Sighted{end}",
   "notes": ""
  },
  {
@@ -860,7 +860,7 @@
   "addr": "87:DAFA",
   "len": 47,
   "jp": "スラム街でBモンスター数体を目撃。{br}     発信者：クスリ屋のサムソン{end}",
-  "en": "",
+  "en": "Saw several bio-monsters in the slums.{br}From: Samson the Pusher{end}",
   "notes": ""
  },
  {
@@ -868,7 +868,7 @@
   "addr": "87:DB2E",
   "len": 66,
   "jp": "先週の深夜、エリア3のスラム街にある{br}廃墟でバイオモンスターどもを見たぜ。{br}きっと奴らの巣があるに違いねぇ。{end}",
-  "en": "",
+  "en": "Late one night last week, I saw some{br}bio-monsters in the ruins in the Area 3{br}slums. Bet their nest's gotta be there.{end}",
   "notes": ""
  },
  {
@@ -876,7 +876,7 @@
   "addr": "87:DB70",
   "len": 58,
   "jp": "ダチは奴らを捕まえようとしたけど、{br}返り討ちにあって殺られちまった。{br}いつかダチのカタキを取ってやる！{end}",
-  "en": "",
+  "en": "A buddy of mine tried to catch 'em, but{br}they turned the tables and killed him.{br}Someday I'll avenge my buddy!{end}",
   "notes": ""
  },
  {
@@ -884,7 +884,7 @@
   "addr": "87:DBAA",
   "len": 12,
   "jp": "Fドームの経営者{end}",
-  "en": "",
+  "en": "Fantasy Dome's Owner{end}",
   "notes": ""
  },
  {
@@ -892,7 +892,7 @@
   "addr": "87:DBB6",
   "len": 46,
   "jp": "ファンタジードームの経営者の噂。{br}         発信者：早耳のトム{end}",
-  "en": "",
+  "en": "Rumor about the Fantasy Dome's owner.{br}From: Tom the Ear{end}",
   "notes": ""
  },
  {
@@ -900,7 +900,7 @@
   "addr": "87:DBE7",
   "len": 64,
   "jp": "エリア5にあるファンタジードームの{br}経営者は、秘書と不倫の仲なんだ。{br}家には奥さんと子供がいるのにね。{end}",
-  "en": "",
+  "en": "The owner of the Fantasy Dome in Area 5{br}is cheating with his secretary. And he's{br}got a wife and kids at home.{end}",
   "notes": ""
  },
  {
@@ -908,7 +908,7 @@
   "addr": "87:DC27",
   "len": 8,
   "jp": "あぁ、エビータ{end}",
-  "en": "",
+  "en": "Ah, Evita{end}",
   "notes": ""
  },
  {
@@ -916,7 +916,7 @@
   "addr": "87:DC2F",
   "len": 44,
   "jp": "エビータ、いつか振り向かせてやるぜ。{br}          発信者：ドミンゴ{end}",
-  "en": "",
+  "en": "Evita, someday I'll make you look my way.{br}From: Domingo{end}",
   "notes": ""
  },
  {
@@ -924,7 +924,7 @@
   "addr": "87:DC5E",
   "len": 63,
   "jp": "カフェに行くといつも君は一人きり。{br}何度デートに誘っても、つれない返事{br}ばかりだけど、いつか必ず・・・。{end}",
-  "en": "",
+  "en": "Every time I go to the cafe, you're all{br}alone. You keep turning me down when I{br}ask you out, but someday, I swear...{end}",
   "notes": ""
  },
  {
@@ -932,7 +932,7 @@
   "addr": "87:DC9D",
   "len": 12,
   "jp": "テロ集団の情報{end}",
-  "en": "",
+  "en": "Information on the Terrorists{end}",
   "notes": ""
  },
  {
@@ -940,7 +940,7 @@
   "addr": "87:DCA9",
   "len": 46,
   "jp": "テロ集団の正体についての情報。{br}    発信者：ミサンガ売りのアドン{end}",
-  "en": "",
+  "en": "Who the terrorists really are.{br}From: Adon the Bracelet Seller{end}",
   "notes": ""
  },
  {
@@ -948,7 +948,7 @@
   "addr": "87:DCDC",
   "len": 57,
   "jp": "今、世間をにぎわせているテロ集団の{br}事だけど、どうやら奴らの正体は{br}バイオモンスターらしいぜ。{end}",
-  "en": "",
+  "en": "About that terrorist group everyone's{br}talking about - looks like they're{br}actually bio-monsters.{end}",
   "notes": ""
  },
  {
@@ -956,7 +956,7 @@
   "addr": "87:DD15",
   "len": 38,
   "jp": "まったく恐ろしい話だよな。{br}バケモノ共が人間を襲うんだからよ。{end}",
-  "en": "",
+  "en": "Scary stuff, huh? Monsters attacking{br}humans.{end}",
   "notes": ""
  },
  {
@@ -964,7 +964,7 @@
   "addr": "87:DD3B",
   "len": 11,
   "jp": "VRゲーセンが休み{end}",
-  "en": "",
+  "en": "VR Game Center Closed{end}",
   "notes": ""
  },
  {
@@ -972,7 +972,7 @@
   "addr": "87:DD46",
   "len": 40,
   "jp": "VRゲーセンがいきなり休業。{br}          発信者：ハイエナ{end}",
-  "en": "",
+  "en": "VR Game Center suddenly closes.{br}From: Hyena{end}",
   "notes": ""
  },
  {
@@ -980,7 +980,7 @@
   "addr": "87:DD71",
   "len": 63,
   "jp": "エリア7のVRゲームセンターが休業中{br}なんスよ。何だかホストのメンテナンス{br}とかいう話なんスけど、本当かなぁ？{end}",
-  "en": "",
+  "en": "The VR Game Center in Area 7 is closed,{br}man. They say it's maintenance on the{br}host or something, but is that for real?{end}",
   "notes": ""
  },
  {
@@ -988,7 +988,7 @@
   "addr": "87:DDB0",
   "len": 13,
   "jp": "チャイナタウンの事件{end}",
-  "en": "",
+  "en": "Chinatown Incident{end}",
   "notes": ""
  },
  {
@@ -996,7 +996,7 @@
   "addr": "87:DDBD",
   "len": 43,
   "jp": "チャイニーズマフィア襲撃事件。{br}          発信者：カルロス{end}",
-  "en": "",
+  "en": "Attack on the Chinese mafia.{br}From: Carlos{end}",
   "notes": ""
  },
  {
@@ -1004,7 +1004,7 @@
   "addr": "87:DDED",
   "len": 55,
   "jp": "この間のチャイニーズマフィアの本部が{br}襲われた事件だけど、マフィア同士の{br}抗争らしいぜ。{end}",
-  "en": "",
+  "en": "That attack on the Chinese mafia's HQ the{br}other day - word is it was a turf war{br}between mafia outfits.{end}",
   "notes": ""
  },
  {
@@ -1012,7 +1012,7 @@
   "addr": "87:DE24",
   "len": 65,
   "jp": "これで裏世界の力関係も変わるな。{br}それにしてもよ、一族皆殺しだって{br}いうんだから本当に恐ろしいよな。{end}",
-  "en": "",
+  "en": "That'll shift the balance of power in the{br}underworld. Still, the whole family wiped{br}out... That's seriously scary.{end}",
   "notes": ""
  },
  {
@@ -1020,7 +1020,7 @@
   "addr": "87:DE65",
   "len": 9,
   "jp": "ディルコアの噂{end}",
-  "en": "",
+  "en": "Dilcore Rumor{end}",
   "notes": ""
  },
  {
@@ -1028,7 +1028,7 @@
   "addr": "87:DE6E",
   "len": 47,
   "jp": "ディルコアでのドラッグ売買の情報。{br}         発信者：早耳のトム{end}",
-  "en": "",
+  "en": "Drug dealing at Dilcore.{br}From: Tom the Ear{end}",
   "notes": ""
  },
  {
@@ -1036,7 +1036,7 @@
   "addr": "87:DEA0",
   "len": 67,
   "jp": "ディルコアじゃあ店の中でドラッグの{br}売買をやっているって噂だよ。この間の{br}警察の捜査は失敗だったらしいけど。{end}",
-  "en": "",
+  "en": "Rumor is they deal drugs right inside{br}Dilcore. Seems the police search the other{br}day was a bust, though.{end}",
   "notes": ""
  },
  {
@@ -1044,7 +1044,7 @@
   "addr": "87:DEE3",
   "len": 6,
   "jp": "ハリケイン{end}",
-  "en": "",
+  "en": "Hurricane{end}",
   "notes": ""
  },
  {
@@ -1052,7 +1052,7 @@
   "addr": "87:DEE9",
   "len": 40,
   "jp": "ハリケインを流しているヤツ。{br}      発信者：チクリ屋ブラウン{end}",
-  "en": "",
+  "en": "Who's pushing Hurricane.{br}From: Brown the Snitch{end}",
   "notes": ""
  },
  {
@@ -1060,7 +1060,7 @@
   "addr": "87:DF14",
   "len": 52,
   "jp": "ダチから聞いたんだが『ハリケイン』を{br}さばいているのは『バイビジブル』と{br}『ババリア』なんだってよ。{end}",
-  "en": "",
+  "en": "Heard from a buddy that the ones dealing{br}'Hurricane' are 'Bivisible' and 'Bavaria.'{end}",
   "notes": ""
  },
  {
@@ -1068,7 +1068,7 @@
   "addr": "87:DF48",
   "len": 17,
   "jp": "ドラッグ工場の隠し場所{end}",
-  "en": "",
+  "en": "Hidden Drug Factory{end}",
   "notes": ""
  },
  {
@@ -1076,7 +1076,7 @@
   "addr": "87:DF59",
   "len": 43,
   "jp": "倉庫の地下にドラッグ工場。{br}          発信者：ハイエナ{end}",
-  "en": "",
+  "en": "Drug factory under a warehouse.{br}From: Hyena{end}",
   "notes": ""
  },
  {
@@ -1084,7 +1084,7 @@
   "addr": "87:DF89",
   "len": 36,
   "jp": "倉庫街のどこかにマフィアの{br}ドラッグ工場があるらしいッスよ。{end}",
-  "en": "",
+  "en": "Word is there's a mafia drug factory{br}somewhere in the Warehouse District,{br}man.{end}",
   "notes": ""
  },
  {
@@ -1092,7 +1092,7 @@
   "addr": "87:DFAD",
   "len": 43,
   "jp": "何でも倉庫の中のコンテナから地下に{br}行ける通路があるみたいッスよ。{end}",
-  "en": "",
+  "en": "Seems there's a passage from a{br}container in one of the warehouses that{br}leads underground, man.{end}",
   "notes": ""
  },
  {
@@ -1100,7 +1100,7 @@
   "addr": "87:DFD8",
   "len": 12,
   "jp": "ドラッグの値上がり{end}",
-  "en": "",
+  "en": "Drug Prices Rising{end}",
   "notes": ""
  },
  {
@@ -1108,7 +1108,7 @@
   "addr": "87:DFE4",
   "len": 49,
   "jp": "例の爆破事件でドラッグが値上がり。{br}      発信者：チクリ屋ブラウン{end}",
-  "en": "",
+  "en": "Drug prices up after that bombing.{br}From: Brown the Snitch{end}",
   "notes": ""
  },
  {
@@ -1116,7 +1116,7 @@
   "addr": "87:E01A",
   "len": 61,
   "jp": "倉庫街で倉庫の爆破事件があっただろ？{br}あの地下にババリアのドラッグ工場が{br}あったらしいんだよ。{end}",
-  "en": "",
+  "en": "You heard about that warehouse bombing{br}in the Warehouse District? Turns out{br}Bavaria had a drug factory under it.{end}",
   "notes": ""
  },
  {
@@ -1124,7 +1124,7 @@
   "addr": "87:E057",
   "len": 57,
   "jp": "それがぶっとばされちまったもんだから{br}市場はバイビジブルがシメてるぜ。{br}ドラッグも値上がりしちまうしよ。{end}",
-  "en": "",
+  "en": "Now that it got blown sky-high, Bivisible{br}runs the market. And drug prices went up{br}too.{end}",
   "notes": ""
  },
  {
@@ -1132,7 +1132,7 @@
   "addr": "87:E090",
   "len": 19,
   "jp": "スラム街でモンスターを見失った{end}",
-  "en": "",
+  "en": "Lost a Monster in the Slums{end}",
   "notes": ""
  },
  {
@@ -1140,7 +1140,7 @@
   "addr": "87:E0A3",
   "len": 42,
   "jp": "バイオモンスターが消えちまった？{br}     発信者：クスリ屋のサムソン{end}",
-  "en": "",
+  "en": "A bio-monster vanished?{br}From: Samson the Pusher{end}",
   "notes": ""
  },
  {
@@ -1148,7 +1148,7 @@
   "addr": "87:E0D2",
   "len": 65,
   "jp": "スラム街でバイオモンスターらしい奴を{br}見つけたんで、後をつけたんだけど、{br}廃墟に入っていったところで見失った。{end}",
-  "en": "",
+  "en": "I spotted something like a bio-monster in{br}the slums and tailed it, but lost it when it{br}went into some ruins.{end}",
   "notes": ""
  },
  {
@@ -1156,7 +1156,7 @@
   "addr": "87:E113",
   "len": 52,
   "jp": "絶対あそこに何かあるハズなんだ。{br}でなかったら、突然消えちまうなんて{br}絶対に変だぜ。{end}",
-  "en": "",
+  "en": "There's gotta be something in there.{br}Otherwise, vanishing all of a sudden like{br}that is just plain weird.{end}",
   "notes": ""
  },
  {
@@ -1164,7 +1164,7 @@
   "addr": "87:E147",
   "len": 16,
   "jp": "バイオモンスターも被害者{end}",
-  "en": "",
+  "en": "Bio-monsters Are Victims Too{end}",
   "notes": ""
  },
  {
@@ -1172,7 +1172,7 @@
   "addr": "87:E157",
   "len": 45,
   "jp": "バイオモンスターも被害者ではないか。{br}        発信者：クビチェック{end}",
-  "en": "",
+  "en": "Aren't bio-monsters victims too?{br}From: Kubitschek{end}",
   "notes": ""
  },
  {
@@ -1180,7 +1180,7 @@
   "addr": "87:E189",
   "len": 68,
   "jp": "バイオモンスターが人間の生体実験に{br}よって産み出されたものならば、彼らは{br}被害者と呼べるのではないだろうか。{end}",
-  "en": "",
+  "en": "If bio-monsters were born from{br}experiments on living humans, couldn't we{br}call them victims?{end}",
   "notes": ""
  },
  {
@@ -1188,7 +1188,7 @@
   "addr": "87:E1CD",
   "len": 68,
   "jp": "彼らが攻撃的な行動を取るのも、{br}自分達を守る為ではないのか。我々は{br}もっと彼らの事をよく知るべきだ。{end}",
-  "en": "",
+  "en": "Isn't their aggression just a way of{br}protecting themselves? We should learn{br}more about them.{end}",
   "notes": ""
  },
  {
@@ -1196,7 +1196,7 @@
   "addr": "87:E211",
   "len": 13,
   "jp": "CTIのエライさんの噂{end}",
-  "en": "",
+  "en": "Rumor About a CTI Bigwig{end}",
   "notes": ""
  },
  {
@@ -1204,7 +1204,7 @@
   "addr": "87:E21E",
   "len": 48,
   "jp": "CTI保安部の部長さんって・・・。{br}         発信者：早耳のトム{end}",
-  "en": "",
+  "en": "About the CTI Security Chief...{br}From: Tom the Ear{end}",
   "notes": ""
  },
  {
@@ -1212,7 +1212,7 @@
   "addr": "87:E251",
   "len": 63,
   "jp": "CTI保安部の部長なんだけど、{br}あいつ、奥さんと3人の子供がいるのに{br}19歳の愛人がいるんだってよ。{end}",
-  "en": "",
+  "en": "The CTI Security Chief has a wife and{br}three kids, but word is he's got a{br}19-year-old mistress.{end}",
   "notes": ""
  },
  {
@@ -1220,7 +1220,7 @@
   "addr": "87:E290",
   "len": 12,
   "jp": "人体実験の話{end}",
-  "en": "",
+  "en": "Human Experiments{end}",
   "notes": ""
  },
  {
@@ -1228,7 +1228,7 @@
   "addr": "87:E29C",
   "len": 46,
   "jp": "人体実験をやってる施設の話。{br}    発信者：ミサンガ売りのアドン{end}",
-  "en": "",
+  "en": "A lab doing human experiments.{br}From: Adon the Bracelet Seller{end}",
   "notes": ""
  },
  {
@@ -1236,7 +1236,7 @@
   "addr": "87:E2CF",
   "len": 63,
   "jp": "この街のどこかに、いろんな所から{br}さらって来た人間を使って、おかしな{br}実験をやってる施設があるらしいぜ。{end}",
-  "en": "",
+  "en": "Word is somewhere in this city there's a{br}lab doing weird experiments on people{br}snatched from all over.{end}",
   "notes": ""
  },
  {
@@ -1244,7 +1244,7 @@
   "addr": "87:E30E",
   "len": 38,
   "jp": "バイオモンスターはそういった実験から{br}生まれた生き物なのかもな。{end}",
-  "en": "",
+  "en": "Maybe bio-monsters are creatures born{br}from experiments like that.{end}",
   "notes": ""
  },
  {
@@ -1252,7 +1252,7 @@
   "addr": "87:E334",
   "len": 14,
   "jp": "ナチュラルパークの少女{end}",
-  "en": "",
+  "en": "The Girl in Natural Park{end}",
   "notes": ""
  },
  {
@@ -1260,7 +1260,7 @@
   "addr": "87:E342",
   "len": 46,
   "jp": "ナチュラルパークの少女が気になる私。{br}           発信者：ポポス{end}",
-  "en": "",
+  "en": "I can't stop thinking about the girl in{br}Natural Park.{br}From: Popos{end}",
   "notes": ""
  },
  {
@@ -1268,7 +1268,7 @@
   "addr": "87:E373",
   "len": 63,
   "jp": "ナチュラルパークの奥にいる、風船を{br}持った女の子がとても気になるんです。{br}一人で何をしているんでしょう？{end}",
-  "en": "",
+  "en": "There's a girl with a balloon deep in{br}Natural Park, and I can't stop wondering{br}about her. What's she doing all alone?{end}",
   "notes": ""
  },
  {
@@ -1276,7 +1276,7 @@
   "addr": "87:E3B2",
   "len": 15,
   "jp": "殺人ランナーに襲われた{end}",
-  "en": "",
+  "en": "Attacked by a Killer Runner{end}",
   "notes": ""
  },
  {
@@ -1284,7 +1284,7 @@
   "addr": "87:E3C1",
   "len": 46,
   "jp": "とんでもなく強いランナーに襲われた。{br}      発信者：一ッ目のスネイク{end}",
-  "en": "",
+  "en": "Got attacked by an insanely strong{br}runner.{br}From: One-Eye Snake{end}",
   "notes": ""
  },
  {
@@ -1292,7 +1292,7 @@
   "addr": "87:E3F4",
   "len": 54,
   "jp": "倉庫街でランナーを使う仕事をしてたら{br}いきなり黒いボディのランナーが{br}襲って来やがった。{end}",
-  "en": "",
+  "en": "I was on a runner job in the Warehouse{br}District when a black-bodied runner{br}suddenly jumped me.{end}",
   "notes": ""
  },
  {
@@ -1300,7 +1300,7 @@
   "addr": "87:E42A",
   "len": 61,
   "jp": "あっと言う間にランナーはスクラップに{br}なっちまったよ。俺は助かったけど、{br}そいつには気をつけた方が良いぜ。{end}",
-  "en": "",
+  "en": "My runner was scrap in no time flat. I{br}made it out, but you'd better watch out{br}for that thing.{end}",
   "notes": ""
  },
  {
@@ -1308,7 +1308,7 @@
   "addr": "87:E467",
   "len": 11,
   "jp": "デイモンの倒し方{end}",
-  "en": "",
+  "en": "How to Beat Daemon{end}",
   "notes": ""
  },
  {
@@ -1316,7 +1316,7 @@
   "addr": "87:E472",
   "len": 47,
   "jp": "デイモンの倒し方を教えてやるぜ。{br}        発信者：不死身のジョン{end}",
-  "en": "",
+  "en": "I'll tell you how to beat Daemon.{br}From: Deathless John{end}",
   "notes": ""
  },
  {
@@ -1324,7 +1324,7 @@
   "addr": "87:E4A6",
   "len": 65,
   "jp": "デイモンに賞金がかかったんで、皆奴を{br}倒そうと必死になっているようだな。{br}俺が一つ良い事を教えてやろう。{end}",
-  "en": "",
+  "en": "Now that there's a bounty on Daemon,{br}everyone's desperate to take him down.{br}Let me give you one good tip.{end}",
   "notes": ""
  },
  {
@@ -1332,7 +1332,7 @@
   "addr": "87:E4E7",
   "len": 64,
   "jp": "奴と戦う時には、アセらない事だ。{br}じっくり戦っていれば、必ずチャンスが{br}見えて来る。まぁ、頑張る事だな。{end}",
-  "en": "",
+  "en": "When you fight him, don't rush. Fight{br}patiently and your chance will come. Well,{br}good luck.{end}",
   "notes": ""
  },
  {
@@ -1340,7 +1340,7 @@
   "addr": "87:E527",
   "len": 9,
   "jp": "脱走事件{end}",
-  "en": "",
+  "en": "Jailbreak{end}",
   "notes": ""
  },
  {
@@ -1348,7 +1348,7 @@
   "addr": "87:E530",
   "len": 43,
   "jp": "脱走事件がおきたらしいッスよ。{br}          発信者：ハイエナ{end}",
-  "en": "",
+  "en": "Looks like there's been a jailbreak, man.{br}From: Hyena{end}",
   "notes": ""
  },
  {
@@ -1356,7 +1356,7 @@
   "addr": "87:E55E",
   "len": 62,
   "jp": "CTIが捕まえていた犯罪組織の人間が{br}脱走したらしいッスよ。{br}CTIはこの事を公表してないスけど。{end}",
-  "en": "",
+  "en": "A crime syndicate guy CTI had in custody{br}escaped, man. CTI hasn't gone public with{br}it, though.{end}",
   "notes": ""
  },
  {
@@ -1364,7 +1364,7 @@
   "addr": "87:E59C",
   "len": 13,
   "jp": "強力な武器の噂{end}",
-  "en": "",
+  "en": "Rumor of a Powerful Weapon{end}",
   "notes": ""
  },
  {
@@ -1372,7 +1372,7 @@
   "addr": "87:E5A9",
   "len": 47,
   "jp": "どこかに強力な武器があるという噂。{br}     発信者：クスリ屋のサムソン{end}",
-  "en": "",
+  "en": "A powerful weapon out there somewhere.{br}From: Samson the Pusher{end}",
   "notes": ""
  },
  {
@@ -1380,7 +1380,7 @@
   "addr": "87:E5DD",
   "len": 50,
   "jp": "エリア13のパーツショップとかでも{br}売ってないような強力な武器がどこかに{br}あるらしいぜ。{end}",
-  "en": "",
+  "en": "Word is there's a powerful weapon{br}somewhere, the kind you can't buy even{br}at the parts shop in Area 13.{end}",
   "notes": ""
  },
  {
@@ -1388,7 +1388,7 @@
   "addr": "87:E60F",
   "len": 41,
   "jp": "何でも、その武器には『ギガイアス』{br}とかいう名前がついているらしいぜ。{end}",
-  "en": "",
+  "en": "Apparently that weapon's got a name,{br}something like 'Gigaias.'{end}",
   "notes": ""
  },
  {
@@ -1396,7 +1396,7 @@
   "addr": "87:E638",
   "len": 11,
   "jp": "裏世界の動き{end}",
-  "en": "",
+  "en": "Underworld Movements{end}",
   "notes": ""
  },
  {
@@ -1404,7 +1404,7 @@
   "addr": "87:E643",
   "len": 45,
   "jp": "最近の裏世界の動きについて。{br}      発信者：チクリ屋ブラウン{end}",
-  "en": "",
+  "en": "What's going on in the underworld.{br}From: Brown the Snitch{end}",
   "notes": ""
  },
  {
@@ -1412,7 +1412,7 @@
   "addr": "87:E673",
   "len": 60,
   "jp": "最近、裏世界の方が騒がしいぜ。{br}どうやら、ババリアの奴らが{br}何かデカイ事を企んでいるみたいだぜ。{end}",
-  "en": "",
+  "en": "The underworld's been noisy lately. Looks{br}like those Bavaria guys are plotting{br}something big.{end}",
   "notes": ""
  },
  {
@@ -1420,7 +1420,7 @@
   "addr": "87:E6AF",
   "len": 16,
   "jp": "工場地区の地下道{end}",
-  "en": "",
+  "en": "Factory District Tunnels{end}",
   "notes": ""
  },
  {
@@ -1428,7 +1428,7 @@
   "addr": "87:E6BF",
   "len": 46,
   "jp": "地下道にはモンスターがたくさんいた。{br}     発信者：クスリ屋のサムソン{end}",
-  "en": "",
+  "en": "Lots of monsters in the tunnels.{br}From: Samson the Pusher{end}",
   "notes": ""
  },
  {
@@ -1436,7 +1436,7 @@
   "addr": "87:E6F0",
   "len": 64,
   "jp": "工場地区の地下で、ウラル工場へ{br}つながっている下水道を見つけたけど{br}モンスターがいて進めなかったぜ。{end}",
-  "en": "",
+  "en": "Under the Factory District I found a{br}sewer leading to the Ural Factory, but{br}monsters kept me from getting through.{end}",
   "notes": ""
  },
  {
@@ -1444,7 +1444,7 @@
   "addr": "87:E730",
   "len": 18,
   "jp": "年齢：24 性別：男{end}",
-  "en": "",
+  "en": "Age: 24, Sex: Male{end}",
   "notes": ""
  },
  {
@@ -1452,7 +1452,7 @@
   "addr": "87:E742",
   "len": 72,
   "jp": "本編の主人公で、修道院育ちの孤児。{br}18歳で軍に入隊するが、5年後に{br}ある事件をきっかけに除隊する。{end}",
-  "en": "",
+  "en": "The hero, an orphan raised in a convent.{br}He joined the army at 18, but left five{br}years later after a certain incident.{end}",
   "notes": ""
  },
  {
@@ -1460,7 +1460,7 @@
   "addr": "87:E78A",
   "len": 18,
   "jp": "年齢：22 性別：女{end}",
-  "en": "",
+  "en": "Age: 22, Sex: Female{end}",
   "notes": ""
  },
  {
@@ -1468,7 +1468,7 @@
   "addr": "87:E79C",
   "len": 44,
   "jp": "{c0C:01}の婚約者。{br}チャイニーズマフィア『暗龍』のボス、{br}タオの一人娘。{end}",
-  "en": "",
+  "en": "{c0C:01}'s fiancee. The only daughter of{br}Tao, boss of the Chinese mafia 'Dark{br}Dragon.'{end}",
   "notes": ""
  },
  {
@@ -1476,7 +1476,7 @@
   "addr": "87:E7C8",
   "len": 60,
   "jp": "{c0C:01}の婚約者。結婚式の前日、{br}父親や組織『暗龍』の部下達と共に{br}殺害される。{end}",
-  "en": "",
+  "en": "{c0C:01}'s fiancee. Killed the day before{br}the wedding, along with her father and{br}the men of the 'Dark Dragon.'{end}",
   "notes": ""
  },
  {
@@ -1484,7 +1484,7 @@
   "addr": "87:E804",
   "len": 18,
   "jp": "年齢：55 性別：男{end}",
-  "en": "",
+  "en": "Age: 55, Sex: Male{end}",
   "notes": ""
  },
  {
@@ -1492,7 +1492,7 @@
   "addr": "87:E816",
   "len": 62,
   "jp": "ジャンクヤードにいくつかのガレージを{br}持つランナーの改造屋。{c0C:01}に{br}自分のガレージの一部を貸している。{end}",
-  "en": "",
+  "en": "A runner mechanic who owns several{br}garages in the Junkyard. He rents part of{br}one of them to {c0C:01}.{end}",
   "notes": ""
  },
  {
@@ -1500,7 +1500,7 @@
   "addr": "87:E854",
   "len": 53,
   "jp": "腕の立つランナーの改造屋。{br}現在はレジスタンスと共にエリア1の{br}地下に潜っている。{end}",
-  "en": "",
+  "en": "A skilled runner mechanic. Now{br}underground in Area 1 with the{br}Resistance.{end}",
   "notes": ""
  },
  {
@@ -1508,7 +1508,7 @@
   "addr": "87:E889",
   "len": 18,
   "jp": "年齢：57 性別：男{end}",
-  "en": "",
+  "en": "Age: 57, Sex: Male{end}",
   "notes": ""
  },
  {
@@ -1516,7 +1516,7 @@
   "addr": "87:E89B",
   "len": 52,
   "jp": "エリア11にあるチャイナタウンを{br}束ねる組織『暗龍』のボス。{br}アイリーンの父親でもある。{end}",
-  "en": "",
+  "en": "Boss of the 'Dark Dragon,' the{br}organization that runs Chinatown in Area{br}11. He is also Irene's father.{end}",
   "notes": ""
  },
  {
@@ -1524,7 +1524,7 @@
   "addr": "87:E8CF",
   "len": 61,
   "jp": "エリア11にあるチャイナタウンを{br}束ねる組織『暗龍』のボスだったが、{br}娘のアイリーンと共に殺害される。{end}",
-  "en": "",
+  "en": "Boss of the 'Dark Dragon,' which ran{br}Chinatown in Area 11, until he was killed{br}along with his daughter Irene.{end}",
   "notes": ""
  },
  {
@@ -1532,7 +1532,7 @@
   "addr": "87:E90C",
   "len": 18,
   "jp": "年齢：41 性別：女{end}",
-  "en": "",
+  "en": "Age: 41, Sex: Female{end}",
   "notes": ""
  },
  {
@@ -1540,7 +1540,7 @@
   "addr": "87:E91E",
   "len": 64,
   "jp": "エリア2にある修道院の院長。{br}修道院前に捨てられていた{c0C:01}を{br}育てた。{c0C:01}の母親的な存在。{end}",
-  "en": "",
+  "en": "Mother Superior of the Area 2 convent.{br}She raised {c0C:01}, left at its door, and{br}is a mother figure to {c0C:01}.{end}",
   "notes": ""
  },
  {
@@ -1548,7 +1548,7 @@
   "addr": "87:E95E",
   "len": 20,
   "jp": "年齢：不詳 性別：なし{end}",
-  "en": "",
+  "en": "Age: Unknown, Sex: None{end}",
   "notes": ""
  },
  {
@@ -1556,7 +1556,7 @@
   "addr": "87:E972",
   "len": 56,
   "jp": "ランナーとパイロットのパイプ役を{br}果たすナビゲーションロボット。{br}リフがスクラップ置き場で見つけた。{end}",
-  "en": "",
+  "en": "A navigation robot that serves as the{br}link between runner and pilot. Riff found{br}it in a scrapyard.{end}",
   "notes": ""
  },
  {
@@ -1564,7 +1564,7 @@
   "addr": "87:E9AA",
   "len": 18,
   "jp": "年齢：18 性別：女{end}",
-  "en": "",
+  "en": "Age: 18, Sex: Female{end}",
   "notes": ""
  },
  {
@@ -1572,7 +1572,7 @@
   "addr": "87:E9BC",
   "len": 59,
   "jp": "女だてらにランナーを使う探偵。{br}多少オテンバだが、カワイイ女性。{br}サイコダイブを得意としている。{end}",
-  "en": "",
+  "en": "A detective who pilots a runner, rare for{br}a woman. A bit of a tomboy, but cute.{br}Specializes in Psycho Dive.{end}",
   "notes": ""
  },
  {
@@ -1580,7 +1580,7 @@
   "addr": "87:E9F7",
   "len": 20,
   "jp": "年齢：不詳 性別：なし{end}",
-  "en": "",
+  "en": "Age: Unknown, Sex: None{end}",
   "notes": ""
  },
  {
@@ -1588,7 +1588,7 @@
   "addr": "87:EA0B",
   "len": 53,
   "jp": "イオンのパートナーをつとめる{br}ナビゲーションロボットで、女性型の{br}人格が刷り込まれている。{end}",
-  "en": "",
+  "en": "A navigation robot that serves as Ion's{br}partner. It has been imprinted with a{br}female personality.{end}",
   "notes": ""
  },
  {
@@ -1596,7 +1596,7 @@
   "addr": "87:EA40",
   "len": 18,
   "jp": "年齢：44 性別：男{end}",
-  "en": "",
+  "en": "Age: 44, Sex: Male{end}",
   "notes": ""
  },
  {
@@ -1604,7 +1604,7 @@
   "addr": "87:EA52",
   "len": 56,
   "jp": "CTI保安部の部長。{br}小心者だが自分より立場の低い人間には{br}態度が大きい。{end}",
-  "en": "",
+  "en": "CTI Security Chief. A coward, but{br}overbearing toward anyone beneath him.{end}",
   "notes": ""
  },
  {
@@ -1612,7 +1612,7 @@
   "addr": "87:EA8A",
   "len": 68,
   "jp": "CTI保安部の部長だったが、{br}ババリアに取り入って局長のポストに。{br}本人は利用された事に気づいていない。{end}",
-  "en": "",
+  "en": "Ex-chief of CTI Security, he cozied up to{br}Bavaria and got the Director's post,{br}unaware he's being used.{end}",
   "notes": ""
  },
  {
@@ -1620,7 +1620,7 @@
   "addr": "87:EACE",
   "len": 18,
   "jp": "年齢：26 性別：男{end}",
-  "en": "",
+  "en": "Age: 26, Sex: Male{end}",
   "notes": ""
  },
  {
@@ -1628,7 +1628,7 @@
   "addr": "87:EAE0",
   "len": 47,
   "jp": "CTI保安局員。{br}CTIと{c0C:01}との橋渡し役。{br}実は同性愛者である。{end}",
-  "en": "",
+  "en": "A CTI security officer. The go-between{br}for CTI and {c0C:01}. He is actually gay.{end}",
   "notes": ""
  },
  {
@@ -1636,7 +1636,7 @@
   "addr": "87:EB0F",
   "len": 50,
   "jp": "元CTI保安局員。{br}ババリアのCTI制圧の際に、{br}グロリアと共にCTIを出る。{end}",
-  "en": "",
+  "en": "Former CTI security officer. When{br}Bavaria took over CTI, he left along{br}with Gloria.{end}",
   "notes": ""
  },
  {
@@ -1644,7 +1644,7 @@
   "addr": "87:EB41",
   "len": 18,
   "jp": "年齢：40 性別：女{end}",
-  "en": "",
+  "en": "Age: 40, Sex: Female{end}",
   "notes": ""
  },
  {
@@ -1652,7 +1652,7 @@
   "addr": "87:EB53",
   "len": 58,
   "jp": "CTI統合管理局局長。{br}奇病『ピラーニャ・プレタ』に対して{br}特別な感情を持っている。{end}",
-  "en": "",
+  "en": "Director of CTI's Integrated Management{br}Bureau. She has special feelings about{br}the strange disease 'Piranha Preta.'{end}",
   "notes": ""
  },
  {
@@ -1660,7 +1660,7 @@
   "addr": "87:EB8D",
   "len": 62,
   "jp": "元CTI統合管理局局長。{br}現在は街を制圧したババリアに対して{br}抵抗活動を行っている。{end}",
-  "en": "",
+  "en": "Former Director of CTI's Integrated{br}Management Bureau. Now resisting{br}Bavaria, which has seized the city.{end}",
   "notes": ""
  },
  {
@@ -1668,7 +1668,7 @@
   "addr": "87:EBCB",
   "len": 20,
   "jp": "年齢：不詳 性別：男{end}",
-  "en": "",
+  "en": "Age: Unknown, Sex: Male{end}",
   "notes": ""
  },
  {
@@ -1676,7 +1676,7 @@
   "addr": "87:EBDF",
   "len": 59,
   "jp": "バイオモンスターを率いてテロ活動を{br}行っている、謎のバイオモンスター。{br}ライオンのようなたてがみを持つ。{end}",
-  "en": "",
+  "en": "A mysterious bio-monster leading other{br}bio-monsters in terrorist activity. He has{br}a mane like a lion's.{end}",
   "notes": ""
  },
  {
@@ -1684,7 +1684,7 @@
   "addr": "87:EC1A",
   "len": 60,
   "jp": "ババリアに対抗するレジスタンスを{br}組織しているバイオモンスター。{br}現在は地下アジトに潜伏している。{end}",
-  "en": "",
+  "en": "A bio-monster who organized the{br}Resistance against Bavaria. Now hiding{br}out in an underground hideout.{end}",
   "notes": ""
  },
  {
@@ -1692,7 +1692,7 @@
   "addr": "87:EC56",
   "len": 20,
   "jp": "年齢：不詳 性別：男{end}",
-  "en": "",
+  "en": "Age: Unknown, Sex: Male{end}",
   "notes": ""
  },
  {
@@ -1700,7 +1700,7 @@
   "addr": "87:EC6A",
   "len": 54,
   "jp": "犯罪集団『ババリア』のボス。{br}科学者の一面もあり、{br}バイオ研究に力を入れている。{end}",
-  "en": "",
+  "en": "Boss of the criminal group 'Bavaria.' Also{br}something of a scientist, he puts great{br}effort into bio-research.{end}",
   "notes": ""
  },
  {
@@ -1708,7 +1708,7 @@
   "addr": "87:ECA0",
   "len": 20,
   "jp": "年齢：不詳 性別：男{end}",
-  "en": "",
+  "en": "Age: Unknown, Sex: Male{end}",
   "notes": ""
  },
  {
@@ -1716,7 +1716,7 @@
   "addr": "87:ECB4",
   "len": 54,
   "jp": "軍時代、{c0C:01}と同じ部隊に{br}所属していた戦友。{br}{c0C:01}とはウマが合う人間だった。{end}",
-  "en": "",
+  "en": "{c0C:01}'s comrade from his army days, in{br}the same unit. He and {c0C:01} got along{br}well.{end}",
   "notes": ""
  },
  {
@@ -1724,7 +1724,7 @@
   "addr": "87:ECEA",
   "len": 18,
   "jp": "年齢：21 性別：女{end}",
-  "en": "",
+  "en": "Age: 21, Sex: Female{end}",
   "notes": ""
  },
  {
@@ -1732,7 +1732,7 @@
   "addr": "87:ECFC",
   "len": 42,
   "jp": "ソリッドシティで1番の人気歌手。{br}アイリーンにそっくりな顔をしている。{end}",
-  "en": "",
+  "en": "The most popular singer in Solid City. Her{br}face is the spitting image of Irene's.{end}",
   "notes": ""
  },
  {
@@ -1740,7 +1740,7 @@
   "addr": "87:ED26",
   "len": 18,
   "jp": "年齢：46 性別：男{end}",
-  "en": "",
+  "en": "Age: 46, Sex: Male{end}",
   "notes": ""
  },
  {
@@ -1748,7 +1748,7 @@
   "addr": "87:ED38",
   "len": 71,
   "jp": "元傭兵で、第一線から退いた後に{br}ババリアに身を置く。能力の高さを{br}買われ、実行部隊を率いるまでになる。{end}",
-  "en": "",
+  "en": "An ex-mercenary who joined Bavaria{br}after leaving the front lines. His skill{br}earned him command of its strike unit.{end}",
   "notes": ""
  },
  {
@@ -1756,7 +1756,7 @@
   "addr": "87:ED7F",
   "len": 18,
   "jp": "年齢：26 性別：男{end}",
-  "en": "",
+  "en": "Age: 26, Sex: Male{end}",
   "notes": ""
  },
  {
@@ -1764,7 +1764,7 @@
   "addr": "87:ED91",
   "len": 33,
   "jp": "軽い口調の黒人。{br}ドラッグについて詳しい謎の男。{end}",
-  "en": "",
+  "en": "A black man with a flippant way of{br}talking. A mystery man who knows a lot{br}about drugs.{end}",
   "notes": ""
  },
  {
@@ -1772,7 +1772,7 @@
   "addr": "87:EDB2",
   "len": 38,
   "jp": "犯罪組織『バイビジブル』の一員。{br}ランナーの扱いも得意。{end}",
-  "en": "",
+  "en": "A member of the criminal organization{br}'Bivisible.' Also skilled with runners.{end}",
   "notes": ""
  },
  {
@@ -1780,7 +1780,7 @@
   "addr": "87:EDD8",
   "len": 18,
   "jp": "年齢：45 性別：男{end}",
-  "en": "",
+  "en": "Age: 45, Sex: Male{end}",
   "notes": ""
  },
  {
@@ -1788,7 +1788,7 @@
   "addr": "87:EDEA",
   "len": 62,
   "jp": "犯罪組織『バイビジブル』のボスだが、{br}実はCTIのエージェント。{br}グロリア直属の部下として動いていた。{end}",
-  "en": "",
+  "en": "Boss of the criminal organization{br}'Bivisible,' but actually a CTI agent{br}working directly under Gloria.{end}",
   "notes": ""
  },
  {
@@ -1796,7 +1796,7 @@
   "addr": "87:EE28",
   "len": 20,
   "jp": "年齢：不詳 性別：男{end}",
-  "en": "",
+  "en": "Age: Unknown, Sex: Male{end}",
   "notes": ""
  },
  {
@@ -1804,7 +1804,7 @@
   "addr": "87:EE3C",
   "len": 58,
   "jp": "『ババリア』の殺し屋。{br}組織の命令で『暗龍』を襲撃、{br}タオやアイリーンを殺害した犯人。{end}",
-  "en": "",
+  "en": "A Bavaria hitman. On the syndicate's{br}orders he attacked the 'Dark Dragon.'{br}He's the one who killed Tao and Irene.{end}",
   "notes": ""
  },
  {
@@ -1812,7 +1812,7 @@
   "addr": "87:EE76",
   "len": 20,
   "jp": "年齢：不詳 性別：男{end}",
-  "en": "",
+  "en": "Age: Unknown, Sex: Male{end}",
   "notes": ""
  },
  {
@@ -1820,7 +1820,7 @@
   "addr": "87:EE8A",
   "len": 58,
   "jp": "『デイモン』の設計者。{br}以前、カークの昔の主人と共に{br}次世代ランナーの開発をしていた。{end}",
-  "en": "",
+  "en": "The designer of 'Daemon.' He once{br}worked on a next-generation runner with{br}Kirk's former master.{end}",
   "notes": ""
  },
  {
@@ -1828,7 +1828,7 @@
   "addr": "87:EF56",
   "len": 59,
   "jp": "警備ロボット。一般にも広く使われている。{br}戦闘用に作られたものではないので、あまり{br}強くない。{end}",
-  "en": "",
+  "en": "A security robot, widely used by the public as{br}well. Not built for combat, so it isn't very{br}strong.{end}",
   "notes": ""
  },
  {
@@ -1836,7 +1836,7 @@
   "addr": "87:EF91",
   "len": 41,
   "jp": "DMA−01を強化したタイプ。{br}戦闘能力の向上がはかられている。{end}",
-  "en": "",
+  "en": "An upgraded type of the DMA-01, with{br}improved combat ability.{end}",
   "notes": ""
  },
  {
@@ -1844,7 +1844,7 @@
   "addr": "87:EFBA",
   "len": 41,
   "jp": "DMAシリーズの最終タイプ。{br}攻撃用のアームが取り付けられている。{end}",
-  "en": "",
+  "en": "The final type in the DMA series. Fitted{br}with attack arms.{end}",
   "notes": ""
  },
  {
@@ -1852,7 +1852,7 @@
   "addr": "87:EFE3",
   "len": 71,
   "jp": "市販のランナー。武装を付ければ立派に{br}戦闘用として使える為、開業したての探偵{br}などには重宝がられている。{end}",
-  "en": "",
+  "en": "A commercial runner. Armed, it serves{br}perfectly well in combat, so it's prized by{br}detectives just starting out and the like.{end}",
   "notes": ""
  },
  {
@@ -1860,7 +1860,7 @@
   "addr": "87:F02A",
   "len": 73,
   "jp": "バイオ技術とランナー技術から作られた{br}バイオランナーとでも言うべき物。素早い{br}動きを生かした攻撃を得意としている。{end}",
-  "en": "",
+  "en": "Built from bio-technology and runner{br}technology - a bio-runner, you might say.{br}Excels at attacks that use its quick moves.{end}",
   "notes": ""
  },
  {
@@ -1868,7 +1868,7 @@
   "addr": "87:F073",
   "len": 45,
   "jp": "元々は軍事用に開発されたランナー。なめ{br}らかな外見のフォルムを持つ。{end}",
-  "en": "",
+  "en": "A runner originally developed for military{br}use. It has a sleek exterior form.{end}",
   "notes": ""
  },
  {
@@ -1876,7 +1876,7 @@
   "addr": "87:F0A0",
   "len": 64,
   "jp": "ババリアのランナー。機動性に重点をおいた{br}設計がなされている。単独でのスパイ行動を{br}得意にしている。{end}",
-  "en": "",
+  "en": "A Bavaria runner. Designed with an emphasis{br}on mobility, it excels at solo espionage.{end}",
   "notes": ""
  },
  {
@@ -1884,7 +1884,7 @@
   "addr": "87:F0E0",
   "len": 40,
   "jp": "量産タイプのランナー。軽量化せずに機動性{br}を追及している。{end}",
-  "en": "",
+  "en": "A mass-production runner. It pursues mobility{br}without cutting weight.{end}",
   "notes": ""
  },
  {
@@ -1892,7 +1892,7 @@
   "addr": "87:F108",
   "len": 41,
   "jp": "ババリアのランナー。ジャンプ力を上げる為{br}に脚部が強化されている。{end}",
-  "en": "",
+  "en": "A Bavaria runner. Its legs are reinforced to{br}boost its jumping power.{end}",
   "notes": ""
  },
  {
@@ -1900,7 +1900,7 @@
   "addr": "87:F131",
   "len": 38,
   "jp": "ババリアのランナー。長時間の戦闘を考えて{br}設計されている。{end}",
-  "en": "",
+  "en": "A Bavaria runner. Designed with long battles{br}in mind.{end}",
   "notes": ""
  },
  {
@@ -1908,7 +1908,7 @@
   "addr": "87:F157",
   "len": 51,
   "jp": "他のランナーを圧倒する、高性能ランナー。{br}内部に独自のメカニズムを持っている。{end}",
-  "en": "",
+  "en": "A high-performance runner that overwhelms{br}all others. It has a unique mechanism inside.{end}",
   "notes": ""
  },
  {
@@ -1916,7 +1916,7 @@
   "addr": "87:F18A",
   "len": 43,
   "jp": "ババリアのランナー。腕部が強化されていて{br}格闘戦を得意にしている。{end}",
-  "en": "",
+  "en": "A Bavaria runner. Its arms are reinforced, and{br}it excels at close combat.{end}",
   "notes": ""
  },
  {
@@ -1924,7 +1924,7 @@
   "addr": "87:F1B5",
   "len": 42,
   "jp": "バイオ技術を取り入れて作られたバイオラン{br}ナー。無人で動作する。{end}",
-  "en": "",
+  "en": "A bio-runner built with bio-technology. It{br}operates unmanned.{end}",
   "notes": ""
  },
  {
@@ -1932,7 +1932,7 @@
   "addr": "87:F1DF",
   "len": 46,
   "jp": "移動砲台のようなメカ。戦闘用に作られた為{br}武装があらわになっている。{end}",
-  "en": "",
+  "en": "A machine like a mobile gun turret. Built for{br}combat, so its weapons are left exposed.{end}",
   "notes": ""
  },
  {
@@ -1940,7 +1940,7 @@
   "addr": "87:F20D",
   "len": 44,
   "jp": "ジャスティスで無敵を誇っているランナー。{br}格闘技戦を得意にしている。{end}",
-  "en": "",
+  "en": "A runner that reigns unbeaten in Justice. It{br}excels at hand-to-hand fighting.{end}",
   "notes": ""
  },
  {
@@ -1948,7 +1948,7 @@
   "addr": "87:F239",
   "len": 50,
   "jp": "軍事用に開発された重量級ランナー。大型化{br}されている分、火力が強い。{end}",
-  "en": "",
+  "en": "A heavyweight runner developed for military{br}use. Being larger, it packs strong firepower.{end}",
   "notes": ""
  },
  {
@@ -1956,7 +1956,7 @@
   "addr": "87:F26B",
   "len": 59,
   "jp": "ハロルド大佐の使う軍用ランナー。両腕に{br}ガトリングガン、両肩にミサイルポッドを{br}装備している。{end}",
-  "en": "",
+  "en": "The military runner used by Colonel Harold.{br}Gatling guns on both arms, missile pods on{br}both shoulders.{end}",
   "notes": ""
  },
  {
@@ -1964,7 +1964,7 @@
   "addr": "87:F2A6",
   "len": 43,
   "jp": "バイジブルのレクターが使うランナー。{br}デザインから全て特注で作られている。{end}",
-  "en": "",
+  "en": "The runner used by Lecter of Bivisible.{br}Custom-built from the design up.{end}",
   "notes": ""
  },
  {
@@ -1972,7 +1972,7 @@
   "addr": "87:F2D1",
   "len": 41,
   "jp": "バイジブルのブランドルが使うランナー。{br}やはりこれも特注で作られている。{end}",
-  "en": "",
+  "en": "The runner used by Brundle of Bivisible.{br}This one, too, is custom-built.{end}",
   "notes": ""
  },
  {
@@ -1980,7 +1980,7 @@
   "addr": "87:F2FA",
   "len": 62,
   "jp": "女探偵イオンが使うランナー。ナビロボは{br}パートナーのミネルバ。ラヴィアンをベー{br}スにしてチューンアップされている。{end}",
-  "en": "",
+  "en": "The runner used by female detective Ion.{br}Her Navi-Robo is her partner Minerva.{br}Tuned up from a Lavian base.{end}",
   "notes": ""
  },
  {
@@ -1988,7 +1988,7 @@
   "addr": "87:F338",
   "len": 41,
   "jp": "ライオンのような姿のバイオモンスター。{br}たてがみが触手のようになっている。{end}",
-  "en": "",
+  "en": "A lion-like bio-monster. Its mane works like{br}tentacles.{end}",
   "notes": ""
  },
  {
@@ -1996,7 +1996,7 @@
   "addr": "87:F361",
   "len": 38,
   "jp": "イヌの遺伝子に手を加えて作られた双頭の{br}バイオモンスター。{end}",
-  "en": "",
+  "en": "A two-headed bio-monster created by{br}tampering with dog genes.{end}",
   "notes": ""
  },
  {
@@ -2004,7 +2004,7 @@
   "addr": "87:F387",
   "len": 49,
   "jp": "マウンテンゴリラの遺伝子を操作して作ら{br}れたバイオモンスター。怪力の持ち主。{end}",
-  "en": "",
+  "en": "A bio-monster created by manipulating{br}mountain gorilla genes. It has tremendous{br}strength.{end}",
   "notes": ""
  },
  {
@@ -2012,7 +2012,7 @@
   "addr": "87:F3B8",
   "len": 46,
   "jp": "バイオ研究所から逃げ出したバイオモンス{br}ターの一種。高い知能を持つ。{end}",
-  "en": "",
+  "en": "A type of bio-monster that escaped from a{br}bio-research lab. Highly intelligent.{end}",
   "notes": ""
  },
  {
@@ -2020,7 +2020,7 @@
   "addr": "87:F3E6",
   "len": 37,
   "jp": "ワーウルフのような姿をしたバイオモンス{br}ター。高い知能を持つ。{end}",
-  "en": "",
+  "en": "A bio-monster that looks like a werewolf.{br}Highly intelligent.{end}",
   "notes": ""
  },
  {
@@ -2028,7 +2028,7 @@
   "addr": "87:F40B",
   "len": 44,
   "jp": "トカゲと人間の中間の姿をしたバイオモン{br}スター。長いシッポを持っている。{end}",
-  "en": "",
+  "en": "A bio-monster halfway between lizard and{br}human. It has a long tail.{end}",
   "notes": ""
  },
  {
@@ -2036,7 +2036,7 @@
   "addr": "87:F437",
   "len": 51,
   "jp": "人間の遺伝子を操作して作られたバイオモ{br}ンスター。体の表面がドロドロしている。{end}",
-  "en": "",
+  "en": "A bio-monster created by manipulating{br}human genes. Its body is covered in oozing{br}sludge.{end}",
   "notes": ""
  },
  {
@@ -2044,7 +2044,7 @@
   "addr": "87:F46A",
   "len": 49,
   "jp": "バイオ技術とランナー技術を組み合わせて{br}作られた実験タイプのバイオモンスター。{end}",
-  "en": "",
+  "en": "An experimental bio-monster built by{br}combining bio-technology and runner{br}technology.{end}",
   "notes": ""
  },
  {
@@ -2052,7 +2052,7 @@
   "addr": "87:F49B",
   "len": 45,
   "jp": "ドロ人形のような姿のバイオモンスター。{br}体の各部分があいまいになっている。{end}",
-  "en": "",
+  "en": "A bio-monster that looks like a mud doll.{br}The parts of its body are vague and{br}ill-defined.{end}",
   "notes": ""
  },
  {
@@ -2060,7 +2060,7 @@
   "addr": "87:F4C8",
   "len": 43,
   "jp": "コウモリのような頭を持ったバイオモンス{br}ター。暗い場所に生息している。{end}",
-  "en": "",
+  "en": "A bio-monster with a bat-like head. It lives{br}in dark places.{end}",
   "notes": ""
  },
  {
@@ -2068,7 +2068,7 @@
   "addr": "87:F4F3",
   "len": 43,
   "jp": "トカゲのような姿のバイオモンスター。{br}体のトゲが強力な武器になっている。{end}",
-  "en": "",
+  "en": "A lizard-like bio-monster. The spikes on{br}its body make powerful weapons.{end}",
   "notes": ""
  },
  {
@@ -2076,7 +2076,7 @@
   "addr": "87:F51E",
   "len": 44,
   "jp": "バイオモンスターの中でもかなり高い知能{br}を持っている。手足がやや長い。{end}",
-  "en": "",
+  "en": "A bio-monster with high intelligence, even{br}for its kind. Its limbs are somewhat long.{end}",
   "notes": ""
  },
  {
@@ -2084,7 +2084,7 @@
   "addr": "87:F54A",
   "len": 45,
   "jp": "巨大なカブトガニのような姿のバイオモン{br}スター。たくさんの子供を産み出す。{end}",
-  "en": "",
+  "en": "A bio-monster like a giant horseshoe crab.{br}It spawns many young.{end}",
   "notes": ""
  },
  {
@@ -2092,7 +2092,7 @@
   "addr": "87:F577",
   "len": 41,
   "jp": "フィクションの世界の生物、ドラゴンの{br}ような姿をしたバイオモンスター。{end}",
-  "en": "",
+  "en": "A bio-monster shaped like a dragon, a{br}creature of fiction.{end}",
   "notes": ""
  },
  {
@@ -2100,7 +2100,7 @@
   "addr": "87:F5A0",
   "len": 55,
   "jp": "バイオモンスターばかりで構成された{br}テロリスト集団のリーダー。{br}ランナー並の強さを持っている。{end}",
-  "en": "",
+  "en": "Leader of a terrorist group made up{br}entirely of bio-monsters. As strong as a{br}runner.{end}",
   "notes": ""
  },
  {
@@ -2108,7 +2108,7 @@
   "addr": "87:F5D7",
   "len": 63,
   "jp": "重量級ランナー。耐久力に重点を置いた{br}設計になっている。{br}ただしその代わりに、機動性に劣る。{end}",
-  "en": "",
+  "en": "A heavyweight runner. Designed with an{br}emphasis on durability. In exchange,{br}though, its mobility is poor.{end}",
   "notes": ""
  }
 ]

@@ -5,7 +5,7 @@
   "op": "92B418",
   "len": 51,
   "jp": "{c0C:01}「とうとう…やったぜ。へ、へへ{br}どうだいカーク、ついにバイスハイトの奴を{br}倒したぜ…。{endFE}",
-  "en": "",
+  "en": "{c0C:01}: I finally... did it. Heh, heh. How about{br}that, Kirk? We finally took Weissheit down...{endFE}",
   "notes": ""
  },
  {
@@ -14,7 +14,7 @@
   "op": "92B4CC",
   "len": 35,
   "jp": "{c0C:01}「…こんな機械に頼って生きて{br}どうなるっていうんだ。{endFE}",
-  "en": "",
+  "en": "{c0C:01}: ...What good is living by leaning on a{br}machine like this?{endFE}",
   "notes": ""
  },
  {
@@ -23,7 +23,7 @@
   "op": "92B4F2",
   "len": 55,
   "jp": "あんた達だろうが、バイスハイトだろうが、{br}システムなんかに管理、いや支配される{br}なんてまっぴらだ。{endFE}",
-  "en": "",
+  "en": "Whether it's you people or Weissheit, I've had{br}it with being managed - no, ruled - by some{br}system.{endFE}",
   "notes": ""
  },
  {
@@ -32,7 +32,7 @@
   "op": "92B52E",
   "len": 60,
   "jp": "そんな生き方より、自分自身で道を{br}切り開いて行く生き方の方が大切なんじゃ{br}ないのか…。{endFE}",
-  "en": "",
+  "en": "Isn't it more important to live by cutting your{br}own path than to live like that...?{endFE}",
   "notes": ""
  },
  {
@@ -41,7 +41,7 @@
   "op": "92B832",
   "len": 39,
   "jp": "グロリア「まだ今ならコンピューターを復旧{br}できる。テオ、急ぎなさい。{endFE}",
-  "en": "",
+  "en": "Gloria: We can still restore the computer if we{br}act now. Theo, hurry.{endFE}",
   "notes": ""
  },
  {
@@ -50,7 +50,7 @@
   "op": "92B8A8",
   "len": 36,
   "jp": "グロリア「な、何という事を！{br}これではもうコンピューターが…！！{endFE}",
-  "en": "",
+  "en": "Gloria: Wh-what have you done?! Now the{br}computer is...!!{endFE}",
   "notes": ""
  },
  {
@@ -59,7 +59,7 @@
   "op": "92B8D3",
   "len": 10,
   "jp": "テオ「{c0C:01}さん！{endFE}",
-  "en": "",
+  "en": "Theo: {c0C:01}-san!{endFE}",
   "notes": ""
  },
  {
@@ -68,7 +68,7 @@
   "op": "92B91D",
   "len": 16,
   "jp": "テオ「{c0C:01}さん………。{endFE}",
-  "en": "",
+  "en": "Theo: {c0C:01}-san...{endFE}",
   "notes": ""
  },
  {
@@ -77,7 +77,7 @@
   "op": "92B938",
   "len": 43,
   "jp": "「テオ、何をしているの。そんなのは放って{br}置いて、コンピューターの復旧を！{endFE}",
-  "en": "",
+  "en": "\"Theo, what are you doing? Leave that alone{br}and restore the computer!\"{endFE}",
   "notes": ""
  },
  {
@@ -86,7 +86,7 @@
   "op": "92B969",
   "len": 71,
   "jp": "まだ間に合う、ババリアの研究結果を手に{br}入れる事ができれば、ピラーニャ＝プレタを{br}治す方法が分かるかも知れない。{endFE}",
-  "en": "",
+  "en": "There's still time. If we can get Bavaria's{br}research results, we might find a way to cure{br}Piranha Preta.{endFE}",
   "notes": ""
  },
  {
@@ -95,7 +95,7 @@
   "op": "92B9FD",
   "len": 19,
   "jp": "テオ「うわっ、{c0C:01}………！？{endFE}",
-  "en": "",
+  "en": "Theo: Whoa, {c0C:01}...?!{endFE}",
   "notes": ""
  },
  {
@@ -104,7 +104,7 @@
   "op": "92BA17",
   "len": 23,
   "jp": "グロリア「な、何をするつもり………？{endFE}",
-  "en": "",
+  "en": "Gloria: Wh-what are you going to do...?{endFE}",
   "notes": ""
  },
  {
@@ -113,7 +113,7 @@
   "op": "92BDC5",
   "len": 32,
   "jp": "{c0C:01}「アイリーン、タオ、カーク、{br}とうとう終わったよ…。{endFE}",
-  "en": "",
+  "en": "{c0C:01}: Irene, Tao, Kirk... it's finally over...{endFE}",
   "notes": ""
  },
  {
@@ -122,7 +122,7 @@
   "op": "92BDE8",
   "len": 63,
   "jp": "あとは、皆が街を立て直して行くだけだ。{br}もう、オレのような奴のいるような場所は{br}なくなってしまったみたいだ。{endFE}",
-  "en": "",
+  "en": "All that's left is for everyone to rebuild the{br}city. Looks like there's no place anymore for a{br}guy like me.{endFE}",
   "notes": ""
  },
  {
@@ -131,7 +131,7 @@
   "op": "92BE30",
   "len": 20,
   "jp": "ラオエル「そんな事はないぞ、{c0C:01}。{endFE}",
-  "en": "",
+  "en": "Raoel: That's not true, {c0C:01}.{endFE}",
   "notes": ""
  },
  {
@@ -140,7 +140,7 @@
   "op": "92BE5C",
   "len": 16,
   "jp": "「ラオエル、無事だったか。{endFE}",
-  "en": "",
+  "en": "\"Raoel, you made it.\"{endFE}",
   "notes": ""
  },
  {
@@ -149,7 +149,7 @@
   "op": "92BE73",
   "len": 59,
   "jp": "「ああ、イオンも無事だ。{br}どうした、お前は街を救ったヒーローだぞ。{br}こんな所でセンチになっているなんて。{endFE}",
-  "en": "",
+  "en": "\"Yes, and Ion is safe too. What's wrong?{br}You're the hero who saved the city. Getting{br}sentimental in a place like this...\"{endFE}",
   "notes": ""
  },
  {
@@ -158,7 +158,7 @@
   "op": "92BEB4",
   "len": 54,
   "jp": "「オレはただ、アイリーンの仇を討つ為に{br}戦っただけだ。{br}本当のヒーローはお前達の方だよ。{endFE}",
-  "en": "",
+  "en": "\"All I did was fight to avenge Irene. You guys{br}are the real heroes.\"{endFE}",
   "notes": ""
  },
  {
@@ -167,7 +167,7 @@
   "op": "92BEEF",
   "len": 53,
   "jp": "それにオレは、メインコンピューターを{br}破壊してしまった。{br}こんな奴、ヒーローと呼べる訳がない。{endFE}",
-  "en": "",
+  "en": "Besides, I destroyed the main computer.{br}Nobody could call a guy like that a hero.{endFE}",
   "notes": ""
  },
  {
@@ -176,7 +176,7 @@
   "op": "92BF2D",
   "len": 25,
   "jp": "「フッ、CTIの奴らの顔が目に浮かぶな。{endFE}",
-  "en": "",
+  "en": "\"Heh. I can just picture the looks on the CTI{br}people's faces.\"{endFE}",
   "notes": ""
  },
  {
@@ -185,7 +185,7 @@
   "op": "92BF4C",
   "len": 22,
   "jp": "…{c0C:01}、おれは街を出ようと思う。{endFE}",
-  "en": "",
+  "en": "...{c0C:01}, I'm thinking of leaving the city.{endFE}",
   "notes": ""
  },
  {
@@ -194,7 +194,7 @@
   "op": "92BF65",
   "len": 74,
   "jp": "おれはお前やイオン達と出会って、多少なり{br}とも人間を信じられるようになった。だから{br}もっと他の人間にも会ってみたいんだ。{endFE}",
-  "en": "",
+  "en": "Meeting you and Ion and the others, I've come{br}to trust humans, at least a little. So I want to{br}meet other humans too.{endFE}",
   "notes": ""
  },
  {
@@ -203,7 +203,7 @@
   "op": "92BFB8",
   "len": 53,
   "jp": "「残ったバイオモンスター達はどうする。{br}皆、リーダーのお前を必要としているんじゃ{br}ないのか？{endFE}",
-  "en": "",
+  "en": "\"What about the bio-monsters you're leaving{br}behind? Don't they all need you as their{br}leader?\"{endFE}",
   "notes": ""
  },
  {
@@ -212,7 +212,7 @@
   "op": "92BFF3",
   "len": 56,
   "jp": "「彼らなら大丈夫だ。{br}もう彼らだけの力でやって行ける。{br}いや、やって行かなければならないんだ。{endFE}",
-  "en": "",
+  "en": "\"They'll be fine. They can make it on their{br}own now. No - they have to.\"{endFE}",
   "notes": ""
  },
  {
@@ -221,7 +221,7 @@
   "op": "92C030",
   "len": 63,
   "jp": "人間達と本当にうまくやって行けるのか{br}どうかは、これからの行動で決まるだろう。{br}全ては彼ら次第だ。{endFE}",
-  "en": "",
+  "en": "Whether they can truly get along with humans{br}will depend on what they do from here. It's all{br}up to them.{endFE}",
   "notes": ""
  },
  {
@@ -230,7 +230,7 @@
   "op": "92C078",
   "len": 51,
   "jp": "「そうか…。オレはここに残るよ。{br}この街には、アイリーンとの思い出が{br}残っているからな。{endFE}",
-  "en": "",
+  "en": "\"I see... I'm staying here. This city still holds{br}my memories of Irene.\"{endFE}",
   "notes": ""
  },
  {
@@ -239,7 +239,7 @@
   "op": "92C0B1",
   "len": 18,
   "jp": "「お別れだな、元気でやれよ。{endFE}",
-  "en": "",
+  "en": "\"So this is goodbye. Take care of yourself.\"{endFE}",
   "notes": ""
  },
  {
@@ -248,7 +248,7 @@
   "op": "92C0C7",
   "len": 17,
   "jp": "「ああ、お前こそ元気でな。{endFE}",
-  "en": "",
+  "en": "\"Yeah, you too.\"{endFE}",
   "notes": ""
  },
  {
@@ -257,7 +257,7 @@
   "op": "92C10D",
   "len": 11,
   "jp": "{c0C:01}「イオン…。{endFE}",
-  "en": "",
+  "en": "{c0C:01}: Ion...{endFE}",
   "notes": ""
  },
  {
@@ -266,7 +266,7 @@
   "op": "92C11F",
   "len": 28,
   "jp": "イオン「想い出していたのね、{br}アイリーンの事を。{endFE}",
-  "en": "",
+  "en": "Ion: You were remembering Irene, weren't{br}you?{endFE}",
   "notes": ""
  },
  {
@@ -275,7 +275,7 @@
   "op": "92C13F",
   "len": 61,
   "jp": "「ああ…。でも、それも今日で終わりだ。{br}彼女はきっと、オレに前向きに生きて{br}欲しいと願っているよ。{endFE}",
-  "en": "",
+  "en": "\"Yeah... But that ends today. I'm sure she'd{br}want me to look ahead and live.\"{endFE}",
   "notes": ""
  },
  {
@@ -284,7 +284,7 @@
   "op": "92C181",
   "len": 58,
   "jp": "戦場から帰って来て、心がボロボロだった{br}オレに生きる喜びを与えてくれたのは{br}彼女だったからな。{endFE}",
-  "en": "",
+  "en": "When I came back from the battlefield with my{br}heart in pieces, she was the one who gave me{br}the joy of living again.{endFE}",
   "notes": ""
  },
  {
@@ -293,7 +293,7 @@
   "op": "92C1C0",
   "len": 25,
   "jp": "カークも、前向きに生きろって言ってたよ。{endFE}",
-  "en": "",
+  "en": "Kirk told me to look ahead and live, too.{endFE}",
   "notes": ""
  },
  {
@@ -302,7 +302,7 @@
   "op": "92C1E0",
   "len": 23,
   "jp": "「そういえば、カークが見当たらないけど？{endFE}",
-  "en": "",
+  "en": "\"Now that you mention it, I don't see Kirk{br}anywhere.\"{endFE}",
   "notes": ""
  },
  {
@@ -311,7 +311,7 @@
   "op": "92C203",
   "len": 40,
   "jp": "「あいつは…ランナーに取り込まれそうに{br}なったオレの身代わりに…。{endFE}",
-  "en": "",
+  "en": "\"He... took my place when the runner was{br}about to swallow me...\"{endFE}",
   "notes": ""
  },
  {
@@ -320,7 +320,7 @@
   "op": "92C236",
   "len": 11,
   "jp": "「そうだったの…。{endFE}",
-  "en": "",
+  "en": "\"So that's what happened...\"{endFE}",
   "notes": ""
  },
  {
@@ -329,7 +329,7 @@
   "op": "92C245",
   "len": 50,
   "jp": "「オレは今まで色んなものを失って来た。{br}でも今は、どうしても失いたくないものが{br}ある。{endFE}",
-  "en": "",
+  "en": "\"I've lost a lot of things up to now. But now{br}there's something I can't bear to lose.\"{endFE}",
   "notes": ""
  },
  {
@@ -338,7 +338,7 @@
   "op": "92C27F",
   "len": 18,
   "jp": "「イオン………君の事だ。{endFE}",
-  "en": "",
+  "en": "\"Ion... it's you.\"{endFE}",
   "notes": ""
  },
  {
@@ -347,7 +347,7 @@
   "op": "92C296",
   "len": 57,
   "jp": "『側にいてやりたい』と思った女性は{br}たくさんいたけど、『側にいて欲しい』と{br}思ったのは君だけだ。{endFE}",
-  "en": "",
+  "en": "There've been plenty of women I wanted to{br}be there for, but you're the only one I've{br}ever wanted there for me.{endFE}",
   "notes": ""
  },
  {
@@ -356,7 +356,7 @@
   "op": "92C2D8",
   "len": 11,
   "jp": "「！…{c0C:01}…。{endFE}",
-  "en": "",
+  "en": "\"!...{c0C:01}...\"{endFE}",
   "notes": ""
  },
  {
@@ -365,7 +365,7 @@
   "op": "92C2EA",
   "len": 20,
   "jp": "「イオン、ずっと側にいてくれないか？{endFE}",
-  "en": "",
+  "en": "\"Ion, will you stay by my side, always?\"{endFE}",
   "notes": ""
  },
  {
@@ -374,7 +374,7 @@
   "op": "92C302",
   "len": 19,
   "jp": "「……………………。{endFE}",
-  "en": "",
+  "en": "\"................\"{endFE}",
   "notes": ""
  },
  {
@@ -383,7 +383,7 @@
   "op": "92C31B",
   "len": 26,
   "jp": "えぇ。{br}あたしも、あなたに側にいて欲しいもの。{endFE}",
-  "en": "",
+  "en": "Yes. I want you by my side too.{endFE}",
   "notes": ""
  },
  {
@@ -392,7 +392,7 @@
   "op": "92C4E5",
   "len": 27,
   "jp": "イオン「ラオエル………街を出て行くのね。{endFE}",
-  "en": "",
+  "en": "Ion: Raoel... you're leaving the city, aren't{br}you?{endFE}",
   "notes": ""
  },
  {
@@ -401,7 +401,7 @@
   "op": "92C507",
   "len": 46,
   "jp": "ラオエル「色んな街を見て来ようと思う。{br}…失恋した心をいやすついでにな。{endFE}",
-  "en": "",
+  "en": "Raoel: I want to go see all kinds of cities.{br}...And mend a broken heart while I'm at it.{endFE}",
   "notes": ""
  },
  {
@@ -410,7 +410,7 @@
   "op": "92C53C",
   "len": 11,
   "jp": "「えっ………？{endFE}",
-  "en": "",
+  "en": "\"Huh...?\"{endFE}",
   "notes": ""
  },
  {
@@ -419,7 +419,7 @@
   "op": "92C54B",
   "len": 60,
   "jp": "「{c0C:01}にはお前が必要だ。{br}あいつはこれまで色んなものを失って来て、{br}今は心の安らぎを求めている。{endFE}",
-  "en": "",
+  "en": "\"{c0C:01} needs you. He's lost a lot of things{br}up to now, and now he's looking for peace of{br}mind.\"{endFE}",
   "notes": ""
  },
  {
@@ -428,7 +428,7 @@
   "op": "92C58C",
   "len": 39,
   "jp": "それを与える事ができるのは、お前だけだ。{br}理由は…分かるよな？{endFE}",
-  "en": "",
+  "en": "You're the only one who can give him that.{br}You know why... don't you?{endFE}",
   "notes": ""
  },
  {
@@ -437,7 +437,7 @@
   "op": "92C5BA",
   "len": 51,
   "jp": "「ありがとう、ラオエル。{br}あたし、あなたの事を忘れない。{br}いつか必ずこの街に戻って来て。{endFE}",
-  "en": "",
+  "en": "\"Thank you, Raoel. I'll never forget you. Come{br}back to this city someday, promise.\"{endFE}",
   "notes": ""
  },
  {
@@ -446,7 +446,7 @@
   "op": "92C5F6",
   "len": 20,
   "jp": "「戻ってくるさ、イオン…必ずな。{endFE}",
-  "en": "",
+  "en": "\"I'll be back, Ion... I promise.\"{endFE}",
   "notes": ""
  },
  {
@@ -455,7 +455,7 @@
   "op": "92C725",
   "len": 32,
   "jp": "{c0C:01}「アイリーン、タオ、カーク、{br}とうとう終わったよ…。{endFE}",
-  "en": "",
+  "en": "{c0C:01}: Irene, Tao, Kirk... it's finally over...{endFE}",
   "notes": ""
  },
  {
@@ -464,7 +464,7 @@
   "op": "92C748",
   "len": 63,
   "jp": "あとは、皆が街を立て直して行くだけだ。{br}もう、オレのような奴のいるような場所は{br}なくなってしまったみたいだ。{endFE}",
-  "en": "",
+  "en": "All that's left is for everyone to rebuild the{br}city. Looks like there's no place anymore for a{br}guy like me.{endFE}",
   "notes": ""
  },
  {
@@ -473,7 +473,7 @@
   "op": "92C79C",
   "len": 40,
   "jp": "{c0C:01}「ラオエル、イオン………。{br}2人共、無事だったみたいだな。{endFE}",
-  "en": "",
+  "en": "{c0C:01}: Raoel, Ion... Looks like you both{br}made it.{endFE}",
   "notes": ""
  },
  {
@@ -482,7 +482,7 @@
   "op": "92C7CB",
   "len": 22,
   "jp": "ラオエル「{c0C:01}、別れを言いに来た。{endFE}",
-  "en": "",
+  "en": "Raoel: {c0C:01}, I've come to say goodbye.{endFE}",
   "notes": ""
  },
  {
@@ -491,7 +491,7 @@
   "op": "92C7E7",
   "len": 36,
   "jp": "イオン「あたし達、この街を出て{br}遠い所へ行こうと思うの。{endFE}",
-  "en": "",
+  "en": "Ion: We're thinking of leaving this city and{br}going somewhere far away.{endFE}",
   "notes": ""
  },
  {
@@ -500,7 +500,7 @@
   "op": "92C80E",
   "len": 39,
   "jp": "あなたとは今までいろいろあったけど、{br}出会えて良かったと思ってる。{endFE}",
-  "en": "",
+  "en": "We've been through a lot, you and I, but I'm{br}glad we met.{endFE}",
   "notes": ""
  },
  {
@@ -509,7 +509,7 @@
   "op": "92C839",
   "len": 30,
   "jp": "{c0C:01}「お前達………。そうか、出て行くのか。{endFE}",
-  "en": "",
+  "en": "{c0C:01}: You two... I see. So you're leaving.{endFE}",
   "notes": ""
  },
  {
@@ -518,7 +518,7 @@
   "op": "92C85A",
   "len": 46,
   "jp": "ラオエル、バイオモンスター達は{br}どうするんだ。{br}皆、お前が必要なんじゃないのか？{endFE}",
-  "en": "",
+  "en": "Raoel, what about the bio-monsters? Don't{br}they all need you?{endFE}",
   "notes": ""
  },
  {
@@ -527,7 +527,7 @@
   "op": "92C891",
   "len": 60,
   "jp": "「いや、おれの役目はもう終わりさ。{br}これからは、それぞれが自分の力で{br}未来を切り開いて行くんだ。{endFE}",
-  "en": "",
+  "en": "\"No, my part is done. From now on, each of{br}them will cut a path to the future on their{br}own.\"{endFE}",
   "notes": ""
  },
  {
@@ -536,7 +536,7 @@
   "op": "92C8D2",
   "len": 60,
   "jp": "時間はかかるかも知れないが、{br}いつか人間とバイオモンスターが{br}共存して行ける日が来ると信じてる。{endFE}",
-  "en": "",
+  "en": "It may take time, but I believe a day will come{br}when humans and bio-monsters can live{br}together.{endFE}",
   "notes": ""
  },
  {
@@ -545,7 +545,7 @@
   "op": "92C914",
   "len": 42,
   "jp": "「そうだな、お前達二人のように{br}うまくやって行ける日が来るだろうな。{endFE}",
-  "en": "",
+  "en": "\"Yeah. I bet a day will come when everyone{br}gets along as well as you two do.\"{endFE}",
   "notes": ""
  },
  {
@@ -554,7 +554,7 @@
   "op": "92C942",
   "len": 40,
   "jp": "「また戻ってくるさ。その時には、{br}この街も生まれ変わっているだろう。{endFE}",
-  "en": "",
+  "en": "\"We'll be back. By then, this city will have{br}been reborn.\"{endFE}",
   "notes": ""
  },
  {
@@ -563,7 +563,7 @@
   "op": "92C970",
   "len": 22,
   "jp": "また会いましょう。それまで元気でね。{endFE}",
-  "en": "",
+  "en": "Let's meet again. Take care till then.{endFE}",
   "notes": ""
  },
  {
@@ -572,7 +572,7 @@
   "op": "92C98D",
   "len": 27,
   "jp": "「ああ、そうだな。{br}その時を楽しみにしているよ。{endFE}",
-  "en": "",
+  "en": "\"Yeah, sure. I'll be looking forward to it.\"{endFE}",
   "notes": ""
  },
  {
@@ -581,7 +581,7 @@
   "op": "92C9AF",
   "len": 13,
   "jp": "「また会おう、{c0C:01}。{endFE}",
-  "en": "",
+  "en": "\"See you again, {c0C:01}.\"{endFE}",
   "notes": ""
  },
  {
@@ -590,7 +590,7 @@
   "op": "92C9C0",
   "len": 14,
   "jp": "「また会おう、必ずな。{endFE}",
-  "en": "",
+  "en": "\"See you again. Count on it.\"{endFE}",
   "notes": ""
  },
  {
@@ -599,7 +599,7 @@
   "op": "92CA05",
   "len": 57,
   "jp": "{c0C:01}「楽しみにしてるよ。{br}今度会う時に、お前達の愛の結晶を{br}見られる事を………。{endFE}",
-  "en": "",
+  "en": "{c0C:01}: I'll be looking forward to it... to{br}seeing the fruit of your love next time we{br}meet...{endFE}",
   "notes": ""
  },
  {
@@ -608,7 +608,7 @@
   "op": "92CADD",
   "len": 54,
   "jp": "イオン「仇討ちは終わったのに………{br}{c0C:01}はずっとアイリーンの事を{br}想い続けているのね。{endFE}",
-  "en": "",
+  "en": "Ion: The revenge is over, and yet... {c0C:01}{br}still keeps thinking of Irene.{endFE}",
   "notes": ""
  },
  {
@@ -617,7 +617,7 @@
   "op": "92CB19",
   "len": 42,
   "jp": "ラオエル「あいつにとって、アイリーンとは{br}とても大切な女性だったようだな。{endFE}",
-  "en": "",
+  "en": "Raoel: Irene seems to have been a very{br}precious woman to him.{endFE}",
   "notes": ""
  },
  {
@@ -626,7 +626,7 @@
   "op": "92CB46",
   "len": 41,
   "jp": "もうこの世にはいなくても、{br}ずっとああして彼女の事を想い続けている。{endFE}",
-  "en": "",
+  "en": "Even though she's no longer in this world, he{br}keeps thinking of her like that.{endFE}",
   "notes": ""
  },
  {
@@ -635,7 +635,7 @@
   "op": "92CB76",
   "len": 35,
   "jp": "おれも…あいつと同じだ。{br}ずっと想い続けている………。{endFE}",
-  "en": "",
+  "en": "I'm... the same as him. I've always been{br}thinking of someone...{endFE}",
   "notes": ""
  },
  {
@@ -644,7 +644,7 @@
   "op": "92CB9E",
   "len": 13,
   "jp": "イオン、お前の事を。{endFE}",
-  "en": "",
+  "en": "Ion, I've been thinking of you.{endFE}",
   "notes": ""
  },
  {
@@ -653,7 +653,7 @@
   "op": "92CBB2",
   "len": 13,
   "jp": "「ラオエル………。{endFE}",
-  "en": "",
+  "en": "\"Raoel...\"{endFE}",
   "notes": ""
  },
  {
@@ -662,7 +662,7 @@
   "op": "92CBC5",
   "len": 40,
   "jp": "あたしも……………………。{br}あたしも、あなたの事が好きよ。{endFE}",
-  "en": "",
+  "en": "I... I... I love you too.{endFE}",
   "notes": ""
  },
  {
@@ -671,7 +671,7 @@
   "op": "92CBF4",
   "len": 26,
   "jp": "「本当か！？{br}おれがこんな姿をしていてもか？{endFE}",
-  "en": "",
+  "en": "\"Really?! Even though I look like this?\"{endFE}",
   "notes": ""
  },
  {
@@ -680,7 +680,7 @@
   "op": "92CC12",
   "len": 48,
   "jp": "「そんな事、あたしには関係ないわ。{br}あたしは、あなたに想われている事が{br}うれしいの。{endFE}",
-  "en": "",
+  "en": "\"That doesn't matter to me. I'm just happy{br}that you care for me.\"{endFE}",
   "notes": ""
  },
  {
@@ -689,7 +689,7 @@
   "op": "92CC47",
   "len": 36,
   "jp": "あなたがずっと側にいてくれたら、{br}あたしは…それだけでうれしいの。{endFE}",
-  "en": "",
+  "en": "If you'll always stay by my side... that alone{br}makes me happy.{endFE}",
   "notes": ""
  },
  {
@@ -698,7 +698,7 @@
   "op": "92CC7A",
   "len": 12,
   "jp": "「イオン………。{endFE}",
-  "en": "",
+  "en": "\"Ion...\"{endFE}",
   "notes": ""
  },
  {
@@ -707,7 +707,7 @@
   "op": "92CC89",
   "len": 56,
   "jp": "この街を離れて、2人でどこか{br}遠い所へ行かないか？{br}そこで、おれ達の新しい関係を築こう。{endFE}",
-  "en": "",
+  "en": "Why don't we leave this city, just the two of{br}us, and go somewhere far away? We can build{br}something new together there.{endFE}",
   "notes": ""
  },
  {
@@ -716,7 +716,7 @@
   "op": "92CCC7",
   "len": 16,
   "jp": "「えぇ、あなたとなら喜んで。{endFE}",
-  "en": "",
+  "en": "\"Yes. With you, I'd be glad to.\"{endFE}",
   "notes": ""
  },
  {
@@ -725,7 +725,7 @@
   "op": "92CD7F",
   "len": 50,
   "jp": "{c0C:01}「少しはのんびりできると{br}思ったが、まだまだオレ達の仕事は{br}終わりそうもないな。{endFE}",
-  "en": "",
+  "en": "{c0C:01}: I thought I'd get to kick back a{br}little, but looks like our work's nowhere near{br}done.{endFE}",
   "notes": ""
  },
  {
@@ -734,7 +734,7 @@
   "op": "92CDC5",
   "len": 46,
   "jp": "カーク「動体反応接近中、危険れべる{br}いえろーカラれっどへ。注意セヨ。{endFE}",
-  "en": "",
+  "en": "Kirk: MOVING OBJECT APPROACHING. DANGER{br}LEVEL YELLOW TO RED. CAUTION.{endFE}",
   "notes": ""
  },
  {
@@ -743,7 +743,7 @@
   "op": "92CDFC",
   "len": 37,
   "jp": "「早速出て来やがったな。{br}戦闘準備だ、行くぞカーク！！{endFE}",
-  "en": "",
+  "en": "\"Here they come already. Battle stations -{br}let's go, Kirk!!\"{endFE}",
   "notes": ""
  },
  {
@@ -752,7 +752,7 @@
   "op": "92CE47",
   "len": 56,
   "jp": "{c0C:01}「まったく、イオンの奴は{br}メシを喰い過ぎなんだよな。{br}金を払う方の身にもなって欲しいぜ。{endFE}",
-  "en": "",
+  "en": "{c0C:01}: Seriously, Ion eats way too much.{br}She could think about the guy who has to pay.{endFE}",
   "notes": ""
  },
  {
@@ -761,7 +761,7 @@
   "op": "92CE93",
   "len": 38,
   "jp": "カーク「動体反応接近中、目標ノ物体ト{br}思ワレマス。{endFE}",
-  "en": "",
+  "en": "Kirk: MOVING OBJECT APPROACHING. PRESUMED{br}TO BE TARGET.{endFE}",
   "notes": ""
  },
  {
@@ -770,7 +770,7 @@
   "op": "92CEC2",
   "len": 33,
   "jp": "「今夜はデートの約束があるんだ。{br}さっさと片づけるぞ！{endFE}",
-  "en": "",
+  "en": "\"I've got a date tonight. Let's wrap this up{br}fast!\"{endFE}",
   "notes": ""
  },
  {
@@ -779,7 +779,7 @@
   "op": "92DE76",
   "len": 25,
   "jp": "フびのァ−すーびのぬネまデびのVぶのX「安ハ{br}{end}",
-  "en": "",
+  "en": "...{end}",
   "notes": ""
  }
 ]

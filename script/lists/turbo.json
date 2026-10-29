@@ -4,7 +4,7 @@
   "addr": "92:AE94",
   "len": 40,
   "jp": " ターボファイルがつながっていません{br}{br}   スタートボタンを押して下さい{end}",
-  "en": "",
+  "en": "The Turbo File isn't connected.{br}{br}Please press START.{end}",
   "notes": ""
  },
  {
@@ -12,7 +12,7 @@
   "addr": "92:AEBC",
   "len": 57,
   "jp": " ターボファイルが初期化されていません{br}{br}      初期化しますか？{br}      はい   いいえ{end}",
-  "en": "",
+  "en": "The Turbo File isn't initialized.{br}{br}Initialize it?{br}Yes No{end}",
   "notes": ""
  },
  {
@@ -20,7 +20,7 @@
   "addr": "92:AEF5",
   "len": 22,
   "jp": "      初期化中です・・・{br}{br}{end}",
-  "en": "",
+  "en": "Initializing...{end}",
   "notes": ""
  },
  {
@@ -28,7 +28,7 @@
   "addr": "92:AF0B",
   "len": 53,
   "jp": "       バックアップ{br}       ロード{br}       削除{br}       ファイルチェック{end}",
-  "en": "",
+  "en": "Back Up | Load | Delete | File Check{end}",
   "notes": ""
  },
  {
@@ -36,7 +36,7 @@
   "addr": "92:AF40",
   "len": 20,
   "jp": "      処理中です・・・{br}{br}{end}",
-  "en": "",
+  "en": "Processing...{end}",
   "notes": ""
  },
  {
@@ -44,7 +44,7 @@
   "addr": "92:AF54",
   "len": 38,
   "jp": "    ターボファイルを抜いたり{br}    電源を切らないで下さい{end}",
-  "en": "",
+  "en": "Don't unplug the Turbo File or turn off the{br}power.{end}",
   "notes": ""
  },
  {
@@ -52,7 +52,7 @@
   "addr": "92:AF7A",
   "len": 7,
   "jp": "   ロード{end}",
-  "en": "",
+  "en": "Load{end}",
   "notes": ""
  },
  {
@@ -60,7 +60,7 @@
   "addr": "92:AF81",
   "len": 9,
   "jp": "    削除{end}",
-  "en": "",
+  "en": "Delete{end}",
   "notes": ""
  },
  {
@@ -68,7 +68,7 @@
   "addr": "92:AF8A",
   "len": 32,
   "jp": " このファイルを削除しますか？{br}{br}    はい   いいえ{end}",
-  "en": "",
+  "en": "Delete this file?{br}{br}Yes No{end}",
   "notes": ""
  },
  {
@@ -76,7 +76,7 @@
   "addr": "92:AFAA",
   "len": 20,
   "jp": "      削除中です・・・{br}{br}{end}",
-  "en": "",
+  "en": "Deleting...{end}",
   "notes": ""
  },
  {
@@ -84,7 +84,7 @@
   "addr": "92:AFBE",
   "len": 18,
   "jp": "    ファイルが見つかりません{end}",
-  "en": "",
+  "en": "File not found.{end}",
   "notes": ""
  },
  {
@@ -92,7 +92,7 @@
   "addr": "92:AFD0",
   "len": 20,
   "jp": "  バックアップ元を選んでください{end}",
-  "en": "",
+  "en": "Choose the backup source.{end}",
   "notes": ""
  },
  {
@@ -100,7 +100,7 @@
   "addr": "92:AFE4",
   "len": 20,
   "jp": "  バックアップ先を選んでください{end}",
-  "en": "",
+  "en": "Choose the backup destination.{end}",
   "notes": ""
  },
  {
@@ -108,7 +108,7 @@
   "addr": "92:AFF8",
   "len": 9,
   "jp": "  バックアップ{end}",
-  "en": "",
+  "en": "Back Up{end}",
   "notes": ""
  },
  {
@@ -116,7 +116,7 @@
   "addr": "92:B001",
   "len": 20,
   "jp": "    バックアップ中です・・・{br}{br}{end}",
-  "en": "",
+  "en": "Backing up...{end}",
   "notes": ""
  },
  {
@@ -124,7 +124,7 @@
   "addr": "92:B015",
   "len": 18,
   "jp": "     ロード中です・・・{br}{br}{end}",
-  "en": "",
+  "en": "Loading...{end}",
   "notes": ""
  },
  {
@@ -132,7 +132,7 @@
   "addr": "92:B027",
   "len": 33,
   "jp": "  このファイルを上書きしますか？{br}    はい   いいえ{end}",
-  "en": "",
+  "en": "Overwrite this file?{br}Yes No{end}",
   "notes": ""
  },
  {
@@ -140,7 +140,7 @@
   "addr": "92:B048",
   "len": 32,
   "jp": "  このファイルを削除しますか？{br}    はい   いいえ{end}",
-  "en": "",
+  "en": "Delete this file?{br}Yes No{end}",
   "notes": ""
  },
  {
@@ -148,7 +148,7 @@
   "addr": "92:B068",
   "len": 31,
   "jp": "  このファイルをロードしますか？{br}    はい   いいえ{end}",
-  "en": "",
+  "en": "Load this file?{br}Yes No{end}",
   "notes": ""
  },
  {
@@ -156,7 +156,7 @@
   "addr": "92:B087",
   "len": 22,
   "jp": "    ファイルチェック中です・・・{br}{br}{end}",
-  "en": "",
+  "en": "Checking files...{end}",
   "notes": ""
  },
  {
@@ -164,7 +164,7 @@
   "addr": "92:B09D",
   "len": 18,
   "jp": "    異常はありませんでした{end}",
-  "en": "",
+  "en": "No problems found.{end}",
   "notes": ""
  },
  {
@@ -172,7 +172,7 @@
   "addr": "92:B0AF",
   "len": 90,
   "jp": "     異常が発見されました{br} メンテナンスを実行すると異常ファイル{br} は削除されます{br}   メンテナンスを実行しますか？{br}      はい   いいえ{end}",
-  "en": "",
+  "en": "Errors were found.{br}Maintenance will delete the bad files.{br}Run maintenance?{br}Yes No{end}",
   "notes": ""
  },
  {
@@ -180,7 +180,7 @@
   "addr": "92:B109",
   "len": 20,
   "jp": "    メンテナンス中です・・・{br}{br}{end}",
-  "en": "",
+  "en": "Running maintenance...{end}",
   "notes": ""
  },
  {
@@ -188,7 +188,7 @@
   "addr": "92:B11D",
   "len": 19,
   "jp": "  スタートボタンを押してください{end}",
-  "en": "",
+  "en": "Please press START.{end}",
   "notes": ""
  },
  {
@@ -196,7 +196,7 @@
   "addr": "92:B130",
   "len": 33,
   "jp": "    実在しないファンクションを{br}    実行しました{end}",
-  "en": "",
+  "en": "A nonexistent function was executed.{end}",
   "notes": ""
  },
  {
@@ -204,7 +204,7 @@
   "addr": "92:B151",
   "len": 19,
   "jp": "     シグネチャーが異常です{end}",
-  "en": "",
+  "en": "Invalid signature.{end}",
   "notes": ""
  },
  {
@@ -212,7 +212,7 @@
   "addr": "92:B164",
   "len": 23,
   "jp": "   異常なアドレスが指定されました{end}",
-  "en": "",
+  "en": "An invalid address was specified.{end}",
   "notes": ""
  },
  {
@@ -220,7 +220,7 @@
   "addr": "92:B17B",
   "len": 20,
   "jp": "    I・Oエラーが発生しました{end}",
-  "en": "",
+  "en": "An I/O error occurred.{end}",
   "notes": ""
  },
  {
@@ -228,7 +228,7 @@
   "addr": "92:B18F",
   "len": 19,
   "jp": "   カセット名にエラーがあります{end}",
-  "en": "",
+  "en": "Error in the cartridge name.{end}",
   "notes": ""
  },
  {
@@ -236,7 +236,7 @@
   "addr": "92:B1A2",
   "len": 19,
   "jp": "   ファイル名にエラーがあります{end}",
-  "en": "",
+  "en": "Error in the file name.{end}",
   "notes": ""
  },
  {
@@ -244,7 +244,7 @@
   "addr": "92:B1B5",
   "len": 19,
   "jp": "  ファイルヘッダにエラーがあります{end}",
-  "en": "",
+  "en": "Error in the file header.{end}",
   "notes": ""
  },
  {
@@ -252,7 +252,7 @@
   "addr": "92:B1C8",
   "len": 22,
   "jp": "  ファイルを上書きしようとしています{end}",
-  "en": "",
+  "en": "Attempting to overwrite a file.{end}",
   "notes": ""
  },
  {
@@ -260,7 +260,7 @@
   "addr": "92:B1DE",
   "len": 20,
   "jp": "    データ量が1Mを越えました{end}",
-  "en": "",
+  "en": "Data size exceeds 1M.{end}",
   "notes": ""
  },
  {
@@ -268,7 +268,7 @@
   "addr": "92:B1F2",
   "len": 19,
   "jp": "     ファイルが存在しません{end}",
-  "en": "",
+  "en": "The file doesn't exist.{end}",
   "notes": ""
  },
  {
@@ -276,7 +276,7 @@
   "addr": "92:B205",
   "len": 21,
   "jp": "  チェックサムエラーが発生しました{end}",
-  "en": "",
+  "en": "A checksum error occurred.{end}",
   "notes": ""
  },
  {
@@ -284,7 +284,7 @@
   "addr": "92:B21A",
   "len": 21,
   "jp": "  アクセスワークにアクシデント発生{end}",
-  "en": "",
+  "en": "An error occurred in the access work area.{end}",
   "notes": ""
  },
  {
@@ -292,7 +292,7 @@
   "addr": "92:B22F",
   "len": 19,
   "jp": "    このファイルは壊れています{end}",
-  "en": "",
+  "en": "This file is corrupted.{end}",
   "notes": ""
  },
  {
@@ -300,7 +300,7 @@
   "addr": "92:B242",
   "len": 22,
   "jp": "  ファイルアクセスの順番が違います{end}",
-  "en": "",
+  "en": "Files were accessed in the wrong order.{end}",
   "notes": ""
  },
  {
@@ -308,7 +308,7 @@
   "addr": "92:B258",
   "len": 20,
   "jp": "  ターボファイルがつながっていません{end}",
-  "en": "",
+  "en": "The Turbo File isn't connected.{end}",
   "notes": ""
  },
  {
@@ -316,7 +316,7 @@
   "addr": "92:B26C",
   "len": 32,
   "jp": " ターボファイルのプロテクトスイッチを{br} OFFにしてください{end}",
-  "en": "",
+  "en": "Turn the Turbo File's protect switch OFF.{end}",
   "notes": ""
  },
  {
@@ -324,7 +324,7 @@
   "addr": "92:B28C",
   "len": 23,
   "jp": " バッテリーの残量が少なくなっています{end}",
-  "en": "",
+  "en": "The battery is running low.{end}",
   "notes": ""
  },
  {
@@ -332,7 +332,7 @@
   "addr": "92:B2A3",
   "len": 23,
   "jp": " ターボファイルが初期化されていません{end}",
-  "en": "",
+  "en": "The Turbo File isn't initialized.{end}",
   "notes": ""
  },
  {
@@ -340,7 +340,7 @@
   "addr": "92:B2BA",
   "len": 20,
   "jp": "    メンテナンスで異常発見{end}",
-  "en": "",
+  "en": "Maintenance found errors.{end}",
   "notes": ""
  },
  {
@@ -348,7 +348,7 @@
   "addr": "92:9F06",
   "len": 12,
   "jp": "選データがありません{end}",
-  "en": "",
+  "en": "No data.{end}",
   "notes": ""
  }
 ]

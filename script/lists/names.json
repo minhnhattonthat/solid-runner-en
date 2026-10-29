@@ -4,7 +4,7 @@
   "addr": "87:EEEC",
   "len": 8,
   "jp": "{c0C:01}＝{c0C:00}{end}",
-  "en": "",
+  "en": "{c0C:01} {c0C:00}{end}",
   "notes": ""
  },
  {
@@ -12,7 +12,7 @@
   "addr": "87:EEF4",
   "len": 6,
   "jp": "アイリーン{end}",
-  "en": "",
+  "en": "Irene{end}",
   "notes": ""
  },
  {
@@ -20,7 +20,7 @@
   "addr": "87:EEFA",
   "len": 3,
   "jp": "リフ{end}",
-  "en": "",
+  "en": "Riff{end}",
   "notes": ""
  },
  {
@@ -28,7 +28,7 @@
   "addr": "87:EEFD",
   "len": 3,
   "jp": "タオ{end}",
-  "en": "",
+  "en": "Tao{end}",
   "notes": ""
  },
  {
@@ -36,7 +36,7 @@
   "addr": "87:EF00",
   "len": 10,
   "jp": "シスターレイチェル{end}",
-  "en": "",
+  "en": "Sister Rachel{end}",
   "notes": ""
  },
  {
@@ -44,7 +44,7 @@
   "addr": "87:EF0A",
   "len": 4,
   "jp": "カーク{end}",
-  "en": "",
+  "en": "Kirk{end}",
   "notes": ""
  },
  {
@@ -52,7 +52,7 @@
   "addr": "87:EF0E",
   "len": 4,
   "jp": "イオン{end}",
-  "en": "",
+  "en": "Ion{end}",
   "notes": ""
  },
  {
@@ -60,7 +60,7 @@
   "addr": "87:EF12",
   "len": 5,
   "jp": "ミネルバ{end}",
-  "en": "",
+  "en": "Minerva{end}",
   "notes": ""
  },
  {
@@ -68,7 +68,7 @@
   "addr": "87:EF17",
   "len": 4,
   "jp": "コスタ{end}",
-  "en": "",
+  "en": "Costa{end}",
   "notes": ""
  },
  {
@@ -76,7 +76,7 @@
   "addr": "87:EF1B",
   "len": 3,
   "jp": "テオ{end}",
-  "en": "",
+  "en": "Theo{end}",
   "notes": ""
  },
  {
@@ -84,7 +84,7 @@
   "addr": "87:EF1E",
   "len": 5,
   "jp": "グロリア{end}",
-  "en": "",
+  "en": "Gloria{end}",
   "notes": ""
  },
  {
@@ -92,7 +92,7 @@
   "addr": "87:EF23",
   "len": 5,
   "jp": "ラオエル{end}",
-  "en": "",
+  "en": "Raoel{end}",
   "notes": ""
  },
  {
@@ -100,7 +100,7 @@
   "addr": "87:EF28",
   "len": 7,
   "jp": "バイスハイト{end}",
-  "en": "",
+  "en": "Weissheit{end}",
   "notes": ""
  },
  {
@@ -108,7 +108,7 @@
   "addr": "87:EF2F",
   "len": 5,
   "jp": "バーンズ{end}",
-  "en": "",
+  "en": "Barnes{end}",
   "notes": ""
  },
  {
@@ -116,7 +116,7 @@
   "addr": "87:EF34",
   "len": 8,
   "jp": "アンナ＝ケリー{end}",
-  "en": "",
+  "en": "Anna Kelly{end}",
   "notes": ""
  },
  {
@@ -124,7 +124,7 @@
   "addr": "87:EF3C",
   "len": 5,
   "jp": "ハロルド{end}",
-  "en": "",
+  "en": "Harold{end}",
   "notes": ""
  },
  {
@@ -132,7 +132,7 @@
   "addr": "87:EF41",
   "len": 5,
   "jp": "レクター{end}",
-  "en": "",
+  "en": "Lecter{end}",
   "notes": ""
  },
  {
@@ -140,7 +140,7 @@
   "addr": "87:EF46",
   "len": 6,
   "jp": "ブランドル{end}",
-  "en": "",
+  "en": "Brundle{end}",
   "notes": ""
  },
  {
@@ -148,7 +148,7 @@
   "addr": "87:EF4C",
   "len": 5,
   "jp": "ガルシア{end}",
-  "en": "",
+  "en": "Garcia{end}",
   "notes": ""
  },
  {
@@ -156,7 +156,7 @@
   "addr": "87:EF51",
   "len": 5,
   "jp": "トーマス{end}",
-  "en": "",
+  "en": "Thomas{end}",
   "notes": ""
  }
 ]

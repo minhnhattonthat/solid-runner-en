@@ -4,7 +4,7 @@
   "addr": "83:9B79",
   "len": 12,
   "jp": "ヒットポイント回復{endFE}",
-  "en": "",
+  "en": "Restores HP{endFE}",
   "notes": ""
  },
  {
@@ -12,7 +12,7 @@
   "addr": "83:9B89",
   "len": 13,
   "jp": "反応速度回復{endFE}",
-  "en": "",
+  "en": "Restores Reaction Speed{endFE}",
   "notes": ""
  },
  {
@@ -20,7 +20,7 @@
   "addr": "83:9B9A",
   "len": 11,
   "jp": "酸状態回復{endFE}",
-  "en": "",
+  "en": "Cures acid status{endFE}",
   "notes": ""
  },
  {
@@ -28,7 +28,7 @@
   "addr": "83:9BA9",
   "len": 11,
   "jp": "毒状態回復{endFE}",
-  "en": "",
+  "en": "Cures poison status{endFE}",
   "notes": ""
  },
  {
@@ -36,7 +36,7 @@
   "addr": "83:9BB8",
   "len": 18,
   "jp": "ナパーム攻撃を無効化する{endFE}",
-  "en": "",
+  "en": "Nullifies napalm attacks{endFE}",
   "notes": ""
  },
  {
@@ -44,7 +44,7 @@
   "addr": "83:9BCE",
   "len": 18,
   "jp": "電撃攻撃を無効化する{endFE}",
-  "en": "",
+  "en": "Nullifies shock attacks{endFE}",
   "notes": ""
  },
  {
@@ -52,7 +52,7 @@
   "addr": "83:9BE4",
   "len": 16,
   "jp": "酸攻撃を無効化する{endFE}",
-  "en": "",
+  "en": "Nullifies acid attacks{endFE}",
   "notes": ""
  },
  {
@@ -60,7 +60,7 @@
   "addr": "83:9BF8",
   "len": 16,
   "jp": "毒攻撃を無効化する{endFE}",
-  "en": "",
+  "en": "Nullifies poison attacks{endFE}",
   "notes": ""
  },
  {
@@ -68,7 +68,7 @@
   "addr": "83:9C0C",
   "len": 16,
   "jp": "防御力低下を回復{endFE}",
-  "en": "",
+  "en": "Restores lowered Defense{endFE}",
   "notes": ""
  }
 ]

@@ -4,7 +4,7 @@
   "addr": "83:8F1D",
   "len": 4,
   "jp": "シュウ{end}",
-  "en": "",
+  "en": "Shu{end}",
   "notes": ""
  },
  {
@@ -12,7 +12,7 @@
   "addr": "83:8F21",
   "len": 6,
   "jp": "アースキン{end}",
-  "en": "",
+  "en": "Erskine{end}",
   "notes": ""
  },
  {
@@ -20,7 +20,7 @@
   "addr": "93:CB2C",
   "len": 6,
   "jp": "シュウ  {end}",
-  "en": "",
+  "en": "Shu{end}",
   "notes": ""
  },
  {
@@ -28,7 +28,7 @@
   "addr": "93:CB32",
   "len": 6,
   "jp": "アースキン{end}",
-  "en": "",
+  "en": "Erskine{end}",
   "notes": ""
  },
  {
@@ -36,7 +36,7 @@
   "addr": "93:CB38",
   "len": 7,
   "jp": "グランディル{end}",
-  "en": "",
+  "en": "Grandil{end}",
   "notes": ""
  }
 ]

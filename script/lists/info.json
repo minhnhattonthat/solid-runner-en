@@ -4,7 +4,7 @@
   "addr": "87:8562",
   "len": 24,
   "jp": "リクエスト：仕事の依頼を探します。{end}",
-  "en": "",
+  "en": "Request: Look for job requests.{end}",
   "notes": ""
  },
  {
@@ -12,7 +12,7 @@
   "addr": "87:857A",
   "len": 25,
   "jp": "ニュース：無料の情報を検索します。{end}",
-  "en": "",
+  "en": "News: Search free information.{end}",
   "notes": ""
  },
  {
@@ -20,7 +20,7 @@
   "addr": "87:8593",
   "len": 29,
   "jp": "インフォメーション：有料のタレコミ情報{br}です。{end}",
-  "en": "",
+  "en": "Information: Paid tip-offs.{end}",
   "notes": ""
  },
  {
@@ -28,7 +28,7 @@
   "addr": "87:85B0",
   "len": 38,
   "jp": "データライブラリー：今までに手に入れた{br}情報を検索します。{end}",
-  "en": "",
+  "en": "Data Library: Search the information you've{br}obtained so far.{end}",
   "notes": ""
  },
  {
@@ -36,7 +36,7 @@
   "addr": "87:85D6",
   "len": 23,
   "jp": "終了：端末の使用を止めます。{end}",
-  "en": "",
+  "en": "Quit: Stop using the terminal.{end}",
   "notes": ""
  },
  {
@@ -44,7 +44,7 @@
   "addr": "87:8FB4",
   "len": 16,
   "jp": "依頼はすでに受けています{end}",
-  "en": "",
+  "en": "You've already accepted a job{end}",
   "notes": ""
  },
  {
@@ -52,7 +52,7 @@
   "addr": "87:9147",
   "len": 19,
   "jp": "{c04:01D61700}件の依頼があります{end}",
-  "en": "",
+  "en": "Requests found: {c04:01D61700}{end}",
   "notes": ""
  },
  {
@@ -60,7 +60,7 @@
   "addr": "87:915A",
   "len": 11,
   "jp": "依頼がありません{end}",
-  "en": "",
+  "en": "No requests{end}",
   "notes": ""
  },
  {
@@ -68,7 +68,7 @@
   "addr": "87:94E8",
   "len": 15,
   "jp": "依頼を引き受けました{end}",
-  "en": "",
+  "en": "Request accepted{end}",
   "notes": ""
  },
  {
@@ -76,7 +76,7 @@
   "addr": "87:9681",
   "len": 15,
   "jp": "受ける       やめる{end}",
-  "en": "",
+  "en": "Accept | Cancel{end}",
   "notes": ""
  },
  {
@@ -84,7 +84,7 @@
   "addr": "87:9A3F",
   "len": 19,
   "jp": "{c04:01D61700}件のニュースがあります{end}",
-  "en": "",
+  "en": "News items found: {c04:01D61700}{end}",
   "notes": ""
  },
  {
@@ -92,7 +92,7 @@
   "addr": "87:9A52",
   "len": 11,
   "jp": "ニュースがありません{end}",
-  "en": "",
+  "en": "No news{end}",
   "notes": ""
  },
  {
@@ -100,7 +100,7 @@
   "addr": "87:9FBD",
   "len": 11,
   "jp": "お金が足りません{end}",
-  "en": "",
+  "en": "Not enough money{end}",
   "notes": ""
  },
  {
@@ -108,7 +108,7 @@
   "addr": "87:A111",
   "len": 19,
   "jp": "{c04:01D61700}件の情報があります{end}",
-  "en": "",
+  "en": "Tips found: {c04:01D61700}{end}",
   "notes": ""
  },
  {
@@ -116,7 +116,7 @@
   "addr": "87:A124",
   "len": 11,
   "jp": "情報がありません{end}",
-  "en": "",
+  "en": "No tips{end}",
   "notes": ""
  },
  {
@@ -124,7 +124,7 @@
   "addr": "87:A968",
   "len": 18,
   "jp": "{c04:01D61700}件のデータがあります{end}",
-  "en": "",
+  "en": "Data entries found: {c04:01D61700}{end}",
   "notes": ""
  },
  {
@@ -132,7 +132,7 @@
   "addr": "87:A97A",
   "len": 10,
   "jp": "データがありません{end}",
-  "en": "",
+  "en": "No data{end}",
   "notes": ""
  },
  {
@@ -140,7 +140,7 @@
   "addr": "87:87B8",
   "len": 43,
   "jp": "Request{br}News{br}Information{br}Data library{br}Quit{end}",
-  "en": "",
+  "en": "Request{br}News{br}Information{br}Data Library{br}Quit{end}",
   "notes": ""
  },
  {
@@ -148,7 +148,7 @@
   "addr": "87:91FE",
   "len": 8,
   "jp": "{c04:03310170}G{end}",
-  "en": "",
+  "en": "{c04:03310170}G{end}",
   "notes": ""
  },
  {
@@ -156,7 +156,7 @@
   "addr": "87:A920",
   "len": 15,
   "jp": "事柄  人物  敵{end}",
-  "en": "",
+  "en": "Topics | People | Enemies{end}",
   "notes": ""
  }
 ]

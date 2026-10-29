@@ -4,7 +4,7 @@
   "addr": "93:C36F",
   "len": 25,
   "jp": "名前を入力して下さい（LRで切替）{end}",
-  "en": "",
+  "en": "Enter a name (L/R to switch){end}",
   "notes": ""
  },
  {
@@ -12,7 +12,7 @@
   "addr": "93:C388",
   "len": 16,
   "jp": "名前を入力して下さい{end}",
-  "en": "",
+  "en": "Enter a name{end}",
   "notes": ""
  },
  {
@@ -20,7 +20,7 @@
   "addr": "93:C398",
   "len": 22,
   "jp": "セレクトボタンで元の名前に戻ります{end}",
-  "en": "",
+  "en": "Press SELECT to restore the original name{end}",
   "notes": ""
  },
  {
@@ -28,7 +28,7 @@
   "addr": "93:C3AE",
   "len": 16,
   "jp": "スタートボタンで決定します{end}",
-  "en": "",
+  "en": "Press START to confirm{end}",
   "notes": ""
  }
 ]

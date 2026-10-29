@@ -4,7 +4,7 @@
   "addr": "90:8366",
   "len": 20,
   "jp": "弾薬カートリッジの交換完了{endFE}",
-  "en": "",
+  "en": "Ammo cartridge replaced.{endFE}",
   "notes": ""
  },
  {
@@ -12,7 +12,7 @@
   "addr": "90:83EB",
   "len": 28,
   "jp": "おおっと、{c0C:02}{br}このままリタイアしてしまうのかぁ！！{end}",
-  "en": "",
+  "en": "Whoa, {c0C:02}! Are you really gonna give up{br}like that?!{end}",
   "notes": ""
  },
  {
@@ -20,7 +20,7 @@
   "addr": "90:8409",
   "len": 16,
   "jp": "  リタイアする{br}  続ける{endFE}",
-  "en": "",
+  "en": "Retire{br}Continue{endFE}",
   "notes": ""
  },
  {
@@ -28,7 +28,7 @@
   "addr": "90:8499",
   "len": 10,
   "jp": "がんばってくれよ！{end}",
-  "en": "",
+  "en": "Hang in there!{end}",
   "notes": ""
  },
  {
@@ -36,7 +36,7 @@
   "addr": "90:DD15",
   "len": 18,
   "jp": "「敵ニ攻撃ガ当タリマシタ。{endFE}",
-  "en": "",
+  "en": "\"ATTACK HIT ENEMY.\"{endFE}",
   "notes": ""
  },
  {
@@ -44,7 +44,7 @@
   "addr": "90:DD76",
   "len": 18,
   "jp": "「コチラノ攻撃ガ外レマシタ。{endFE}",
-  "en": "",
+  "en": "\"OUR ATTACK MISSED.\"{endFE}",
   "notes": ""
  },
  {
@@ -52,7 +52,7 @@
   "addr": "90:DDF4",
   "len": 21,
   "jp": "「コンディションイエロー、注意しろ。{endFE}",
-  "en": "",
+  "en": "\"Condition yellow. Watch it.\"{endFE}",
   "notes": ""
  },
  {
@@ -60,7 +60,7 @@
   "addr": "90:DFF0",
   "len": 18,
   "jp": "「装甲ガ毒ニ侵サレマシタ。{endFE}",
-  "en": "",
+  "en": "\"ARMOR POISONED.\"{endFE}",
   "notes": ""
  },
  {
@@ -68,7 +68,7 @@
   "addr": "90:E020",
   "len": 23,
   "jp": "「反応速度ガ下ガッテシマイマシタ。{endFE}",
-  "en": "",
+  "en": "\"REACTION SPEED DOWN.\"{endFE}",
   "notes": ""
  },
  {
@@ -76,7 +76,7 @@
   "addr": "90:E05A",
   "len": 28,
   "jp": "「命中率ト回避率ガ下ガッテシマイマシタ。{endFE}",
-  "en": "",
+  "en": "\"ACCURACY AND EVASION DOWN.\"{endFE}",
   "notes": ""
  },
  {
@@ -84,7 +84,7 @@
   "addr": "90:E07A",
   "len": 17,
   "jp": "「装甲が火で焼かれたぞ。{endFE}",
-  "en": "",
+  "en": "\"The armor's been scorched by fire!\"{endFE}",
   "notes": ""
  },
  {
@@ -92,7 +92,7 @@
   "addr": "90:E08F",
   "len": 18,
   "jp": "「装甲ガ火デ焼カレマシタ。{endFE}",
-  "en": "",
+  "en": "\"ARMOR SCORCHED BY FIRE.\"{endFE}",
   "notes": ""
  },
  {
@@ -100,7 +100,7 @@
   "addr": "90:E0BD",
   "len": 21,
   "jp": "「敵ノ装甲ヲ毒デ弱ラセマシタ。{endFE}",
-  "en": "",
+  "en": "\"ENEMY ARMOR WEAKENED BY POISON.\"{endFE}",
   "notes": ""
  },
  {
@@ -108,7 +108,7 @@
   "addr": "90:E15C",
   "len": 21,
   "jp": "「敵ノ装甲ヲ火デ弱ラセマシタ。{endFE}",
-  "en": "",
+  "en": "\"ENEMY ARMOR WEAKENED BY FIRE.\"{endFE}",
   "notes": ""
  },
  {
@@ -116,7 +116,7 @@
   "addr": "90:E22C",
   "len": 24,
   "jp": "「敵カラノ攻撃ハ無効化サレマシタ。{endFE}",
-  "en": "",
+  "en": "\"ENEMY ATTACK NULLIFIED.\"{endFE}",
   "notes": ""
  },
  {
@@ -124,7 +124,7 @@
   "addr": "90:E46D",
   "len": 13,
   "jp": "{c18}を手に入れました{endFD}",
-  "en": "",
+  "en": "Obtained {c18}.{endFD}",
   "notes": ""
  },
  {
@@ -132,7 +132,7 @@
   "addr": "90:E47E",
   "len": 19,
   "jp": "使用可能な{c18}を発見した{endFD}",
-  "en": "",
+  "en": "Found {c18}, still usable.{endFD}",
   "notes": ""
  },
  {
@@ -140,7 +140,7 @@
   "addr": "90:E733",
   "len": 21,
   "jp": "戦闘レベルが{c04:01831800}になりました{endFD}",
-  "en": "",
+  "en": "Combat level is now {c04:01831800}.{endFD}",
   "notes": ""
  },
  {
@@ -148,7 +148,7 @@
   "addr": "91:8BAD",
   "len": 13,
   "jp": "{c0C:01}「今だ、イオン！{end}",
-  "en": "",
+  "en": "{c0C:01}: Now, Ion!{end}",
   "notes": ""
  },
  {
@@ -156,7 +156,7 @@
   "addr": "91:8BBF",
   "len": 22,
   "jp": "イオン「ミネルバ、サイコダイブ開始よ！{end}",
-  "en": "",
+  "en": "Ion: Minerva, start the Psycho Dive!{end}",
   "notes": ""
  },
  {
@@ -164,7 +164,7 @@
   "addr": "91:8BDA",
   "len": 36,
   "jp": "ミネルバ「電脳空間にアクセス。{br}サイコダイブ、スタートします。{end}",
-  "en": "",
+  "en": "Minerva: Accessing cyberspace. Starting{br}Psycho Dive.{end}",
   "notes": ""
  },
  {
@@ -172,7 +172,7 @@
   "addr": "91:9653",
   "len": 54,
   "jp": "バイスハイト「やるではないか。なるほど、{br}貴様のランナーには例のシステムが搭載{br}されているのか。{end}",
-  "en": "",
+  "en": "Weissheit: Not bad at all. I see - so your{br}runner is fitted with that system.{end}",
   "notes": ""
  },
  {
@@ -180,7 +180,7 @@
   "addr": "91:96F1",
   "len": 69,
   "jp": "バイスハイト「フハハハハ、無駄だ無駄だ。{br}私の体は常にエネルギーの供給を受けている{br}のだ。私を倒す事はできぬ。{endFD}",
-  "en": "",
+  "en": "Weissheit: Fwahahaha, it's useless, useless! My{br}body is constantly supplied with energy. You{br}cannot defeat me.{endFD}",
   "notes": ""
  },
  {
@@ -188,7 +188,7 @@
   "addr": "91:98D4",
   "len": 59,
   "jp": "「{c0C:01}、バイスハイトへのエネルギー{br}供給元はストップさせたわ。もうこれで、{br}あいつは回復できないハズよ。{end}",
-  "en": "",
+  "en": "\"{c0C:01}, I've cut off Weissheit's energy{br}supply. He shouldn't be able to recover{br}anymore.\"{end}",
   "notes": ""
  },
  {
@@ -196,7 +196,7 @@
   "addr": "93:8374",
   "len": 22,
   "jp": "「いつまでこんな事が続くのかねぇ…。{end}",
-  "en": "",
+  "en": "\"How long is this gonna keep up...?\"{end}",
   "notes": ""
  },
  {
@@ -204,7 +204,7 @@
   "addr": "93:E92A",
   "len": 18,
   "jp": "「ババリアのボスの名前は…。{endFD}",
-  "en": "",
+  "en": "\"The name of Bavaria's boss is...\"{endFD}",
   "notes": ""
  },
  {
@@ -212,7 +212,7 @@
   "addr": "93:E944",
   "len": 73,
   "jp": "バ・{c1A:3C}イ・{c1A:32}ス・{c1A:28}ハ・{c1A:1E}イ・{c1A:14}ト！？{c1A:3C}{br}ミネルバ！ サイコダイブ中止。{br}今すぐ電脳空間から抜けるわよ！！{endFD}",
-  "en": "",
+  "en": "W-{c1A:3C}ei-{c1A:32}ss-{c1A:28}h-{c1A:1E}ei-{c1A:14}t?!{c1A:3C}{br}Minerva! Abort the Psycho Dive. We're getting{br}out of cyberspace right now!!{endFD}",
   "notes": ""
  },
  {
@@ -220,7 +220,7 @@
   "addr": "93:EED3",
   "len": 10,
   "jp": "選A000じゃ。{end}",
-  "en": "",
+  "en": "Choice A000.{end}",
   "notes": ""
  },
  {
@@ -228,7 +228,7 @@
   "addr": "94:A435",
   "len": 26,
   "jp": "カーク「イオンのランナー、{br}ブリガンティアじゃな。{end}",
-  "en": "",
+  "en": "Kirk: So that's Ion's runner, Brigantia.{end}",
   "notes": ""
  },
  {
@@ -236,7 +236,7 @@
   "addr": "95:83F7",
   "len": 11,
   "jp": "  はい{br}  いいえ{endFE}",
-  "en": "",
+  "en": "Yes{br}No{endFE}",
   "notes": ""
  },
  {
@@ -244,7 +244,7 @@
   "addr": "97:B8AE",
   "len": 85,
   "jp": "{c0C:01}「ピラーニャプレタ治療の為の{br}遺伝子組み換え実験の報告…実験失敗により{br}バイオハザード発生。治療法は依然不明？{end}",
-  "en": "",
+  "en": "{c0C:01}: A report on gene-splicing tests to{br}treat Piranha Preta... The tests failed and{br}caused a biohazard. Cure still unknown?{end}",
   "notes": ""
  },
  {
@@ -252,7 +252,7 @@
   "addr": "97:B90A",
   "len": 40,
   "jp": "やっぱり奴ら、各地の施設であの病気の研究{br}をしていたんだな。{end}",
-  "en": "",
+  "en": "So they really were researching that disease{br}at their facilities all over.{end}",
   "notes": ""
  },
  {
@@ -260,7 +260,7 @@
   "addr": "97:B933",
   "len": 59,
   "jp": "カーク「じゃが、何の為じゃ。まさか本当に{br}奴らが人様の為に研究をしているとは、考え{br}られんぞ。{end}",
-  "en": "",
+  "en": "Kirk: But what for? I can't believe they'd{br}really be doing research for other folks' sake.{end}",
   "notes": ""
  },
  {
@@ -268,7 +268,7 @@
   "addr": "A9:9B2A",
   "len": 46,
   "jp": "カーク「元通りにするように頼まれたのは{br}森林ゾーンの方のコンピューターじゃぞ。{end}",
-  "en": "",
+  "en": "Kirk: The computer they asked us to put back{br}the way it was is the one in the Forest Zone!{end}",
   "notes": ""
  },
  {
@@ -276,7 +276,7 @@
   "addr": "A9:FEEC",
   "len": 33,
   "jp": "照明コントロールパネルがあります。{br}スイッチを入れますか？{end}",
-  "en": "",
+  "en": "There's a lighting control panel. Turn the{br}switch on?{end}",
   "notes": ""
  },
  {
@@ -284,7 +284,7 @@
   "addr": "A9:FF0E",
   "len": 15,
   "jp": "  入れる{br}  やめておく{endFE}",
-  "en": "",
+  "en": "Turn On{br}Leave It{endFE}",
   "notes": ""
  },
  {
@@ -292,7 +292,7 @@
   "addr": "A9:FF4F",
   "len": 33,
   "jp": "照明コントロールパネルがあります。{br}スイッチを切りますか？{end}",
-  "en": "",
+  "en": "There's a lighting control panel. Turn the{br}switch off?{end}",
   "notes": ""
  },
  {
@@ -300,7 +300,7 @@
   "addr": "A9:FF71",
   "len": 14,
   "jp": "  切る{br}  やめておく{endFE}",
-  "en": "",
+  "en": "Turn Off{br}Leave It{endFE}",
   "notes": ""
  }
 ]

@@ -4,7 +4,7 @@
   "addr": "93:C015",
   "len": 8,
   "jp": "H{c0C:01}の家{end}",
-  "en": "",
+  "en": "{c0C:01}'s Home{end}",
   "notes": ""
  },
  {
@@ -12,7 +12,7 @@
   "addr": "93:C01D",
   "len": 8,
   "jp": "2番倉庫{end}",
-  "en": "",
+  "en": "Warehouse No. 2{end}",
   "notes": ""
  },
  {
@@ -20,7 +20,7 @@
   "addr": "93:C025",
   "len": 8,
   "jp": "ホストセンター{end}",
-  "en": "",
+  "en": "Host Center{end}",
   "notes": ""
  },
  {
@@ -28,7 +28,7 @@
   "addr": "93:C02D",
   "len": 11,
   "jp": "地下下水道{end}",
-  "en": "",
+  "en": "Sewers{end}",
   "notes": ""
  },
  {
@@ -36,7 +36,7 @@
   "addr": "93:C038",
   "len": 7,
   "jp": "廃ビル1F{end}",
-  "en": "",
+  "en": "Abandoned Building 1F{end}",
   "notes": ""
  },
  {
@@ -44,7 +44,7 @@
   "addr": "93:C03F",
   "len": 12,
   "jp": "ドラッグ工場B2F{end}",
-  "en": "",
+  "en": "Drug Factory B2F{end}",
   "notes": ""
  },
  {
@@ -52,7 +52,7 @@
   "addr": "93:C04B",
   "len": 13,
   "jp": "テロ集団アジトB2F{end}",
-  "en": "",
+  "en": "Terrorist Hideout B2F{end}",
   "notes": ""
  },
  {
@@ -60,7 +60,7 @@
   "addr": "93:C058",
   "len": 13,
   "jp": "アレックス病院B1F{end}",
-  "en": "",
+  "en": "Alex Hospital B1F{end}",
   "notes": ""
  },
  {
@@ -68,7 +68,7 @@
   "addr": "93:C065",
   "len": 5,
   "jp": "倉庫{end}",
-  "en": "",
+  "en": "Warehouse{end}",
   "notes": ""
  },
  {
@@ -76,7 +76,7 @@
   "addr": "93:C06A",
   "len": 11,
   "jp": "ババリアのアジト1F{end}",
-  "en": "",
+  "en": "Bavaria Hideout 1F{end}",
   "notes": ""
  },
  {
@@ -84,7 +84,7 @@
   "addr": "93:C075",
   "len": 11,
   "jp": "ババリアのアジト3F{end}",
-  "en": "",
+  "en": "Bavaria Hideout 3F{end}",
   "notes": ""
  },
  {
@@ -92,7 +92,7 @@
   "addr": "93:C080",
   "len": 11,
   "jp": "レジスタンスのアジト{end}",
-  "en": "",
+  "en": "Resistance Hideout{end}",
   "notes": ""
  },
  {
@@ -100,7 +100,7 @@
   "addr": "93:C08B",
   "len": 7,
   "jp": "地下道{end}",
-  "en": "",
+  "en": "Tunnel{end}",
   "notes": ""
  },
  {
@@ -108,7 +108,7 @@
   "addr": "93:C092",
   "len": 13,
   "jp": "旧CTI本部B2F{end}",
-  "en": "",
+  "en": "Old CTI HQ B2F{end}",
   "notes": ""
  },
  {
@@ -116,7 +116,7 @@
   "addr": "93:C09F",
   "len": 12,
   "jp": "旧CTI本部3F{end}",
-  "en": "",
+  "en": "Old CTI HQ 3F{end}",
   "notes": ""
  },
  {
@@ -124,7 +124,7 @@
   "addr": "93:C0AB",
   "len": 12,
   "jp": "旧CTI本部8F{end}",
-  "en": "",
+  "en": "Old CTI HQ 8F{end}",
   "notes": ""
  },
  {
@@ -132,7 +132,7 @@
   "addr": "93:C0B7",
   "len": 11,
   "jp": "ウラル工場B2F{end}",
-  "en": "",
+  "en": "Ural Factory B2F{end}",
   "notes": ""
  },
  {
@@ -140,7 +140,7 @@
   "addr": "93:C0C2",
   "len": 10,
   "jp": "ファンタジードーム{end}",
-  "en": "",
+  "en": "Fantasy Dome{end}",
   "notes": ""
  },
  {
@@ -148,7 +148,7 @@
   "addr": "93:C0CC",
   "len": 12,
   "jp": "スラム街地下道{end}",
-  "en": "",
+  "en": "Slum Tunnel{end}",
   "notes": ""
  },
  {
@@ -156,7 +156,7 @@
   "addr": "93:C0D8",
   "len": 12,
   "jp": "旧CTI本部5F{end}",
-  "en": "",
+  "en": "Old CTI HQ 5F{end}",
   "notes": ""
  },
  {
@@ -164,7 +164,7 @@
   "addr": "93:C0E4",
   "len": 14,
   "jp": "旧CTIへの地下道{end}",
-  "en": "",
+  "en": "Tunnel to Old CTI HQ{end}",
   "notes": ""
  },
  {
@@ -172,7 +172,7 @@
   "addr": "93:C0F2",
   "len": 12,
   "jp": "スラム街地下道{end}",
-  "en": "",
+  "en": "Slum Tunnel{end}",
   "notes": ""
  },
  {
@@ -180,7 +180,7 @@
   "addr": "93:C0FE",
   "len": 11,
   "jp": "ババリアのアジト6F{end}",
-  "en": "",
+  "en": "Bavaria Hideout 6F{end}",
   "notes": ""
  },
  {
@@ -188,7 +188,7 @@
   "addr": "93:C163",
   "len": 6,
   "jp": "シュウ  {end}",
-  "en": "",
+  "en": "Shu{end}",
   "notes": ""
  },
  {
@@ -196,7 +196,7 @@
   "addr": "93:C169",
   "len": 6,
   "jp": "アースキン{end}",
-  "en": "",
+  "en": "Erskine{end}",
   "notes": ""
  },
  {
@@ -204,7 +204,7 @@
   "addr": "93:C20B",
   "len": 7,
   "jp": "グランディル{end}",
-  "en": "",
+  "en": "Grandil{end}",
   "notes": ""
  }
 ]

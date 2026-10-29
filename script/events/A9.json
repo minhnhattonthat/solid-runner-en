@@ -5,7 +5,7 @@
   "op": "A98C00",
   "len": 53,
   "jp": "「責任者のボーマンさんだったら{br}左の事務所にいるよ。{br}右の方はコンピューター室だよ。{end}",
-  "en": "",
+  "en": "\"If you want Bowman-san, the manager, he's in{br}the office on the left. On the right is the{br}computer room.\"{end}",
   "notes": ""
  },
  {
@@ -14,7 +14,7 @@
   "op": "A98C38",
   "len": 46,
   "jp": "「ボーマンさんは怖い人だよ。{br}仕事でヘマをやってしまうと、{br}すぐクビにされるんだ。{end}",
-  "en": "",
+  "en": "\"Bowman-san's a scary guy. Mess up on the job{br}and he fires you on the spot.\"{end}",
   "notes": ""
  },
  {
@@ -23,7 +23,7 @@
   "op": "A98C69",
   "len": 38,
   "jp": "「仕事が終わったら、ボーマンさんに{br}報告に行った方がいいよ。{end}",
-  "en": "",
+  "en": "\"When the job's done, you'd better go report{br}to Bowman-san.\"{end}",
   "notes": ""
  },
  {
@@ -32,7 +32,7 @@
   "op": "A98C92",
   "len": 37,
   "jp": "「また仕事を頼まれたんですか。{br}ボーマンさんもヒドイ事しますね。{end}",
-  "en": "",
+  "en": "\"He gave you another job? Bowman-san can be{br}so cruel.\"{end}",
   "notes": ""
  },
  {
@@ -41,7 +41,7 @@
   "op": "A98CDB",
   "len": 41,
   "jp": "「バイオモンスターが侵入したんなら{br}ケガしないうちに家に帰りたいですよ。{end}",
-  "en": "",
+  "en": "\"If bio-monsters got in, I want to go home{br}before I get hurt.\"{end}",
   "notes": ""
  },
  {
@@ -50,7 +50,7 @@
   "op": "A98D07",
   "len": 43,
   "jp": "「早くバイオモンスターを退治して下さい。{br}家に帰る事もできませんから。{end}",
-  "en": "",
+  "en": "\"Please hurry and get rid of the bio-monsters.{br}We can't even go home.\"{end}",
   "notes": ""
  },
  {
@@ -59,7 +59,7 @@
   "op": "A98D35",
   "len": 34,
   "jp": "「どうもありがとうございます。{br}これでやっと家に帰れそうです。{end}",
-  "en": "",
+  "en": "\"Thank you so much. Now I can finally go{br}home.\"{end}",
   "notes": ""
  },
  {
@@ -68,7 +68,7 @@
   "op": "A98D5A",
   "len": 35,
   "jp": "「家に帰るにはもう少しかかるみたいです。{br}トホホ………。{end}",
-  "en": "",
+  "en": "\"Looks like it'll be a while longer before I can{br}go home. Sigh.........\"{end}",
   "notes": ""
  },
  {
@@ -77,7 +77,7 @@
   "op": "A98DA1",
   "len": 56,
   "jp": "「客の1人がバイオモンスターに{br}ケガさせられたんだが、機械の故障だと{br}言ってゴマかしたらしいぜ。{end}",
-  "en": "",
+  "en": "\"One of the customers got hurt by a{br}bio-monster, but I hear they covered it up as{br}a machine malfunction.\"{end}",
   "notes": ""
  },
  {
@@ -86,7 +86,7 @@
   "op": "A98DDC",
   "len": 51,
   "jp": "「気をつけた方がいいぜ。{br}前にも探偵をやとったんだが、{br}モンスターにやられちまったからな。{end}",
-  "en": "",
+  "en": "\"Better watch yourself. They hired a{br}detective before, but the monsters got him.\"{end}",
   "notes": ""
  },
  {
@@ -95,7 +95,7 @@
   "op": "A98E12",
   "len": 35,
   "jp": "「いやぁ、ファイアドレイクを全て{br}倒しちまうとは大した腕だ。{end}",
-  "en": "",
+  "en": "\"Wow, you took out every last Firedrake.{br}You're really something.\"{end}",
   "notes": ""
  },
  {
@@ -104,7 +104,7 @@
   "op": "A98E38",
   "len": 34,
   "jp": "「また仕事を頼まれたそうじゃないか。{br}あんたも大変だな。{end}",
-  "en": "",
+  "en": "\"I hear he gave you another job. Rough deal,{br}huh?\"{end}",
   "notes": ""
  },
  {
@@ -113,7 +113,7 @@
   "op": "A98E89",
   "len": 22,
   "jp": "{c0C:01}「あんたが依頼人のボーマンか？{end}",
-  "en": "",
+  "en": "{c0C:01}: You Bowman, the client?{end}",
   "notes": ""
  },
  {
@@ -122,7 +122,7 @@
   "op": "A98EA1",
   "len": 45,
   "jp": "ボーマン「{c0C:01}＝{c0C:00}だね。{br}待っていたよ。{br}私がここの経営者のボーマンだ。{endFD}",
-  "en": "",
+  "en": "Bowman: {c0C:01} {c0C:00}, I presume. I've{br}been expecting you. I'm Bowman, the owner{br}here.{endFD}",
   "notes": ""
  },
  {
@@ -131,7 +131,7 @@
   "op": "A98ECF",
   "len": 24,
   "jp": "仕事の説明は、こちらの秘書がする。{end}",
-  "en": "",
+  "en": "My secretary here will explain the job.{end}",
   "notes": ""
  },
  {
@@ -140,7 +140,7 @@
   "op": "A98EEB",
   "len": 63,
   "jp": "秘書「このドームに外部から侵入した{br}バイオモンスターが住み着いてしまった為、{br}営業が行えないのです。{endFD}",
-  "en": "",
+  "en": "Secretary: Bio-monsters got into this dome{br}from outside and have settled in, so we can't{br}open for business.{endFD}",
   "notes": ""
  },
  {
@@ -149,7 +149,7 @@
   "op": "A98F2B",
   "len": 54,
   "jp": "あなたには、『ファイアドレイク』という{br}大型のバイオモンスターを{br}全て退治してもらいたいのです。{end}",
-  "en": "",
+  "en": "We want you to exterminate every one of the{br}large bio-monsters called 'Firedrakes.'{end}",
   "notes": ""
  },
  {
@@ -158,7 +158,7 @@
   "op": "A98F63",
   "len": 52,
   "jp": "「まぁ確かに、ここの自然環境は{br}バイオモンスターにとっては{br}住み心地いいものだろうな。{endFD}",
-  "en": "",
+  "en": "\"Well, sure, the natural environment here must{br}be pretty cozy for bio-monsters.\"{endFD}",
   "notes": ""
  },
  {
@@ -167,7 +167,7 @@
   "op": "A98F9B",
   "len": 29,
   "jp": "いっそのこと、アルバイトとして{br}やとってみたらどうだい？{end}",
-  "en": "",
+  "en": "Why not just hire them as part-timers?{end}",
   "notes": ""
  },
  {
@@ -176,7 +176,7 @@
   "op": "A98FBD",
   "len": 55,
   "jp": "「ふ、ふざけないでくれ！{br}あんなバケモノ共を住まわせる為に{br}この施設を造った訳ではないんだぞ！{endFD}",
-  "en": "",
+  "en": "\"D-don't be ridiculous! I didn't build this place{br}so those monsters could live in it!\"{endFD}",
   "notes": ""
  },
  {
@@ -185,7 +185,7 @@
   "op": "A98FF5",
   "len": 59,
   "jp": "とりあえず今は改装中という事に{br}してあるが、この事が外に知れたら{br}客が寄りつかなくなってしまう。{end}",
-  "en": "",
+  "en": "For now we're saying it's closed for{br}renovations, but if word of this gets out, the{br}customers will stay away.{end}",
   "notes": ""
  },
  {
@@ -194,7 +194,7 @@
   "op": "A99035",
   "len": 49,
   "jp": "「はいはい、冗談だって。{br}それで、ドームの中にはどれくらいの{br}ファイアドレイクがいるんだ？{end}",
-  "en": "",
+  "en": "\"Okay, okay, just kidding. So how many{br}Firedrakes are in the dome?\"{end}",
   "notes": ""
  },
  {
@@ -203,7 +203,7 @@
   "op": "A9906B",
   "len": 39,
   "jp": "「ドーム内のセキュリティシステムで{br}確認された限りでは20体です。{endFD}",
-  "en": "",
+  "en": "\"The dome's security system has confirmed{br}twenty so far.\"{endFD}",
   "notes": ""
  },
  {
@@ -212,7 +212,7 @@
   "op": "A99093",
   "len": 48,
   "jp": "他の種類のバイオモンスターも{br}何体か確認されていますので{br}注意して下さい。{end}",
-  "en": "",
+  "en": "Several other kinds of bio-monsters have also{br}been spotted, so please be careful.{end}",
   "notes": ""
  },
  {
@@ -221,7 +221,7 @@
   "op": "A990C5",
   "len": 38,
   "jp": "「20体か………。{br}じゃあ早速バケモノ退治にとりかかろう。{end}",
-  "en": "",
+  "en": "\"Twenty, huh......... Then let's get right to the{br}monster hunting.\"{end}",
   "notes": ""
  },
  {
@@ -230,7 +230,7 @@
   "op": "A990F0",
   "len": 53,
   "jp": "「このファンタジードームは{br}荒れ地と森林の2つのゾーンと地下通路で{br}構成されている。{endFD}",
-  "en": "",
+  "en": "\"This Fantasy Dome consists of two zones, the{br}Wasteland and the Forest, plus underground{br}passages.\"{endFD}",
   "notes": ""
  },
  {
@@ -239,7 +239,7 @@
   "op": "A99126",
   "len": 40,
   "jp": "20体全て片付いたら報告に来てくれ。{br}頑張ってくれたまえよ。{end}",
-  "en": "",
+  "en": "Come report once all twenty are taken care{br}of. I'm counting on you.{end}",
   "notes": ""
  },
  {
@@ -248,7 +248,7 @@
   "op": "A9915B",
   "len": 27,
   "jp": "ボーマン「どうした？{br}早く仕事に行きたまえ。{end}",
-  "en": "",
+  "en": "Bowman: What is it? Hurry up and get to work.{end}",
   "notes": ""
  },
  {
@@ -257,7 +257,7 @@
   "op": "A99183",
   "len": 40,
   "jp": "{c0C:01}「ボーマンさんよ、終わったぜ。{br}ファイアドレイクはみんな始末した。{end}",
-  "en": "",
+  "en": "{c0C:01}: Bowman-san, it's done. I took care of{br}all the Firedrakes.{end}",
   "notes": ""
  },
  {
@@ -266,7 +266,7 @@
   "op": "A991AD",
   "len": 22,
   "jp": "ボーマン「そうかそうか、ご苦労だった。{end}",
-  "en": "",
+  "en": "Bowman: I see, I see. Good work.{end}",
   "notes": ""
  },
  {
@@ -275,7 +275,7 @@
   "op": "A991C5",
   "len": 18,
   "jp": "「それじゃ、報酬の方は…。{end}",
-  "en": "",
+  "en": "\"So, about my reward...\"{end}",
   "notes": ""
  },
  {
@@ -284,7 +284,7 @@
   "op": "A991D9",
   "len": 41,
   "jp": "「待ってくれ。{br}実はもう一つ君にやってもらいたい{br}仕事ができたんだ。{end}",
-  "en": "",
+  "en": "\"Hold on. Actually, another job has come up{br}that I'd like you to do.\"{end}",
   "notes": ""
  },
  {
@@ -293,7 +293,7 @@
   "op": "A99207",
   "len": 52,
   "jp": "「何だって？{br}オレはちゃんと依頼通りの仕事をやったぜ。{br}それはルール違反じゃないのか。{end}",
-  "en": "",
+  "en": "\"What? I did the job exactly as requested.{br}Isn't this against the rules?\"{end}",
   "notes": ""
  },
  {
@@ -302,7 +302,7 @@
   "op": "A9923D",
   "len": 56,
   "jp": "「それは十分に分かっている。{br}実は森林ゾーンのコンピューターに{br}異常が起きているようなんだ。{endFD}",
-  "en": "",
+  "en": "\"I'm well aware of that. The thing is,{br}something seems to have gone wrong with the{br}computer in the Forest Zone.\"{endFD}",
   "notes": ""
  },
  {
@@ -311,7 +311,7 @@
   "op": "A99276",
   "len": 41,
   "jp": "どうやら何者かがコンピューターの{br}制御プログラムを書き換えたらしい。{endFD}",
-  "en": "",
+  "en": "It seems someone has rewritten the{br}computer's control program.{endFD}",
   "notes": ""
  },
  {
@@ -320,7 +320,7 @@
   "op": "A992A0",
   "len": 42,
   "jp": "どうだろう？{br}何とかそのコンピューターを{br}元通りにしてはもらえないだろうか。{end}",
-  "en": "",
+  "en": "What do you say? Could you somehow get that{br}computer back to normal?{end}",
   "notes": ""
  },
  {
@@ -329,7 +329,7 @@
   "op": "A992CF",
   "len": 29,
   "jp": "「オレはコンピューターの技術者{br}なんかじゃないぜ。{end}",
-  "en": "",
+  "en": "\"I'm no computer technician.\"{end}",
   "notes": ""
  },
  {
@@ -338,7 +338,7 @@
   "op": "A992EE",
   "len": 53,
   "jp": "「となりの部屋にコンピューターの{br}技術者がいる。方法を聞いてくれれば{br}君にでもできる。{endFD}",
-  "en": "",
+  "en": "\"There's a computer technician in the next{br}room. If you ask him how, even you can do it.\"{endFD}",
   "notes": ""
  },
  {
@@ -347,7 +347,7 @@
   "op": "A99324",
   "len": 39,
   "jp": "もちろん、タダでとは言わん。{br}500Gを上乗せして2000Gでどうだ。{end}",
-  "en": "",
+  "en": "Naturally, I won't ask you to do it for free.{br}How about an extra 500G, for 2000G total?{end}",
   "notes": ""
  },
  {
@@ -356,7 +356,7 @@
   "op": "A99350",
   "len": 37,
   "jp": "「2000{c1C:14}Gか………。{br}{c1E}よし、それなら引き受けるよ。{end}",
-  "en": "",
+  "en": "\"2000{c1C:14}G, huh......... {c1E}Okay, then I'll take it.\"{end}",
   "notes": ""
  },
  {
@@ -365,7 +365,7 @@
   "op": "A99377",
   "len": 50,
   "jp": "「ありがたい。ファイアドレイクを{br}始末してもらったとはいえ、{br}まだバケモノがいるようだからな。{end}",
-  "en": "",
+  "en": "\"Much obliged. The Firedrakes may be gone,{br}but it seems there are still monsters about.\"{end}",
   "notes": ""
  },
  {
@@ -374,7 +374,7 @@
   "op": "A993B6",
   "len": 47,
   "jp": "ボーマン「まだ仕事は終わってないだろう。{br}早くコンピューターを元通りにしてくれ。{end}",
-  "en": "",
+  "en": "Bowman: The job isn't finished yet. Hurry up{br}and get the computer back to normal.{end}",
   "notes": ""
  },
  {
@@ -383,7 +383,7 @@
   "op": "A993ED",
   "len": 20,
   "jp": "{c0C:01}「終わったぜ。今度こそな。{end}",
-  "en": "",
+  "en": "{c0C:01}: It's done. For real this time.{end}",
   "notes": ""
  },
  {
@@ -392,7 +392,7 @@
   "op": "A99403",
   "len": 52,
   "jp": "ボーマン「いや、済まなかった。{br}本当によくやってくれた。{br}これで営業再開のメドも立つ。{endFD}",
-  "en": "",
+  "en": "Bowman: Well, sorry about that. You did a fine{br}job. Now we can finally plan to reopen.{endFD}",
   "notes": ""
  },
  {
@@ -401,7 +401,7 @@
   "op": "A99438",
   "len": 54,
   "jp": "今回の事はくれぐれも内密にな。{br}VRゲームセンターの奴らにでも{br}知られたら大変だからな。{end}",
-  "en": "",
+  "en": "Keep this whole business strictly confidential.{br}It'd be a disaster if those VR Game Center{br}people found out.{end}",
   "notes": ""
  },
  {
@@ -410,7 +410,7 @@
   "op": "A99472",
   "len": 39,
   "jp": "秘書「報酬の2000Gは口座の方へ{br}振り込んでおきますわ。{end}",
-  "en": "",
+  "en": "Secretary: Your 2000G reward will be{br}transferred to your account.{end}",
   "notes": ""
  },
  {
@@ -419,7 +419,7 @@
   "op": "A9949B",
   "len": 21,
   "jp": "「やれやれ、面倒な仕事だったぜ。{end}",
-  "en": "",
+  "en": "\"Man, what a pain of a job.\"{end}",
   "notes": ""
  },
  {
@@ -428,7 +428,7 @@
   "op": "A994E1",
   "len": 25,
   "jp": "秘書「あの探偵、大丈夫でしょうか？{endFE}",
-  "en": "",
+  "en": "Secretary: Will that detective be all right?{endFE}",
   "notes": ""
  },
  {
@@ -437,7 +437,7 @@
   "op": "A99501",
   "len": 43,
   "jp": "ボーマン「奴らはあれが商売だ。{br}もし失敗しても、他の奴をやとえばいい。{endFE}",
-  "en": "",
+  "en": "Bowman: That's their line of work. If he fails,{br}we'll just hire someone else.{endFE}",
   "notes": ""
  },
  {
@@ -446,7 +446,7 @@
   "op": "A99530",
   "len": 35,
   "jp": "「そうですわね。{br}探偵なんていくらでも代わりが{br}ききますもの。{endFE}",
-  "en": "",
+  "en": "\"I suppose so. There are plenty of detectives{br}to replace him.\"{endFE}",
   "notes": ""
  },
  {
@@ -455,7 +455,7 @@
   "op": "A99556",
   "len": 26,
   "jp": "その間、私達は楽しみましょう………。{endFE}",
-  "en": "",
+  "en": "In the meantime, let's enjoy ourselves.........{endFE}",
   "notes": ""
  },
  {
@@ -464,7 +464,7 @@
   "op": "A995DF",
   "len": 39,
   "jp": "秘書「私はただの秘書です。{br}依頼されたのは、こちらの方です。{end}",
-  "en": "",
+  "en": "Secretary: I'm only the secretary. This is the{br}gentleman who made the request.{end}",
   "notes": ""
  },
  {
@@ -473,7 +473,7 @@
   "op": "A99609",
   "len": 18,
   "jp": "秘書「よろしくお願いします。{end}",
-  "en": "",
+  "en": "Secretary: We're counting on you.{end}",
   "notes": ""
  },
  {
@@ -482,7 +482,7 @@
   "op": "A9961E",
   "len": 22,
   "jp": "秘書「…もう、イイところだったのに。{end}",
-  "en": "",
+  "en": "Secretary: ...Ugh, and just when it was getting{br}good.{end}",
   "notes": ""
  },
  {
@@ -491,7 +491,7 @@
   "op": "A99637",
   "len": 33,
   "jp": "秘書「仕事の報告はボーマンの方へ{br}お願いします。{end}",
-  "en": "",
+  "en": "Secretary: Please make your report to{br}Bowman.{end}",
   "notes": ""
  },
  {
@@ -500,7 +500,7 @@
   "op": "A9965B",
   "len": 21,
   "jp": "秘書「…もう、気分悪いわね。{end}",
-  "en": "",
+  "en": "Secretary: ...Ugh, how unpleasant.{end}",
   "notes": ""
  },
  {
@@ -509,7 +509,7 @@
   "op": "A99673",
   "len": 40,
   "jp": "秘書「ご苦労様でした。{br}ボーマンへ仕事の報告をして下さい。{end}",
-  "en": "",
+  "en": "Secretary: Thank you for your hard work.{br}Please report to Bowman.{end}",
   "notes": ""
  },
  {
@@ -518,7 +518,7 @@
   "op": "A996E5",
   "len": 36,
   "jp": "「バイオモンスターのせいで{br}大事なロボット共までやられましたよ。{end}",
-  "en": "",
+  "en": "\"Thanks to those bio-monsters, even our{br}precious robots got wrecked.\"{end}",
   "notes": ""
  },
  {
@@ -527,7 +527,7 @@
   "op": "A99713",
   "len": 25,
   "jp": "残りのファイアドレイクは{br}{c04:016B0900}体です{end}",
-  "en": "",
+  "en": "Firedrakes remaining: {c04:016B0900}{end}",
   "notes": ""
  },
  {
@@ -536,7 +536,7 @@
   "op": "A99745",
   "len": 57,
   "jp": "「ボーマンさんから話は聞いています。{br}コンピューターの制御プログラムを{br}元通りにして下さるそうで。{end}",
-  "en": "",
+  "en": "\"Bowman-san told me about you. I hear you'll{br}be restoring the computer's control program.\"{end}",
   "notes": ""
  },
  {
@@ -545,7 +545,7 @@
   "op": "A99780",
   "len": 35,
   "jp": "{c0C:01}「でも、オレには{br}ああいったコンピューターの知識はないぜ。{end}",
-  "en": "",
+  "en": "{c0C:01}: But I don't know anything about{br}computers like that.{end}",
   "notes": ""
  },
  {
@@ -554,7 +554,7 @@
   "op": "A997A5",
   "len": 49,
   "jp": "「大丈夫、心配ないですよ。{br}あなたには、そちらのナビロボが{br}ついているじゃないですか。{endFD}",
-  "en": "",
+  "en": "\"Don't worry, it's fine. You've got your{br}Navi-Robo there with you, haven't you?\"{endFD}",
   "notes": ""
  },
  {
@@ -563,7 +563,7 @@
   "op": "A997D7",
   "len": 52,
   "jp": "プログラムの修正はナビロボの方に{br}やってもらいます。{br}今、新しいプログラムをお渡しします。{end}",
-  "en": "",
+  "en": "Your Navi-Robo will do the program fix. I'll{br}hand over the new program now.{end}",
   "notes": ""
  },
  {
@@ -572,7 +572,7 @@
   "op": "A9983B",
   "len": 63,
   "jp": "カーク「うむ、プログラムは受け取ったぞ。{br}森林ゾーンのコンピューターの所に行けば、{br}後の作業はワシがやる。{end}",
-  "en": "",
+  "en": "Kirk: Very well, I have received the program.{br}Take me to the Forest Zone's computer and{br}I'll handle the rest.{end}",
   "notes": ""
  },
  {
@@ -581,7 +581,7 @@
   "op": "A9987F",
   "len": 16,
   "jp": "「それでは、お願いしますよ。{end}",
-  "en": "",
+  "en": "\"Well then, we're counting on you.\"{end}",
   "notes": ""
  },
  {
@@ -590,7 +590,7 @@
   "op": "A9989D",
   "len": 41,
   "jp": "「プログラムは、あなたのナビロボに{br}渡してあります。{br}よろしくお願いします。{end}",
-  "en": "",
+  "en": "\"I've given the program to your Navi-Robo.{br}We're counting on you.\"{end}",
   "notes": ""
  },
  {
@@ -599,7 +599,7 @@
   "op": "A998D8",
   "len": 40,
   "jp": "「これでやっと私も仕事の続きができます。{br}どうもご苦労様でした。{end}",
-  "en": "",
+  "en": "\"Now I can finally get back to work too. Thank{br}you for all your trouble.\"{end}",
   "notes": ""
  },
  {
@@ -608,7 +608,7 @@
   "op": "A99AD7",
   "len": 46,
   "jp": "カーク「このコンピューターから、{br}次のゾーンへの扉のロックを{br}解除できるようじゃ。{end}",
-  "en": "",
+  "en": "Kirk: It seems this computer can release the{br}lock on the door to the next zone.{end}",
   "notes": ""
  },
  {
@@ -617,7 +617,7 @@
   "op": "A99B11",
   "len": 13,
   "jp": "ロックを解除したぞ。{end}",
-  "en": "",
+  "en": "I've released the lock.{end}",
   "notes": ""
  },
  {
@@ -626,7 +626,7 @@
   "op": "A99B69",
   "len": 30,
   "jp": "{c0C:01}「このゾーンを管理している{br}コンピューターだな。{end}",
-  "en": "",
+  "en": "{c0C:01}: So this is the computer that runs{br}this zone.{end}",
   "notes": ""
  },
  {
@@ -635,7 +635,7 @@
   "op": "A99B8F",
   "len": 31,
   "jp": "{c0C:01}「よし、着いたぞ。{br}カーク、後は作業は頼む。{end}",
-  "en": "",
+  "en": "{c0C:01}: Okay, here we are. Kirk, I'll leave{br}the rest to you.{end}",
   "notes": ""
  },
  {
@@ -644,7 +644,7 @@
   "op": "A99BB0",
   "len": 20,
   "jp": "カーク「任せておけ、すぐに終わる。{end}",
-  "en": "",
+  "en": "Kirk: Leave it to me. It won't take a moment.{end}",
   "notes": ""
  },
  {
@@ -653,7 +653,7 @@
   "op": "A99BDD",
   "len": 65,
   "jp": "カーク{c1C:14}「………………………………{br}{c1E}うむ、終わったぞ。{br}これでコンピューターは元通りじゃ。{end}",
-  "en": "",
+  "en": "Kirk: {c1C:14}................................ {c1E}Right, all done. The{br}computer is back to normal.{end}",
   "notes": ""
  },
  {
@@ -662,7 +662,7 @@
   "op": "A99C23",
   "len": 31,
   "jp": "{c0C:01}「それにしても、{br}一体誰がこんな事をしたんだ？{end}",
-  "en": "",
+  "en": "{c0C:01}: Still, who on earth would do{br}something like this?{end}",
   "notes": ""
  },
  {
@@ -671,7 +671,7 @@
   "op": "A99C44",
   "len": 33,
   "jp": "「バイオモンスターの仕業だとすれば{br}かなりの知能じゃぞ。{end}",
-  "en": "",
+  "en": "\"If it was the work of a bio-monster, it must{br}be quite intelligent.\"{end}",
   "notes": ""
  },
  {
@@ -680,7 +680,7 @@
   "op": "A99C7B",
   "len": 26,
   "jp": "カーク「{c0C:01}、足下に何か{br}落ちているぞ。{end}",
-  "en": "",
+  "en": "Kirk: {c0C:01}, there's something at your feet.{end}",
   "notes": ""
  },
  {
@@ -689,7 +689,7 @@
   "op": "A99CA3",
   "len": 66,
   "jp": "………人間のものにしては随分と太い。{br}おそらく、これは動物の毛じゃな。{br}キラキラと金色に輝いておるぞ。{end}",
-  "en": "",
+  "en": ".........Much too thick to be a human's. This is{br}most likely animal hair. It's glittering gold.{end}",
   "notes": ""
  },
  {
@@ -698,7 +698,7 @@
   "op": "A99CE7",
   "len": 30,
   "jp": "{c0C:01}「動物の毛だって？{br}バイオモンスターのものか。{end}",
-  "en": "",
+  "en": "{c0C:01}: Animal hair? From a bio-monster?{end}",
   "notes": ""
  },
  {
@@ -707,7 +707,7 @@
   "op": "A99D2A",
   "len": 42,
   "jp": "ラオエル「なかなかやるじゃないか。{br}お前の仕事ぶりは見させてもらってたよ。{end}",
-  "en": "",
+  "en": "Raoel: Not bad at all. I've been watching you{br}work.{end}",
   "notes": ""
  },
  {
@@ -716,7 +716,7 @@
   "op": "A99D59",
   "len": 38,
   "jp": "{c0C:01}「お前は………ラオエル！{br}何故、お前がここにいるんだ？{end}",
-  "en": "",
+  "en": "{c0C:01}: You're......... Raoel! What are you{br}doing here?{end}",
   "notes": ""
  },
  {
@@ -725,7 +725,7 @@
   "op": "A99D83",
   "len": 35,
   "jp": "カーク「そうか、あのコンピューターを{br}操作したのはお前じゃな。{end}",
-  "en": "",
+  "en": "Kirk: I see, so you're the one who tampered{br}with that computer.{end}",
   "notes": ""
  },
  {
@@ -734,7 +734,7 @@
   "op": "A99DA8",
   "len": 17,
   "jp": "「察しがいいな、その通りだ。{endFD}",
-  "en": "",
+  "en": "\"You're sharp. That's right.\"{endFD}",
   "notes": ""
  },
  {
@@ -743,7 +743,7 @@
   "op": "A99DBA",
   "len": 60,
   "jp": "ここにバイオモンスターが現れたという{br}情報をつかんだのでな。{br}我々の同志にできたらと思ったのだが…。{endFD}",
-  "en": "",
+  "en": "I'd heard bio-monsters had turned up here. I{br}hoped they might become our comrades...{endFD}",
   "notes": ""
  },
  {
@@ -752,7 +752,7 @@
   "op": "A99DF7",
   "len": 42,
   "jp": "残念ながら、そこまでの知能を持った{br}バイオモンスターではなかったようだ。{endFD}",
-  "en": "",
+  "en": "Sadly, it seems they weren't bio-monsters with{br}that much intelligence.{endFD}",
   "notes": ""
  },
  {
@@ -761,7 +761,7 @@
   "op": "A99E22",
   "len": 41,
   "jp": "我々は、只のケモノには用はない。{br}共に戦う同志が必要なのだ。{end}",
-  "en": "",
+  "en": "We have no use for mere beasts. We need{br}comrades who will fight alongside us.{end}",
   "notes": ""
  },
  {
@@ -770,7 +770,7 @@
   "op": "A99E50",
   "len": 27,
   "jp": "「コンピューターを操作したのは{br}どうしてなんだ？{end}",
-  "en": "",
+  "en": "\"Why did you tamper with the computer?\"{end}",
   "notes": ""
  },
  {
@@ -779,7 +779,7 @@
   "op": "A99E6D",
   "len": 59,
   "jp": "「大した理由ではない。{br}機械仕掛けの動物を見て喜ぶ人間の{br}考えに興味があっただけだ。{endFD}",
-  "en": "",
+  "en": "\"No great reason. I was simply curious about{br}humans who take pleasure in watching{br}mechanical animals.\"{endFD}",
   "notes": ""
  },
  {
@@ -788,7 +788,7 @@
   "op": "A99EAC",
   "len": 39,
   "jp": "もう目的は済んだ。{br}今日はもう引き揚げるとしよう。{br}さらばだ！{end}",
-  "en": "",
+  "en": "My business here is done. I'll take my leave{br}for today. Farewell!{end}",
   "notes": ""
  },
  {
@@ -797,7 +797,7 @@
   "op": "A99EF3",
   "len": 12,
   "jp": "「あっ、おい待て！！{end}",
-  "en": "",
+  "en": "\"Hey, wait!!\"{end}",
   "notes": ""
  },
  {
@@ -806,7 +806,7 @@
   "op": "A99F04",
   "len": 33,
   "jp": "「すばやい奴じゃ。{br}もうセンサーの範囲外へ消えよった。{end}",
-  "en": "",
+  "en": "\"A quick one. He's already vanished out of{br}sensor range.\"{end}",
   "notes": ""
  },
  {
@@ -815,7 +815,7 @@
   "op": "A99F2A",
   "len": 13,
   "jp": "「ラオエル………。{end}",
-  "en": "",
+  "en": "\"Raoel.........\"{end}",
   "notes": ""
  },
  {
@@ -824,7 +824,7 @@
   "op": "A99F43",
   "len": 26,
   "jp": "{c0C:01}「ファンタジードームの{br}宣伝ポスターだ。{end}",
-  "en": "",
+  "en": "{c0C:01}: An ad poster for the Fantasy Dome.{end}",
   "notes": ""
  },
  {
@@ -833,7 +833,7 @@
   "op": "A99F5E",
   "len": 40,
   "jp": "VRゲーム『ZONE』の世界を{br}再現したアミューズメントパーク…か。{end}",
-  "en": "",
+  "en": "An amusement park recreating the world of{br}the VR game 'ZONE'... huh.{end}",
   "notes": ""
  },
  {
@@ -842,7 +842,7 @@
   "op": "A9A102",
   "len": 38,
   "jp": "{c0C:01}「扉がロックされている。{br}どこかにロックをはずすものがあるハズだ。{end}",
-  "en": "",
+  "en": "{c0C:01}: The door's locked. There must be{br}something somewhere that unlocks it.{end}",
   "notes": ""
  },
  {
@@ -851,7 +851,7 @@
   "op": "A9A540",
   "len": 37,
   "jp": "{c0C:01}「中へは入れないな。{br}もうこのアジトは使われていないようだ。{end}",
-  "en": "",
+  "en": "{c0C:01}: Can't get inside. Looks like this{br}hideout isn't in use anymore.{end}",
   "notes": ""
  },
  {
@@ -860,7 +860,7 @@
   "op": "A9A71D",
   "len": 51,
   "jp": "{c0C:01}「バルデスの情報では、地下に{br}アジトがあるらしいな。カーク、何か感知{br}できるか？{end}",
-  "en": "",
+  "en": "{c0C:01}: According to Valdez's info, there's a{br}hideout underground. Kirk, can you pick{br}anything up?{end}",
   "notes": ""
  },
  {
@@ -869,7 +869,7 @@
   "op": "A9A755",
   "len": 40,
   "jp": "カーク「それらしい反応はないな。さすが{br}にカムフラージュしてあるようじゃ。{endFD}",
-  "en": "",
+  "en": "Kirk: Nothing of the sort. It seems they've{br}camouflaged it, as you'd expect.{endFD}",
   "notes": ""
  },
  {
@@ -878,7 +878,7 @@
   "op": "A9A77E",
   "len": 37,
   "jp": "じゃが、どこかにアジトへの入口があるハズ{br}じゃ。それを探すのじゃ。{end}",
-  "en": "",
+  "en": "Still, there must be an entrance to the{br}hideout somewhere. Find it.{end}",
   "notes": ""
  },
  {
@@ -887,7 +887,7 @@
   "op": "A9B12E",
   "len": 28,
   "jp": "{c0C:01}「おや？ こんな所にスイッチが{br}ついているぞ。{end}",
-  "en": "",
+  "en": "{c0C:01}: Huh? There's a switch in a place like{br}this.{end}",
   "notes": ""
  },
  {
@@ -896,7 +896,7 @@
   "op": "A9B1FD",
   "len": 34,
   "jp": "{c0C:01}「おいカーク、何だ今のは？{br}ダメージを受けちまったぞ。{end}",
-  "en": "",
+  "en": "{c0C:01}: Hey, Kirk, what was that just now? I{br}took damage!{end}",
   "notes": ""
  },
  {
@@ -905,7 +905,7 @@
   "op": "A9B224",
   "len": 50,
   "jp": "カーク「侵入者対策のトラップじゃな。{br}レーザーが途切れた時に通れば安全じゃ。{end}",
-  "en": "",
+  "en": "Kirk: A trap against intruders. Pass when the{br}laser cuts out and you'll be safe.{end}",
   "notes": ""
  },
  {
@@ -914,7 +914,7 @@
   "op": "A9B25B",
   "len": 22,
   "jp": "「くそっ、何て物を仕掛けてるんだ。{end}",
-  "en": "",
+  "en": "\"Damn, what a nasty thing to rig up.\"{end}",
   "notes": ""
  },
  {
@@ -923,7 +923,7 @@
   "op": "A9B339",
   "len": 42,
   "jp": "ラオエル「{c0C:01}、所詮はお前も{br}他の人間と同じだったという訳だな。{end}",
-  "en": "",
+  "en": "Raoel: {c0C:01}, so in the end you're no{br}different from other humans.{end}",
   "notes": ""
  },
  {
@@ -932,7 +932,7 @@
   "op": "A9B365",
   "len": 12,
   "jp": "{c0C:01}「…ラオエル。{end}",
-  "en": "",
+  "en": "{c0C:01}: ...Raoel.{end}",
   "notes": ""
  },
  {
@@ -941,7 +941,7 @@
   "op": "A9B375",
   "len": 78,
   "jp": "「おれは、お前の瞳の中に他の人間達とは{br}違う、何かを感じていたんだがな。悲しみの{br}奥にある、強い意志の輝きと言っていい。{endFD}",
-  "en": "",
+  "en": "\"I sensed something in your eyes, different{br}from other humans. The gleam of a strong will,{br}beneath the sorrow.\"{endFD}",
   "notes": ""
  },
  {
@@ -950,7 +950,7 @@
   "op": "A9B3C4",
   "len": 49,
   "jp": "そのお前となら、おれ達と人間達との新たな{br}関係を築いて行けると思っていた。{end}",
-  "en": "",
+  "en": "With you, I thought we could build a new{br}relationship between my kind and humankind.{end}",
   "notes": ""
  },
  {
@@ -959,7 +959,7 @@
   "op": "A9B3F7",
   "len": 67,
   "jp": "「期待に沿えなくて残念だったな。お前達を{br}狩ってくれという依頼が来たんだ。オレは{br}オレの仕事をするだけさ。{end}",
-  "en": "",
+  "en": "\"Sorry to let you down. I got a request to{br}hunt you guys. I'm just doing my job.\"{end}",
   "notes": ""
  },
  {
@@ -968,7 +968,7 @@
   "op": "A9B43F",
   "len": 21,
   "jp": "カーク「{c0C:01}、本当にいいんじゃな？{end}",
-  "en": "",
+  "en": "Kirk: {c0C:01}, are you truly sure about this?{end}",
   "notes": ""
  },
  {
@@ -977,7 +977,7 @@
   "op": "A9B45B",
   "len": 31,
   "jp": "「ああ、もう後には引けない。覚悟しろ、{br}ラオエル！！{end}",
-  "en": "",
+  "en": "\"Yeah. There's no turning back now. Get{br}ready, Raoel!!\"{end}",
   "notes": ""
  },
  {
@@ -986,7 +986,7 @@
   "op": "A9B47F",
   "len": 40,
   "jp": "「{c0C:01}、おれとてここでムザムザ{br}やられる訳にはいかない、お前を倒す！！{end}",
-  "en": "",
+  "en": "\"{c0C:01}, I can't just let myself be cut down{br}here either. I will defeat you!!\"{end}",
   "notes": ""
  },
  {
@@ -995,7 +995,7 @@
   "op": "A9B4B8",
   "len": 60,
   "jp": "ラオエル「クッ、さすがだな。おれも本気で{br}戦ったのだが…。最後に戦った相手がお前で{br}良かったよ。{endFD}",
-  "en": "",
+  "en": "Raoel: Ngh, impressive. I fought you in{br}earnest, too... I'm glad my last opponent was{br}you.{endFD}",
   "notes": ""
  },
  {
@@ -1004,7 +1004,7 @@
   "op": "A9B4F5",
   "len": 21,
   "jp": "さあ、おれの首を持って行くがいい。{end}",
-  "en": "",
+  "en": "Go on, take my head.{end}",
   "notes": ""
  },
  {
@@ -1013,7 +1013,7 @@
   "op": "A9B50B",
   "len": 17,
   "jp": "ラオエルにとどめを刺しますか？{end}",
-  "en": "",
+  "en": "Finish Raoel off?{end}",
   "notes": ""
  },
  {
@@ -1022,7 +1022,7 @@
   "op": "A9B51D",
   "len": 25,
   "jp": "  当然、とどめを刺す{br}  やっぱりやめる{endFE}",
-  "en": "",
+  "en": "Of course, finish him{br}Never mind{endFE}",
   "notes": ""
  },
  {
@@ -1031,7 +1031,7 @@
   "op": "A9B542",
   "len": 18,
   "jp": "「悪く思うなよ、ラオエル…。{end}",
-  "en": "",
+  "en": "\"Nothing personal, Raoel...\"{end}",
   "notes": ""
  },
  {
@@ -1040,7 +1040,7 @@
   "op": "A9B560",
   "len": 18,
   "jp": "アイリーン「だめよ、{c1A:1E}{c0C:01}！{end}",
-  "en": "",
+  "en": "Irene: No, {c1A:1E}{c0C:01}!{end}",
   "notes": ""
  },
  {
@@ -1049,7 +1049,7 @@
   "op": "A9B57D",
   "len": 9,
   "jp": "「アイリーン！？{end}",
-  "en": "",
+  "en": "\"Irene?!\"{end}",
   "notes": ""
  },
  {
@@ -1058,7 +1058,7 @@
   "op": "A9B588",
   "len": 39,
   "jp": "「あの時の事を忘れたの？{br}あんな苦しみをまた背負うつもりなの！？{end}",
-  "en": "",
+  "en": "\"Have you forgotten what happened back{br}then? Are you going to carry that kind of pain{br}again?!\"{end}",
   "notes": ""
  },
  {
@@ -1067,7 +1067,7 @@
   "op": "A9B5B1",
   "len": 42,
   "jp": "「こいつは、{c1A:1E}ラオエルは、{c1A:1E}{br}あの時見殺しにした子供とは違う！{end}",
-  "en": "",
+  "en": "\"This guy... {c1A:1E}Raoel... {c1A:1E}he's not the same as that{br}kid I let die back then!\"{end}",
   "notes": ""
  },
  {
@@ -1076,7 +1076,7 @@
   "op": "A9B5DD",
   "len": 52,
   "jp": "「そうやってあの時と同じように、{br}仕方のない事だったと、自分の心を{br}偽ってしまうの？{endFD}",
-  "en": "",
+  "en": "\"So, just like back then, you'll lie to your own{br}heart and tell yourself it couldn't be helped?\"{endFD}",
   "notes": ""
  },
  {
@@ -1085,7 +1085,7 @@
   "op": "A9B612",
   "len": 26,
   "jp": "お願い、もうそんな事は終わりにして{br}{c0C:01}！{end}",
-  "en": "",
+  "en": "Please, put an end to all that, {c0C:01}!{end}",
   "notes": ""
  },
  {
@@ -1094,7 +1094,7 @@
   "op": "A9B631",
   "len": 33,
   "jp": "「………………………………………。{endFD}",
-  "en": "",
+  "en": "\"............................................\"{endFD}",
   "notes": ""
  },
  {
@@ -1103,7 +1103,7 @@
   "op": "A9B65A",
   "len": 34,
   "jp": "分かったよ、アイリーン。{br}もう自分を偽ったりなんかしない。{end}",
-  "en": "",
+  "en": "Okay, Irene. I won't lie to myself anymore.{end}",
   "notes": ""
  },
  {
@@ -1112,7 +1112,7 @@
   "op": "A9B681",
   "len": 37,
   "jp": "「ありがとう、{c0C:01}。{br}信じてたわ。だって、私の愛した人だもの。{end}",
-  "en": "",
+  "en": "\"Thank you, {c0C:01}. I believed in you. After{br}all, you're the man I loved.\"{end}",
   "notes": ""
  },
  {
@@ -1121,7 +1121,7 @@
   "op": "A9B6AB",
   "len": 16,
   "jp": "「アイリーン…。ありがとう。{end}",
-  "en": "",
+  "en": "\"Irene... Thank you.\"{end}",
   "notes": ""
  },
  {
@@ -1130,7 +1130,7 @@
   "op": "A9B6CB",
   "len": 19,
   "jp": "「どうした、とどめを刺さないのか？{end}",
-  "en": "",
+  "en": "\"What's wrong? Aren't you going to finish me?\"{end}",
   "notes": ""
  },
  {
@@ -1139,7 +1139,7 @@
   "op": "A9B6E0",
   "len": 39,
   "jp": "「…お前を殺すのはやめだ。それよりも、{br}お前に聞きたい事がある。{end}",
-  "en": "",
+  "en": "\"...I'm not killing you. Instead, there's{br}something I want to ask you.\"{end}",
   "notes": ""
  },
  {
@@ -1148,7 +1148,7 @@
   "op": "A9B70C",
   "len": 37,
   "jp": "「いいのか、{c0C:01}？{br}依頼を放棄すれば、どうなるか分からんぞ。{end}",
-  "en": "",
+  "en": "\"Are you sure, {c0C:01}? There's no telling{br}what'll happen if you abandon the job.\"{end}",
   "notes": ""
  },
  {
@@ -1157,7 +1157,7 @@
   "op": "A9B733",
   "len": 54,
   "jp": "「ああ。だけどオレは、もう後悔するような{br}事はしたくない。1年前のあの時のような{br}事は…。{endFD}",
-  "en": "",
+  "en": "\"Yeah. But I don't want to do anything I'll{br}regret again. Not like that time a year ago...\"{endFD}",
   "notes": ""
  },
  {
@@ -1166,7 +1166,7 @@
   "op": "A9B76A",
   "len": 46,
   "jp": "自分が何をしているのか、自分自身を偽る{br}ような事は、もうしたくないんだ。{end}",
-  "en": "",
+  "en": "I don't want to lie to myself about what I'm{br}doing anymore.{end}",
   "notes": ""
  },
  {
@@ -1175,7 +1175,7 @@
   "op": "A9B79A",
   "len": 31,
   "jp": "「そうか。お前がそう決めたのなら仕方ない{br}じゃろう。{end}",
-  "en": "",
+  "en": "\"I see. If that's your decision, then so be it.\"{end}",
   "notes": ""
  },
  {
@@ -1184,7 +1184,7 @@
   "op": "A9B7BD",
   "len": 18,
   "jp": "「おれに聞きたい事とは何だ？{end}",
-  "en": "",
+  "en": "\"What is it you want to ask me?\"{end}",
   "notes": ""
  },
  {
@@ -1193,7 +1193,7 @@
   "op": "A9B7D1",
   "len": 68,
   "jp": "「以前、ババリアがらみの事件でお前に{br}会った時から考えていた。お前、ババリアに{br}何か関係があるんじゃないのか？{endFD}",
-  "en": "",
+  "en": "\"I've been wondering ever since I met you on{br}that Bavaria-related case. You've got some{br}connection to Bavaria, haven't you?\"{endFD}",
   "notes": ""
  },
  {
@@ -1202,7 +1202,7 @@
   "op": "A9B816",
   "len": 37,
   "jp": "オレには、どうしても奴らを放っておく事が{br}できない理由がある。{end}",
-  "en": "",
+  "en": "I've got a reason I just can't leave those{br}guys alone.{end}",
   "notes": ""
  },
  {
@@ -1211,7 +1211,7 @@
   "op": "A9B840",
   "len": 8,
   "jp": "「ババリア！？{endFD}",
-  "en": "",
+  "en": "\"Bavaria?!\"{endFD}",
   "notes": ""
  },
  {
@@ -1220,7 +1220,7 @@
   "op": "A9B84C",
   "len": 35,
   "jp": "そうか、いいだろう。では、おれの生い立ち{br}について話そう…。{end}",
-  "en": "",
+  "en": "I see. Very well. Then I'll tell you how I came{br}to be...{end}",
   "notes": ""
  },
  {
@@ -1229,7 +1229,7 @@
   "op": "A9B8EC",
   "len": 30,
   "jp": "「そうか…。お前も復讐の為に生きてきた{br}のか。{end}",
-  "en": "",
+  "en": "\"I see... So you've been living for revenge{br}too.\"{end}",
   "notes": ""
  },
  {
@@ -1238,7 +1238,7 @@
   "op": "A9B90C",
   "len": 51,
   "jp": "「今までのおれは、そうする事でしか自分の{br}存在価値を見い出す事ができなかった。{endFD}",
-  "en": "",
+  "en": "\"Until now, that was the only way I could find{br}any worth in my own existence.\"{endFD}",
   "notes": ""
  },
  {
@@ -1247,7 +1247,7 @@
   "op": "A9B940",
   "len": 34,
   "jp": "だが、お前に会ってからおれの心に変化が{br}起き始めた。{endFD}",
-  "en": "",
+  "en": "But since I met you, something in my heart has{br}begun to change.{endFD}",
   "notes": ""
  },
  {
@@ -1256,7 +1256,7 @@
   "op": "A9B963",
   "len": 60,
   "jp": "人間は全て信用できないと考えていたが、{br}なぜかお前にだけは、おれの心が通じる{br}ような気がしていた。{end}",
-  "en": "",
+  "en": "I believed no human could be trusted, yet{br}somehow I felt that you, at least, might{br}understand me.{end}",
   "notes": ""
  },
  {
@@ -1265,7 +1265,7 @@
   "op": "A9B9A4",
   "len": 65,
   "jp": "「フッ、オレもお前と同じだからさ。{br}オレは恋人をババリアの奴らに殺された。{br}その復讐が今のオレの生きがいだ。{end}",
-  "en": "",
+  "en": "\"Heh, that's because I'm the same as you.{br}Bavaria killed the woman I loved. Revenge is{br}what I live for now.\"{end}",
   "notes": ""
  },
  {
@@ -1274,7 +1274,7 @@
   "op": "A9B9E7",
   "len": 36,
   "jp": "「なるほどな…。だが、おれはお前と{br}キズをなめ合うつもりはない。{endFD}",
-  "en": "",
+  "en": "\"I see... But I have no intention of licking our{br}wounds together.\"{endFD}",
   "notes": ""
  },
  {
@@ -1283,7 +1283,7 @@
   "op": "A9BA0C",
   "len": 64,
   "jp": "おれはもう只の復讐鬼ではない。生まれ{br}変わったんだ。おれ達と人間が対等となる{br}日まで戦うと誓って。{end}",
-  "en": "",
+  "en": "I'm no longer just a demon of vengeance. I've{br}been reborn, sworn to fight until the day my{br}kind and humans stand as equals.{end}",
   "notes": ""
  },
  {
@@ -1292,7 +1292,7 @@
   "op": "A9BA4E",
   "len": 35,
   "jp": "「生まれ変わるか………。{br}オレには当分先の話だな。{end}",
-  "en": "",
+  "en": "\"Reborn, huh......... That won't be happening{br}for me anytime soon.\"{end}",
   "notes": ""
  },
  {
@@ -1301,7 +1301,7 @@
   "op": "A9BA75",
   "len": 66,
   "jp": "「{c0C:01}！ お前も分かっているハズ{br}だ。復讐からは何も生まれない。いつか{br}再び、大事な物を失う事になるぞ。{end}",
-  "en": "",
+  "en": "\"{c0C:01}! You should know this too. Nothing{br}comes of revenge. One day you'll lose{br}something precious again.\"{end}",
   "notes": ""
  },
  {
@@ -1310,7 +1310,7 @@
   "op": "A9BAB9",
   "len": 32,
   "jp": "{c1C:0A}「………{c1E}…もうオレに失う物なんてないさ。{end}",
-  "en": "",
+  "en": "{c1C:0A}\"......... {c1E}...I've got nothing left to lose.\"{end}",
   "notes": ""
  },
  {
@@ -1319,7 +1319,7 @@
   "op": "A9BEAC",
   "len": 72,
   "jp": "「おれは見ての通りバイオモンスターだが、{br}生まれた場所はバイオ研究所ではなく、{br}ババリアのバイオ研究機関だった。{c1A:1E}{end}",
-  "en": "",
+  "en": "\"As you can see, I am a bio-monster. But I{br}wasn't born in a bio-lab. I was born in a{br}Bavaria bio-research facility.{c1A:1E}\"{end}",
   "notes": ""
  },
  {
@@ -1328,7 +1328,7 @@
   "op": "A9BEF8",
   "len": 60,
   "jp": "そこの科学者の手によって育てられ、自分は{br}ババリアのボスの子供と同じであると{br}聞かされた。{c1A:1E}{endFD}",
-  "en": "",
+  "en": "I was raised by a scientist there, and was told{br}that I was no different from the child of{br}Bavaria's boss.{c1A:1E}{endFD}",
   "notes": ""
  },
  {
@@ -1337,7 +1337,7 @@
   "op": "A9BF35",
   "len": 80,
   "jp": "だが類人猿の卵子を使った遺伝子操作の為に{br}このような姿で生まれたおれを、ババリアの{br}ボスは『失敗作』と言い放った。{c1A:1E}{end}",
-  "en": "",
+  "en": "But the gene manipulation used an ape's egg,{br}and I was born looking like this. Bavaria's{br}boss called me a 'failure.'{c1A:1E}{end}",
   "notes": ""
  },
  {
@@ -1346,7 +1346,7 @@
   "op": "A9BF89",
   "len": 66,
   "jp": "おれは処分される事に決まったのだが、{br}科学者は自分の研究室におれをかくまって{br}育て続けてくれた。{c1A:1E}{endFD}",
-  "en": "",
+  "en": "It was decided that I would be disposed of,{br}but the scientist hid me in his lab and went on{br}raising me.{c1A:1E}{endFD}",
   "notes": ""
  },
  {
@@ -1355,7 +1355,7 @@
   "op": "A9BFCC",
   "len": 80,
   "jp": "科学者は最後までババリアのボスの名を{br}明かさなかったが、おれはその科学者こそが{br}自分にとって本当の親であると感じていた。{c1A:1E}{end}",
-  "en": "",
+  "en": "To the end, he never told me the name of{br}Bavaria's boss, but I felt that scientist was{br}my true parent.{c1A:1E}{end}",
   "notes": ""
  },
  {
@@ -1364,7 +1364,7 @@
   "op": "A9C020",
   "len": 47,
   "jp": "だが、そんな日も長くは続かなかった…。{br}おれをかくまっている事が発覚したのだ。{endFD}",
-  "en": "",
+  "en": "But those days didn't last long... They found{br}out he was hiding me.{endFD}",
   "notes": ""
  },
  {
@@ -1373,7 +1373,7 @@
   "op": "A9C050",
   "len": 48,
   "jp": "科学者は自分の命を犠牲にして、おれを{br}外の世界へ逃がしてくれた。{c1A:1E}{endFD}",
-  "en": "",
+  "en": "The scientist gave his own life to let me{br}escape to the outside world.{c1A:1E}{endFD}",
   "notes": ""
  },
  {
@@ -1382,7 +1382,7 @@
   "op": "A9C083",
   "len": 65,
   "jp": "おれは誓った。この呪われた体を生み出し、{br}おれを育ててくれた親を殺した人間共に{br}復讐する事を。{c1A:1E}{end}",
-  "en": "",
+  "en": "I swore an oath. Revenge on the humans who{br}created this cursed body and killed the parent{br}who raised me.{c1A:1E}{end}",
   "notes": ""
  },
  {
@@ -1391,7 +1391,7 @@
   "op": "A9C1AC",
   "len": 31,
   "jp": "{c0C:01}「とても人が住んでいるような{br}場所じゃないな。{end}",
-  "en": "",
+  "en": "{c0C:01}: Not the kind of place anybody would{br}live.{end}",
   "notes": ""
  },
  {
@@ -1400,7 +1400,7 @@
   "op": "A9C1D4",
   "len": 26,
   "jp": "{c0C:01}「何でこんなにたくさん{br}置いてあるんだ？{end}",
-  "en": "",
+  "en": "{c0C:01}: Why is there so much of this stuff{br}here?{end}",
   "notes": ""
  },
  {
@@ -1409,7 +1409,7 @@
   "op": "A9CB81",
   "len": 55,
   "jp": "「ここに住んでるのは、皆スネに傷を持つ{br}奴らばかりさ。{br}ケガしないうちに、とっとと家に帰りな。{end}",
-  "en": "",
+  "en": "\"Everybody who lives here has a shady past.{br}Get on home before you get hurt.\"{end}",
   "notes": ""
  },
  {
@@ -1418,7 +1418,7 @@
   "op": "A9CBC4",
   "len": 43,
   "jp": "「さっき、女を抱えたランナーを見たぜ。{br}そういやあの女、アンナに似てたな。{end}",
-  "en": "",
+  "en": "\"I saw a runner carrying a woman a while ago.{br}Come to think of it, she looked like Anna.\"{end}",
   "notes": ""
  },
  {
@@ -1427,7 +1427,7 @@
   "op": "A9CC4B",
   "len": 26,
   "jp": "「こっちに来るんじゃねぇよ。{br}あっちへ行きな。{end}",
-  "en": "",
+  "en": "\"Don't come over here. Get lost.\"{end}",
   "notes": ""
  },
  {
@@ -1436,7 +1436,7 @@
   "op": "A9CC77",
   "len": 26,
   "jp": "「こっちに来るんじゃねぇよ。{br}あっちへ行きな。{end}",
-  "en": "",
+  "en": "\"Don't come over here. Get lost.\"{end}",
   "notes": ""
  },
  {
@@ -1445,7 +1445,7 @@
   "op": "A9CC99",
   "len": 30,
   "jp": "「この野郎、来るんじゃねぇって{br}言ってるだろうが！{end}",
-  "en": "",
+  "en": "\"You bastard, I told you not to come over{br}here!\"{end}",
   "notes": ""
  },
  {
@@ -1454,7 +1454,7 @@
   "op": "A9CCB9",
   "len": 34,
   "jp": "{c0C:01}「オレは探偵だ。{br}女をさらったランナーを探している。{endFD}",
-  "en": "",
+  "en": "{c0C:01}: I'm a detective. I'm looking for a{br}runner that kidnapped a woman.{endFD}",
   "notes": ""
  },
  {
@@ -1463,7 +1463,7 @@
   "op": "A9CCDC",
   "len": 51,
   "jp": "ここへ入っていったのを見たっていう{br}奴がいるんだ。{br}お前、何か知っているんじゃないのか。{end}",
-  "en": "",
+  "en": "Somebody saw it go in here. You know{br}something, don't you?{end}",
   "notes": ""
  },
  {
@@ -1472,7 +1472,7 @@
   "op": "A9CD11",
   "len": 18,
   "jp": "「バカ、やめろ、来るんじゃねぇ！{end}",
-  "en": "",
+  "en": "\"Idiot, stop, don't come any closer!\"{end}",
   "notes": ""
  },
  {
@@ -1481,7 +1481,7 @@
   "op": "A9CD28",
   "len": 34,
   "jp": "「お前も奴の仲間なのか？{br}そうだったら只じゃおかないぜ。{end}",
-  "en": "",
+  "en": "\"Are you one of his buddies? If you are,{br}you're in for it.\"{end}",
   "notes": ""
  },
  {
@@ -1490,7 +1490,7 @@
   "op": "A9CD4C",
   "len": 54,
   "jp": "「い、いや…おれは金を渡されて、{br}ここへは誰も通すなって{br}言われただけなんだ。ハ、ハハハ…。{end}",
-  "en": "",
+  "en": "\"N-no... Somebody just paid me to keep{br}anybody from getting through here. Ha, ha{br}ha...\"{end}",
   "notes": ""
  },
  {
@@ -1499,7 +1499,7 @@
   "op": "A9CD97",
   "len": 22,
   "jp": "「あっ、どうもどうも。へへへ………。{end}",
-  "en": "",
+  "en": "\"Oh, hey there, hey there. Heh heh heh.........\"{end}",
   "notes": ""
  },
  {
@@ -1508,7 +1508,7 @@
   "op": "A9CDCC",
   "len": 51,
   "jp": "「あんた、金はあるかい？{br}今日は、なかなかの上物が入ってるんだ。{br}良かったらどうだい？{end}",
-  "en": "",
+  "en": "\"You got money? I've got some real quality{br}stuff in today. Interested?\"{end}",
   "notes": ""
  },
  {
@@ -1517,7 +1517,7 @@
   "op": "A9CE0B",
   "len": 37,
   "jp": "「何だ、お前。そんな物に乗ったまま、{br}ここで何をするつもりだ？{end}",
-  "en": "",
+  "en": "\"What's with you? What are you planning to do{br}here, riding that thing?\"{end}",
   "notes": ""
  },
  {
@@ -1526,7 +1526,7 @@
   "op": "A9CE36",
   "len": 49,
   "jp": "ドラッグのバイヤー「へっへっへ。{br}オレ達が商売しやすい、いい世の中に{br}なったもんだぜ。{end}",
-  "en": "",
+  "en": "Drug Dealer: Heh heh heh. The world's sure{br}become a nice place for guys like us to do{br}business.{end}",
   "notes": ""
  },
  {
@@ -1535,7 +1535,7 @@
   "op": "A9CE80",
   "len": 47,
   "jp": "「お前、客じゃないな。{br}あんまりかぎ回っていると、{br}命がいくつあっても足りないぜ。{end}",
-  "en": "",
+  "en": "\"You're no customer. Keep snooping around,{br}and you'll need more lives than you've got.\"{end}",
   "notes": ""
  },
  {
@@ -1544,7 +1544,7 @@
   "op": "A9CEBB",
   "len": 35,
   "jp": "「おいおい、そんな格好でウロウロされちゃ{br}商売のジャマだよ。{end}",
-  "en": "",
+  "en": "\"Hey, hey, you hanging around dressed like{br}that is bad for business.\"{end}",
   "notes": ""
  },
  {
@@ -1553,7 +1553,7 @@
   "op": "A9CEF7",
   "len": 31,
   "jp": "「うう、ハラ減った。{br}もう3日もメシを食ってねぇんだ。{end}",
-  "en": "",
+  "en": "\"Ugh, I'm starving. Haven't eaten in three{br}days.\"{end}",
   "notes": ""
  },
  {
@@ -1562,7 +1562,7 @@
   "op": "A9CF28",
   "len": 44,
   "jp": "「いい事を教えてやろうか？{br}ただし、100Gだ。金さえくれれば教えて{br}やるぜ。{end}",
-  "en": "",
+  "en": "\"Want me to tell you something good? It'll cost{br}you 100G, though. Pay up and I'll tell you.\"{end}",
   "notes": ""
  },
  {
@@ -1571,7 +1571,7 @@
   "op": "A9CF55",
   "len": 18,
   "jp": "  100G払う{br}  払わない{endFE}",
-  "en": "",
+  "en": "Pay 100G{br}Don't pay{endFE}",
   "notes": ""
  },
  {
@@ -1580,7 +1580,7 @@
   "op": "A9CF72",
   "len": 21,
   "jp": "「あっそう。じゃあ何も教えてやらん。{end}",
-  "en": "",
+  "en": "\"Oh, fine. Then I won't tell you anything.\"{end}",
   "notes": ""
  },
  {
@@ -1589,7 +1589,7 @@
   "op": "A9CF99",
   "len": 29,
   "jp": "「金をくれない奴に用はないな。{br}どっかへ行きな。{end}",
-  "en": "",
+  "en": "\"Got no use for anybody who won't pay. Get{br}lost.\"{end}",
   "notes": ""
  },
  {
@@ -1598,7 +1598,7 @@
   "op": "A9CFBE",
   "len": 19,
   "jp": "「うへへへ。これでメシが食えるぞ。{endFD}",
-  "en": "",
+  "en": "\"Heh heh heh. Now I can get something to{br}eat.\"{endFD}",
   "notes": ""
  },
  {
@@ -1607,7 +1607,7 @@
   "op": "A9CFD2",
   "len": 62,
   "jp": "地下への入口の前に男が立ってただろ？{br}さっきあそこに女をかかえたランナーが{br}入って行くのを見たんだ。{endFD}",
-  "en": "",
+  "en": "You saw the guy at the underground entrance,{br}right? A while ago, I saw a runner carrying a{br}woman go in there.{endFD}",
   "notes": ""
  },
  {
@@ -1616,7 +1616,7 @@
   "op": "A9D011",
   "len": 22,
   "jp": "あの男だったら何か知ってるハズだぜ。{end}",
-  "en": "",
+  "en": "That guy's bound to know something.{end}",
   "notes": ""
  },
  {
@@ -1625,7 +1625,7 @@
   "op": "A9D031",
   "len": 36,
   "jp": "「地下への入口の前に立っている男に{br}話を聞いてみな。{end}",
-  "en": "",
+  "en": "\"Go talk to the guy standing in front of the{br}underground entrance.\"{end}",
   "notes": ""
  },
  {
@@ -1634,7 +1634,7 @@
   "op": "A9D06E",
   "len": 56,
   "jp": "「ここみたいな物騒なエリアからは{br}早く出て行きたいんだが、{br}ワシらはここでないと生活していけん。{end}",
-  "en": "",
+  "en": "\"I'd like to get out of a dangerous area like{br}this as soon as I can, but this is the only{br}place folks like us can make a living.\"{end}",
   "notes": ""
  },
  {
@@ -1643,7 +1643,7 @@
   "op": "A9D0B2",
   "len": 53,
   "jp": "「さっきもランナーを見かけたけど、{br}どんなヤツだったのかは覚えてないな。{br}なんせ腹ペコなものでね。{end}",
-  "en": "",
+  "en": "\"I saw a runner a while ago too, but I don't{br}remember what it looked like. I'm just too{br}hungry.\"{end}",
   "notes": ""
  },
  {
@@ -1652,7 +1652,7 @@
   "op": "A9D0FE",
   "len": 38,
   "jp": "「仲間とツルんでいれば心はハッピーさ。{br}あんたにそれが分かるかい？{end}",
-  "en": "",
+  "en": "\"Long as you're hanging with your crew, life's{br}happy. You get that?\"{end}",
   "notes": ""
  },
  {
@@ -1661,7 +1661,7 @@
   "op": "A9D12A",
   "len": 34,
   "jp": "「世の中がどうなろうと、おれ達の{br}知った事じゃあないね。{end}",
-  "en": "",
+  "en": "\"Whatever happens to the world, it's none of{br}our business.\"{end}",
   "notes": ""
  },
  {
@@ -1670,7 +1670,7 @@
   "op": "A9D15F",
   "len": 26,
   "jp": "「なんだぁ、そのツラは。{br}なぁにガンつけてんだよ！{end}",
-  "en": "",
+  "en": "\"What's with that face? You lookin' at me{br}funny?!\"{end}",
   "notes": ""
  },
  {
@@ -1679,7 +1679,7 @@
   "op": "A9D17F",
   "len": 34,
   "jp": "「おれ達は、毎日おもしろおかしく{br}やって行ければいいのさ。{end}",
-  "en": "",
+  "en": "\"All we want is to have a good time every{br}day.\"{end}",
   "notes": ""
  },
  {
@@ -1688,7 +1688,7 @@
   "op": "A9D1C4",
   "len": 31,
   "jp": "「どう？ おニイさん。{br}ちょっとあたしとイイコトしな〜い？{end}",
-  "en": "",
+  "en": "\"How about it, handsome? Wanna have a little{br}fun with me?\"{end}",
   "notes": ""
  },
  {
@@ -1697,7 +1697,7 @@
   "op": "A9D1EF",
   "len": 40,
   "jp": "「何よ、そんな姿で近づいてこないでよ。{br}お客が逃げちゃうじゃないの。{end}",
-  "en": "",
+  "en": "\"Ugh, don't come near me looking like that.{br}You'll scare off my customers.\"{end}",
   "notes": ""
  },
  {
@@ -1706,7 +1706,7 @@
   "op": "A9D21D",
   "len": 53,
   "jp": "「ババリアの奴ら、あたい達の事まで{br}仕切ろうとしやがって………。{br}ふざけんじゃないわよ！{end}",
-  "en": "",
+  "en": "\"Those Bavaria creeps, trying to boss even us{br}around......... Screw them!\"{end}",
   "notes": ""
  },
  {
@@ -1715,7 +1715,7 @@
   "op": "A9D275",
   "len": 27,
   "jp": "「あたしとどう？{br}バッチリ満足させてあげるわよ。{end}",
-  "en": "",
+  "en": "\"How about me? I'll make sure you're{br}completely satisfied.\"{end}",
   "notes": ""
  },
  {
@@ -1724,7 +1724,7 @@
   "op": "A9D29C",
   "len": 50,
   "jp": "「ハァ？{br}女性を連れたランナーを見なかったかって？{br}街中でランナーなんてあんただけよ。{end}",
-  "en": "",
+  "en": "\"Huh? Did I see a runner with a woman? Hon,{br}the only runner in town is you.\"{end}",
   "notes": ""
  },
  {
@@ -1733,7 +1733,7 @@
   "op": "A9D2D4",
   "len": 40,
   "jp": "「サツの取りしまりが無くなったのは{br}いいけど、かえって何だか変だねぇ。{end}",
-  "en": "",
+  "en": "\"Nice that the cops stopped cracking down,{br}but somehow it feels weirder than before.\"{end}",
   "notes": ""
  },
  {
@@ -1742,7 +1742,7 @@
   "op": "A9D30C",
   "len": 50,
   "jp": "「ちょっと、そこにはお客以外は{br}入れないんだよ。{br}お客じゃないんなら向こうへ行きな！{end}",
-  "en": "",
+  "en": "\"Hey, only customers can go in there. If you're{br}not a customer, beat it!\"{end}",
   "notes": ""
  },
  {
@@ -1751,7 +1751,7 @@
   "op": "A9D38B",
   "len": 45,
   "jp": "ヨッパライ「ヒック、今日は飲むぞ〜。{br}そんで、明日はもっと飲んでやる〜！{end}",
-  "en": "",
+  "en": "Drunk: Hic, tonight I'm drinkin'. And tomorrow{br}I'm drinkin' even more!{end}",
   "notes": ""
  },
  {
@@ -1760,7 +1760,7 @@
   "op": "A9D3BE",
   "len": 57,
   "jp": "ヨッパライ「ヒック、ちきしょー。{br}ババリアが何でぇ、誰もオイラが飲むのを{br}やめさせる事はできねぇんだぞ！{end}",
-  "en": "",
+  "en": "Drunk: Hic, dammit. Who cares about Bavaria?{br}Nobody's gonna stop me from drinkin'!{end}",
   "notes": ""
  },
  {
@@ -1769,7 +1769,7 @@
   "op": "A9D40D",
   "len": 60,
   "jp": "「何だよ、子供だからってナメんなよ。{br}オレだっていつかは大物になって{br}こんな所から出て行くんだからな！{end}",
-  "en": "",
+  "en": "\"What, you think you can look down on me{br}'cause I'm a kid? Someday I'm gonna be a big{br}shot and get out of this place!\"{end}",
   "notes": ""
  },
  {
@@ -1778,7 +1778,7 @@
   "op": "A9D44F",
   "len": 32,
   "jp": "「オレも早くババリアに入って{br}のし上がって行きたいぜ。{end}",
-  "en": "",
+  "en": "\"I wanna hurry up and join Bavaria and work{br}my way up.\"{end}",
   "notes": ""
  },
  {
@@ -1787,7 +1787,7 @@
   "op": "A9D4C7",
   "len": 27,
   "jp": "{c0C:01}「お前はっ！{br}おい、アンナをどこへやった！？{end}",
-  "en": "",
+  "en": "{c0C:01}: You! Hey, where did you take Anna?!{end}",
   "notes": ""
  },
  {
@@ -1796,7 +1796,7 @@
   "op": "A9D4E4",
   "len": 31,
   "jp": "ストーカー「教えられるか、バカが。{br}ここでくたばりやがれ！{end}",
-  "en": "",
+  "en": "Stalker: Like I'd tell you, idiot. Die here!{end}",
   "notes": ""
  },
  {
@@ -1805,7 +1805,7 @@
   "op": "A9D531",
   "len": 14,
   "jp": "{c0C:01}「クソッ、待てっ！{end}",
-  "en": "",
+  "en": "{c0C:01}: Damn it, wait!{end}",
   "notes": ""
  },
  {
@@ -1814,7 +1814,7 @@
   "op": "A9D54E",
   "len": 19,
   "jp": "{c0C:01}「奴め、どこへ行ったんだ？{end}",
-  "en": "",
+  "en": "{c0C:01}: Where did that guy go?{end}",
   "notes": ""
  },
  {
@@ -1823,7 +1823,7 @@
   "op": "A9D56C",
   "len": 16,
   "jp": "カーク「気をつけろ、{c0C:01}。{end}",
-  "en": "",
+  "en": "Kirk: Careful, {c0C:01}.{end}",
   "notes": ""
  },
  {
@@ -1832,7 +1832,7 @@
   "op": "A9D57D",
   "len": 54,
   "jp": "動体反応を多数確認した。{br}この地下道にもバイオモンスターが{br}潜んでおるようじゃぞ。{end}",
-  "en": "",
+  "en": "I'm detecting a lot of movement. It seems{br}bio-monsters are lurking in this underground{br}passage too.{end}",
   "notes": ""
  },
  {
@@ -1841,7 +1841,7 @@
   "op": "A9D5B5",
   "len": 17,
   "jp": "「アンナ、無事でいてくれよ。{end}",
-  "en": "",
+  "en": "\"Anna, please be safe.\"{end}",
   "notes": ""
  },
  {
@@ -1850,7 +1850,7 @@
   "op": "A9D5E9",
   "len": 9,
   "jp": "{c0C:01}「アンナ！{end}",
-  "en": "",
+  "en": "{c0C:01}: Anna!{end}",
   "notes": ""
  },
  {
@@ -1859,7 +1859,7 @@
   "op": "A9D5FA",
   "len": 52,
   "jp": "ストーカー「お前みたいなヤツがいるなんて{br}聞いてなかったぞ。{br}あのヤロウ、いいかげんな情報を！{end}",
-  "en": "",
+  "en": "Stalker: Nobody told me there'd be a guy like{br}you. That bastard gave me lousy info!{end}",
   "notes": ""
  },
  {
@@ -1868,7 +1868,7 @@
   "op": "A9D630",
   "len": 26,
   "jp": "「何だと？{br}お前、只のストーカーじゃないな。{end}",
-  "en": "",
+  "en": "\"What? You're no ordinary stalker.\"{end}",
   "notes": ""
  },
  {
@@ -1877,7 +1877,7 @@
   "op": "A9D64C",
   "len": 59,
   "jp": "「楽な仕事だと聞いて引き受けりゃあ{br}このザマだ。こうなったら、お前も{br}あのヤロウもぶっ殺してやる！！{end}",
-  "en": "",
+  "en": "\"I took this job 'cause they said it'd be easy,{br}and look at me now. Fine, I'll kill you and that{br}bastard both!!\"{end}",
   "notes": ""
  },
  {
@@ -1886,7 +1886,7 @@
   "op": "A9D71C",
   "len": 20,
   "jp": "{c0C:01}「大丈夫か、ケガはないか？{end}",
-  "en": "",
+  "en": "{c0C:01}: Are you all right? Are you hurt?{end}",
   "notes": ""
  },
  {
@@ -1895,7 +1895,7 @@
   "op": "A9D732",
   "len": 30,
   "jp": "アンナ「{c0C:01}、{br}助けに来てくれたのね。うれしい…。{end}",
-  "en": "",
+  "en": "Anna: {c0C:01}, you came to save me. I'm so{br}happy...{end}",
   "notes": ""
  },
  {
@@ -1904,7 +1904,7 @@
   "op": "A9D755",
   "len": 12,
   "jp": "「アンナ………。{end}",
-  "en": "",
+  "en": "\"Anna.........\"{end}",
   "notes": ""
  },
  {
@@ -1913,7 +1913,7 @@
   "op": "A9D763",
   "len": 27,
   "jp": "「私、初めて会った時からあなたの事を…。{end}",
-  "en": "",
+  "en": "\"Ever since we first met, I've...\"{end}",
   "notes": ""
  },
  {
@@ -1922,7 +1922,7 @@
   "op": "A9D783",
   "len": 21,
   "jp": "「待ってくれアンナ、オレには……。{end}",
-  "en": "",
+  "en": "\"Wait, Anna, I......\"{end}",
   "notes": ""
  },
  {
@@ -1931,7 +1931,7 @@
   "op": "A9D79A",
   "len": 35,
   "jp": "「知ってる。恋人が亡くなったって{br}イオンさんから聞いたわ。{endFD}",
-  "en": "",
+  "en": "\"I know. Ion-san told me the woman you loved{br}died.\"{endFD}",
   "notes": ""
  },
  {
@@ -1940,7 +1940,7 @@
   "op": "A9D7BE",
   "len": 28,
   "jp": "今でも、やっぱりその人の事が{br}忘れられないの？{end}",
-  "en": "",
+  "en": "Even now, you still can't forget her?{end}",
   "notes": ""
  },
  {
@@ -1949,7 +1949,7 @@
   "op": "A9D7DF",
   "len": 34,
   "jp": "「アンナ………君は、死んだアイリーンに{br}そっくりなんだ。{endFD}",
-  "en": "",
+  "en": "\"Anna......... you look just like Irene, who died.\"{endFD}",
   "notes": ""
  },
  {
@@ -1958,7 +1958,7 @@
   "op": "A9D802",
   "len": 44,
   "jp": "だから時々、自分が見ているのが{br}君なのかアイリーンなのか分からなくなる。{endFD}",
-  "en": "",
+  "en": "So sometimes I can't tell whether I'm looking{br}at you or at Irene.{endFD}",
   "notes": ""
  },
  {
@@ -1967,7 +1967,7 @@
   "op": "A9D82F",
   "len": 37,
   "jp": "そんな気持ちのままじゃ、君の気持ちには{br}こたえられないよ…。{end}",
-  "en": "",
+  "en": "Feeling like that, I can't return your{br}feelings...{end}",
   "notes": ""
  },
  {
@@ -1976,7 +1976,7 @@
   "op": "A9D856",
   "len": 29,
   "jp": "「それでも…それでも私、あなたの事が{br}好きなの。{end}",
-  "en": "",
+  "en": "\"Even so... even so, I love you.\"{end}",
   "notes": ""
  },
  {
@@ -1985,7 +1985,7 @@
   "op": "A9D875",
   "len": 47,
   "jp": "「アンナ………………。{br}ミレニアムホールへ戻ろう。{br}みんなが心配している。{end}",
-  "en": "",
+  "en": "\"Anna.................. Let's go back to Millennium{br}Hall. Everyone's worried.\"{end}",
   "notes": ""
  },
  {
@@ -1994,7 +1994,7 @@
   "op": "A9D8A6",
   "len": 11,
   "jp": "「………ええ。{end}",
-  "en": "",
+  "en": "\".........Okay.\"{end}",
   "notes": ""
  },
  {
@@ -2003,7 +2003,7 @@
   "op": "A9D927",
   "len": 27,
   "jp": "扉のスイッチがあります。スイッチを{br}入れますか？{end}",
-  "en": "",
+  "en": "There's a door switch. Flip the switch?{end}",
   "notes": ""
  },
  {
@@ -2012,7 +2012,7 @@
   "op": "A9D943",
   "len": 20,
   "jp": "  スイッチを入れる{br}  やめておく{endFE}",
-  "en": "",
+  "en": "Flip the switch{br}Leave it{endFE}",
   "notes": ""
  },
  {
@@ -2021,7 +2021,7 @@
   "op": "A9E3F4",
   "len": 48,
   "jp": "カーク「う〜む、何というニオイじゃ。{br}なまじセンサーが高性能なだけに{br}こたえるわい。{end}",
-  "en": "",
+  "en": "Kirk: Ugh, what a stench. Having such{br}high-performance sensors only makes it worse.{end}",
   "notes": ""
  },
  {
@@ -2030,7 +2030,7 @@
   "op": "A9E426",
   "len": 31,
   "jp": "{c0C:01}「そんなデリケートな{br}造りじゃあないだろ、お前は。{end}",
-  "en": "",
+  "en": "{c0C:01}: You're not built that delicate, pal.{end}",
   "notes": ""
  },
  {
@@ -2039,7 +2039,7 @@
   "op": "A9E447",
   "len": 29,
   "jp": "「…エアフィルターをカットして{br}もらいたいようじゃな。{end}",
-  "en": "",
+  "en": "\"...It seems you'd like me to cut off your air{br}filter.\"{end}",
   "notes": ""
  },
  {
@@ -2048,7 +2048,7 @@
   "op": "A9E469",
   "len": 15,
   "jp": "「バ、バカ。よせ、やめろよ！{end}",
-  "en": "",
+  "en": "\"D-don't you dare. Cut it out!\"{end}",
   "notes": ""
  },
  {
@@ -2057,7 +2057,7 @@
   "op": "A9E47A",
   "len": 44,
   "jp": "「冗談じゃよ。{br}それよりも動体反応を感知したぞ。{br}警戒するんじゃ。{end}",
-  "en": "",
+  "en": "\"I jest. More to the point, I've detected{br}movement. Stay on your guard.\"{end}",
   "notes": ""
  },
  {
@@ -2066,7 +2066,7 @@
   "op": "A9E4AB",
   "len": 45,
   "jp": "「ここの下水道にもバイオモンスターが{br}住み着いていやがるのか。{br}やれやれだな。{end}",
-  "en": "",
+  "en": "\"So bio-monsters have moved into these{br}sewers too. Give me a break.\"{end}",
   "notes": ""
  },
  {
@@ -2075,7 +2075,7 @@
   "op": "A9E4E9",
   "len": 29,
   "jp": "カーク「扉にカギはかかっておらん。{br}中に入れるぞ。{end}",
-  "en": "",
+  "en": "Kirk: The door isn't locked. We can go in.{end}",
   "notes": ""
  },
  {
@@ -2084,7 +2084,7 @@
   "op": "A9E508",
   "len": 31,
   "jp": "{c0C:01}「やっぱり妙だな。{br}早く中に入って調べよう。{end}",
-  "en": "",
+  "en": "{c0C:01}: Something's definitely off. Let's get{br}inside and look around.{end}",
   "notes": ""
  },
  {
@@ -2093,7 +2093,7 @@
   "op": "A9E542",
   "len": 30,
   "jp": "{c0C:01}「よし、カーク。{br}工場内をスキャンしてみてくれ{end}",
-  "en": "",
+  "en": "{c0C:01}: Okay, Kirk. Try scanning the inside{br}of the factory.{end}",
   "notes": ""
  },
  {
@@ -2102,7 +2102,7 @@
   "op": "A9E562",
   "len": 12,
   "jp": "カーク「了解した。{end}",
-  "en": "",
+  "en": "Kirk: Understood.{end}",
   "notes": ""
  },
  {
@@ -2111,7 +2111,7 @@
   "op": "A9E573",
   "len": 59,
   "jp": "{c1C:04}………………………………………{br}{c1C:00}いくつか生体反応を感知したぞ。{end}",
-  "en": "",
+  "en": "{c1C:04}............................................. {c1C:00}I'm detecting{br}several life signs.{end}",
   "notes": ""
  },
  {
@@ -2120,7 +2120,7 @@
   "op": "A9E5B0",
   "len": 10,
   "jp": "「人間なのか？{end}",
-  "en": "",
+  "en": "\"Human?\"{end}",
   "notes": ""
  },
  {
@@ -2129,7 +2129,7 @@
   "op": "A9E5BC",
   "len": 16,
   "jp": "「そこまでは判別できんな。{endFD}",
-  "en": "",
+  "en": "\"I can't tell that much.\"{endFD}",
   "notes": ""
  },
  {
@@ -2138,7 +2138,7 @@
   "op": "A9E5CD",
   "len": 38,
   "jp": "それにもう一つ、かすかにじゃが{br}生物の腐敗臭を感知したぞ。{end}",
-  "en": "",
+  "en": "And one more thing: faint, but I'm picking up{br}the smell of rotting organic matter.{end}",
   "notes": ""
  },
  {
@@ -2147,7 +2147,7 @@
   "op": "A9E5F8",
   "len": 42,
   "jp": "「腐敗臭………死体があるって事か？{br}やっぱり何かありそうだな。{end}",
-  "en": "",
+  "en": "\"Rotting......... you mean there are bodies?{br}There's something here, all right.\"{end}",
   "notes": ""
  },
  {
@@ -2156,7 +2156,7 @@
   "op": "A9E647",
   "len": 37,
   "jp": "{c0C:01}「作業員の死体だ。{br}チッ、こんな事だろうと思ったぜ。{end}",
-  "en": "",
+  "en": "{c0C:01}: A worker's body. Tch, I figured it'd{br}be something like this.{end}",
   "notes": ""
  },
  {
@@ -2165,7 +2165,7 @@
   "op": "A9E66E",
   "len": 61,
   "jp": "カーク「傷口をスキャンしてみたが、{br}するどいツメの様な物でえぐられているな。{br}バイオモンスターのしわざじゃろう。{end}",
-  "en": "",
+  "en": "Kirk: I scanned the wounds. They were gouged{br}by something like sharp claws. Probably a{br}bio-monster's doing.{end}",
   "notes": ""
  },
  {
@@ -2174,7 +2174,7 @@
   "op": "A9E6AD",
   "len": 41,
   "jp": "「どうやらデビッドじゃないようだな。{br}ホログラムシートに写ってた顔と違う。{endFD}",
-  "en": "",
+  "en": "\"Doesn't look like David. The face is different{br}from the one on the hologram sheet.\"{endFD}",
   "notes": ""
  },
  {
@@ -2183,7 +2183,7 @@
   "op": "A9E6DA",
   "len": 17,
   "jp": "………ん？ 何だこれは。{end}",
-  "en": "",
+  "en": ".........Hm? What's this?{end}",
   "notes": ""
  },
  {
@@ -2192,7 +2192,7 @@
   "op": "A9E6ED",
   "len": 34,
   "jp": "「IDカードじゃな。{br}カギのかかった扉を開ける為の物じゃ。{end}",
-  "en": "",
+  "en": "\"An ID card. It's for opening locked doors.\"{end}",
   "notes": ""
  },
  {
@@ -2201,7 +2201,7 @@
   "op": "A9E714",
   "len": 17,
   "jp": "「そうか、じゃあ頂いておこう。{end}",
-  "en": "",
+  "en": "\"I see. Then I'll help myself to it.\"{end}",
   "notes": ""
  },
  {
@@ -2210,7 +2210,7 @@
   "op": "A9E731",
   "len": 26,
   "jp": "カーク「もう手がかりになる様な物は{br}ないぞ。{end}",
-  "en": "",
+  "en": "Kirk: There's nothing else here that could{br}serve as a clue.{end}",
   "notes": ""
  },
  {
@@ -2219,7 +2219,7 @@
   "op": "A9E7FD",
   "len": 35,
   "jp": "サブ電源コントロールパネルがあります。{br}電源を入れますか？{end}",
-  "en": "",
+  "en": "There's a sub-power control panel. Turn on{br}the power?{end}",
   "notes": ""
  },
  {
@@ -2228,7 +2228,7 @@
   "op": "A9E821",
   "len": 15,
   "jp": "  入れる{br}  やめておく{endFE}",
-  "en": "",
+  "en": "Turn it on{br}Leave it{endFE}",
   "notes": ""
  },
  {
@@ -2237,7 +2237,7 @@
   "op": "A9E851",
   "len": 16,
   "jp": "サブ電源は入っています。{end}",
-  "en": "",
+  "en": "The sub-power is on.{end}",
   "notes": ""
  },
  {
@@ -2246,7 +2246,7 @@
   "op": "A9E87D",
   "len": 20,
   "jp": "{c0C:01}「ロックされていて開かないな。{end}",
-  "en": "",
+  "en": "{c0C:01}: It's locked. Won't open.{end}",
   "notes": ""
  },
  {
@@ -2255,7 +2255,7 @@
   "op": "A9E89F",
   "len": 53,
   "jp": "{c0C:01}「IDカードだけじゃ{br}開かないのか。どうやら、ドア自体に{br}電気が通っていないみたいだ。{end}",
-  "en": "",
+  "en": "{c0C:01}: The ID card alone won't open it, huh.{br}Looks like the door itself has no power.{end}",
   "notes": ""
  },
  {
@@ -2264,7 +2264,7 @@
   "op": "A9E8E2",
   "len": 30,
   "jp": "{c0C:01}「電源を入れただけじゃ{br}開かないみたいだな。{end}",
-  "en": "",
+  "en": "{c0C:01}: Turning on the power alone doesn't{br}seem to open it.{end}",
   "notes": ""
  },
  {
@@ -2273,7 +2273,7 @@
   "op": "A9E909",
   "len": 45,
   "jp": "カーク「ランナーを組み立てる機械じゃ。{br}ずいぶんと旧式な物を使っとるな。{end}",
-  "en": "",
+  "en": "Kirk: A machine for assembling runners. Quite{br}an old-fashioned model they're using.{end}",
   "notes": ""
  },
  {
@@ -2282,7 +2282,7 @@
   "op": "A9E93E",
   "len": 37,
   "jp": "カーク「中にはランナーのパーツが{br}入っとるが、{c0C:02}には使えんぞ。{end}",
-  "en": "",
+  "en": "Kirk: There are runner parts inside, but none{br}that {c0C:02} can use.{end}",
   "notes": ""
  },
  {
@@ -2291,7 +2291,7 @@
   "op": "A9E96B",
   "len": 35,
   "jp": "カーク「作業台じゃが、{br}何日も使われていない様じゃな。{end}",
-  "en": "",
+  "en": "Kirk: A workbench, but it seems it hasn't been{br}used in days.{end}",
   "notes": ""
  },
  {
@@ -2300,7 +2300,7 @@
   "op": "A9E996",
   "len": 32,
   "jp": "カーク「地下からランナーのパーツを{br}運ぶクレーンじゃな。{end}",
-  "en": "",
+  "en": "Kirk: A crane that hauls runner parts up from{br}below.{end}",
   "notes": ""
  },
  {
@@ -2309,7 +2309,7 @@
   "op": "A9E9BE",
   "len": 33,
   "jp": "カーク「ランナーのパーツやコンテナを{br}運ぶ為のリフトじゃな。{end}",
-  "en": "",
+  "en": "Kirk: A lift for carrying runner parts and{br}containers.{end}",
   "notes": ""
  },
  {
@@ -2318,7 +2318,7 @@
   "op": "A9E9E7",
   "len": 27,
   "jp": "壁にスイッチがあります。{br}スイッチを入れますか？{end}",
-  "en": "",
+  "en": "There's a switch on the wall. Flip the switch?{end}",
   "notes": ""
  },
  {
@@ -2327,7 +2327,7 @@
   "op": "A9EA03",
   "len": 20,
   "jp": "  スイッチを入れる{br}  やめておく{endFE}",
-  "en": "",
+  "en": "Flip the switch{br}Leave it{endFE}",
   "notes": ""
  },
  {
@@ -2336,7 +2336,7 @@
   "op": "A9EA34",
   "len": 19,
   "jp": "{c0C:01}「うわっ、故障してたのか。{end}",
-  "en": "",
+  "en": "{c0C:01}: Whoa, it's broken.{end}",
   "notes": ""
  },
  {
@@ -2345,7 +2345,7 @@
   "op": "A9EA74",
   "len": 19,
   "jp": "{c0C:01}「また死体か………。{end}",
-  "en": "",
+  "en": "{c0C:01}: Another body.........{end}",
   "notes": ""
  },
  {
@@ -2354,7 +2354,7 @@
   "op": "A9EA89",
   "len": 28,
   "jp": "カーク「これもバイオモンスターに{br}やられた様じゃな。{end}",
-  "en": "",
+  "en": "Kirk: This one too seems to have been killed{br}by a bio-monster.{end}",
   "notes": ""
  },
  {
@@ -2363,7 +2363,7 @@
   "op": "A9EAA7",
   "len": 26,
   "jp": "「デビッドもこんな姿になってなければ{br}いいがな。{end}",
-  "en": "",
+  "en": "\"I just hope David didn't end up like this.\"{end}",
   "notes": ""
  },
  {
@@ -2372,7 +2372,7 @@
   "op": "A9EADB",
   "len": 17,
   "jp": "作業員「うう………。{end}",
-  "en": "",
+  "en": "Worker: Ugh.........{end}",
   "notes": ""
  },
  {
@@ -2381,7 +2381,7 @@
   "op": "A9EAEE",
   "len": 15,
   "jp": "{c0C:01}「おい、しっかりしろ！{end}",
-  "en": "",
+  "en": "{c0C:01}: Hey, hang in there!{end}",
   "notes": ""
  },
  {
@@ -2390,7 +2390,7 @@
   "op": "A9EB02",
   "len": 42,
   "jp": "カーク「生体反応が弱まってきている。{br}非常に危険な状態じゃ。{end}",
-  "en": "",
+  "en": "Kirk: His life signs are weakening. He's in a{br}very critical state.{end}",
   "notes": ""
  },
  {
@@ -2399,7 +2399,7 @@
   "op": "A9EB31",
   "len": 12,
   "jp": "「助けてやれそうか？{end}",
-  "en": "",
+  "en": "\"Can we help him?\"{end}",
   "notes": ""
  },
  {
@@ -2408,7 +2408,7 @@
   "op": "A9EB3F",
   "len": 50,
   "jp": "「応急手当用のキットはあるが、{br}とても無理じゃ。{br}この状態ではもう助からんな。{end}",
-  "en": "",
+  "en": "\"There's a first-aid kit, but it's hopeless. In{br}this state, he can't be saved.\"{end}",
   "notes": ""
  },
  {
@@ -2417,7 +2417,7 @@
   "op": "A9EB73",
   "len": 19,
   "jp": "「まったく冷たい言い方するぜ。{endFD}",
-  "en": "",
+  "en": "\"Man, you sure put it coldly.\"{endFD}",
   "notes": ""
  },
  {
@@ -2426,7 +2426,7 @@
   "op": "A9EB87",
   "len": 25,
   "jp": "おい、あんた。{br}この工場で何があったんだ？{end}",
-  "en": "",
+  "en": "Hey, you. What happened in this factory?{end}",
   "notes": ""
  },
  {
@@ -2435,7 +2435,7 @@
   "op": "A9EBA5",
   "len": 24,
   "jp": "「バ、バケモノが…逃げ出しやがった…。{end}",
-  "en": "",
+  "en": "\"Th-the monsters... they got loose...\"{end}",
   "notes": ""
  },
  {
@@ -2444,7 +2444,7 @@
   "op": "A9EBC2",
   "len": 40,
   "jp": "「バケモノ…バイオモンスターの事だな。{br}逃げ出したって、どこからだ！？{end}",
-  "en": "",
+  "en": "\"Monsters... you mean bio-monsters. Got loose{br}from where?!\"{end}",
   "notes": ""
  },
  {
@@ -2453,7 +2453,7 @@
   "op": "A9EBEC",
   "len": 54,
   "jp": "「ち、地下2階からだ………。{br}ちくしょう。工場長の奴、おれ達を{br}ダマしやがって…。{end}",
-  "en": "",
+  "en": "\"F-from the second basement......... Damn it.{br}The plant manager... he tricked us...\"{end}",
   "notes": ""
  },
  {
@@ -2462,7 +2462,7 @@
   "op": "A9EC24",
   "len": 23,
   "jp": "「ダマす？{br}おい、地下に何があるんだ？{end}",
-  "en": "",
+  "en": "\"Tricked you? Hey, what's down below?\"{end}",
   "notes": ""
  },
  {
@@ -2471,7 +2471,7 @@
   "op": "A9EC3D",
   "len": 66,
   "jp": "「バケモノの…研究…施設だ。{br}4日前に…事故が起きて…。{br}地下へ行くには…パスワードが…いる。{end}",
-  "en": "",
+  "en": "\"A research... facility... for the monsters. Four{br}days ago... there was an accident... You need...{br}a password... to go down.\"{end}",
   "notes": ""
  },
  {
@@ -2480,7 +2480,7 @@
   "op": "A9EC83",
   "len": 34,
   "jp": "「反応がどんどん弱まっている。{br}もう、これ以上もたんぞ。{end}",
-  "en": "",
+  "en": "\"His life signs are fading fast. He won't last{br}much longer.\"{end}",
   "notes": ""
  },
  {
@@ -2489,7 +2489,7 @@
   "op": "A9ECA7",
   "len": 22,
   "jp": "「しっかりしろ、パスワードを教えるんだ！{end}",
-  "en": "",
+  "en": "\"Hang in there, tell me the password!\"{end}",
   "notes": ""
  },
  {
@@ -2498,7 +2498,7 @@
   "op": "A9ECC2",
   "len": 32,
   "jp": "「パ、パスワードは………。{br}3…1…0…2…だ。{end}",
-  "en": "",
+  "en": "\"Th-the password is......... 3... 1... 0... 2...\"{end}",
   "notes": ""
  },
  {
@@ -2507,7 +2507,7 @@
   "op": "A9ECE7",
   "len": 15,
   "jp": "「分かった、3102だな。{endFD}",
-  "en": "",
+  "en": "\"Got it, 3102.\"{endFD}",
   "notes": ""
  },
  {
@@ -2516,7 +2516,7 @@
   "op": "A9ECF7",
   "len": 41,
   "jp": "このホログラムシートに写ってる男、{br}デビッド＝クレインも地下にいるのか？{end}",
-  "en": "",
+  "en": "This man on the hologram sheet, David Crane...{br}is he down below too?{end}",
   "notes": ""
  },
  {
@@ -2525,7 +2525,7 @@
   "op": "A9ED22",
   "len": 25,
   "jp": "「や、奴は…奴がおれを………ぐふっ！{end}",
-  "en": "",
+  "en": "\"H-him... he's the one who... ghk!\"{end}",
   "notes": ""
  },
  {
@@ -2534,7 +2534,7 @@
   "op": "A9ED42",
   "len": 27,
   "jp": "「そこまでじゃ。{br}生命活動が停止したぞ。{end}",
-  "en": "",
+  "en": "\"That's it. His life functions have stopped.\"{end}",
   "notes": ""
  },
  {
@@ -2543,7 +2543,7 @@
   "op": "A9ED5F",
   "len": 48,
   "jp": "「地下にバイオモンスターの研究施設か…。{br}やっかいな事になってきたみたいだな。{end}",
-  "en": "",
+  "en": "\"A bio-monster research facility underground...{br}This is getting messy.\"{end}",
   "notes": ""
  },
  {
@@ -2552,7 +2552,7 @@
   "op": "A9ED9A",
   "len": 44,
   "jp": "カーク「どうした？{br}こやつはもう死んでおるぞ。{br}パスワードじゃったら、3102じゃ。{end}",
-  "en": "",
+  "en": "Kirk: What is it? This one is already dead. If{br}it's the password you want, it's 3102.{end}",
   "notes": ""
  },
  {
@@ -2561,7 +2561,7 @@
   "op": "A9EDDB",
   "len": 35,
   "jp": "サブ電源コントロールパネルがあります。{br}電源を入れますか？{end}",
-  "en": "",
+  "en": "There's a sub-power control panel. Turn on{br}the power?{end}",
   "notes": ""
  },
  {
@@ -2570,7 +2570,7 @@
   "op": "A9EDFF",
   "len": 15,
   "jp": "  入れる{br}  やめておく{endFE}",
-  "en": "",
+  "en": "Turn it on{br}Leave it{endFE}",
   "notes": ""
  },
  {
@@ -2579,7 +2579,7 @@
   "op": "A9EE48",
   "len": 21,
   "jp": "{c0C:01}「こいつは他の扉とは違うな。{end}",
-  "en": "",
+  "en": "{c0C:01}: This one's different from the other{br}doors.{end}",
   "notes": ""
  },
  {
@@ -2588,7 +2588,7 @@
   "op": "A9EE5F",
   "len": 22,
   "jp": "カーク「電源も入っとらんようじゃぞ。{end}",
-  "en": "",
+  "en": "Kirk: It seems the power isn't on, either.{end}",
   "notes": ""
  },
  {
@@ -2597,7 +2597,7 @@
   "op": "A9EE77",
   "len": 26,
   "jp": "「この先に何か重要な物があるみたいだな。{end}",
-  "en": "",
+  "en": "\"Looks like there's something important past{br}here.\"{end}",
   "notes": ""
  },
  {
@@ -2606,7 +2606,7 @@
   "op": "A9EEA0",
   "len": 21,
   "jp": "カーク「扉の電源が入っとらんぞ。{end}",
-  "en": "",
+  "en": "Kirk: The door has no power.{end}",
   "notes": ""
  },
  {
@@ -2615,7 +2615,7 @@
   "op": "A9EEB7",
   "len": 20,
   "jp": "{c0C:01}「スイッチを探さないとダメか。{end}",
-  "en": "",
+  "en": "{c0C:01}: Guess I've got to find a switch.{end}",
   "notes": ""
  },
  {
@@ -2624,7 +2624,7 @@
   "op": "A9EEDA",
   "len": 33,
   "jp": "カーク「この扉を開けるには{br}パスワードが必要なようじゃ。{end}",
-  "en": "",
+  "en": "Kirk: It seems a password is needed to open{br}this door.{end}",
   "notes": ""
  },
  {
@@ -2633,7 +2633,7 @@
   "op": "A9EEFD",
   "len": 32,
   "jp": "{c0C:01}「そんな事言ったって{br}パスワードなんか知らないぞ。{end}",
-  "en": "",
+  "en": "{c0C:01}: Even if you say so, I don't know any{br}password.{end}",
   "notes": ""
  },
  {
@@ -2642,7 +2642,7 @@
   "op": "A9EF26",
   "len": 54,
   "jp": "カーク「この扉を開けるには{br}パスワードが必要じゃ。{br}4ケタの数字を1つずつ入力するんじゃ。{end}",
-  "en": "",
+  "en": "Kirk: A password is needed to open this door.{br}Enter the four digits one at a time.{end}",
   "notes": ""
  },
  {
@@ -2651,7 +2651,7 @@
   "op": "A9EF5E",
   "len": 14,
   "jp": "{c0C:01}「よし、始めるぞ。{end}",
-  "en": "",
+  "en": "{c0C:01}: Okay, here goes.{end}",
   "notes": ""
  },
  {
@@ -2660,7 +2660,7 @@
   "op": "A9EF82",
   "len": 56,
   "jp": "  「0」      「1」{br}  「2」      「3」{br}{c04:01EA0170}つめのナンバーを入力してください。{endFE}",
-  "en": "",
+  "en": "\"0\" \"1\"{br}\"2\" \"3\"{br}Digit {c04:01EA0170}: enter a number.{endFE}",
   "notes": ""
  },
  {
@@ -2669,7 +2669,7 @@
   "op": "A9F049",
   "len": 19,
   "jp": "{c0C:01}「やった、ロックがはずれたぞ。{end}",
-  "en": "",
+  "en": "{c0C:01}: All right, the lock's open.{end}",
   "notes": ""
  },
  {
@@ -2678,7 +2678,7 @@
   "op": "A9F06B",
   "len": 20,
   "jp": "{c0C:01}「あれ、間違えたみたいだな。{end}",
-  "en": "",
+  "en": "{c0C:01}: Huh, guess I got it wrong.{end}",
   "notes": ""
  },
  {
@@ -2687,7 +2687,7 @@
   "op": "A9F09B",
   "len": 30,
   "jp": "カーク「別に何という事はない。{br}ただの機械じゃ。{end}",
-  "en": "",
+  "en": "Kirk: Nothing special. Just a machine.{end}",
   "notes": ""
  },
  {
@@ -2696,7 +2696,7 @@
   "op": "A9F0C1",
   "len": 47,
   "jp": "カーク「組み立てられたランナーの{br}パーツじゃな。{br}あまり良い品物ではないようじゃ。{end}",
-  "en": "",
+  "en": "Kirk: Assembled runner parts. Not very good{br}merchandise, it seems.{end}",
   "notes": ""
  },
  {
@@ -2705,7 +2705,7 @@
   "op": "A9F0F9",
   "len": 41,
   "jp": "{c0C:01}「ここが研究施設か。{br}なるほど、上の工場とは全く違うな。{end}",
-  "en": "",
+  "en": "{c0C:01}: So this is the research facility.{br}Totally different from the factory upstairs,{br}all right.{end}",
   "notes": ""
  },
  {
@@ -2714,7 +2714,7 @@
   "op": "A9F12A",
   "len": 60,
   "jp": "カーク「このフロアにも動体反応があるぞ。{br}今までのケースから考えると、{br}おそらくバイオモンスターじゃろう。{end}",
-  "en": "",
+  "en": "Kirk: There's movement on this floor too.{br}Judging from what we've seen so far, probably{br}bio-monsters.{end}",
   "notes": ""
  },
  {
@@ -2723,7 +2723,7 @@
   "op": "A9F168",
   "len": 33,
   "jp": "{c0C:01}「デビッド＝クレインも{br}ここにいるハズだ。調べてみよう。{end}",
-  "en": "",
+  "en": "{c0C:01}: David Crane should be here too.{br}Let's look around.{end}",
   "notes": ""
  },
  {
@@ -2732,7 +2732,7 @@
   "op": "A9F1A3",
   "len": 48,
   "jp": "カーク「工場の作業員ではなく、{br}この施設で働いていた研究員のようじゃな。{end}",
-  "en": "",
+  "en": "Kirk: Not a factory worker, but a researcher{br}who worked at this facility, it seems.{end}",
   "notes": ""
  },
  {
@@ -2741,7 +2741,7 @@
   "op": "A9F1D5",
   "len": 57,
   "jp": "{c0C:01}「表向きはランナーの{br}パーツ工場を装って、{br}地下ではバイオ生物の研究か………。{end}",
-  "en": "",
+  "en": "{c0C:01}: On the surface, a runner parts{br}factory, and underground, bio-creature{br}research.........{end}",
   "notes": ""
  },
  {
@@ -2750,7 +2750,7 @@
   "op": "A9F20F",
   "len": 30,
   "jp": "それにしても、何の為にこんな研究を{br}していたんだ？{end}",
-  "en": "",
+  "en": "Still, what were they doing this research for?{end}",
   "notes": ""
  },
  {
@@ -2759,7 +2759,7 @@
   "op": "A9F247",
   "len": 26,
   "jp": "カーク「{c0C:01}、この人間は{br}まだ息があるぞ。{end}",
-  "en": "",
+  "en": "Kirk: {c0C:01}, this human is still breathing.{end}",
   "notes": ""
  },
  {
@@ -2768,7 +2768,7 @@
   "op": "A9F265",
   "len": 24,
   "jp": "工場長「お、お前どうやってここへ…。{end}",
-  "en": "",
+  "en": "Plant Manager: H-how did you get in here...?{end}",
   "notes": ""
  },
  {
@@ -2777,7 +2777,7 @@
   "op": "A9F282",
   "len": 26,
   "jp": "{c0C:01}「おい、一体ここは{br}どうなってるんだ！？{end}",
-  "en": "",
+  "en": "{c0C:01}: Hey, what the hell is going on here?!{end}",
   "notes": ""
  },
  {
@@ -2786,7 +2786,7 @@
   "op": "A9F29E",
   "len": 40,
   "jp": "「見ての通りさ………。{br}ここはバイオモンスターの研究施設だ。{endFD}",
-  "en": "",
+  "en": "\"Just what it looks like......... This is a{br}bio-monster research facility.\"{endFD}",
   "notes": ""
  },
  {
@@ -2795,7 +2795,7 @@
   "op": "A9F2C7",
   "len": 38,
   "jp": "今時、ランナーのパーツ作りだけじゃ{br}大した金にはならないんだよ。{end}",
-  "en": "",
+  "en": "These days, just making runner parts doesn't{br}bring in much money.{end}",
   "notes": ""
  },
  {
@@ -2804,7 +2804,7 @@
   "op": "A9F2EF",
   "len": 26,
   "jp": "「この施設を全部お前達が作ったのか？{end}",
-  "en": "",
+  "en": "\"Did you people build this whole facility?\"{end}",
   "notes": ""
  },
  {
@@ -2813,7 +2813,7 @@
   "op": "A9F30B",
   "len": 24,
   "jp": "「まさか…施設を作ったのはババリアだ。{end}",
-  "en": "",
+  "en": "\"Hardly... Bavaria built the facility.\"{end}",
   "notes": ""
  },
  {
@@ -2822,7 +2822,7 @@
   "op": "A9F325",
   "len": 33,
   "jp": "「ババリアだと！？{br}奴らとお前達はどういう関係なんだ？{end}",
-  "en": "",
+  "en": "\"Bavaria?! What's your connection with them?\"{end}",
   "notes": ""
  },
  {
@@ -2831,7 +2831,7 @@
   "op": "A9F348",
   "len": 60,
   "jp": "「あいつらと取り引きしたのさ…。{br}場所と実験素材を提供する見返りに{br}たんまりと金を…な。{end}",
-  "en": "",
+  "en": "\"We made a deal with them... In return for{br}providing the site and test material, we got a{br}pile of money... see.\"{end}",
   "notes": ""
  },
  {
@@ -2840,7 +2840,7 @@
   "op": "A9F386",
   "len": 38,
   "jp": "「実験素材………？{br}ま、まさか工場の作業員をか！？{end}",
-  "en": "",
+  "en": "\"Test material.........? D-don't tell me... the{br}factory workers?!\"{end}",
   "notes": ""
  },
  {
@@ -2849,7 +2849,7 @@
   "op": "A9F3AE",
   "len": 55,
   "jp": "「フフフ…そうさ。{br}だが、4日前に起きた事故で実験中の{br}バイオモンスターが逃げ出した。{endFD}",
-  "en": "",
+  "en": "\"Heh heh... That's right. But four days ago an{br}accident let a bio-monster under testing{br}escape.\"{endFD}",
   "notes": ""
  },
  {
@@ -2858,7 +2858,7 @@
   "op": "A9F3E6",
   "len": 44,
   "jp": "そのおかげで工場の管理システムは{br}警告レベル4を発動しちまいやがった。{end}",
-  "en": "",
+  "en": "Thanks to that, the factory's control system{br}triggered Alert Level 4.{end}",
   "notes": ""
  },
  {
@@ -2867,7 +2867,7 @@
   "op": "A9F417",
   "len": 22,
   "jp": "「レベル4………完全閉鎖か。{endFD}",
-  "en": "",
+  "en": "\"Level 4......... total lockdown.\"{endFD}",
   "notes": ""
  },
  {
@@ -2876,7 +2876,7 @@
   "op": "A9F42E",
   "len": 37,
   "jp": "しかし、下水道からの通路は開いていた。{br}どういう事だ…？{end}",
-  "en": "",
+  "en": "But the passage from the sewers was open.{br}What does that mean...?{end}",
   "notes": ""
  },
  {
@@ -2885,7 +2885,7 @@
   "op": "A9F455",
   "len": 31,
   "jp": "「ババリアの奴らめ、{br}おれ達の事を見捨てやがった。{endFD}",
-  "en": "",
+  "en": "\"Those Bavaria scum... they abandoned us.\"{endFD}",
   "notes": ""
  },
  {
@@ -2894,7 +2894,7 @@
   "op": "A9F475",
   "len": 32,
   "jp": "ここの人間は、みんなバイオモンスターに{br}やられちまったよ。{end}",
-  "en": "",
+  "en": "The bio-monsters got everybody here.{end}",
   "notes": ""
  },
  {
@@ -2903,7 +2903,7 @@
   "op": "A9F49A",
   "len": 28,
   "jp": "「なんてこった。{br}それじゃあデビッド＝クレインも…。{end}",
-  "en": "",
+  "en": "\"Damn it. Then David Crane too...\"{end}",
   "notes": ""
  },
  {
@@ -2912,7 +2912,7 @@
   "op": "A9F4B8",
   "len": 28,
   "jp": "「デビッドだと？{br}お前、あいつを探しに来たのか。{endFD}",
-  "en": "",
+  "en": "\"David? You came looking for him?\"{endFD}",
   "notes": ""
  },
  {
@@ -2921,7 +2921,7 @@
   "op": "A9F4D5",
   "len": 24,
   "jp": "そうか…あいつを………クックック…。{end}",
-  "en": "",
+  "en": "I see... for him......... heh heh heh...{end}",
   "notes": ""
  },
  {
@@ -2930,7 +2930,7 @@
   "op": "A9F4EF",
   "len": 47,
   "jp": "「オレは探偵だ。{br}デビッドの妻から依頼を受けて来たんだ。{br}何がおかしいんだ？{end}",
-  "en": "",
+  "en": "\"I'm a detective. David's wife hired me. What's{br}so funny?\"{end}",
   "notes": ""
  },
  {
@@ -2939,7 +2939,7 @@
   "op": "A9F520",
   "len": 53,
   "jp": "「ククク………。{br}そこの壁にあるスイッチを入れれば、{br}あいつのいる部屋のロックが外れる。{end}",
-  "en": "",
+  "en": "\"Heh heh heh......... Flip the switch on that wall{br}and the lock on his room will open.\"{end}",
   "notes": ""
  },
  {
@@ -2948,7 +2948,7 @@
   "op": "A9F55A",
   "len": 17,
   "jp": "「デビッドは生きているのか！？{end}",
-  "en": "",
+  "en": "\"David's alive?!\"{end}",
   "notes": ""
  },
  {
@@ -2957,7 +2957,7 @@
   "op": "A9F56D",
   "len": 52,
   "jp": "「あぁ、あいつに会えば、{br}ここでどんな事が行われていたのか{br}全て分かるだろうよ………。{end}",
-  "en": "",
+  "en": "\"Yeah. Meet him, and you'll understand{br}everything that went on here.........\"{end}",
   "notes": ""
  },
  {
@@ -2966,7 +2966,7 @@
   "op": "A9F5A2",
   "len": 21,
   "jp": "クックック………うっ…ぐふっ！！{end}",
-  "en": "",
+  "en": "Heh heh heh......... ugh... ghk!!{end}",
   "notes": ""
  },
  {
@@ -2975,7 +2975,7 @@
   "op": "A9F5BA",
   "len": 12,
   "jp": "「おい！ どうした！？{end}",
-  "en": "",
+  "en": "\"Hey! What's wrong?!\"{end}",
   "notes": ""
  },
  {
@@ -2984,7 +2984,7 @@
   "op": "A9F5CB",
   "len": 21,
   "jp": "「もうダメじゃ。すでに死亡しておる。{end}",
-  "en": "",
+  "en": "\"It's no use. He's already dead.\"{end}",
   "notes": ""
  },
  {
@@ -2993,7 +2993,7 @@
   "op": "A9F5E5",
   "len": 25,
   "jp": "「…デビッドのいる部屋に行くしかないな。{end}",
-  "en": "",
+  "en": "\"...Guess I've got no choice but to go to{br}David's room.\"{end}",
   "notes": ""
  },
  {
@@ -3002,7 +3002,7 @@
   "op": "A9F60A",
   "len": 31,
   "jp": "カーク「すでに死亡しておる。{br}もう用はないハズじゃぞ。{end}",
-  "en": "",
+  "en": "Kirk: He's already dead. You've no further{br}business with him.{end}",
   "notes": ""
  },
  {
@@ -3011,7 +3011,7 @@
   "op": "A9F650",
   "len": 35,
   "jp": "カーク「待て、{c0C:01}。{br}そこにあるのは死体ではないようじゃぞ。{end}",
-  "en": "",
+  "en": "Kirk: Wait, {c0C:01}. That doesn't seem to be a{br}corpse.{end}",
   "notes": ""
  },
  {
@@ -3020,7 +3020,7 @@
   "op": "A9F695",
   "len": 20,
   "jp": "男「ううう…苦しい………。{end}",
-  "en": "",
+  "en": "Man: Ugh... it hurts.........{end}",
   "notes": ""
  },
  {
@@ -3029,7 +3029,7 @@
   "op": "A9F6AF",
   "len": 16,
   "jp": "{c0C:01}「おい、どうしたんだ！？{end}",
-  "en": "",
+  "en": "{c0C:01}: Hey, what's wrong?!{end}",
   "notes": ""
  },
  {
@@ -3038,7 +3038,7 @@
   "op": "A9F6C4",
   "len": 41,
   "jp": "カーク「{c0C:01}、それはデビッドじゃ。{br}ホログラムシートのデータと一致したぞ。{end}",
-  "en": "",
+  "en": "Kirk: {c0C:01}, that's David. He matches the{br}data on the hologram sheet.{end}",
   "notes": ""
  },
  {
@@ -3047,7 +3047,7 @@
   "op": "A9F6F1",
   "len": 64,
   "jp": "デビッド「た、頼む…おれを殺してくれ。{br}もう、意識を保てない…。{br}早く、早くおれを…コロ…シ…テ…。{end}",
-  "en": "",
+  "en": "David: P-please... kill me. I can't... stay{br}conscious... Hurry, hurry and... kill... me...{end}",
   "notes": ""
  },
  {
@@ -3056,7 +3056,7 @@
   "op": "A9F771",
   "len": 18,
   "jp": "「な、何だ？ あいつの体が！？{end}",
-  "en": "",
+  "en": "\"Wh-what? His body's...?!\"{end}",
   "notes": ""
  },
  {
@@ -3065,7 +3065,7 @@
   "op": "A9F8EA",
   "len": 37,
   "jp": "デビッド「あ、ありがとう。{br}これで、もう人を傷つけなくて済む…。{endFD}",
-  "en": "",
+  "en": "David: Th-thank you. Now I won't have to hurt{br}anyone anymore...{endFD}",
   "notes": ""
  },
  {
@@ -3074,7 +3074,7 @@
   "op": "A9F910",
   "len": 18,
   "jp": "でも、君は一体………？{end}",
-  "en": "",
+  "en": "But who are you.........?{end}",
   "notes": ""
  },
  {
@@ -3083,7 +3083,7 @@
   "op": "A9F924",
   "len": 39,
   "jp": "{c0C:01}「オレは探偵だ。{br}あんたの奥さんに頼まれて探しに来たんだ。{end}",
-  "en": "",
+  "en": "{c0C:01}: I'm a detective. Your wife asked me{br}to come find you.{end}",
   "notes": ""
  },
  {
@@ -3092,7 +3092,7 @@
   "op": "A9F953",
   "len": 18,
   "jp": "「そうか、シャロンが………。{end}",
-  "en": "",
+  "en": "\"I see, Sharon did.........\"{end}",
   "notes": ""
  },
  {
@@ -3101,7 +3101,7 @@
   "op": "A9F967",
   "len": 31,
   "jp": "「あんたの体、{br}実験のせいでこんなになっちまったのか？{end}",
-  "en": "",
+  "en": "\"Your body... the experiments did this to{br}you?\"{end}",
   "notes": ""
  },
  {
@@ -3110,7 +3110,7 @@
   "op": "A9F988",
   "len": 54,
   "jp": "「あぁ、全くバカだったよ。{br}金に目がくらんだとはいえ、{br}薬物実験なんかに志願するなんて。{end}",
-  "en": "",
+  "en": "\"Yeah, I was a total fool. Blinded by money, I{br}volunteered for drug experiments.\"{end}",
   "notes": ""
  },
  {
@@ -3119,7 +3119,7 @@
   "op": "A9F9C0",
   "len": 29,
   "jp": "「しかし、薬物実験だけじゃ{br}こんな姿には…。{end}",
-  "en": "",
+  "en": "\"But drug experiments alone wouldn't make{br}you look like...\"{end}",
   "notes": ""
  },
  {
@@ -3128,7 +3128,7 @@
   "op": "A9F9DF",
   "len": 53,
   "jp": "「始めは薬物だけだったんだが、{br}しばらくすると奴らは遺伝子操作まで{br}やり始めたんだ。{endFD}",
-  "en": "",
+  "en": "\"At first it was just drugs, but after a while{br}they started doing gene manipulation too.\"{endFD}",
   "notes": ""
  },
  {
@@ -3137,7 +3137,7 @@
   "op": "A9FA15",
   "len": 19,
   "jp": "そのせいでおれの体は………。{end}",
-  "en": "",
+  "en": "And because of that, my body.........{end}",
   "notes": ""
  },
  {
@@ -3146,7 +3146,7 @@
   "op": "A9FA2D",
   "len": 37,
   "jp": "カーク「おぞましいバイオモンスターに{br}変わり果てたという訳じゃな。{end}",
-  "en": "",
+  "en": "Kirk: Was transformed into a hideous{br}bio-monster, you mean.{end}",
   "notes": ""
  },
  {
@@ -3155,7 +3155,7 @@
   "op": "A9FA58",
   "len": 10,
   "jp": "「やめろ、カーク！{end}",
-  "en": "",
+  "en": "\"Knock it off, Kirk!\"{end}",
   "notes": ""
  },
  {
@@ -3164,7 +3164,7 @@
   "op": "A9FA64",
   "len": 47,
   "jp": "「奴ら…ババリアは何か目的があって{br}人間をバイオ研究に使っているようだ。{end}",
-  "en": "",
+  "en": "\"They... Bavaria seems to be using humans for{br}bio-research with some goal in mind.\"{end}",
   "notes": ""
  },
  {
@@ -3173,7 +3173,7 @@
   "op": "A9FA9A",
   "len": 10,
   "jp": "「目的だって？{end}",
-  "en": "",
+  "en": "\"A goal?\"{end}",
   "notes": ""
  },
  {
@@ -3182,7 +3182,7 @@
   "op": "A9FAA6",
   "len": 67,
   "jp": "「生体兵器の開発か、それとも別の{br}目的か…。詳しい事はわからないが、{br}奴らは何かをやらかそうとしている。{endFD}",
-  "en": "",
+  "en": "\"Developing bio-weapons, or something else... I{br}don't know the details, but they're up to{br}something.\"{endFD}",
   "notes": ""
  },
  {
@@ -3191,7 +3191,7 @@
   "op": "A9FAEA",
   "len": 42,
   "jp": "このままでは、ソリッドシティは{br}奴らの手で地獄に変えられてしまうだろう。{endFD}",
-  "en": "",
+  "en": "At this rate, they'll turn Solid City into a{br}living hell.{endFD}",
   "notes": ""
  },
  {
@@ -3200,7 +3200,7 @@
   "op": "A9FB15",
   "len": 22,
   "jp": "お願いだ…おれの頼みを聞いてくれ。{endFD}",
-  "en": "",
+  "en": "Please... grant me one request.{endFD}",
   "notes": ""
  },
  {
@@ -3209,7 +3209,7 @@
   "op": "A9FB32",
   "len": 39,
   "jp": "「…オレはビジネスにならない事には{br}手を出さない主義なんだがな。{end}",
-  "en": "",
+  "en": "\"...As a rule, I don't touch anything that isn't{br}business.\"{end}",
   "notes": ""
  },
  {
@@ -3218,7 +3218,7 @@
   "op": "A9FB5B",
   "len": 29,
   "jp": "「そこを頼む。{br}このペンダントを妻のシャロンに…。{end}",
-  "en": "",
+  "en": "\"Please, I'm begging you. Give this pendant to{br}my wife, Sharon...\"{end}",
   "notes": ""
  },
  {
@@ -3227,7 +3227,7 @@
   "op": "A9FB82",
   "len": 45,
   "jp": "そして、早く…この街を出て…{br}どこか遠い所へ行くように言って…くれ。{end}",
-  "en": "",
+  "en": "And tell her... to leave this city... quickly...{br}and go somewhere far away...{end}",
   "notes": ""
  },
  {
@@ -3236,7 +3236,7 @@
   "op": "A9FBBD",
   "len": 33,
   "jp": "「仕方ないな…あんたの最後の望み、{br}聞いてやるよ。{end}",
-  "en": "",
+  "en": "\"Guess I've got no choice... I'll grant your last{br}wish.\"{end}",
   "notes": ""
  },
  {
@@ -3245,7 +3245,7 @@
   "op": "A9FBE2",
   "len": 20,
   "jp": "「あ…りが…と…う………。{end}",
-  "en": "",
+  "en": "\"Th...ank...you.........\"{end}",
   "notes": ""
  },
  {
@@ -3254,7 +3254,7 @@
   "op": "A9FBFD",
   "len": 15,
   "jp": "「{c0C:01}。今、彼の…。{end}",
-  "en": "",
+  "en": "\"{c0C:01}. Just now, his...\"{end}",
   "notes": ""
  },
  {
@@ -3263,7 +3263,7 @@
   "op": "A9FC0E",
   "len": 26,
   "jp": "「あぁ、分かってるよ。{br}もう、ここから出よう。{end}",
-  "en": "",
+  "en": "\"Yeah, I know. Let's get out of here.\"{end}",
   "notes": ""
  },
  {
@@ -3272,7 +3272,7 @@
   "op": "A9FCFB",
   "len": 36,
   "jp": "カーク「{c0C:01}、ランナーの反応が{br}接近中じゃ、気をつけろ！{end}",
-  "en": "",
+  "en": "Kirk: {c0C:01}, I'm picking up a runner closing{br}in. Look sharp!{end}",
   "notes": ""
  },
  {
@@ -3281,7 +3281,7 @@
   "op": "A9FD38",
   "len": 34,
   "jp": "{c0C:01}「ババリアめ、工場を爆破でも{br}するつもりだったのか？{end}",
-  "en": "",
+  "en": "{c0C:01}: Damn Bavaria. Were they planning to{br}blow up the factory or something?{end}",
   "notes": ""
  },
  {
@@ -3290,7 +3290,7 @@
   "op": "A9FD5C",
   "len": 44,
   "jp": "カーク「新手が来るといかん。{br}早くここから立ち去った方が良いじゃろう。{end}",
-  "en": "",
+  "en": "Kirk: More of them may come. We had best{br}leave this place quickly.{end}",
   "notes": ""
  },
  {
@@ -3299,7 +3299,7 @@
   "op": "A9FD8A",
   "len": 10,
   "jp": "「あぁ、そうだな。{end}",
-  "en": "",
+  "en": "\"Yeah, you're right.\"{end}",
   "notes": ""
  },
  {
@@ -3308,7 +3308,7 @@
   "op": "A9FDAB",
   "len": 24,
   "jp": "カーク「生物の実験用カプセルじゃな。{end}",
-  "en": "",
+  "en": "Kirk: A capsule for biological experiments, I'd{br}wager.{end}",
   "notes": ""
  },
  {
@@ -3317,7 +3317,7 @@
   "op": "A9FDC5",
   "len": 39,
   "jp": "{c0C:01}「これでバイオモンスターを{br}作り出していたんじゃないだろうな…。{end}",
-  "en": "",
+  "en": "{c0C:01}: Don't tell me they've been making{br}bio-monsters with this...{end}",
   "notes": ""
  },
  {
@@ -3326,7 +3326,7 @@
   "op": "A9FDF4",
   "len": 36,
   "jp": "「これで工場の作業員を{br}バイオモンスターにしていたのか…。{end}",
-  "en": "",
+  "en": "\"So this is how they turned the factory{br}workers into bio-monsters...\"{end}",
   "notes": ""
  },
  {
@@ -3335,7 +3335,7 @@
   "op": "A9FE20",
   "len": 33,
   "jp": "カーク「カプセルの制御機械の様じゃが{br}壊れておるな。{end}",
-  "en": "",
+  "en": "Kirk: It appears to be the control machinery{br}for the capsules, but it's broken.{end}",
   "notes": ""
  },
  {
@@ -3344,7 +3344,7 @@
   "op": "A9FE49",
   "len": 28,
   "jp": "{c0C:01}「データを引き出すのは{br}無理みたいだな。{end}",
-  "en": "",
+  "en": "{c0C:01}: Looks like there's no pulling any{br}data out of it.{end}",
   "notes": ""
  },
  {
@@ -3353,7 +3353,7 @@
   "op": "A9FE6D",
   "len": 21,
   "jp": "{c0C:01}「実験用の機材のようだ。{end}",
-  "en": "",
+  "en": "{c0C:01}: Looks like experimental equipment.{end}",
   "notes": ""
  },
  {
@@ -3362,7 +3362,7 @@
   "op": "A9FE8A",
   "len": 20,
   "jp": "{c0C:01}「こじ開けるのは無理だな。{end}",
-  "en": "",
+  "en": "{c0C:01}: No way I can pry this open.{end}",
   "notes": ""
  },
  {
@@ -3371,7 +3371,7 @@
   "op": "A9FECC",
   "len": 17,
   "jp": "{c0C:01}「そっとしておいてやろう。{end}",
-  "en": "",
+  "en": "{c0C:01}: Let's leave him in peace.{end}",
   "notes": ""
  }
 ]

@@ -4,7 +4,7 @@
   "addr": "92:95FD",
   "len": 7,
   "jp": "ミッション『{end}",
-  "en": "",
+  "en": "Mission '{end}",
   "notes": ""
  },
  {
@@ -12,7 +12,7 @@
   "addr": "92:9604",
   "len": 6,
   "jp": "』終了{end}",
-  "en": "",
+  "en": "' Complete{end}",
   "notes": ""
  },
  {
@@ -20,7 +20,7 @@
   "addr": "92:960A",
   "len": 7,
   "jp": "報告：{end}",
-  "en": "",
+  "en": "Report:{end}",
   "notes": ""
  },
  {
@@ -28,7 +28,7 @@
   "addr": "92:9611",
   "len": 10,
   "jp": "報酬：   {end}",
-  "en": "",
+  "en": "Reward:{end}",
   "notes": ""
  },
  {
@@ -36,7 +36,7 @@
   "addr": "92:961B",
   "len": 13,
   "jp": "所持金合計：{end}",
-  "en": "",
+  "en": "Total Funds:{end}",
   "notes": ""
  }
 ]

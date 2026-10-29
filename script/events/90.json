@@ -5,7 +5,7 @@
   "op": "908423",
   "len": 44,
   "jp": "サンタナ「対戦相手にビビってしまったか？{br}なさけない事に{c0C:02}はリタイアだ。{end}",
-  "en": "",
+  "en": "Santana: Scared of the opponent? How{br}pathetic - {c0C:02} retires!{end}",
   "notes": ""
  },
  {
@@ -14,7 +14,7 @@
   "op": "90DCBE",
   "len": 23,
   "jp": "「攻撃命中、データをフィードバック。{endFE}",
-  "en": "",
+  "en": "\"A hit. Feeding back the data.\"{endFE}",
   "notes": ""
  },
  {
@@ -23,7 +23,7 @@
   "op": "90DCD9",
   "len": 23,
   "jp": "「攻撃命中、だめーじヲ与エマシタ。{endFE}",
-  "en": "",
+  "en": "\"ATTACK HIT. DAMAGE INFLICTED.\"{endFE}",
   "notes": ""
  },
  {
@@ -32,7 +32,7 @@
   "op": "90DCF4",
   "len": 28,
   "jp": "「照準精度良好、敵にダメージを確認。{endFE}",
-  "en": "",
+  "en": "\"Aim is good. Damage to the enemy confirmed.\"{endFE}",
   "notes": ""
  },
  {
@@ -41,7 +41,7 @@
   "op": "90DD2A",
   "len": 23,
   "jp": "「失敗じゃ。攻撃を回避されたぞ。{endFE}",
-  "en": "",
+  "en": "\"Bah, a failure. The attack was dodged.\"{endFE}",
   "notes": ""
  },
  {
@@ -50,7 +50,7 @@
   "op": "90DD45",
   "len": 21,
   "jp": "「攻撃失敗、回避サレマシタ。{endFE}",
-  "en": "",
+  "en": "\"ATTACK FAILED. EVADED.\"{endFE}",
   "notes": ""
  },
  {
@@ -59,7 +59,7 @@
   "op": "90DD5E",
   "len": 19,
   "jp": "「外したぞ。データを補正する。{endFE}",
-  "en": "",
+  "en": "\"Missed. Correcting the data.\"{endFE}",
   "notes": ""
  },
  {
@@ -68,7 +68,7 @@
   "op": "90DD8B",
   "len": 20,
   "jp": "「ダメージを最小限に抑えたぞ。{endFE}",
-  "en": "",
+  "en": "\"We kept the damage to a minimum.\"{endFE}",
   "notes": ""
  },
  {
@@ -77,7 +77,7 @@
   "op": "90DDA3",
   "len": 23,
   "jp": "「防御行動デだめーじヲオサエマシタ。{endFE}",
-  "en": "",
+  "en": "\"DEFENSIVE ACTION REDUCED DAMAGE.\"{endFE}",
   "notes": ""
  },
  {
@@ -86,7 +86,7 @@
   "op": "90DDBE",
   "len": 21,
   "jp": "「いいぞ、回避パターン成功じゃ。{endFE}",
-  "en": "",
+  "en": "\"Good, the evasion pattern worked.\"{endFE}",
   "notes": ""
  },
  {
@@ -95,7 +95,7 @@
   "op": "90DDD7",
   "len": 24,
   "jp": "「回避ぷろぐらむ、正常ニ作動中。{endFE}",
-  "en": "",
+  "en": "\"EVASION PROGRAM OPERATING NORMALLY.\"{endFE}",
   "notes": ""
  },
  {
@@ -104,7 +104,7 @@
   "op": "90DE0C",
   "len": 24,
   "jp": "「耐久力低下、注意シテ下サイ。{endFE}",
-  "en": "",
+  "en": "\"DURABILITY FALLING. PLEASE BE CAREFUL.\"{endFE}",
   "notes": ""
  },
  {
@@ -113,7 +113,7 @@
   "op": "90DE28",
   "len": 26,
   "jp": "「警告、これ以上の被弾は危険じゃ。{endFE}",
-  "en": "",
+  "en": "\"Warning! Any more hits will be most{br}dangerous.\"{endFE}",
   "notes": ""
  },
  {
@@ -122,7 +122,7 @@
   "op": "90DE46",
   "len": 26,
   "jp": "「コレ以上ノ被弾ハ非常ニ危険デス。{endFE}",
-  "en": "",
+  "en": "\"FURTHER HITS ARE EXTREMELY DANGEROUS.\"{endFE}",
   "notes": ""
  },
  {
@@ -131,7 +131,7 @@
   "op": "90DE64",
   "len": 20,
   "jp": "「敵ランナー撃破、記録する。{endFE}",
-  "en": "",
+  "en": "\"Enemy runner destroyed. Logging it.\"{endFE}",
   "notes": ""
  },
  {
@@ -140,7 +140,7 @@
   "op": "90DE7C",
   "len": 18,
   "jp": "「敵らんなーヲ撃破シマシタ。{endFE}",
-  "en": "",
+  "en": "\"ENEMY RUNNER DESTROYED.\"{endFE}",
   "notes": ""
  },
  {
@@ -149,7 +149,7 @@
   "op": "90DE92",
   "len": 23,
   "jp": "「敵ランナーは、もう行動不能じゃ。{endFE}",
-  "en": "",
+  "en": "\"The enemy runner is quite finished, I'd say.\"{endFE}",
   "notes": ""
  },
  {
@@ -158,7 +158,7 @@
   "op": "90DEAD",
   "len": 23,
   "jp": "「敵らんなーヲ行動不能ニシマシタ。{endFE}",
-  "en": "",
+  "en": "\"ENEMY RUNNER DISABLED.\"{endFE}",
   "notes": ""
  },
  {
@@ -167,7 +167,7 @@
   "op": "90DEC8",
   "len": 22,
   "jp": "「敵生物、活動を停止したぞ。{endFE}",
-  "en": "",
+  "en": "\"The enemy creature has stopped moving.\"{endFE}",
   "notes": ""
  },
  {
@@ -176,7 +176,7 @@
   "op": "90DEE2",
   "len": 23,
   "jp": "「敵生物ノ活動停止ヲ確認。{endFE}",
-  "en": "",
+  "en": "\"ENEMY CREATURE INACTIVE. CONFIRMED.\"{endFE}",
   "notes": ""
  },
  {
@@ -185,7 +185,7 @@
   "op": "90DEFD",
   "len": 24,
   "jp": "「敵機動兵器、行動不能じゃ。{endFE}",
-  "en": "",
+  "en": "\"The enemy war machine is done for, I say.\"{endFE}",
   "notes": ""
  },
  {
@@ -194,7 +194,7 @@
   "op": "90DF19",
   "len": 28,
   "jp": "「敵機動兵器ハ行動不能ニナリマシタ。{endFE}",
-  "en": "",
+  "en": "\"ENEMY WAR MACHINE DISABLED.\"{endFE}",
   "notes": ""
  },
  {
@@ -203,7 +203,7 @@
   "op": "90DF39",
   "len": 24,
   "jp": "「敵機動兵器、行動不能じゃ。{endFE}",
-  "en": "",
+  "en": "\"The enemy war machine is done for, I say.\"{endFE}",
   "notes": ""
  },
  {
@@ -212,7 +212,7 @@
   "op": "90DF55",
   "len": 28,
   "jp": "「敵機動兵器ハ行動不能ニナリマシタ。{endFE}",
-  "en": "",
+  "en": "\"ENEMY WAR MACHINE DISABLED.\"{endFE}",
   "notes": ""
  },
  {
@@ -221,7 +221,7 @@
   "op": "90DF75",
   "len": 22,
   "jp": "「ユニットが破損したぞ。注意しろ。{endFE}",
-  "en": "",
+  "en": "\"A unit's been damaged. Mind yourself.\"{endFE}",
   "notes": ""
  },
  {
@@ -230,7 +230,7 @@
   "op": "90DF8F",
   "len": 16,
   "jp": "「武装ガ破損シマシタ。{endFE}",
-  "en": "",
+  "en": "\"WEAPON DAMAGED.\"{endFE}",
   "notes": ""
  },
  {
@@ -239,7 +239,7 @@
   "op": "90DFA3",
   "len": 25,
   "jp": "「ダメージが限界を越えた。爆発するぞ！{endFE}",
-  "en": "",
+  "en": "\"Damage is past the limit. It's going to blow!\"{endFE}",
   "notes": ""
  },
  {
@@ -248,7 +248,7 @@
   "op": "90DFC0",
   "len": 22,
   "jp": "「限界デス。機体ガ爆発シマス。{endFE}",
-  "en": "",
+  "en": "\"LIMIT REACHED. UNIT WILL EXPLODE.\"{endFE}",
   "notes": ""
  },
  {
@@ -257,7 +257,7 @@
   "op": "90DFDA",
   "len": 17,
   "jp": "「装甲が毒に侵されたぞ。{endFE}",
-  "en": "",
+  "en": "\"Our armor's been poisoned.\"{endFE}",
   "notes": ""
  },
  {
@@ -266,7 +266,7 @@
   "op": "90E005",
   "len": 22,
   "jp": "「反応速度が下がってしまったぞ。{endFE}",
-  "en": "",
+  "en": "\"Our Reaction Speed has dropped.\"{endFE}",
   "notes": ""
  },
  {
@@ -275,7 +275,7 @@
   "op": "90E03A",
   "len": 27,
   "jp": "「命中率と回避率が下がってしまったぞ。{endFE}",
-  "en": "",
+  "en": "\"Our Accuracy and Evasion have dropped.\"{endFE}",
   "notes": ""
  },
  {
@@ -284,7 +284,7 @@
   "op": "90E0A4",
   "len": 20,
   "jp": "「敵の装甲を毒で弱らせたぞ。{endFE}",
-  "en": "",
+  "en": "\"We've weakened the enemy's armor with{br}poison.\"{endFE}",
   "notes": ""
  },
  {
@@ -293,7 +293,7 @@
   "op": "90E0D5",
   "len": 21,
   "jp": "「敵の反応速度が下がったぞ。{endFE}",
-  "en": "",
+  "en": "\"The enemy's Reaction Speed has dropped.\"{endFE}",
   "notes": ""
  },
  {
@@ -302,7 +302,7 @@
   "op": "90E0EE",
   "len": 21,
   "jp": "「敵ノ反応速度ヲ下ゲマシタ。{endFE}",
-  "en": "",
+  "en": "\"ENEMY REACTION SPEED LOWERED.\"{endFE}",
   "notes": ""
  },
  {
@@ -311,7 +311,7 @@
   "op": "90E107",
   "len": 26,
   "jp": "「敵の命中率と回避率が下がったぞ。{endFE}",
-  "en": "",
+  "en": "\"The enemy's Accuracy and Evasion have{br}dropped.\"{endFE}",
   "notes": ""
  },
  {
@@ -320,7 +320,7 @@
   "op": "90E125",
   "len": 26,
   "jp": "「敵ノ命中率ト回避率ヲ下ゲマシタ。{endFE}",
-  "en": "",
+  "en": "\"ENEMY ACCURACY AND EVASION LOWERED.\"{endFE}",
   "notes": ""
  },
  {
@@ -329,7 +329,7 @@
   "op": "90E143",
   "len": 20,
   "jp": "「敵の装甲を火で弱らせたぞ。{endFE}",
-  "en": "",
+  "en": "\"We've weakened the enemy's armor with fire.\"{endFE}",
   "notes": ""
  },
  {
@@ -338,7 +338,7 @@
   "op": "90E174",
   "len": 18,
   "jp": "「だめじゃ、逃走失敗じゃ。{endFE}",
-  "en": "",
+  "en": "\"No good! Our escape has failed, I'm afraid.\"{endFE}",
   "notes": ""
  },
  {
@@ -347,7 +347,7 @@
   "op": "90E18A",
   "len": 16,
   "jp": "「逃走ニ失敗シマシタ。{endFE}",
-  "en": "",
+  "en": "\"ESCAPE FAILED.\"{endFE}",
   "notes": ""
  },
  {
@@ -356,7 +356,7 @@
   "op": "90E19E",
   "len": 23,
   "jp": "「アイテム使用中は無防備じゃぞ。{endFE}",
-  "en": "",
+  "en": "\"Mind you, we're defenseless while using an{br}item.\"{endFE}",
   "notes": ""
  },
  {
@@ -365,7 +365,7 @@
   "op": "90E1B9",
   "len": 20,
   "jp": "「あいてむ使用中ハ動ケマセン。{endFE}",
-  "en": "",
+  "en": "\"CANNOT MOVE WHILE USING ITEM.\"{endFE}",
   "notes": ""
  },
  {
@@ -374,7 +374,7 @@
   "op": "90E1D1",
   "len": 25,
   "jp": "「交換中は動けんぞ、気をつけるんじゃ。{endFE}",
-  "en": "",
+  "en": "\"We can't move while swapping. Do take care.\"{endFE}",
   "notes": ""
  },
  {
@@ -383,7 +383,7 @@
   "op": "90E1EE",
   "len": 27,
   "jp": "「交換中ハ動ケマセン。注意シテ下サイ。{endFE}",
-  "en": "",
+  "en": "\"CANNOT MOVE WHILE SWAPPING. PLEASE BE{br}CAREFUL.\"{endFE}",
   "notes": ""
  },
  {
@@ -392,7 +392,7 @@
   "op": "90E20D",
   "len": 26,
   "jp": "「防御フィールドで敵の攻撃を防いだぞ。{endFE}",
-  "en": "",
+  "en": "\"The defense field blocked the enemy's{br}attack.\"{endFE}",
   "notes": ""
  },
  {
@@ -401,7 +401,7 @@
   "op": "90E247",
   "len": 24,
   "jp": "「電気回路の異常が回復したぞ。{endFE}",
-  "en": "",
+  "en": "\"The electrical circuit fault is fixed.\"{endFE}",
   "notes": ""
  },
  {
@@ -410,7 +410,7 @@
   "op": "90E263",
   "len": 25,
   "jp": "「電気回路ノ異常ガ回復シマシタ。{endFE}",
-  "en": "",
+  "en": "\"ELECTRICAL CIRCUIT FAULT REPAIRED.\"{endFE}",
   "notes": ""
  },
  {
@@ -419,7 +419,7 @@
   "op": "90E280",
   "len": 22,
   "jp": "「火を受けた装甲が回復したぞ。{endFE}",
-  "en": "",
+  "en": "\"The fire-damaged armor has recovered.\"{endFE}",
   "notes": ""
  },
  {
@@ -428,7 +428,7 @@
   "op": "90E29A",
   "len": 23,
   "jp": "「火ヲ受ケタ装甲ガ回復シマシタ。{endFE}",
-  "en": "",
+  "en": "\"FIRE-DAMAGED ARMOR RECOVERED.\"{endFE}",
   "notes": ""
  },
  {
@@ -437,7 +437,7 @@
   "op": "90E2B5",
   "len": 25,
   "jp": "「耐火装甲で火の効果を防いだぞ。{endFE}",
-  "en": "",
+  "en": "\"The Fireproof Armor blocked the fire.\"{endFE}",
   "notes": ""
  },
  {
@@ -446,7 +446,7 @@
   "op": "90E2D2",
   "len": 26,
   "jp": "「耐火装甲デ火ノ効果ヲ防ギマシタ。{endFE}",
-  "en": "",
+  "en": "\"FIREPROOF ARMOR BLOCKED FIRE EFFECT.\"{endFE}",
   "notes": ""
  },
  {
@@ -455,7 +455,7 @@
   "op": "90E2F0",
   "len": 25,
   "jp": "「耐毒装甲で毒の効果を防いだぞ。{endFE}",
-  "en": "",
+  "en": "\"The Poisonproof Armor blocked the poison.\"{endFE}",
   "notes": ""
  },
  {
@@ -464,7 +464,7 @@
   "op": "90E30D",
   "len": 26,
   "jp": "「耐毒装甲デ毒ノ効果ヲ防ギマシタ。{endFE}",
-  "en": "",
+  "en": "\"POISONPROOF ARMOR BLOCKED POISON EFFECT.\"{endFE}",
   "notes": ""
  },
  {
@@ -473,7 +473,7 @@
   "op": "90E32B",
   "len": 25,
   "jp": "「耐酸装甲で酸の効果を防いだぞ。{endFE}",
-  "en": "",
+  "en": "\"The Acidproof Armor blocked the acid.\"{endFE}",
   "notes": ""
  },
  {
@@ -482,7 +482,7 @@
   "op": "90E348",
   "len": 26,
   "jp": "「耐酸装甲デ酸ノ効果ヲ防ギマシタ。{endFE}",
-  "en": "",
+  "en": "\"ACIDPROOF ARMOR BLOCKED ACID EFFECT.\"{endFE}",
   "notes": ""
  },
  {
@@ -491,7 +491,7 @@
   "op": "90E366",
   "len": 27,
   "jp": "「耐電装甲で電撃の効果を防いだぞ。{endFE}",
-  "en": "",
+  "en": "\"The Insulated Armor blocked the shock.\"{endFE}",
   "notes": ""
  },
  {
@@ -500,7 +500,7 @@
   "op": "90E385",
   "len": 28,
   "jp": "「耐電装甲デ電撃ノ効果ヲ防ギマシタ。{endFE}",
-  "en": "",
+  "en": "\"INSULATED ARMOR BLOCKED SHOCK EFFECT.\"{endFE}",
   "notes": ""
  },
  {
@@ -509,7 +509,7 @@
   "op": "90E3A5",
   "len": 23,
   "jp": "「敵の動きを読んで行動するのじゃ。{endFE}",
-  "en": "",
+  "en": "\"One must read the enemy's moves before{br}acting.\"{endFE}",
   "notes": ""
  },
  {
@@ -518,7 +518,7 @@
   "op": "90E3C0",
   "len": 25,
   "jp": "「敵ノ行動ヲ考エテ攻撃シテ下サイ。{endFE}",
-  "en": "",
+  "en": "\"PLEASE CONSIDER ENEMY ACTIONS BEFORE{br}ATTACKING.\"{endFE}",
   "notes": ""
  },
  {
@@ -527,7 +527,7 @@
   "op": "90E493",
   "len": 22,
   "jp": "しかし所持数オーバーだ。あきらめよう{endFD}",
-  "en": "",
+  "en": "But I'm carrying too many. Guess I'll give up{br}on it.{endFD}",
   "notes": ""
  },
  {
@@ -536,7 +536,7 @@
   "op": "90E714",
   "len": 18,
   "jp": "経験値、{c04:02310170}獲得{endFD}",
-  "en": "",
+  "en": "Gained {c04:02310170} EXP.{endFD}",
   "notes": ""
  }
 ]

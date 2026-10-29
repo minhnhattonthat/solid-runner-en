@@ -5,7 +5,7 @@
   "op": "9381CB",
   "len": 33,
   "jp": "店のオヤジ「やぁ、いらっしゃい。{br}あんた、ここは初めてだね。{end}",
-  "en": "",
+  "en": "Shopkeeper: Hey, welcome. First time here,{br}huh?{end}",
   "notes": ""
  },
  {
@@ -14,7 +14,7 @@
   "op": "9381EE",
   "len": 17,
   "jp": "{c0C:01}「ここは武器屋かい？{end}",
-  "en": "",
+  "en": "{c0C:01}: This a weapon shop?{end}",
   "notes": ""
  },
  {
@@ -23,7 +23,7 @@
   "op": "938201",
   "len": 54,
   "jp": "「ランナーの武器以外にも、いろんな{br}アイテムを扱ってるよ。{br}どうだい、何か買って行くかい？{end}",
-  "en": "",
+  "en": "\"Besides runner weapons, I carry all kinds of{br}items. How about it? Gonna buy something?\"{end}",
   "notes": ""
  },
  {
@@ -32,7 +32,7 @@
   "op": "93824A",
   "len": 18,
   "jp": "店のオヤジ「やぁ、いらっしゃい。{end}",
-  "en": "",
+  "en": "Shopkeeper: Hey, welcome.{end}",
   "notes": ""
  },
  {
@@ -41,7 +41,7 @@
   "op": "938277",
   "len": 46,
   "jp": "で{br}こっちも商売がし辛くなってきたよ。{br}…おっと、この事は内緒にしてくれよ。{end}",
-  "en": "",
+  "en": "...so business has been getting tough for me{br}too. ...Whoops, keep that between us, okay?{end}",
   "notes": ""
  },
  {
@@ -50,7 +50,7 @@
   "op": "9382B5",
   "len": 16,
   "jp": "店のオヤジ「どうするんだい？{endFE}",
-  "en": "",
+  "en": "Shopkeeper: What'll it be?{endFE}",
   "notes": ""
  },
  {
@@ -59,7 +59,7 @@
   "op": "938311",
   "len": 22,
   "jp": "「よかったらお得意さんになってくれよ。{end}",
-  "en": "",
+  "en": "\"Become a regular if you like.\"{end}",
   "notes": ""
  },
  {
@@ -68,7 +68,7 @@
   "op": "938329",
   "len": 12,
   "jp": "「ああ、考えとくよ。{end}",
-  "en": "",
+  "en": "\"Yeah, I'll think about it.\"{end}",
   "notes": ""
  },
  {
@@ -77,7 +77,7 @@
   "op": "93834F",
   "len": 11,
   "jp": "「また来てくれよ。{end}",
-  "en": "",
+  "en": "\"Come again.\"{end}",
   "notes": ""
  },
  {
@@ -86,7 +86,7 @@
   "op": "938404",
   "len": 18,
   "jp": "店のオヤジ「いくつ買うんだい？{endFE}",
-  "en": "",
+  "en": "Shopkeeper: How many you buying?{endFE}",
   "notes": ""
  },
  {
@@ -95,7 +95,7 @@
   "op": "93844A",
   "len": 21,
   "jp": "店のオヤジ「どうも、毎度あり〜。{endFE}",
-  "en": "",
+  "en": "Shopkeeper: Thanks a lot, come agaaain!{endFE}",
   "notes": ""
  },
  {
@@ -104,7 +104,7 @@
   "op": "938633",
   "len": 22,
   "jp": "店のオヤジ「いくつ売ってくれるんだい？{endFE}",
-  "en": "",
+  "en": "Shopkeeper: How many you selling me?{endFE}",
   "notes": ""
  },
  {
@@ -113,7 +113,7 @@
   "op": "93867A",
   "len": 17,
   "jp": "店のオヤジ「はいよ、ありがと。{endFE}",
-  "en": "",
+  "en": "Shopkeeper: There you go, thanks.{endFE}",
   "notes": ""
  },
  {
@@ -122,7 +122,7 @@
   "op": "93A3B3",
   "len": 22,
   "jp": "店のオヤジ「いくつ売ってくれるんだい？{endFE}",
-  "en": "",
+  "en": "Shopkeeper: How many you selling me?{endFE}",
   "notes": ""
  },
  {
@@ -131,7 +131,7 @@
   "op": "93A3FA",
   "len": 17,
   "jp": "店のオヤジ「はいよ、ありがと。{endFE}",
-  "en": "",
+  "en": "Shopkeeper: There you go, thanks.{endFE}",
   "notes": ""
  },
  {
@@ -140,7 +140,7 @@
   "op": "93A5F3",
   "len": 24,
   "jp": "リフ「よう、どれをチューンナップ{br}するんだい？{endFE}",
-  "en": "",
+  "en": "Riff: So, what do you want tuned up?{endFE}",
   "notes": ""
  },
  {
@@ -149,7 +149,7 @@
   "op": "93A7CB",
   "len": 32,
   "jp": "リフ「ワシがチューンしてやったんだ。{br}大事に扱うんだぞ。{end}",
-  "en": "",
+  "en": "Riff: I tuned it myself. Treat it right.{end}",
   "notes": ""
  },
  {
@@ -158,7 +158,7 @@
   "op": "93A7EF",
   "len": 45,
   "jp": "リフ「何だ、どこも改造しなくていいのか。{br}次はちゃんと考えてから来るんだぞ。{end}",
-  "en": "",
+  "en": "Riff: What, you don't want anything modified?{br}Next time, think it over before you come.{end}",
   "notes": ""
  },
  {
@@ -167,7 +167,7 @@
   "op": "93A94D",
   "len": 16,
   "jp": "リフ「レベルが上がってないぞ{endFE}",
-  "en": "",
+  "en": "Riff: Your level hasn't gone up.{endFE}",
   "notes": ""
  },
  {
@@ -176,7 +176,7 @@
   "op": "93A971",
   "len": 22,
   "jp": "リフ「これ以上、装甲をふやせないぞ{endFE}",
-  "en": "",
+  "en": "Riff: Can't add any more armor than this.{endFE}",
   "notes": ""
  },
  {
@@ -185,7 +185,7 @@
   "op": "93E465",
   "len": 35,
   "jp": "イオン「アクセスに成功したわ。{br}どんな情報を引き出すの？{end}",
-  "en": "",
+  "en": "Ion: Access successful. What info do you want{br}to pull?{end}",
   "notes": ""
  },
  {
@@ -194,7 +194,7 @@
   "op": "93E4A3",
   "len": 45,
   "jp": "  ガルシアの素性について{br}  アイリーン宅襲撃について{br}  ババリアについて{endFE}",
-  "en": "",
+  "en": "Garcia's background{br}The attack on Irene's home{br}Bavaria{endFE}",
   "notes": ""
  },
  {
@@ -203,7 +203,7 @@
   "op": "93E501",
   "len": 75,
   "jp": "「彼は元々、傭兵崩れの殺し屋だったわ。{br}ヨーロッパ各地を転々としながら、色んな{br}組織の仕事を引き受けていたの。{endFD}",
-  "en": "",
+  "en": "\"He started out as a washed-up mercenary{br}turned hitman. He drifted all over Europe,{br}taking jobs from all kinds of organizations.\"{endFD}",
   "notes": ""
  },
  {
@@ -212,7 +212,7 @@
   "op": "93E54D",
   "len": 49,
   "jp": "その腕に目を付けたババリアに誘われ、{br}組織の一員となり、この街へやって来た。{endFD}",
-  "en": "",
+  "en": "Bavaria had its eye on his skills and recruited{br}him. He joined the organization and came to{br}this city.{endFD}",
   "notes": ""
  },
  {
@@ -221,7 +221,7 @@
   "op": "93E583",
   "len": 62,
   "jp": "ランナーの扱いには絶対的な自信があって{br}自分を満足させる為にジャスティスに出場{br}していたんだわ。{end}",
-  "en": "",
+  "en": "He's absolutely sure of himself at the controls{br}of a runner, and he fought in Justice for his{br}own satisfaction.{end}",
   "notes": ""
  },
  {
@@ -230,7 +230,7 @@
   "op": "93E5E8",
   "len": 57,
   "jp": "「チャイナタウンのチャイニーズマフィア{br}『暗龍』を襲ったのは、ババリアのソリッド{br}シティ進出の為よ。{endFD}",
-  "en": "",
+  "en": "\"Bavaria attacked the Dark Dragon,{br}Chinatown's Chinese mafia, so it could move{br}into Solid City.\"{endFD}",
   "notes": ""
  },
  {
@@ -239,7 +239,7 @@
   "op": "93E622",
   "len": 69,
   "jp": "暗龍はソリッドシティにある組織の中でも{br}かなりの力を持っていたわ。それがババリア{br}にとっては、じゃまな存在だったのね。{endFD}",
-  "en": "",
+  "en": "Of all the organizations in Solid City, the Dark{br}Dragon had a lot of power. That made it a{br}nuisance to Bavaria.{endFD}",
   "notes": ""
  },
  {
@@ -248,7 +248,7 @@
   "op": "93E66C",
   "len": 68,
   "jp": "暗龍が本格的にババリア対策に動き出す前に{br}ガルシア達を使って、組織のボスを始末する{br}事にしたんだわ。{end}",
-  "en": "",
+  "en": "Before the Dark Dragon could seriously move{br}against it, Bavaria had Garcia's crew eliminate{br}the Dark Dragon's boss.{end}",
   "notes": ""
  },
  {
@@ -257,7 +257,7 @@
   "op": "93E6E0",
   "len": 75,
   "jp": "「ババリアはヨーロッパのドイツで生まれた{br}組織で、各種ドラッグの密売や軍用ランナー{br}の横流しといった犯罪を犯しているわ。{endFD}",
-  "en": "",
+  "en": "\"Bavaria is an organization born in Germany.{br}Its crimes include dealing all sorts of drugs{br}and smuggling military runners.\"{endFD}",
   "notes": ""
  },
  {
@@ -266,7 +266,7 @@
   "op": "93E72C",
   "len": 69,
   "jp": "ソリッドシティに移ってきてからは、{br}バイオ研究に力を入れていて、街のあちこち{br}に秘密の研究施設を造っているわ。{endFD}",
-  "en": "",
+  "en": "Since moving to Solid City, it's been focusing{br}on bio-research and building secret research{br}facilities all over the city.{endFD}",
   "notes": ""
  },
  {
@@ -275,7 +275,7 @@
   "op": "93E776",
   "len": 38,
   "jp": "アジトの1つがエリア2にあって、今は{br}そこにババリアのボスがいるようね。{end}",
-  "en": "",
+  "en": "One of its hideouts is in Area 2, and it looks{br}like Bavaria's boss is there right now.{end}",
   "notes": ""
  },
  {
@@ -284,7 +284,7 @@
   "op": "93E7A3",
   "len": 43,
   "jp": "  アイリーン宅襲撃について{br}  ババリアについて{br}  ババリアのボスについて{endFE}",
-  "en": "",
+  "en": "The attack on Irene's home{br}Bavaria{br}Bavaria's boss{endFE}",
   "notes": ""
  },
  {
@@ -293,7 +293,7 @@
   "op": "93E811",
   "len": 64,
   "jp": "「ババリアのボスは、20世紀末に{br}ヨーロッパのとある国を恐怖に陥れた政治家{br}の血を受け継いでいるわ。{endFD}",
-  "en": "",
+  "en": "\"Bavaria's boss carries the blood of a{br}politician who terrorized a certain European{br}country at the end of the 20th century.\"{endFD}",
   "notes": ""
  },
  {
@@ -302,7 +302,7 @@
   "op": "93E856",
   "len": 74,
   "jp": "性格は冷酷で残忍。無能な部下は容赦なく{br}排除する男よ。それに、科学者としての{br}知識もかなりのものみたいね。{end}",
-  "en": "",
+  "en": "He's cold and cruel, a man who ruthlessly gets{br}rid of useless underlings. He also seems to{br}know a lot as a scientist.{end}",
   "notes": ""
  },
  {
@@ -311,7 +311,7 @@
   "op": "93E8A7",
   "len": 40,
   "jp": "  ババリアについて{br}  ババリアのボスについて{br}  ババリアのボスの名前{endFE}",
-  "en": "",
+  "en": "Bavaria{br}Bavaria's boss{br}The name of Bavaria's boss{endFE}",
   "notes": ""
  },
  {
@@ -320,7 +320,7 @@
   "op": "93E995",
   "len": 45,
   "jp": "ミネルバ「イオン、データの転送が{br}不安定になって来ています。気を付けて。{end}",
-  "en": "",
+  "en": "Minerva: Ion, the data transfer is getting{br}unstable. Be careful.{end}",
   "notes": ""
  },
  {
@@ -329,7 +329,7 @@
   "op": "93EB12",
   "len": 46,
   "jp": "ミネルバ「暗号化されたシグナルは全部で{br}4つです。全てを発見して下さい。{end}",
-  "en": "",
+  "en": "Minerva: There are four encrypted signals in{br}all. Please find every one of them.{end}",
   "notes": ""
  },
  {
@@ -338,7 +338,7 @@
   "op": "93EB4A",
   "len": 28,
   "jp": "{c0C:01}「どうだ、カーク。シグナルは{br}見つかりそうか？{end}",
-  "en": "",
+  "en": "{c0C:01}: How's it going, Kirk? Think you can{br}find the signals?{end}",
   "notes": ""
  },
  {
@@ -347,7 +347,7 @@
   "op": "93EB6F",
   "len": 38,
   "jp": "カーク「この情報の渦からシグナルを{br}捜し出すのは困難じゃぞ。{endFD}",
-  "en": "",
+  "en": "Kirk: Finding signals in this whirlpool of{br}information won't be easy.{endFD}",
   "notes": ""
  },
  {
@@ -356,7 +356,7 @@
   "op": "93EB9B",
   "len": 21,
   "jp": "「何とか探索して行くしかないな。{end}",
-  "en": "",
+  "en": "\"Guess we'll just have to search our way{br}through.\"{end}",
   "notes": ""
  },
  {
@@ -365,7 +365,7 @@
   "op": "93EBC8",
   "len": 12,
   "jp": "「現在のアドレスは{endFE}",
-  "en": "",
+  "en": "\"The current address is{endFE}",
   "notes": ""
  },
  {
@@ -374,7 +374,7 @@
   "op": "93EBED",
   "len": 29,
   "jp": "  前に進む{br}  右へ曲がる{br}  左へ曲がる{endFE}",
-  "en": "",
+  "en": "Go forward{br}Turn right{br}Turn left{endFE}",
   "notes": ""
  },
  {
@@ -383,7 +383,7 @@
   "op": "93EC8F",
   "len": 21,
   "jp": "「そっちのアドレスへは移動できんぞ。{end}",
-  "en": "",
+  "en": "\"We can't move to that address.\"{end}",
   "notes": ""
  },
  {
@@ -392,7 +392,7 @@
   "op": "93ECB5",
   "len": 19,
   "jp": "「ダイブポイントに戻って来たぞ。{end}",
-  "en": "",
+  "en": "\"We're back at the dive point.\"{end}",
   "notes": ""
  },
  {
@@ -401,7 +401,7 @@
   "op": "93ECD8",
   "len": 28,
   "jp": "「アクセスを中止、電脳空間から抜けます。{end}",
-  "en": "",
+  "en": "\"Aborting access. Exiting cyberspace.\"{end}",
   "notes": ""
  },
  {
@@ -410,7 +410,7 @@
   "op": "93ED62",
   "len": 25,
   "jp": "「{c0C:01}、1つ目のシグナルをキャッチ{br}したぞ。{end}",
-  "en": "",
+  "en": "\"{c0C:01}, I've caught the first signal.\"{end}",
   "notes": ""
  },
  {
@@ -419,7 +419,7 @@
   "op": "93ED8A",
   "len": 26,
   "jp": "「シグナルをキャッチしたぞ。これで2つ目{br}じゃ。{end}",
-  "en": "",
+  "en": "\"Signal caught. That makes two.\"{end}",
   "notes": ""
  },
  {
@@ -428,7 +428,7 @@
   "op": "93EDB3",
   "len": 28,
   "jp": "「シグナルをキャッチしたぞ。残るは、あと{br}1つじゃ。{end}",
-  "en": "",
+  "en": "\"Signal caught. Only one left.\"{end}",
   "notes": ""
  },
  {
@@ -437,7 +437,7 @@
   "op": "93EDDE",
   "len": 20,
   "jp": "「最後のシグナルをキャッチしたぞ。{endFD}",
-  "en": "",
+  "en": "\"I've caught the last signal.\"{endFD}",
   "notes": ""
  },
  {
@@ -446,7 +446,7 @@
   "op": "93EDFD",
   "len": 36,
   "jp": "「よし、ダイブポイントに戻って電脳空間{br}から抜け出そう。{end}",
-  "en": "",
+  "en": "\"Right, let's go back to the dive point and get{br}out of cyberspace.\"{end}",
   "notes": ""
  },
  {
@@ -455,7 +455,7 @@
   "op": "93F03E",
   "len": 31,
   "jp": "{c0C:01}「うう、ここはどこだ。オレは{br}どうなってしまったんだ？{endFD}",
-  "en": "",
+  "en": "{c0C:01}: Ugh, where am I? What's happened to{br}me?{endFD}",
   "notes": ""
  },
  {
@@ -464,7 +464,7 @@
   "op": "93F05E",
   "len": 52,
   "jp": "……………………そうか、オレはランナーに{br}意識を取り込まれようとしているのか。{endFD}",
-  "en": "",
+  "en": ".................. I see. The runner's trying to{br}swallow my mind.{endFD}",
   "notes": ""
  },
  {
@@ -473,7 +473,7 @@
   "op": "93F093",
   "len": 18,
   "jp": "声「{c0C:01}、{c0C:01}………。{end}",
-  "en": "",
+  "en": "Voice: {c0C:01}, {c0C:01}...{end}",
   "notes": ""
  },
  {
@@ -482,7 +482,7 @@
   "op": "93F0A6",
   "len": 17,
   "jp": "「誰かオレを呼んでいるのか？{end}",
-  "en": "",
+  "en": "\"Is someone calling me?\"{end}",
   "notes": ""
  },
  {
@@ -491,7 +491,7 @@
   "op": "93F0B8",
   "len": 12,
   "jp": "「{c0C:01}、こっちじゃ。{end}",
-  "en": "",
+  "en": "\"{c0C:01}, over here.\"{end}",
   "notes": ""
  },
  {
@@ -500,7 +500,7 @@
   "op": "93F0E3",
   "len": 13,
   "jp": "「誰なんだ、お前は？{end}",
-  "en": "",
+  "en": "\"Who are you?\"{end}",
   "notes": ""
  },
  {
@@ -509,7 +509,7 @@
   "op": "93F0F5",
   "len": 14,
   "jp": "「ワシじゃよ、カークじゃ。{end}",
-  "en": "",
+  "en": "\"It's me. Kirk.\"{end}",
   "notes": ""
  },
  {
@@ -518,7 +518,7 @@
   "op": "93F108",
   "len": 14,
   "jp": "「カーク？ カークなのか。{endFD}",
-  "en": "",
+  "en": "\"Kirk? Is that you, Kirk?\"{endFD}",
   "notes": ""
  },
  {
@@ -527,7 +527,7 @@
   "op": "93F117",
   "len": 60,
   "jp": "どうやらオレはもうおしまいのようだ。お前{br}とは今まで色々と言い合って来たけど、結構{br}楽しかったよ。{end}",
-  "en": "",
+  "en": "Looks like I'm finished. We've had a lot of{br}arguments, you and me, but it was pretty fun.{end}",
   "notes": ""
  },
  {
@@ -536,7 +536,7 @@
   "op": "93F158",
   "len": 24,
   "jp": "「何を言っておるんじゃ。お前らしくない。{end}",
-  "en": "",
+  "en": "\"What are you saying? That's not like you.\"{end}",
   "notes": ""
  },
  {
@@ -545,7 +545,7 @@
   "op": "93F175",
   "len": 36,
   "jp": "「そうか？ でも本心さ。最後の最後でそれ{br}が分かったよ。{end}",
-  "en": "",
+  "en": "\"Is it? But I mean it. I only figured it out{br}right at the very end.\"{end}",
   "notes": ""
  },
  {
@@ -554,7 +554,7 @@
   "op": "93F19E",
   "len": 34,
   "jp": "「安心しろ、{c0C:01}。お前はランナーに{br}取り込まれはせぬ。{end}",
-  "en": "",
+  "en": "\"Fear not, {c0C:01}. The runner shan't swallow{br}you.\"{end}",
   "notes": ""
  },
  {
@@ -563,7 +563,7 @@
   "op": "93F1C5",
   "len": 13,
   "jp": "「えっ、どういう事だ？{end}",
-  "en": "",
+  "en": "\"Huh? What do you mean?\"{end}",
   "notes": ""
  },
  {
@@ -572,7 +572,7 @@
   "op": "93F1D7",
   "len": 48,
   "jp": "「人間がランナーに取り込まれるのを防ぐ{br}機能がワシの中に隠されていたのじゃ。{endFD}",
-  "en": "",
+  "en": "\"There was a function hidden inside me that{br}stops a human from being swallowed by a{br}runner.\"{endFD}",
   "notes": ""
  },
  {
@@ -581,7 +581,7 @@
   "op": "93F208",
   "len": 56,
   "jp": "どうやらスクラップにされかかった時から、{br}プログラムの存在自体を見失ってしまって{br}いたようじゃ。{end}",
-  "en": "",
+  "en": "It seems that ever since I was nearly{br}scrapped, I'd lost track of the program's very{br}existence.{end}",
   "notes": ""
  },
  {
@@ -590,7 +590,7 @@
   "op": "93F245",
   "len": 38,
   "jp": "「取り込まれるのを防ぐ機能だって？{br}それは一体………。{end}",
-  "en": "",
+  "en": "\"A function that stops you being swallowed?{br}What in the world...?\"{end}",
   "notes": ""
  },
  {
@@ -599,7 +599,7 @@
   "op": "93F270",
   "len": 72,
   "jp": "「人間とランナーの間に、身代わりを置くの{br}じゃ。そいつが人間の代わりにランナーと{br}一体化する事でパイロットを守る。{end}",
-  "en": "",
+  "en": "\"A substitute is placed between the human and{br}the runner. It merges with the runner in the{br}human's place, and so protects the pilot.\"{end}",
   "notes": ""
  },
  {
@@ -608,7 +608,7 @@
   "op": "93F2BD",
   "len": 37,
   "jp": "「身代わりって………。カーク、お前の事{br}じゃあないのか！？{end}",
-  "en": "",
+  "en": "\"A substitute...? Kirk, you don't mean you?!\"{end}",
   "notes": ""
  },
  {
@@ -617,7 +617,7 @@
   "op": "93F2E7",
   "len": 63,
   "jp": "「そうじゃ。ワシの元の主人じゃった将軍は{br}プロトタイプではあるが、その機能をワシに{br}組み込んでいたのじゃ。{end}",
-  "en": "",
+  "en": "\"Just so. The General, my former master, built{br}that function into me, though only as a{br}prototype.\"{end}",
   "notes": ""
  },
  {
@@ -626,7 +626,7 @@
   "op": "93F32B",
   "len": 33,
   "jp": "「じゃあ、トーマスが言おうとしていたのは{br}その事だったのか。{end}",
-  "en": "",
+  "en": "\"So that's what Thomas was trying to tell me.\"{end}",
   "notes": ""
  },
  {
@@ -635,7 +635,7 @@
   "op": "93F351",
   "len": 43,
   "jp": "「言ったじゃろう、ワシは『特別』じゃと。{br}じゃから安心するんじゃ、{c0C:01}。{endFD}",
-  "en": "",
+  "en": "\"Didn't I tell you? I'm 'special.' So rest easy,{br}{c0C:01}.\"{endFD}",
   "notes": ""
  },
  {
@@ -644,7 +644,7 @@
   "op": "93F37D",
   "len": 63,
   "jp": "ワシも、お前との生活を楽しかったと思って{br}おるよ。ワシらは良き相棒、いや親友とでも{br}いう仲じゃったな。{end}",
-  "en": "",
+  "en": "I too have enjoyed our life together. We were{br}good partners - no, best friends, you might{br}say.{end}",
   "notes": ""
  },
  {
@@ -653,7 +653,7 @@
   "op": "93F3C1",
   "len": 10,
   "jp": "「カーク……。{end}",
-  "en": "",
+  "en": "\"Kirk...\"{end}",
   "notes": ""
  },
  {
@@ -662,7 +662,7 @@
   "op": "93F3D0",
   "len": 66,
   "jp": "「そろそろお別れじゃ。{c0C:01}、必ず{br}バイスハイトを倒すのじゃ。そしてその後は{br}お前の幸せを得る為に生きるのじゃ。{end}",
-  "en": "",
+  "en": "\"It's nearly time to part. {c0C:01}, you must{br}defeat Weissheit. And after that, live to find{br}your own happiness.\"{end}",
   "notes": ""
  },
  {
@@ -671,7 +671,7 @@
   "op": "93F413",
   "len": 44,
   "jp": "良いな、{c0C:01}。ワシはランナーと一体{br}となって、お前を見守っておるぞ…。{end}",
-  "en": "",
+  "en": "Understood, {c0C:01}? I'll become one with the{br}runner and watch over you...{end}",
   "notes": ""
  },
  {
@@ -680,7 +680,7 @@
   "op": "93F450",
   "len": 18,
   "jp": "「カーク…………カーク！！{endFE}",
-  "en": "",
+  "en": "\"Kirk... Kirk!!\"{endFE}",
   "notes": ""
  }
 ]

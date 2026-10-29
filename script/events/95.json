@@ -5,7 +5,7 @@
   "op": "958461",
   "len": 23,
   "jp": "「式の事はまた後日に話し合おう。{end}",
-  "en": "",
+  "en": "\"We'll talk about the ceremony another day.\"{end}",
   "notes": ""
  },
  {
@@ -14,7 +14,7 @@
   "op": "95847F",
   "len": 58,
   "jp": "タオ「どうやら、裏の世界で{br}大きな動きがあるようだな。{br}お前達の結婚式が近いというのに…。{end}",
-  "en": "",
+  "en": "Tao: Seems something big is stirring in the{br}underworld. And with your wedding so close,{br}too...{end}",
   "notes": ""
  },
  {
@@ -23,7 +23,7 @@
   "op": "9584C9",
   "len": 54,
   "jp": "タオ「…とにかくだ。{br}アイリーンは、わしの一人娘。{br}他に龍の血と符丁をつぐ者はおらん。{endFD}",
-  "en": "",
+  "en": "Tao: ...Anyway. Irene is my only daughter. No{br}one else carries on the Dragon's blood and its{br}signs.{endFD}",
   "notes": ""
  },
  {
@@ -32,7 +32,7 @@
   "op": "958500",
   "len": 44,
   "jp": "その娘に むこどのを迎えるのだから{br}式は組織をあげて盛大に行わねばな。{end}",
-  "en": "",
+  "en": "She's taking a husband, so the whole{br}organization must throw a grand ceremony.{end}",
   "notes": ""
  },
  {
@@ -41,7 +41,7 @@
   "op": "95852E",
   "len": 50,
   "jp": "{c0C:01}「何度も言うが、オレは{br}あんたらの組織『暗龍』と結婚するんじゃ{br}ないんだ。{endFD}",
-  "en": "",
+  "en": "{c0C:01}: Like I keep telling you, I'm not{br}marrying your organization, the 'Dark Dragon.'{endFD}",
   "notes": ""
  },
  {
@@ -50,7 +50,7 @@
   "op": "958564",
   "len": 41,
   "jp": "アイリーンを愛しているから、一緒に{br}なるんだ。ハデな式なんてゴメンだぜ。{end}",
-  "en": "",
+  "en": "I'm marrying Irene because I love her. Spare{br}me the flashy wedding.{end}",
   "notes": ""
  },
  {
@@ -59,7 +59,7 @@
   "op": "958594",
   "len": 52,
   "jp": "アイリーン「パパ、{br}私も{c0C:01}と同じ気持ちよ。{br}私達の結婚に暗龍は関係ないわ。{end}",
-  "en": "",
+  "en": "Irene: Papa, I feel the same as {c0C:01}. Our{br}wedding has nothing to do with the Dark{br}Dragon.{end}",
   "notes": ""
  },
  {
@@ -68,7 +68,7 @@
   "op": "9585CA",
   "len": 16,
   "jp": "「アイリーン おまえまで…！{end}",
-  "en": "",
+  "en": "\"Irene, not you too...!\"{end}",
   "notes": ""
  },
  {
@@ -77,7 +77,7 @@
   "op": "9585E2",
   "len": 29,
   "jp": "シスターレイチェル「まあまあ、{br}タオさん落ち着いて。{endFD}",
-  "en": "",
+  "en": "Sister Rachel: Now, now, Tao-san, calm{br}yourself.{endFD}",
   "notes": ""
  },
  {
@@ -86,7 +86,7 @@
   "op": "958602",
   "len": 46,
   "jp": "アイリーン、あなただって{br}皆さんに祝福されて{br}{c0C:01}と一緒になりたいのでしょう？{end}",
-  "en": "",
+  "en": "Irene, you too want to marry {c0C:01} with{br}everyone's blessing, don't you?{end}",
   "notes": ""
  },
  {
@@ -95,7 +95,7 @@
   "op": "958634",
   "len": 12,
   "jp": "「ええ、もちろん…。{end}",
-  "en": "",
+  "en": "\"Yes, of course...\"{end}",
   "notes": ""
  },
  {
@@ -104,7 +104,7 @@
   "op": "958645",
   "len": 42,
   "jp": "「ならば決まりだ！{br}このチャイナタウンをあげての{br}盛大な式をあげてやるぞ！{end}",
-  "en": "",
+  "en": "\"Then it's settled! We'll throw a grand{br}ceremony with all of Chinatown!\"{end}",
   "notes": ""
  },
  {
@@ -113,7 +113,7 @@
   "op": "958673",
   "len": 5,
   "jp": "「パパ！{end}",
-  "en": "",
+  "en": "\"Papa!\"{end}",
   "notes": ""
  },
  {
@@ -122,7 +122,7 @@
   "op": "95867F",
   "len": 41,
   "jp": "「お待ちなさい。{br}主は、そのようなミエをはることを{br}お望みにはなりません。{endFD}",
-  "en": "",
+  "en": "\"Wait a moment. The Lord does not wish for{br}such vain displays.\"{endFD}",
   "notes": ""
  },
  {
@@ -131,7 +131,7 @@
   "op": "9586AC",
   "len": 62,
   "jp": "…そうね、ごくごく親しい方だけを{br}お呼びして、わたくしの修道院で{br}小さな式をあげるというのはどうかしら？{end}",
-  "en": "",
+  "en": "...Let me see. How about inviting only your{br}very closest friends and holding a small{br}ceremony at my convent?{end}",
   "notes": ""
  },
  {
@@ -140,7 +140,7 @@
   "op": "9586EF",
   "len": 34,
   "jp": "「待って下さいよ。{br}オレは神様なんて、これっぽっちも…。{end}",
-  "en": "",
+  "en": "\"Hold on a sec. I don't believe in God one{br}bit...\"{end}",
   "notes": ""
  },
  {
@@ -149,7 +149,7 @@
   "op": "958718",
   "len": 22,
   "jp": "「{c0C:01}＝{c0C:00}、{br}思い出しますわね。{endFD}",
-  "en": "",
+  "en": "\"{c0C:01} {c0C:00}, do you remember?\"{endFD}",
   "notes": ""
  },
  {
@@ -158,7 +158,7 @@
   "op": "95872F",
   "len": 64,
   "jp": "あなたの背丈が、まだわたくしの{br}肩くらいまでしかなかった頃。{br}庭で飼っていた犬に追い回された時の事…。{end}",
-  "en": "",
+  "en": "Back when you were only as tall as my{br}shoulder. The time the dog we kept in the{br}garden chased you all around...{end}",
   "notes": ""
  },
  {
@@ -167,7 +167,7 @@
   "op": "958774",
   "len": 16,
   "jp": "「わ、分かったよ、シスター。{end}",
-  "en": "",
+  "en": "\"O-okay, I get it, Sister.\"{end}",
   "notes": ""
  },
  {
@@ -176,7 +176,7 @@
   "op": "958786",
   "len": 42,
   "jp": "「神様！ 助けて下さい！ などと{br}目を真っ赤にはらして泣いて…。{end}",
-  "en": "",
+  "en": "\"'God! Please save me!' you cried, your eyes all{br}red and swollen...\"{end}",
   "notes": ""
  },
  {
@@ -185,7 +185,7 @@
   "op": "9587B6",
   "len": 50,
   "jp": "「分かったってば！{br}もう結婚式だろ〜が、仮装行列だろ〜が{br}何でもやるってば！{end}",
-  "en": "",
+  "en": "\"Okay, okay! Wedding, costume parade,{br}whatever - I'll do it all!\"{end}",
   "notes": ""
  },
  {
@@ -194,7 +194,7 @@
   "op": "9587ED",
   "len": 47,
   "jp": "「あなたが、あいかわらず素直な子で{br}うれしいわ。{br}タオさん、あなたもよろしいですわね？{end}",
-  "en": "",
+  "en": "\"I'm so glad you're as good a boy as ever.{br}Tao-san, that is all right with you as well,{br}isn't it?\"{end}",
   "notes": ""
  },
  {
@@ -203,7 +203,7 @@
   "op": "958822",
   "len": 55,
   "jp": "「ううむ…シスターは、わしにとっても{br}恩のある方。仕方ないですな、その通りに{br}するとしましょう。{end}",
-  "en": "",
+  "en": "\"Hmm... I owe the Sister a great deal myself.{br}Very well, we'll do as you say.\"{end}",
   "notes": ""
  },
  {
@@ -212,7 +212,7 @@
   "op": "958860",
   "len": 17,
   "jp": "「ありがとうパパ。愛してるわ。{end}",
-  "en": "",
+  "en": "\"Thank you, Papa. I love you.\"{end}",
   "notes": ""
  },
  {
@@ -221,7 +221,7 @@
   "op": "958878",
   "len": 37,
   "jp": "「話も決まった事ですし{br}私はそろそろ修道院へもどりますわ。{end}",
-  "en": "",
+  "en": "\"Now that it's all settled, I shall be heading{br}back to the convent.\"{end}",
   "notes": ""
  },
  {
@@ -230,7 +230,7 @@
   "op": "9588AF",
   "len": 37,
   "jp": "「ところで、最近この辺りで{br}よそ者が暴れているって聞いたが？{end}",
-  "en": "",
+  "en": "\"By the way, I heard some outsiders have{br}been stirring up trouble around here lately?\"{end}",
   "notes": ""
  },
  {
@@ -239,7 +239,7 @@
   "op": "9588D9",
   "len": 68,
   "jp": "「うむ。ババリアといってヨーロッパから{br}進出してきた組織だ。奴ら違法ドラッグを{br}売りさばいたりして荒かせぎしておる。{end}",
-  "en": "",
+  "en": "\"Mm. An organization called Bavaria that's{br}moved in from Europe. They're raking it in{br}selling illegal drugs and the like.\"{end}",
   "notes": ""
  },
  {
@@ -248,7 +248,7 @@
   "op": "95891F",
   "len": 34,
   "jp": "「ババリアか………。{br}物騒な事になってきたみたいだな。{end}",
-  "en": "",
+  "en": "\"Bavaria... Sounds like things are getting{br}dangerous.\"{end}",
   "notes": ""
  },
  {
@@ -257,7 +257,7 @@
   "op": "958946",
   "len": 63,
   "jp": "「私、パパの事が心配だわ。{br}『暗龍』は犯罪組織じゃないんだから{br}あまり危険な事には関わらないで。{end}",
-  "en": "",
+  "en": "\"I'm worried about you, Papa. The 'Dark{br}Dragon' isn't a criminal organization, so don't{br}get mixed up in anything too dangerous.\"{end}",
   "notes": ""
  },
  {
@@ -266,7 +266,7 @@
   "op": "958987",
   "len": 62,
   "jp": "「分かっておるとも。ただ奴らを{br}放っていてはチャイナタウンをまとめる{br}我々暗龍のメンツが丸潰れなのでな。{endFD}",
-  "en": "",
+  "en": "\"Of course, I know. But if we leave them be,{br}we of the Dark Dragon, who hold Chinatown{br}together, will lose all face.\"{endFD}",
   "notes": ""
  },
  {
@@ -275,7 +275,7 @@
   "op": "9589C6",
   "len": 50,
   "jp": "その事で今日はこの後に予定が入っておる。{br}式の事はまた後日に話し合おう。{end}",
-  "en": "",
+  "en": "That's why I have an appointment after this{br}today. We'll talk about the ceremony another{br}day.{end}",
   "notes": ""
  },
  {
@@ -284,7 +284,7 @@
   "op": "9589FD",
   "len": 33,
   "jp": "「大変だな、組織ってのは。{br}それじゃ、今日はこれで。{end}",
-  "en": "",
+  "en": "\"Running an organization sure is rough. Well,{br}I'll be off for today.\"{end}",
   "notes": ""
  },
  {
@@ -293,7 +293,7 @@
   "op": "958A22",
   "len": 19,
   "jp": "「じゃあまたね。愛してるわ、パパ。{end}",
-  "en": "",
+  "en": "\"See you later. I love you, Papa.\"{end}",
   "notes": ""
  },
  {
@@ -302,7 +302,7 @@
   "op": "958B16",
   "len": 40,
   "jp": "「お嬢さん、せっかくいらしたんですから{br}みんなに声をかけてやって下さい。{end}",
-  "en": "",
+  "en": "\"Miss, since you've come all this way, please{br}say hello to everyone.\"{end}",
   "notes": ""
  },
  {
@@ -311,7 +311,7 @@
   "op": "958B5D",
   "len": 54,
   "jp": "「お話は済んだようですね。{br}それでは、お宅までお送りしましょう。{br}外に車を待たせてあります。{end}",
-  "en": "",
+  "en": "\"Looks like you're done talking. Then allow me{br}to see you home. I have a car waiting{br}outside.\"{end}",
   "notes": ""
  },
  {
@@ -320,7 +320,7 @@
   "op": "958C07",
   "len": 30,
   "jp": "「ボスの心配事が現実にならなければ{br}いいんだが。{end}",
-  "en": "",
+  "en": "\"I hope the boss's worries don't come true.\"{end}",
   "notes": ""
  },
  {
@@ -329,7 +329,7 @@
   "op": "958C65",
   "len": 42,
   "jp": "「ソリッドシティには、ババリアの他にも{br}バイビジブルという組織があるんです。{endFD}",
-  "en": "",
+  "en": "\"Besides Bavaria, Solid City also has an{br}organization called Bivisible.\"{endFD}",
   "notes": ""
  },
  {
@@ -338,7 +338,7 @@
   "op": "958C90",
   "len": 48,
   "jp": "もっとも、ババリアが共通の敵という事で{br}お互いに干渉しない事になってますがね。{end}",
-  "en": "",
+  "en": "Though since Bavaria is our common enemy,{br}we've agreed not to get in each other's way.{end}",
   "notes": ""
  },
  {
@@ -347,7 +347,7 @@
   "op": "958CC7",
   "len": 42,
   "jp": "「最近、ババリアの下っ端連中との{br}小ぜりあいが多くて困ってます。{end}",
-  "en": "",
+  "en": "\"Lately there've been a lot of scuffles with{br}Bavaria's underlings. It's a real headache.\"{end}",
   "notes": ""
  },
  {
@@ -356,7 +356,7 @@
   "op": "958D0C",
   "len": 42,
   "jp": "「最近バイオモンスターがあちこちに{br}出没しているのもババリアのせいかなぁ。{end}",
-  "en": "",
+  "en": "\"I wonder if Bavaria's behind all the{br}bio-monsters turning up everywhere lately.\"{end}",
   "notes": ""
  },
  {
@@ -365,7 +365,7 @@
   "op": "958D3D",
   "len": 57,
   "jp": "「バイオモンスターの中には{br}人間並みに頭の良いヤツもいるって{br}聞きましたけど、本当ですかねぇ？{end}",
-  "en": "",
+  "en": "\"I heard some bio-monsters are as smart as{br}humans. You think that's true?\"{end}",
   "notes": ""
  },
  {
@@ -374,7 +374,7 @@
   "op": "958D8E",
   "len": 45,
   "jp": "「あっお嬢さん、もうすぐ式だそうっスね。{br}おめでたいっスけど…少し悲しいっス。{endFD}",
-  "en": "",
+  "en": "\"Oh, miss, I hear the wedding's real soon. It's{br}great news and all, but... I'm a little sad.\"{endFD}",
   "notes": ""
  },
  {
@@ -383,7 +383,7 @@
   "op": "958DBC",
   "len": 32,
   "jp": "{c0C:01}さん、お嬢さんの事を{br}どうかよろしくお願いします。{end}",
-  "en": "",
+  "en": "{c0C:01}-san, please take good care of the{br}young miss.{end}",
   "notes": ""
  },
  {
@@ -392,7 +392,7 @@
   "op": "958DE3",
   "len": 58,
   "jp": "「ここはお嬢さんの、となりはボスの{br}お部屋です。そういえば、今日は{br}お嬢さんと一緒じゃないんスか？{end}",
-  "en": "",
+  "en": "\"This here's the young miss's room, and next{br}door's the boss's. Say, she's not with you{br}today?\"{end}",
   "notes": ""
  },
  {
@@ -401,7 +401,7 @@
   "op": "958E35",
   "len": 55,
   "jp": "「お嬢さんが帰ると、いつもボスは{br}寂しそうです。式を上げてからも{br}こちらに遊びに来て下さい。{end}",
-  "en": "",
+  "en": "\"Whenever you head home, miss, the boss{br}always looks lonely. Please come visit even{br}after the wedding.\"{end}",
   "notes": ""
  },
  {
@@ -410,7 +410,7 @@
   "op": "958E71",
   "len": 37,
   "jp": "「分かってるわ。2人っきりの{br}親子ですものね。心配しないで。{end}",
-  "en": "",
+  "en": "\"I know. We're all the family we've got, the{br}two of us. Don't worry.\"{end}",
   "notes": ""
  },
  {
@@ -419,7 +419,7 @@
   "op": "958E9D",
   "len": 29,
   "jp": "「おや、{c0C:01}さん。{br}どうぞゆっくりしていって下さい。{end}",
-  "en": "",
+  "en": "\"Oh, {c0C:01}-san. Please, make yourself at{br}home.\"{end}",
   "notes": ""
  },
  {
@@ -428,7 +428,7 @@
   "op": "958ED2",
   "len": 61,
   "jp": "「我々『暗龍』はいわゆる犯罪組織としての{br}マフィアではなくて、経済団体のような{br}ものなんですよ。{endFD}",
-  "en": "",
+  "en": "\"We of the 'Dark Dragon' aren't a mafia in the{br}sense of a criminal organization. We're more{br}like a business association.\"{endFD}",
   "notes": ""
  },
  {
@@ -437,7 +437,7 @@
   "op": "958F10",
   "len": 65,
   "jp": "ま、裏世界への影響力もあるんですがね。{br}うちのボスはソリッドシティに住んでいる{br}チャイニーズのまとめ役なんです。{end}",
-  "en": "",
+  "en": "Well, we do have some pull in the underworld{br}too. Our boss is the leader of the Chinese{br}living in Solid City.{end}",
   "notes": ""
  },
  {
@@ -446,7 +446,7 @@
   "op": "958F58",
   "len": 62,
   "jp": "「世の中、常に表と裏があるものです。{br}我々のような組織も、必要があって{br}存在するものなんですよ。{end}",
-  "en": "",
+  "en": "\"The world always has a front and a back.{br}Organizations like ours exist because they're{br}needed.\"{end}",
   "notes": ""
  },
  {
@@ -455,7 +455,7 @@
   "op": "9592C2",
   "len": 17,
   "jp": "{c0C:01}「タオ、大丈夫か！？{endFE}",
-  "en": "",
+  "en": "{c0C:01}: Tao, are you all right?!{endFE}",
   "notes": ""
  },
  {
@@ -464,7 +464,7 @@
   "op": "9592ED",
   "len": 11,
   "jp": "{c0C:01}「あ、あれは！{end}",
-  "en": "",
+  "en": "{c0C:01}: Th-that's...!{end}",
   "notes": ""
  },
  {
@@ -473,7 +473,7 @@
   "op": "959321",
   "len": 13,
   "jp": "タオ「うう…{c0C:01}か。{end}",
-  "en": "",
+  "en": "Tao: Ugh... {c0C:01}, is it?{end}",
   "notes": ""
  },
  {
@@ -482,7 +482,7 @@
   "op": "959330",
   "len": 11,
   "jp": "「しっかりするんだ！{end}",
-  "en": "",
+  "en": "\"Hang in there!\"{end}",
   "notes": ""
  },
  {
@@ -491,7 +491,7 @@
   "op": "95933D",
   "len": 60,
   "jp": "「明日は…お前とアイリーンの結婚式だと{br}いうのに…。見ておきたかったよ、{br}アイリーンの晴れ姿を。{end}",
-  "en": "",
+  "en": "\"Tomorrow was... supposed to be your wedding{br}to Irene... I wanted to see it... my Irene, all{br}dressed up.\"{end}",
   "notes": ""
  },
  {
@@ -500,7 +500,7 @@
   "op": "95937E",
   "len": 12,
   "jp": "「…お義父さん。{end}",
-  "en": "",
+  "en": "\"...Father.\"{end}",
   "notes": ""
  },
  {
@@ -509,7 +509,7 @@
   "op": "95938E",
   "len": 14,
   "jp": "「フッ、ありがとう{c0C:01}。{endFD}",
-  "en": "",
+  "en": "\"Heh... thank you, {c0C:01}.\"{endFD}",
   "notes": ""
  },
  {
@@ -518,7 +518,7 @@
   "op": "95939D",
   "len": 50,
   "jp": "アイリーンは…2階の自分の部屋に…{br}せめて…娘だけ…でも…助けて…くれ。{end}",
-  "en": "",
+  "en": "Irene is... in her room on the second floor... At{br}least... save... my daughter...{end}",
   "notes": ""
  },
  {
@@ -527,7 +527,7 @@
   "op": "9593E0",
   "len": 12,
   "jp": "「！…ちっくしょう。{end}",
-  "en": "",
+  "en": "\"...! Dammit.\"{end}",
   "notes": ""
  },
  {
@@ -536,7 +536,7 @@
   "op": "95940F",
   "len": 15,
   "jp": "アイリーン「キャアアアア！！{end}",
-  "en": "",
+  "en": "Irene: Aaaaaah!!{end}",
   "notes": ""
  },
  {
@@ -545,7 +545,7 @@
   "op": "95942C",
   "len": 12,
   "jp": "{c0C:01}「アイリーン！？{end}",
-  "en": "",
+  "en": "{c0C:01}: Irene?!{end}",
   "notes": ""
  },
  {
@@ -554,7 +554,7 @@
   "op": "9594A0",
   "len": 37,
   "jp": "ナビロボ「先程ノ悲鳴ハ、コノ部屋カラ{br}発セラレタモノデス。{end}",
-  "en": "",
+  "en": "Navi-Robo: SCREAM JUST NOW WAS EMITTED{br}FROM THIS ROOM.{end}",
   "notes": ""
  },
  {
@@ -563,7 +563,7 @@
   "op": "9594CA",
   "len": 11,
   "jp": "{c0C:01}「アイリーン！{end}",
-  "en": "",
+  "en": "{c0C:01}: Irene!{end}",
   "notes": ""
  },
  {
@@ -572,7 +572,7 @@
   "op": "9594EA",
   "len": 29,
   "jp": "{c0C:01}「ダメだ、アイリーンの所へ{br}早く行かないと！{end}",
-  "en": "",
+  "en": "{c0C:01}: No, I've got to get to Irene, fast!{end}",
   "notes": ""
  },
  {
@@ -581,7 +581,7 @@
   "op": "95954A",
   "len": 27,
   "jp": "{c1C:04}{c0C:01}「て、天井が崩れ落ちている…。{endFE}",
-  "en": "",
+  "en": "{c1C:04}{c0C:01}: Th-the ceiling's caved in...{endFE}",
   "notes": ""
  },
  {
@@ -590,7 +590,7 @@
   "op": "959580",
   "len": 52,
   "jp": "{c1C:04}ナビロボ「ガレキノ下ニ、ネツ反応ガ{br}アリマスガ、生体反応ハスデニ{br}消エテイマス。{endFE}",
-  "en": "",
+  "en": "{c1C:04}Navi-Robo: HEAT DETECTED BENEATH RUBBLE.{br}LIFE SIGNS HAVE ALREADY CEASED.{endFE}",
   "notes": ""
  },
  {
@@ -599,7 +599,7 @@
   "op": "9595B7",
   "len": 25,
   "jp": "{c1C:04}モウコノ部屋ニ生存者ハイマセン。{endFE}",
-  "en": "",
+  "en": "{c1C:04}NO SURVIVORS REMAIN IN THIS ROOM.{endFE}",
   "notes": ""
  },
  {
@@ -608,7 +608,7 @@
   "op": "9595DA",
   "len": 31,
   "jp": "「{c1C:3C}こ{c1C:08}、こん{c1C:64}な{c1C:08}…こんな事って…。{endFE}",
-  "en": "",
+  "en": "\"{c1C:3C}N{c1C:08}-no{c1C:64} way{c1C:08}... this can't be...\"{endFE}",
   "notes": ""
  },
  {
@@ -617,7 +617,7 @@
   "op": "95960A",
   "len": 14,
   "jp": "{c1C:04}「アイリーーーン！！{endFE}",
-  "en": "",
+  "en": "{c1C:04}\"Ireeeeene!!\"{endFE}",
   "notes": ""
  },
  {
@@ -626,7 +626,7 @@
   "op": "95968F",
   "len": 34,
   "jp": "{c0C:01}「タオ………。{br}くそっ、一体誰がこんな事を！？{end}",
-  "en": "",
+  "en": "{c0C:01}: Tao... Dammit, who the hell did this?!{end}",
   "notes": ""
  },
  {
@@ -635,7 +635,7 @@
   "op": "9596CD",
   "len": 35,
   "jp": "{c0C:01}「すでに息をしていない。{br}皆殺しって訳か………。{end}",
-  "en": "",
+  "en": "{c0C:01}: He's not breathing anymore. So they{br}wiped out everyone...{end}",
   "notes": ""
  },
  {
@@ -644,7 +644,7 @@
   "op": "9596F7",
   "len": 35,
   "jp": "ナビロボ「扉ガフサガレテイルノデ、{br}中ヘ入ル事ハデキマセン。{end}",
-  "en": "",
+  "en": "Navi-Robo: DOOR IS BLOCKED. ENTRY IS NOT{br}POSSIBLE.{end}",
   "notes": ""
  },
  {
@@ -653,7 +653,7 @@
   "op": "959927",
   "len": 32,
   "jp": "{c0C:01}「こちらに気付かないくらい{br}話に夢中のようだ。{end}",
-  "en": "",
+  "en": "{c0C:01}: They're so wrapped up in their{br}conversation, they haven't even noticed me.{end}",
   "notes": ""
  },
  {
@@ -662,7 +662,7 @@
   "op": "959985",
   "len": 35,
   "jp": "「何ですか、あなたは。{br}ま、まさか、僕の他にも好きな男が？{end}",
-  "en": "",
+  "en": "\"Who are you? D-don't tell me there's another{br}guy she likes besides me?\"{end}",
   "notes": ""
  },
  {
@@ -671,7 +671,7 @@
   "op": "9599B5",
   "len": 22,
   "jp": "「僕達、今つき合っているんですよ。{end}",
-  "en": "",
+  "en": "\"We're going out, you know.\"{end}",
   "notes": ""
  },
  {
@@ -680,7 +680,7 @@
   "op": "9599D3",
   "len": 54,
   "jp": "「この間、彼女にプロポーズしたんです。{br}でも、ちゃんとした返事をもらってないので{br}心配です。{end}",
-  "en": "",
+  "en": "\"I proposed to her the other day. But she{br}hasn't given me a real answer yet, so I'm{br}worried.\"{end}",
   "notes": ""
  },
  {
@@ -689,7 +689,7 @@
   "op": "959A11",
   "len": 41,
   "jp": "「返事はまだもらっていません…。{br}僕の事がキライになったんでしょうか。{end}",
-  "en": "",
+  "en": "\"I still haven't gotten her answer... Do you{br}think she's started to hate me?\"{end}",
   "notes": ""
  },
  {
@@ -698,7 +698,7 @@
   "op": "959A57",
   "len": 27,
   "jp": "Kしてくれたんです。{br}僕、今とっても幸せです。{end}",
-  "en": "",
+  "en": "\"Listen to this! She said yes to marrying me.{br}I'm so happy right now.\"{end}",
   "notes": ""
  },
  {
@@ -707,7 +707,7 @@
   "op": "959A7B",
   "len": 55,
   "jp": "「先日、リオのサント・アントニオで{br}結婚式をあげました。{br}必ず、彼女を幸せにしてみせます。{end}",
-  "en": "",
+  "en": "\"We had our wedding the other day at Santo{br}Antonio in Rio. I swear I'll make her happy.\"{end}",
   "notes": ""
  },
  {
@@ -716,7 +716,7 @@
   "op": "959B12",
   "len": 32,
   "jp": "「ちょっと、何よあなた。{br}私、あなたなんか知らないわよ。{end}",
-  "en": "",
+  "en": "\"Hey, who are you? I don't even know you.\"{end}",
   "notes": ""
  },
  {
@@ -725,7 +725,7 @@
   "op": "959B3F",
   "len": 31,
   "jp": "「彼ったら、ヤキモチやきだから{br}本当に困っちゃうわ。{end}",
-  "en": "",
+  "en": "\"He gets so jealous. It's a real pain.\"{end}",
   "notes": ""
  },
  {
@@ -734,7 +734,7 @@
   "op": "959B66",
   "len": 50,
   "jp": "「彼とはお友達としてつき合っていた{br}つもりだったのに…。{br}私、どうしたらいいのかしら。{end}",
-  "en": "",
+  "en": "\"I thought we were just going out as friends...{br}What should I do?\"{end}",
   "notes": ""
  },
  {
@@ -743,7 +743,7 @@
   "op": "959BA0",
   "len": 63,
   "jp": "「私、自分の気持ちが分からないわ。{br}彼の事は好きなんだけど、{br}結婚はまだ早いような気がするの…。{end}",
-  "en": "",
+  "en": "\"I don't know my own feelings. I like him, but I{br}feel like it's still too soon to get married...\"{end}",
   "notes": ""
  },
  {
@@ -752,7 +752,7 @@
   "op": "959BE7",
   "len": 63,
   "jp": "「彼は私の事を必要としてる。{br}それを知って初めて分かったの。{br}私も…彼の事を必要としているって。{end}",
-  "en": "",
+  "en": "\"He needs me. It was only when I learned that{br}that I realized... I need him too.\"{end}",
   "notes": ""
  },
  {
@@ -761,7 +761,7 @@
   "op": "959C3C",
   "len": 18,
   "jp": "そうな顔を見ているだけで…。{end}",
-  "en": "",
+  "en": "\"I'm happy. Just seeing the happy look on his{br}face...\"{end}",
   "notes": ""
  },
  {
@@ -770,7 +770,7 @@
   "op": "959D1C",
   "len": 73,
   "jp": "「戦闘では常にアドバンテージを取る事だ。{br}敵の行動をよく見ていれば、次にどんな{br}攻撃をしてくるのか分かってくるハズだ。{end}",
-  "en": "",
+  "en": "\"In battle, always seize the advantage. Watch{br}your enemy's moves closely and you'll start to{br}see what attack is coming next.\"{end}",
   "notes": ""
  },
  {
@@ -779,7 +779,7 @@
   "op": "959D6D",
   "len": 73,
   "jp": "「戦う前から、すでに戦いは始まっている。{br}自分の装備をマメにチェックしておけば、{br}戦いを有利に進める事ができるだろう。{end}",
-  "en": "",
+  "en": "\"The battle starts before the fighting does.{br}Check your equipment regularly and you'll{br}have the upper hand.\"{end}",
   "notes": ""
  },
  {
@@ -788,7 +788,7 @@
   "op": "959DBE",
   "len": 54,
   "jp": "「人との接し方には気をつけた方がいい。{br}そこで運命が大きく変わるかも知れない{br}からな。{end}",
-  "en": "",
+  "en": "\"Be careful how you deal with people. It could{br}change your fate in a big way.\"{end}",
   "notes": ""
  },
  {
@@ -797,7 +797,7 @@
   "op": "959DFC",
   "len": 63,
   "jp": "「死にたくなければ、迷いは捨てろ。{br}ここぞという所では勝負をかけるんだ。{br}迷いは死神を呼ぶ事になるぞ。{end}",
-  "en": "",
+  "en": "\"If you don't want to die, cast off your{br}doubts. When it counts, go all in. Hesitation{br}calls the Reaper.\"{end}",
   "notes": ""
  },
  {
@@ -806,7 +806,7 @@
   "op": "959E93",
   "len": 49,
   "jp": "「なーんか古臭い店だよなぁ、ここ。{br}もうちょっと今風に作り替えりゃあ{br}いいのによ。{end}",
-  "en": "",
+  "en": "\"This place is kinda old-fashioned, huh? They{br}oughta make it over to be a bit more modern.\"{end}",
   "notes": ""
  },
  {
@@ -815,7 +815,7 @@
   "op": "959ECC",
   "len": 43,
   "jp": "「へっ、また来ちまったぜ。{br}でもよ、今時こんなアナクロな店も{br}珍しいよな。{end}",
-  "en": "",
+  "en": "\"Heh, here I am again. But you know, you don't{br}see behind-the-times places like this much{br}anymore.\"{end}",
   "notes": ""
  },
  {
@@ -824,7 +824,7 @@
   "op": "959EFF",
   "len": 57,
   "jp": "「だんだん、こんな店もいいなって{br}思うようになったよ。俺、何だかこの店を{br}気に入っちまったみたい。{end}",
-  "en": "",
+  "en": "\"I'm starting to think places like this are{br}kinda nice. Guess I've gone and taken a liking{br}to this place.\"{end}",
   "notes": ""
  },
  {
@@ -833,7 +833,7 @@
   "op": "959F40",
   "len": 40,
   "jp": "「この街がどんな風になろうと、{br}この店だけは変わって欲しくないなぁ。{end}",
-  "en": "",
+  "en": "\"No matter what happens to this city, I hope{br}this place never changes.\"{end}",
   "notes": ""
  },
  {
@@ -842,7 +842,7 @@
   "op": "959F88",
   "len": 32,
   "jp": "「あ〜ら、イイ男ね。{br}でも、ナンパだったらよそでやってね。{end}",
-  "en": "",
+  "en": "\"Oh my, aren't you handsome. But if you're{br}trying to pick me up, try somewhere else.\"{end}",
   "notes": ""
  },
  {
@@ -851,7 +851,7 @@
   "op": "959FB8",
   "len": 36,
   "jp": "「またあなたなの？{br}しつこいわね。あたし、しつこい人は{br}キライなの。{end}",
-  "en": "",
+  "en": "\"You again? You don't give up. I hate guys{br}who don't give up.\"{end}",
   "notes": ""
  },
  {
@@ -860,7 +860,7 @@
   "op": "959FEC",
   "len": 30,
   "jp": "「そろそろOKするかな？と{br}思ったでしょ。あまいあまい。{end}",
-  "en": "",
+  "en": "\"Thought I'd say yes by now, didn't you?{br}Dream on, dream on.\"{end}",
   "notes": ""
  },
  {
@@ -869,7 +869,7 @@
   "op": "95A012",
   "len": 39,
   "jp": "「あなたも頑張るわねぇ。{br}う〜ん、負けたわ。{br}それで何がしたいの？{end}",
-  "en": "",
+  "en": "\"You really are trying hard, aren't you? Mmm,{br}okay, you win. So, what do you want to do?\"{end}",
   "notes": ""
  },
  {
@@ -878,7 +878,7 @@
   "op": "95A03A",
   "len": 24,
   "jp": "  あんな事{br}  こんな事{br}  すごい事{endFE}",
-  "en": "",
+  "en": "That kind of thing{br}This kind of thing{br}Something amazing{endFE}",
   "notes": ""
  },
  {
@@ -887,7 +887,7 @@
   "op": "95A05F",
   "len": 7,
   "jp": "「えっちぃ！{end}",
-  "en": "",
+  "en": "\"Pervert!\"{end}",
   "notes": ""
  },
  {
@@ -896,7 +896,7 @@
   "op": "95A06A",
   "len": 14,
   "jp": "「いや〜ん、す・け・べ。{end}",
-  "en": "",
+  "en": "\"Ooh, you na-na-naughty boy.\"{end}",
   "notes": ""
  },
  {
@@ -905,7 +905,7 @@
   "op": "95A07C",
   "len": 20,
   "jp": "「あなたって、とっても元気なのね。{end}",
-  "en": "",
+  "en": "\"My, aren't you full of energy.\"{end}",
   "notes": ""
  },
  {
@@ -914,7 +914,7 @@
   "op": "95A0CB",
   "len": 44,
   "jp": "「わしはこの店の雰囲気が大好きでな。{br}毎日ここに通っているんじゃよ。{end}",
-  "en": "",
+  "en": "\"I just love the feel of this place. I come here{br}every day.\"{end}",
   "notes": ""
  },
  {
@@ -923,7 +923,7 @@
   "op": "95A0FF",
   "len": 27,
   "jp": "「ブラジルコーヒーは、この甘さが{br}良いんじゃよ。{end}",
-  "en": "",
+  "en": "\"Brazilian coffee - it's this sweetness that{br}makes it so good.\"{end}",
   "notes": ""
  },
  {
@@ -932,7 +932,7 @@
   "op": "95A122",
   "len": 59,
   "jp": "「何だか街がぶっそうになってきている{br}ようじゃが、ゆっくりとコーヒーが飲める{br}世の中になって欲しいのう。{end}",
-  "en": "",
+  "en": "\"The city seems to be getting dangerous, but{br}I wish it would become a place where a man{br}can drink his coffee in peace.\"{end}",
   "notes": ""
  },
  {
@@ -941,7 +941,7 @@
   "op": "95A165",
   "len": 55,
   "jp": "「コーヒーもゆっくりと飲めない世の中に{br}なってしまったのう。{br}いつまでこんな状態が続くのかのう。{end}",
-  "en": "",
+  "en": "\"It's become a world where a man can't even{br}drink his coffee in peace. How long will things{br}go on like this, I wonder.\"{end}",
   "notes": ""
  },
  {
@@ -950,7 +950,7 @@
   "op": "95A1B7",
   "len": 31,
   "jp": "{c0C:01}「ずいぶんと年期の入った{br}ジュークボックスだな。{end}",
-  "en": "",
+  "en": "{c0C:01}: That's one well-worn jukebox.{end}",
   "notes": ""
  },
  {
@@ -959,7 +959,7 @@
   "op": "95A2A9",
   "len": 30,
   "jp": "{br} す ヒちぬマスター「いらっしゃい。注文はなんだい？{endFD}",
-  "en": "",
+  "en": "Owner: Welcome. What'll it be?{endFD}",
   "notes": ""
  },
  {
@@ -968,7 +968,7 @@
   "op": "95A2C8",
   "len": 48,
   "jp": "飲み物だったらコーヒーはもちろん、{br}カイピリーニャなんかのアルコール類も{br}扱ってるよ。{endFD}",
-  "en": "",
+  "en": "For drinks, we've got coffee, of course, and{br}alcohol too, like caipirinhas.{endFD}",
   "notes": ""
  },
  {
@@ -977,7 +977,7 @@
   "op": "95A2F9",
   "len": 65,
   "jp": "食事だったら淡水魚の料理かな。{br}シュラスコやフェイジョアーダだったら{br}専門のレストランへ行った方がいいよ。{end}",
-  "en": "",
+  "en": "For food, I'd go with our freshwater fish{br}dishes. For churrasco or feijoada, you're{br}better off at a specialty restaurant.{end}",
   "notes": ""
  },
  {
@@ -986,7 +986,7 @@
   "op": "95A33C",
   "len": 52,
   "jp": "{c0C:01}「へぇ〜。おやじ1人でやってる{br}のかい？ なかなか俺の趣味に合った店じゃ{br}ないか。{end}",
-  "en": "",
+  "en": "{c0C:01}: Huh. You run this place all by{br}yourself, pops? It's pretty much my kind of{br}place.{end}",
   "notes": ""
  },
  {
@@ -995,7 +995,7 @@
   "op": "95A372",
   "len": 65,
   "jp": "「おっ、あんた分かってるねぇ。わたしゃ{br}今時のにぎやかな店がキライでね。{br}もし、気に入ったら常連になってくれよ。{end}",
-  "en": "",
+  "en": "\"Oh, you get it! I can't stand those noisy{br}modern joints. If you like it here, become a{br}regular.\"{end}",
   "notes": ""
  },
  {
@@ -1004,7 +1004,7 @@
   "op": "95A3C1",
   "len": 37,
   "jp": "マスター「何か注文かい？{br}コーヒーでもカクテルでも何でもあるよ。{end}",
-  "en": "",
+  "en": "Owner: Ordering something? Coffee, cocktails,{br}we've got it all.{end}",
   "notes": ""
  },
  {
@@ -1013,7 +1013,7 @@
   "op": "95A3EE",
   "len": 34,
   "jp": "マスター「どんな事になろうと、この店は{br}続けて行くからね。{end}",
-  "en": "",
+  "en": "Owner: No matter what happens, I'm keeping{br}this place going.{end}",
   "notes": ""
  },
  {
@@ -1022,7 +1022,7 @@
   "op": "95A462",
   "len": 27,
   "jp": "{c0C:01}「マスター、ここってティーは{br}おいてるのかい？{end}",
-  "en": "",
+  "en": "{c0C:01}: Say, boss, do you serve tea here?{end}",
   "notes": ""
  },
  {
@@ -1031,7 +1031,7 @@
   "op": "95A47F",
   "len": 48,
   "jp": "マスター「すまないねぇ。{br}うちはティーはおいてないんだよ。{br}注文する客がいないもんでね。{end}",
-  "en": "",
+  "en": "Owner: Sorry about that. We don't carry tea.{br}Nobody ever orders it.{end}",
   "notes": ""
  },
  {
@@ -1040,7 +1040,7 @@
   "op": "95A4BC",
   "len": 46,
   "jp": "カーク「何という事じゃ、信じられん。{br}ティーがないじゃと？{br}ワシに死ねというのか。{end}",
-  "en": "",
+  "en": "Kirk: Good heavens, this is unbelievable. No{br}tea, you say? Do you wish me dead?{end}",
   "notes": ""
  },
  {
@@ -1049,7 +1049,7 @@
   "op": "95A4EF",
   "len": 46,
   "jp": "「オーバーな奴だな。{br}どうせ飲むんじゃなくて、センサーで{br}味を感じるだけなんだろ？{end}",
-  "en": "",
+  "en": "\"You're so dramatic. You don't even drink it{br}anyway. You just taste it with your sensors,{br}right?\"{end}",
   "notes": ""
  },
  {
@@ -1058,7 +1058,7 @@
   "op": "95A51F",
   "len": 37,
   "jp": "「ふん、お前にはジェントルマンの{br}たしなみというものが分からぬのか。{end}",
-  "en": "",
+  "en": "\"Hmph, do you know nothing of a gentleman's{br}refinements?\"{end}",
   "notes": ""
  },
  {
@@ -1067,7 +1067,7 @@
   "op": "95A546",
   "len": 33,
   "jp": "「ジェントルマンときたか。{br}本当、たいしたナビロボ様だな。{end}",
-  "en": "",
+  "en": "\"A gentleman, is it? You really are one grand{br}Navi-Robo-sama.\"{end}",
   "notes": ""
  },
  {
@@ -1076,7 +1076,7 @@
   "op": "95A60D",
   "len": 40,
   "jp": "男「{c0C:01}？ {c0C:01}じゃないか！{br}おれだよ、隊で一緒だったバーンズだ。{end}",
-  "en": "",
+  "en": "Man: {c0C:01}? It's {c0C:01}! It's me, Barnes,{br}from our old unit!{end}",
   "notes": ""
  },
  {
@@ -1085,7 +1085,7 @@
   "op": "95A645",
   "len": 36,
   "jp": "{c0C:01}「バーンズか。軍を除隊して{br}以来だから1年ぶりだな。{end}",
-  "en": "",
+  "en": "{c0C:01}: Barnes. It's been a year, since I left{br}the army.{end}",
   "notes": ""
  },
  {
@@ -1094,7 +1094,7 @@
   "op": "95A66B",
   "len": 59,
   "jp": "バーンズ「丁度いい、お前この街で{br}探偵をやっているんだったな。 {br}儲け話があるんだが、乗らないか？{end}",
-  "en": "",
+  "en": "Barnes: Perfect timing. You're working as a{br}detective in this city, right? I've got a{br}money-making deal. Want in?{end}",
   "notes": ""
  },
  {
@@ -1103,7 +1103,7 @@
   "op": "95A6BF",
   "len": 27,
   "jp": "「おいおい、久しぶりだってのに{br}いきなりそれかよ。{end}",
-  "en": "",
+  "en": "\"Whoa, whoa, it's been ages and you open with{br}that?\"{end}",
   "notes": ""
  },
  {
@@ -1112,7 +1112,7 @@
   "op": "95A6DE",
   "len": 33,
   "jp": "「そう言うなよ。お前だって{br}金になる話を聞きたいだろ？{end}",
-  "en": "",
+  "en": "\"Don't be like that. You want to hear about{br}some money too, don't you?\"{end}",
   "notes": ""
  },
  {
@@ -1121,7 +1121,7 @@
   "op": "95A701",
   "len": 56,
   "jp": "「何言ってんだよ。軍にいた頃、{br}お前にそそのかされて敵の輸送隊を{br}襲った事があっただろ。{endFD}",
-  "en": "",
+  "en": "\"What are you talking about? Back in the{br}army, you talked me into raiding an enemy{br}convoy, remember?\"{endFD}",
   "notes": ""
  },
  {
@@ -1130,7 +1130,7 @@
   "op": "95A73A",
   "len": 70,
   "jp": "お前は金塊が積まれているなんて言ってた{br}けど、実際は強力な武装車両隊だったんで{br}痛い目を見たじゃないか。{end}",
-  "en": "",
+  "en": "You said it was loaded with gold bars, but it{br}turned out to be a heavily armed vehicle{br}column, and we got burned.{end}",
   "notes": ""
  },
  {
@@ -1139,7 +1139,7 @@
   "op": "95A782",
   "len": 65,
   "jp": "「よく言うぜ。お前こそクラブへナンパしに{br}行こうなんて誘っておいて、キレイ所は{br}ちゃっかり独り占めしてただろうが。{end}",
-  "en": "",
+  "en": "\"Look who's talking. You're the one who{br}dragged me to a club to pick up girls, then{br}kept all the pretty ones to yourself.\"{end}",
   "notes": ""
  },
  {
@@ -1148,7 +1148,7 @@
   "op": "95A7CA",
   "len": 44,
   "jp": "「独り占めっていうのはチョット違うな。{br}それだけオレがイイ男だったって事さ。{end}",
-  "en": "",
+  "en": "\"'Kept them to myself' isn't quite right. I was{br}just that good-looking.\"{end}",
   "notes": ""
  },
  {
@@ -1157,7 +1157,7 @@
   "op": "95A7F8",
   "len": 63,
   "jp": "「もう、やめだやめだ。バカらしい。{br}お前と言い合っているとキリがないな。{br}ところで、その足下のちっこいのは何だ？{end}",
-  "en": "",
+  "en": "\"Enough, enough. This is stupid. Arguing with{br}you never ends. By the way, what's that little{br}thing at your feet?\"{end}",
   "notes": ""
  },
  {
@@ -1166,7 +1166,7 @@
   "op": "95A83C",
   "len": 54,
   "jp": "「ああ、このナビロボか。{br}こいつはオレの助手のカークだ。{br}名探偵には助手が付き物なのさ。{end}",
-  "en": "",
+  "en": "\"Oh, this Navi-Robo? This is my assistant, Kirk.{br}Every great detective needs an assistant.\"{end}",
   "notes": ""
  },
  {
@@ -1175,7 +1175,7 @@
   "op": "95A876",
   "len": 57,
   "jp": "カーク「リフはお前の事を{br}ただの女好きだと言っておったがな。{br}ワシはヒヨッコの尻拭いはゴメンじゃ。{end}",
-  "en": "",
+  "en": "Kirk: Riff told me you were nothing but a{br}skirt-chaser. I'll have no part in cleaning up{br}after a greenhorn.{end}",
   "notes": ""
  },
  {
@@ -1184,7 +1184,7 @@
   "op": "95A8B1",
   "len": 48,
   "jp": "{c1C:08}「……………{c1C:00}…な、なかなか面白い{br}やつじゃないか。ハ、ハハハ…。{endFD}",
-  "en": "",
+  "en": "{c1C:08}\"......{c1C:00}...Wh-what a funny little guy. Ha,{br}ha-ha-ha...\"{endFD}",
   "notes": ""
  },
  {
@@ -1193,7 +1193,7 @@
   "op": "95A8E5",
   "len": 66,
   "jp": "実はな、ある研究所から分析中の{br}バイオモンスターが逃げ出してな。{br}そいつを捕まえたら賞金を貰えるんだよ。{end}",
-  "en": "",
+  "en": "Here's the thing: a bio-monster that was being{br}analyzed at a certain lab escaped. Whoever{br}catches it gets a reward.{end}",
   "notes": ""
  },
  {
@@ -1202,7 +1202,7 @@
   "op": "95A92C",
   "len": 40,
   "jp": "「バイオモンスターか…。{br}最近、その手の事件が多くなってきたな。{end}",
-  "en": "",
+  "en": "\"A bio-monster... There've been a lot of cases{br}like that lately.\"{end}",
   "notes": ""
  },
  {
@@ -1211,7 +1211,7 @@
   "op": "95A956",
   "len": 48,
   "jp": "「何でも、奴らをまとめて{br}人間に対抗しようとする組織まで{br}あるって聞いたぜ。{end}",
-  "en": "",
+  "en": "\"I even heard there's some organization{br}gathering them up to fight back against{br}humans.\"{end}",
   "notes": ""
  },
  {
@@ -1220,7 +1220,7 @@
   "op": "95A988",
   "len": 35,
   "jp": "「オレもバイオモンスターがらみの仕事で{br}その事は耳にしたよ。{end}",
-  "en": "",
+  "en": "\"I heard about that too, on a bio-monster{br}job.\"{end}",
   "notes": ""
  },
  {
@@ -1229,7 +1229,7 @@
   "op": "95A9AD",
   "len": 54,
   "jp": "「どうだ、引き受けてくれるか？{br}報酬は賞金の6000Gを山分けだ。{br}悪くない話だろう。{end}",
-  "en": "",
+  "en": "\"So, will you take it? The pay is the 6000G{br}reward, split down the middle. Not a bad deal,{br}right?\"{end}",
   "notes": ""
  },
  {
@@ -1238,7 +1238,7 @@
   "op": "95A9E5",
   "len": 59,
   "jp": "「悪くないどころか、かなりの金額だよ。{br}お前には戦場で助けられた事もあったし、{br}その話に乗るよ。{endFD}",
-  "en": "",
+  "en": "\"Not bad? That's a serious amount. You saved{br}my skin on the battlefield once, so I'm in.\"{endFD}",
   "notes": ""
  },
  {
@@ -1247,7 +1247,7 @@
   "op": "95AA21",
   "len": 17,
   "jp": "で、何か手がかりはあるのか？{end}",
-  "en": "",
+  "en": "So, got any leads?{end}",
   "notes": ""
  },
  {
@@ -1256,7 +1256,7 @@
   "op": "95AA34",
   "len": 45,
   "jp": "「手がかりはある。{br}『ハリケイン』というドラッグだ。{br}奴はそいつにご執心らしい。{end}",
-  "en": "",
+  "en": "\"I've got a lead. A drug called 'Hurricane.'{br}Seems the thing's hooked on it.\"{end}",
   "notes": ""
  },
  {
@@ -1265,7 +1265,7 @@
   "op": "95AA63",
   "len": 47,
   "jp": "「へぇ、驚きだな。{br}バイオモンスターもバーチャルドラッグに{br}手を出すようになったのか。{end}",
-  "en": "",
+  "en": "\"Huh, that's a surprise. So now bio-monsters{br}are getting into virtual drugs?\"{end}",
   "notes": ""
  },
  {
@@ -1274,7 +1274,7 @@
   "op": "95AA94",
   "len": 34,
   "jp": "「ハリケインをたどって行けば、{br}何か情報がつかめるハズだ。{end}",
-  "en": "",
+  "en": "\"Follow the Hurricane trail and you should{br}turn up some information.\"{end}",
   "notes": ""
  },
  {
@@ -1283,7 +1283,7 @@
   "op": "95AAB8",
   "len": 35,
   "jp": "「ハリケインか………。{br}カーク、情報は引き出せそうか？{end}",
-  "en": "",
+  "en": "\"Hurricane... Kirk, think you can pull up any{br}info?\"{end}",
   "notes": ""
  },
  {
@@ -1292,7 +1292,7 @@
   "op": "95AAE0",
   "len": 52,
   "jp": "カーク「今は無理じゃな。{br}そういった情報は家にある端末を{br}使って調べた方がよい。{end}",
-  "en": "",
+  "en": "Kirk: Not right now. For that sort of{br}information, you'd do better to search on the{br}terminal at home.{end}",
   "notes": ""
  },
  {
@@ -1301,7 +1301,7 @@
   "op": "95AB18",
   "len": 55,
   "jp": "「お前は早速調査を始めてくれ。{br}もし奴の居場所が分かったら、すぐに{br}連絡を頼む。{end}",
-  "en": "",
+  "en": "\"Get started on the investigation right away.{br}If you find out where it is, contact me{br}immediately.\"{end}",
   "notes": ""
  },
  {
@@ -1310,7 +1310,7 @@
   "op": "95AB51",
   "len": 11,
   "jp": "「よし、分かった。{end}",
-  "en": "",
+  "en": "\"Right, got it.\"{end}",
   "notes": ""
  },
  {
@@ -1319,7 +1319,7 @@
   "op": "95ABCD",
   "len": 35,
   "jp": "イオン「ちょっと、立ったまま話すつもり？{br}席に座りなさいよ。{end}",
-  "en": "",
+  "en": "Ion: Hey, are you planning to talk standing{br}up? Sit down.{end}",
   "notes": ""
  },
  {
@@ -1328,7 +1328,7 @@
   "op": "95ABF8",
   "len": 36,
   "jp": "イオン「まだ何か用？{br}いいから早く準備をしに行きなさいよ。{end}",
-  "en": "",
+  "en": "Ion: Something else? Just hurry up and go get{br}ready.{end}",
   "notes": ""
  },
  {
@@ -1337,7 +1337,7 @@
   "op": "95AC4C",
   "len": 23,
   "jp": "ミネルバ「さ、{c0C:01}さん、かけて{br}下さい。{end}",
-  "en": "",
+  "en": "Minerva: Please, {c0C:01}-san, have a seat.{end}",
   "notes": ""
  },
  {
@@ -1346,7 +1346,7 @@
   "op": "95AC6A",
   "len": 34,
   "jp": "ミネルバ「お互い、協力して仕事を{br}成功させましょう。{end}",
-  "en": "",
+  "en": "Minerva: Let's work together and make this{br}job a success.{end}",
   "notes": ""
  },
  {
@@ -1355,7 +1355,7 @@
   "op": "95ACB7",
   "len": 59,
   "jp": "イオン「依頼を引き受けたのがあなただった{br}から驚いたわ。でも、あなたならランナーの{br}扱いだけは確かね。{end}",
-  "en": "",
+  "en": "Ion: I was surprised it was you who took the{br}request. But if it's you, at least your runner{br}handling is solid.{end}",
   "notes": ""
  },
  {
@@ -1364,7 +1364,7 @@
   "op": "95ACF4",
   "len": 52,
   "jp": "{c0C:01}「だけは余計だよ。{br}で、協力するのはいいとして、デイモンを{br}どうやって仕留めるんだ？{end}",
-  "en": "",
+  "en": "{c0C:01}: You can drop the 'at least.' So,{br}working together's fine, but how do we take{br}Daemon down?{end}",
   "notes": ""
  },
  {
@@ -1373,7 +1373,7 @@
   "op": "95AD2D",
   "len": 61,
   "jp": "「奴は主にエリア11の倉庫街に出没して{br}いるわ。だから、そこで待ち構えていれば{br}必ず現れるハズよ。{end}",
-  "en": "",
+  "en": "\"It mostly shows up in the Warehouse District{br}in Area 11. So if we lie in wait there, it's sure{br}to appear.\"{end}",
   "notes": ""
  },
  {
@@ -1382,7 +1382,7 @@
   "op": "95AD6C",
   "len": 35,
   "jp": "「オレ達自身をエサにして、奴をおびき{br}寄せようって訳か。{end}",
-  "en": "",
+  "en": "\"So we use ourselves as bait to lure it out.\"{end}",
   "notes": ""
  },
  {
@@ -1391,7 +1391,7 @@
   "op": "95AD91",
   "len": 38,
   "jp": "「そう、奴に出会ったら2人で挟み撃ちに{br}して仕留めるのよ。{endFD}",
-  "en": "",
+  "en": "\"Right. Once we find it, we catch it between{br}the two of us in a pincer and take it down.\"{endFD}",
   "notes": ""
  },
  {
@@ -1400,7 +1400,7 @@
   "op": "95ADB8",
   "len": 54,
   "jp": "あたしの調べでは、デイモンは相当な強さ{br}らしいわ。装備も万全にしておいた方が{br}いいわよ。{end}",
-  "en": "",
+  "en": "From what I've found, Daemon is supposed to{br}be really strong. You'd better have your gear{br}in top shape.{end}",
   "notes": ""
  },
  {
@@ -1409,7 +1409,7 @@
   "op": "95ADF2",
   "len": 55,
   "jp": "ミネルバ「{c0C:01}さんも{br}準備があるでしょうから、倉庫街で{br}待ち合わせる事にしたらいかがです？{end}",
-  "en": "",
+  "en": "Minerva: {c0C:01}-san, you'll have your own{br}preparations to make, so why don't we meet{br}up in the Warehouse District?{end}",
   "notes": ""
  },
  {
@@ -1418,7 +1418,7 @@
   "op": "95AE2D",
   "len": 44,
   "jp": "「そうね、それじゃ準備がととのったら{br}エリア11の倉庫街へ来てちょうだい。{end}",
-  "en": "",
+  "en": "\"All right. Then once you're ready, come to{br}the Warehouse District in Area 11.\"{end}",
   "notes": ""
  },
  {
@@ -1427,7 +1427,7 @@
   "op": "95AE5B",
   "len": 11,
   "jp": "「ああ、分かった。{end}",
-  "en": "",
+  "en": "\"Yeah, got it.\"{end}",
   "notes": ""
  },
  {
@@ -1436,7 +1436,7 @@
   "op": "95BD9C",
   "len": 30,
   "jp": "{c0C:01}「シャロン＝クレインだね。{br}オレが{c0C:01}＝{c0C:00}だ。{end}",
-  "en": "",
+  "en": "{c0C:01}: You're Sharon Crane, right? I'm{br}{c0C:01} {c0C:00}.{end}",
   "notes": ""
  },
  {
@@ -1445,7 +1445,7 @@
   "op": "95BDBC",
   "len": 32,
   "jp": "シャロン「探偵さんですね。{br}どうかよろしくお願いします。{end}",
-  "en": "",
+  "en": "Sharon: You're the detective. Thank you so{br}much for coming.{end}",
   "notes": ""
  },
  {
@@ -1454,7 +1454,7 @@
   "op": "95BDEA",
   "len": 32,
   "jp": "「じゃあ早速だけど、詳しい話を{br}聞かせてもらおうか。{end}",
-  "en": "",
+  "en": "\"Let's get right to it, then. Tell me the{br}details.\"{end}",
   "notes": ""
  },
  {
@@ -1463,7 +1463,7 @@
   "op": "95BE0C",
   "len": 51,
   "jp": "「はい、主人のデビッドの行方が{br}分からなくなってから、{br}今日でもう4日がたつんです。{end}",
-  "en": "",
+  "en": "\"Yes. As of today, it's been four days since my{br}husband David disappeared.\"{end}",
   "notes": ""
  },
  {
@@ -1472,7 +1472,7 @@
   "op": "95BE41",
   "len": 31,
   "jp": "「4日か………。{br}その日、ご主人は仕事へ？{end}",
-  "en": "",
+  "en": "\"Four days... That day, did he go to work?\"{end}",
   "notes": ""
  },
  {
@@ -1481,7 +1481,7 @@
   "op": "95BE62",
   "len": 52,
   "jp": "「ええ、そうです。{br}ランナーのパーツ作りの仕事をする為に{br}いつも通り、エリア3の工場へ。{end}",
-  "en": "",
+  "en": "\"Yes, he did. He went to the factory in Area 3{br}as usual, for his job making runner parts.\"{end}",
   "notes": ""
  },
  {
@@ -1490,7 +1490,7 @@
   "op": "95BE98",
   "len": 33,
   "jp": "「そこへ連絡は入れたのかい？{br}え〜と、その………。{end}",
-  "en": "",
+  "en": "\"Did you get in touch with them? Uh, the...\"{end}",
   "notes": ""
  },
  {
@@ -1499,7 +1499,7 @@
   "op": "95BEBB",
   "len": 45,
   "jp": "「ウラル工場です。{br}問い合わせようとしたのですが、{br}全く応答がないんです。{end}",
-  "en": "",
+  "en": "\"The Ural Factory. I tried to contact them,{br}but there was no answer at all.\"{end}",
   "notes": ""
  },
  {
@@ -1508,7 +1508,7 @@
   "op": "95BEEA",
   "len": 19,
   "jp": "「警察の方へは届けたのかい？{end}",
-  "en": "",
+  "en": "\"Did you report it to the police?\"{end}",
   "notes": ""
  },
  {
@@ -1517,7 +1517,7 @@
   "op": "95BEFF",
   "len": 19,
   "jp": "「もちろん、すぐに届け出ました。{endFD}",
-  "en": "",
+  "en": "\"Of course, I reported it right away.\"{endFD}",
   "notes": ""
  },
  {
@@ -1526,7 +1526,7 @@
   "op": "95BF13",
   "len": 62,
   "jp": "ですが、ウラル工場は主人が{br}行方不明になった日より1週間も前から{br}閉鎖中だと言われました。{endFD}",
-  "en": "",
+  "en": "But they told me the Ural Factory had already{br}been shut down for a whole week before my{br}husband went missing.{endFD}",
   "notes": ""
  },
  {
@@ -1535,7 +1535,7 @@
   "op": "95BF52",
   "len": 35,
   "jp": "だから、主人が工場へ行ったなんて{br}ありえない事だと…。{endFD}",
-  "en": "",
+  "en": "So there's no way my husband could have gone{br}to the factory, they said...{endFD}",
   "notes": ""
  },
  {
@@ -1544,7 +1544,7 @@
   "op": "95BF76",
   "len": 38,
   "jp": "もっと調べてもらうように言っても、{br}相手にしてもらえませんでした。{end}",
-  "en": "",
+  "en": "Even when I asked them to look into it{br}further, they wouldn't listen.{end}",
   "notes": ""
  },
  {
@@ -1553,7 +1553,7 @@
   "op": "95BF9E",
   "len": 56,
   "jp": "「閉鎖中か、それは妙だな。{br}工場以外にデビッドが行きそうな場所に{br}心当たりはないか？{end}",
-  "en": "",
+  "en": "\"Shut down, huh? That's strange. Is there{br}anywhere besides the factory David might{br}have gone?\"{end}",
   "notes": ""
  },
  {
@@ -1562,7 +1562,7 @@
   "op": "95BFD8",
   "len": 60,
   "jp": "「さぁ、これといった所は………。{br}浮気もしませんし、決してだまって{br}いなくなるような夫ではありません。{endFD}",
-  "en": "",
+  "en": "\"Well, nowhere in particular... He doesn't{br}cheat, and he's not the kind of husband who'd{br}just vanish without a word.\"{endFD}",
   "notes": ""
  },
  {
@@ -1571,7 +1571,7 @@
   "op": "95C015",
   "len": 21,
   "jp": "ただ、一つ気になる事があるんです。{end}",
-  "en": "",
+  "en": "There's just one thing that bothers me.{end}",
   "notes": ""
  },
  {
@@ -1580,7 +1580,7 @@
   "op": "95C02C",
   "len": 7,
   "jp": "「というと？{end}",
-  "en": "",
+  "en": "\"Meaning?\"{end}",
   "notes": ""
  },
  {
@@ -1589,7 +1589,7 @@
   "op": "95C035",
   "len": 66,
   "jp": "「主人は、近く大金が手に入るから{br}楽しみにしていろと言っていました。{br}何でも特別の手当が出るとかで。{end}",
-  "en": "",
+  "en": "\"My husband told me he'd soon be getting a{br}lot of money, so I should look forward to it.{br}Some kind of special bonus, he said.\"{end}",
   "notes": ""
  },
  {
@@ -1598,7 +1598,7 @@
   "op": "95C079",
   "len": 56,
   "jp": "「特別の手当ねぇ………。{br}やはり一度、ウラル工場を{br}探って見た方がいいみたいだな。{end}",
-  "en": "",
+  "en": "\"A special bonus, huh... Looks like I'd better{br}go check out the Ural Factory after all.\"{end}",
   "notes": ""
  },
  {
@@ -1607,7 +1607,7 @@
   "op": "95C0B6",
   "len": 55,
   "jp": "カーク「自宅の端末でタレコミ情報を{br}調べてみたらどうじゃ。{br}何か情報があるかもしれんぞ。{end}",
-  "en": "",
+  "en": "Kirk: Why not look up tip-offs on the terminal{br}at home? There might be some information.{end}",
   "notes": ""
  },
  {
@@ -1616,7 +1616,7 @@
   "op": "95C0EF",
   "len": 10,
   "jp": "「ああ、そうだな。{end}",
-  "en": "",
+  "en": "\"Yeah, good idea.\"{end}",
   "notes": ""
  },
  {
@@ -1625,7 +1625,7 @@
   "op": "95C0FE",
   "len": 30,
   "jp": "「一体、主人の身に{br}何が起きたんでしょうか。{end}",
-  "en": "",
+  "en": "\"What on earth could have happened to my{br}husband?\"{end}",
   "notes": ""
  },
  {
@@ -1634,7 +1634,7 @@
   "op": "95C11E",
   "len": 43,
   "jp": "「ひょっとしたら、ご主人は何かの{br}事件に巻き込まれたのかも知れない。{end}",
-  "en": "",
+  "en": "\"It's possible your husband got caught up in{br}some kind of case.\"{end}",
   "notes": ""
  },
  {
@@ -1643,7 +1643,7 @@
   "op": "95C14B",
   "len": 16,
   "jp": "「事件………ですか？{end}",
-  "en": "",
+  "en": "\"A case... you mean?\"{end}",
   "notes": ""
  },
  {
@@ -1652,7 +1652,7 @@
   "op": "95C15D",
   "len": 56,
   "jp": "「あくまでもオレの考えさ。{br}とにかく、ご主人は必ず見つけ出すよ。{br}彼の写真は持ってるかい？{end}",
-  "en": "",
+  "en": "\"It's only a theory of mine. Anyway, I'll find{br}your husband, I promise. Do you have a photo{br}of him?\"{end}",
   "notes": ""
  },
  {
@@ -1661,7 +1661,7 @@
   "op": "95C197",
   "len": 30,
   "jp": "「最近写したものは、{br}これだけしかないのですが…。{end}",
-  "en": "",
+  "en": "\"This is the only recent one I have...\"{end}",
   "notes": ""
  },
  {
@@ -1670,7 +1670,7 @@
   "op": "95C1B7",
   "len": 33,
   "jp": "「ホログラムシートか。{br}流行の立体写真ってやつだな。{end}",
-  "en": "",
+  "en": "\"A hologram sheet, huh. One of those 3D{br}photos that are all the rage.\"{end}",
   "notes": ""
  },
  {
@@ -1679,7 +1679,7 @@
   "op": "95C1D9",
   "len": 35,
   "jp": "確かに預かった。{br}ご主人の事が分かったら連絡するよ。{end}",
-  "en": "",
+  "en": "I'll hang on to it. I'll be in touch when I find{br}out about your husband.{end}",
   "notes": ""
  },
  {
@@ -1688,7 +1688,7 @@
   "op": "95C1FE",
   "len": 52,
   "jp": "「主人が行方不明になったのには{br}きっと訳があるハズです。{br}どうかよろしくお願いします。{end}",
-  "en": "",
+  "en": "\"I'm sure there's a reason my husband{br}disappeared. Please, I'm counting on you.\"{end}",
   "notes": ""
  },
  {
@@ -1697,7 +1697,7 @@
   "op": "95C246",
   "len": 27,
   "jp": "シャロン「デビッドの事を{br}よろしくお願いします。{end}",
-  "en": "",
+  "en": "Sharon: Please look into David's case.{end}",
   "notes": ""
  },
  {
@@ -1706,7 +1706,7 @@
   "op": "95C318",
   "len": 34,
   "jp": "シャロン「…そんな。{br}デビッドが死んだなんて信じられません。{end}",
-  "en": "",
+  "en": "Sharon: ...No. I can't believe David is dead.{end}",
   "notes": ""
  },
  {
@@ -1715,7 +1715,7 @@
   "op": "95C33C",
   "len": 68,
   "jp": "{c0C:01}「工場の地下にはババリアの{br}実験施設があって、ご主人はそこで{br}バケモノにされた………全て事実だ。{endFD}",
-  "en": "",
+  "en": "{c0C:01}: There's a Bavaria lab under the{br}factory, and that's where your husband was{br}turned into a monster... It's all true.{endFD}",
   "notes": ""
  },
  {
@@ -1724,7 +1724,7 @@
   "op": "95C381",
   "len": 40,
   "jp": "それから死ぬ間際に、このペンダントを{br}あんたに渡してくれと頼まれた。{end}",
-  "en": "",
+  "en": "And just before he died, he asked me to give{br}you this pendant.{end}",
   "notes": ""
  },
  {
@@ -1733,7 +1733,7 @@
   "op": "95C3AB",
   "len": 35,
   "jp": "「これは…{br}私が主人の誕生日にプレゼントしたもの…。{endFD}",
-  "en": "",
+  "en": "\"This is... the present I gave my husband for{br}his birthday...\"{endFD}",
   "notes": ""
  },
  {
@@ -1742,7 +1742,7 @@
   "op": "95C3CF",
   "len": 16,
   "jp": "じゃあ本当にデビッドは！！{end}",
-  "en": "",
+  "en": "Then David really is...!!{end}",
   "notes": ""
  },
  {
@@ -1751,7 +1751,7 @@
   "op": "95C3E4",
   "len": 12,
   "jp": "「残念だけど、な。{endFD}",
-  "en": "",
+  "en": "\"I'm sorry, but yes.\"{endFD}",
   "notes": ""
  },
  {
@@ -1760,7 +1760,7 @@
   "op": "95C3F1",
   "len": 59,
   "jp": "それとご主人は、あんたにこの街から{br}早く離れるようにとも言っていた。{br}オレもそうした方がいいと思う。{end}",
-  "en": "",
+  "en": "Your husband also said you should get out of{br}this city, fast. I think that's what you should{br}do, too.{end}",
   "notes": ""
  },
  {
@@ -1769,7 +1769,7 @@
   "op": "95C42E",
   "len": 58,
   "jp": "「主人は、近々大金が手に入るから{br}この街を出てどこか遠い所へ行こうと{br}言っていました。{endFD}",
-  "en": "",
+  "en": "\"My husband said he'd soon be getting a lot of{br}money, and then we could leave this city and{br}go somewhere far away.\"{endFD}",
   "notes": ""
  },
  {
@@ -1778,7 +1778,7 @@
   "op": "95C469",
   "len": 53,
   "jp": "あの人は疲れ果てていたんです。{br}この街での生活に。{br}だからそんな事をしてまでお金を…。{endFD}",
-  "en": "",
+  "en": "He was worn out. Worn out by life in this city.{br}That's why he'd go that far for money...{endFD}",
   "notes": ""
  },
  {
@@ -1787,7 +1787,7 @@
   "op": "95C49F",
   "len": 20,
   "jp": "それがこんな事になってしまうなんて。{end}",
-  "en": "",
+  "en": "And to think it ended like this.{end}",
   "notes": ""
  },
  {
@@ -1796,7 +1796,7 @@
   "op": "95C4B8",
   "len": 40,
   "jp": "「あの工場も今ごろはババリアの手で{br}処分されてしまっているだろう。{endFD}",
-  "en": "",
+  "en": "\"By now, Bavaria has probably gotten rid of{br}that factory too.\"{endFD}",
   "notes": ""
  },
  {
@@ -1805,7 +1805,7 @@
   "op": "95C4E1",
   "len": 54,
   "jp": "もし、奴らにあんたの事が知れたら{br}放っておくハズがない。{br}必ずあんたを始末しに来るだろう。{endFD}",
-  "en": "",
+  "en": "If they ever find out about you, they won't{br}leave you alone. They'll come to get rid of{br}you for sure.{endFD}",
   "notes": ""
  },
  {
@@ -1814,7 +1814,7 @@
   "op": "95C518",
   "len": 34,
   "jp": "ご主人は最後にその事を心配して{br}死んでいったんだ。{end}",
-  "en": "",
+  "en": "That's what your husband was worried about{br}when he died.{end}",
   "notes": ""
  },
  {
@@ -1823,7 +1823,7 @@
   "op": "95C53C",
   "len": 52,
   "jp": "「私もババリアの事は聞いた事があります。{br}この街で大きな力を持つ犯罪組織だと。{end}",
-  "en": "",
+  "en": "\"I've heard of Bavaria too. They say it's a{br}criminal organization with a lot of power in{br}this city.\"{end}",
   "notes": ""
  },
  {
@@ -1832,7 +1832,7 @@
   "op": "95C572",
   "len": 46,
   "jp": "「奴らにとってみれば、{br}証拠を消すのも関係者を消すのも{br}簡単な事だ。{end}",
-  "en": "",
+  "en": "\"For them, wiping out evidence or wiping out{br}the people involved is easy.\"{end}",
   "notes": ""
  },
  {
@@ -1841,7 +1841,7 @@
   "op": "95C5A2",
   "len": 26,
   "jp": "「{c0C:01}さん、{br}私の力になってもらえませんか？{endFD}",
-  "en": "",
+  "en": "\"{c0C:01}-san, won't you help me?\"{endFD}",
   "notes": ""
  },
  {
@@ -1850,7 +1850,7 @@
   "op": "95C5BD",
   "len": 44,
   "jp": "主人の仇を討つのを手伝って下さい。{br}もちろん、お金だったら出します。{end}",
-  "en": "",
+  "en": "Please help me avenge my husband. Of course,{br}I'll pay you.{end}",
   "notes": ""
  },
  {
@@ -1859,7 +1859,7 @@
   "op": "95C5EB",
   "len": 59,
   "jp": "「あいにくだが、オレは正義の味方じゃ{br}ないんだ。いくら金を積まれても{br}そんな危ない橋は渡れないね。{endFD}",
-  "en": "",
+  "en": "\"Sorry, but I'm no champion of justice. No{br}matter how much you pay, I won't cross a{br}bridge that dangerous.\"{endFD}",
   "notes": ""
  },
  {
@@ -1868,7 +1868,7 @@
   "op": "95C627",
   "len": 56,
   "jp": "それに、ご主人はあんたに生き延びて{br}もらいたかったんだ。{br}命を捨てる様な事はしない方がいい。{end}",
-  "en": "",
+  "en": "Besides, your husband wanted you to live. You{br}shouldn't do anything that'll throw your life{br}away.{end}",
   "notes": ""
  },
  {
@@ -1877,7 +1877,7 @@
   "op": "95C661",
   "len": 14,
   "jp": "「そうですか………。{endFD}",
-  "en": "",
+  "en": "\"I see...\"{endFD}",
   "notes": ""
  },
  {
@@ -1886,7 +1886,7 @@
   "op": "95C670",
   "len": 64,
   "jp": "主人がそう望んでいたのなら{br}今日にでもこの街を離れる事にします。{br}報酬の方は口座へ入れておきます。{endFD}",
-  "en": "",
+  "en": "If that's what my husband wanted, I'll leave{br}this city, today if I can. I'll pay your fee into{br}your account.{endFD}",
   "notes": ""
  },
  {
@@ -1895,7 +1895,7 @@
   "op": "95C6B1",
   "len": 24,
   "jp": "{c0C:01}さん、いろいろありがとう{br}ございました。{end}",
-  "en": "",
+  "en": "{c0C:01}-san, thank you for everything.{end}",
   "notes": ""
  },
  {
@@ -1904,7 +1904,7 @@
   "op": "95C6CE",
   "len": 31,
   "jp": "「後で迎えに行く。{br}街を出るまで送って行くよ。{end}",
-  "en": "",
+  "en": "\"I'll come by for you later. I'll see you safely{br}out of the city.\"{end}",
   "notes": ""
  },
  {
@@ -1913,7 +1913,7 @@
   "op": "95C6F9",
   "len": 51,
   "jp": "カーク「お前もババリアに復讐しようと{br}しているではないか。{br}何故、協力してやらんのだ？{end}",
-  "en": "",
+  "en": "Kirk: You're trying to take revenge on{br}Bavaria yourself, aren't you? Why won't you{br}help her?{end}",
   "notes": ""
  },
  {
@@ -1922,7 +1922,7 @@
   "op": "95C731",
   "len": 33,
   "jp": "{c0C:01}「彼女じゃ、奴らとの戦いには{br}生き残れないさ。{endFD}",
-  "en": "",
+  "en": "{c0C:01}: She'd never survive a fight against{br}them.{endFD}",
   "notes": ""
  },
  {
@@ -1931,7 +1931,7 @@
   "op": "95C753",
   "len": 66,
   "jp": "奴らと戦うのはこのオレだけで十分だ。{br}オレは、バケモノになったとはいえ{br}彼女の夫を殺した。その償いの為にもな。{end}",
-  "en": "",
+  "en": "I'm all it takes to fight them. Monster or not,{br}I killed her husband. Call it making amends.{end}",
   "notes": ""
  },
  {
@@ -1940,7 +1940,7 @@
   "op": "95C9CD",
   "len": 51,
   "jp": "{c0C:01}「ビデオフォンだ。{br}映像と音声を光通信でやりとりする、{br}いわゆるTV電話だ。{end}",
-  "en": "",
+  "en": "{c0C:01}: It's the videophone. It sends picture{br}and sound over optical lines. A TV phone,{br}basically.{end}",
   "notes": ""
  },
  {
@@ -1949,7 +1949,7 @@
   "op": "95CA09",
   "len": 32,
   "jp": "{c0C:01}「チャイナタウンで買った食器が{br}並べられている。{end}",
-  "en": "",
+  "en": "{c0C:01}: The dishes we bought in Chinatown{br}are lined up here.{end}",
   "notes": ""
  },
  {
@@ -1958,7 +1958,7 @@
   "op": "95CA32",
   "len": 34,
   "jp": "{c0C:01}「特に仕事に関係するような物は{br}入ってないな。{end}",
-  "en": "",
+  "en": "{c0C:01}: Nothing in here that has anything to{br}do with work.{end}",
   "notes": ""
  },
  {
@@ -1967,7 +1967,7 @@
   "op": "95CDE9",
   "len": 34,
   "jp": "{c0C:01}「アイリーンのおかげで、{br}中はキチンと整理されている。{end}",
-  "en": "",
+  "en": "{c0C:01}: Thanks to Irene, it's all neat and{br}tidy inside.{end}",
   "notes": ""
  },
  {
@@ -1976,7 +1976,7 @@
   "op": "95CE10",
   "len": 42,
   "jp": "{c0C:01}「中はあまり整理されてない。{br}オレしか使ってないんだから当然か。{end}",
-  "en": "",
+  "en": "{c0C:01}: It's not very tidy inside. Well, I'm{br}the only one who uses it, so what do you{br}expect?{end}",
   "notes": ""
  },
  {
@@ -1985,7 +1985,7 @@
   "op": "95CE86",
   "len": 29,
   "jp": "カーク「これから、仕事がやりにくくなる{br}じゃろうな。{end}",
-  "en": "",
+  "en": "Kirk: Doing the job is going to get harder from{br}here on, I'd wager.{end}",
   "notes": ""
  },
  {
@@ -1994,7 +1994,7 @@
   "op": "95CEA8",
   "len": 22,
   "jp": "{c0C:01}「ああ、お前にも迷惑かけるな。{end}",
-  "en": "",
+  "en": "{c0C:01}: Yeah. Sorry to drag you into it.{end}",
   "notes": ""
  },
  {
@@ -2003,7 +2003,7 @@
   "op": "95CEC0",
   "len": 56,
   "jp": "「なに、高級オイルをさす事と{br}アフタヌーンティーの時間をとる事を{br}忘れさえしなければ構わんよ。{end}",
-  "en": "",
+  "en": "\"Bah, I don't mind, so long as you never{br}forget my premium oil and my afternoon tea.\"{end}",
   "notes": ""
  },
  {
@@ -2012,7 +2012,7 @@
   "op": "95CEFC",
   "len": 21,
   "jp": "「へぇへぇ、分かりましたよ、相棒。{end}",
-  "en": "",
+  "en": "\"Yeah, yeah, I hear you, partner.\"{end}",
   "notes": ""
  },
  {
@@ -2021,7 +2021,7 @@
   "op": "95D1BA",
   "len": 29,
   "jp": "リフ「無事だったか{c0C:01}。{br}心配していたんだぞ。{end}",
-  "en": "",
+  "en": "Riff: You're safe, {c0C:01}. I was worried{br}about you.{end}",
   "notes": ""
  },
  {
@@ -2030,7 +2030,7 @@
   "op": "95D1D9",
   "len": 19,
   "jp": "{c0C:01}「リフもここへ来ていたのか。{end}",
-  "en": "",
+  "en": "{c0C:01}: Riff, you came here too?{end}",
   "notes": ""
  },
  {
@@ -2039,7 +2039,7 @@
   "op": "95D1EE",
   "len": 36,
   "jp": "「当たり前じゃないか。{br}わしだってレジスタンスの一員だからな。{end}",
-  "en": "",
+  "en": "\"Of course I did. I'm a member of the{br}Resistance too, you know.\"{end}",
   "notes": ""
  },
  {
@@ -2048,7 +2048,7 @@
   "op": "95D22C",
   "len": 41,
   "jp": "バイオモンスター「見たか、我々の力を。{br}ババリアも今日が最後だ。{end}",
-  "en": "",
+  "en": "Bio-monster: Behold our power! Today is{br}Bavaria's last day.{end}",
   "notes": ""
  },
  {
@@ -2057,7 +2057,7 @@
   "op": "95D266",
   "len": 37,
   "jp": "バイオモンスター「作戦成功まで{br}あともう少しだ、頑張ろう。{end}",
-  "en": "",
+  "en": "Bio-monster: We're almost there. Just a little{br}longer until the operation succeeds. Hang in{br}there.{end}",
   "notes": ""
  },
  {
@@ -2066,7 +2066,7 @@
   "op": "95D29C",
   "len": 59,
   "jp": "レジスタンス「ランナーの武器を{br}手に入れたんだが、持って行くか？{br}ウィリスRY3とASベレム3があるぞ。{end}",
-  "en": "",
+  "en": "Resistance Fighter: We got our hands on some{br}runner weapons. Want to take one? There's a{br}Willis RY3 and an AS Belem 3.{end}",
   "notes": ""
  },
  {
@@ -2075,7 +2075,7 @@
   "op": "95D2D8",
   "len": 34,
   "jp": "  ウィリスRY3をもらう{br}  ASベレム3をもらう{br}  いらない{endFE}",
-  "en": "",
+  "en": "Take the Willis RY3{br}Take the AS Belem 3{br}No thanks{endFE}",
   "notes": ""
  },
  {
@@ -2084,7 +2084,7 @@
   "op": "95D31B",
   "len": 18,
   "jp": "「もうそれ以上は持てないぞ。{end}",
-  "en": "",
+  "en": "\"You can't carry any more than that.\"{end}",
   "notes": ""
  },
  {
@@ -2093,7 +2093,7 @@
   "op": "95D331",
   "len": 30,
   "jp": "「大した武器ではないが、良かったら{br}使ってくれ。{end}",
-  "en": "",
+  "en": "\"It's not much of a weapon, but feel free to{br}use it.\"{end}",
   "notes": ""
  },
  {
@@ -2102,7 +2102,7 @@
   "op": "95D353",
   "len": 29,
   "jp": "「武器が必要になったら、いつでも{br}言ってくれ。{end}",
-  "en": "",
+  "en": "\"If you ever need weapons, just say the{br}word.\"{end}",
   "notes": ""
  },
  {
@@ -2111,7 +2111,7 @@
   "op": "95D39B",
   "len": 45,
   "jp": "レジスタンス「仲間達の手助けで{br}我々だけは内部へ突入できたんです。{end}",
-  "en": "",
+  "en": "Resistance Fighter: Thanks to our comrades'{br}help, we were the only ones who made it{br}inside.{end}",
   "notes": ""
  },
  {
@@ -2120,7 +2120,7 @@
   "op": "95D3E1",
   "len": 15,
   "jp": "イオン「{c0C:01}、ケガはない？{end}",
-  "en": "",
+  "en": "Ion: {c0C:01}, are you hurt?{end}",
   "notes": ""
  },
  {
@@ -2129,7 +2129,7 @@
   "op": "95D3F2",
   "len": 27,
   "jp": "{c0C:01}「イオン、自分のランナーは{br}どうしたんだ？{end}",
-  "en": "",
+  "en": "{c0C:01}: Ion, what happened to your runner?{end}",
   "notes": ""
  },
  {
@@ -2138,7 +2138,7 @@
   "op": "95D40F",
   "len": 62,
   "jp": "「突入する時に、敵の攻撃を受けて{br}動力系をやられてしまったの。{br}悔しかったけれど放棄してきたわ。{endFD}",
-  "en": "",
+  "en": "\"It took enemy fire when we broke in, and its{br}power system got wrecked. I hated to, but I{br}had to leave it behind.\"{endFD}",
   "notes": ""
  },
  {
@@ -2147,7 +2147,7 @@
   "op": "95D44E",
   "len": 49,
   "jp": "だから、レジスタンス側のランナーは{br}あなたの{c0C:02}しかないのよ。{br}バイスハイトは任せたわよ。{end}",
-  "en": "",
+  "en": "So your {c0C:02} is the only runner the{br}Resistance has left. I'm counting on you to{br}handle Weissheit.{end}",
   "notes": ""
  },
  {
@@ -2156,7 +2156,7 @@
   "op": "95D489",
   "len": 50,
   "jp": "イオン「今、あたしとラオエルで{br}ここのメインコンピューターに{br}アクセスしようとしている所なの。{end}",
-  "en": "",
+  "en": "Ion: Raoel and I are trying to access the main{br}computer here right now.{end}",
   "notes": ""
  },
  {
@@ -2165,7 +2165,7 @@
   "op": "95D4CC",
   "len": 43,
   "jp": "ミネルバ「お手伝いできなくて残念です。{br}頑張って下さいね、{c0C:01}さん。{end}",
-  "en": "",
+  "en": "Minerva: I'm sorry I can't help. Good luck,{br}{c0C:01}-san.{end}",
   "notes": ""
  },
  {
@@ -2174,7 +2174,7 @@
   "op": "95D50F",
   "len": 34,
   "jp": "ラオエル「何とか無事のようだな。{br}どうだ、上の状況は？{end}",
-  "en": "",
+  "en": "Raoel: Looks like you made it in one piece. How{br}are things upstairs?{end}",
   "notes": ""
  },
  {
@@ -2183,7 +2183,7 @@
   "op": "95D533",
   "len": 43,
   "jp": "{c0C:01}「バイスハイトの姿はまだない。{br}おそらく、奴は最上階にいるんだろう。{end}",
-  "en": "",
+  "en": "{c0C:01}: No sign of Weissheit yet. He's{br}probably on the top floor.{end}",
   "notes": ""
  },
  {
@@ -2192,7 +2192,7 @@
   "op": "95D560",
   "len": 57,
   "jp": "「おれ達はここのメインコンピューターに{br}アクセスを試みる。うまくいけば、{br}お前の手助けができるハズだ。{end}",
-  "en": "",
+  "en": "\"We'll try to access the main computer here. If{br}it works, we should be able to help you.\"{end}",
   "notes": ""
  },
  {
@@ -2201,7 +2201,7 @@
   "op": "95D5A4",
   "len": 38,
   "jp": "ラオエル「頼りにしているぞ。{br}おれ達はここからお前を手助けする。{end}",
-  "en": "",
+  "en": "Raoel: We're counting on you. We'll back you up{br}from here.{end}",
   "notes": ""
  },
  {
@@ -2210,7 +2210,7 @@
   "op": "95D5D9",
   "len": 47,
   "jp": "カーク「外ではレジスタンスとババリアが{br}戦闘をしている。出て行っては危険じゃ。{end}",
-  "en": "",
+  "en": "Kirk: The Resistance and Bavaria are fighting{br}outside. It's dangerous to go out there.{end}",
   "notes": ""
  },
  {
@@ -2219,7 +2219,7 @@
   "op": "95D610",
   "len": 29,
   "jp": "{c0C:01}「くそっ、このエレベーター{br}使えなくなってるぞ。{end}",
-  "en": "",
+  "en": "{c0C:01}: Damn, this elevator's out of{br}commission.{end}",
   "notes": ""
  },
  {
@@ -2228,7 +2228,7 @@
   "op": "95D63D",
   "len": 46,
   "jp": "{c0C:01}「な、何だコイツ？{br}ランナーとバイオモンスターが{br}ごっちゃになったような姿だぞ。{end}",
-  "en": "",
+  "en": "{c0C:01}: Wh-what is this thing? It looks like a{br}runner and a bio-monster all mashed together.{end}",
   "notes": ""
  },
  {
@@ -2237,7 +2237,7 @@
   "op": "95D66D",
   "len": 17,
   "jp": "モンスター「ぐ、ぐおおおお…。{end}",
-  "en": "",
+  "en": "Monster: Gr... grooaaar...{end}",
   "notes": ""
  },
  {
@@ -2246,7 +2246,7 @@
   "op": "95D682",
   "len": 28,
   "jp": "カーク「どうやら、戦闘意欲はないよう{br}じゃぞ。{end}",
-  "en": "",
+  "en": "Kirk: It seems it has no will to fight.{end}",
   "notes": ""
  },
  {
@@ -2255,7 +2255,7 @@
   "op": "95D6A0",
   "len": 15,
   "jp": "「あ、ああ そうみたいだな。{end}",
-  "en": "",
+  "en": "\"Y-yeah, looks that way.\"{end}",
   "notes": ""
  },
  {
@@ -2264,7 +2264,7 @@
   "op": "95D6B4",
   "len": 54,
   "jp": "「こいつがバーンズの言っていた{br}バイオモンスターのようだな。{br}カーク、バーンズに連絡を入れてくれ。{end}",
-  "en": "",
+  "en": "\"This must be the bio-monster Barnes was{br}talking about. Kirk, get in touch with Barnes.\"{end}",
   "notes": ""
  },
  {
@@ -2273,7 +2273,7 @@
   "op": "95D6EC",
   "len": 11,
   "jp": "「うむ、分かった。{end}",
-  "en": "",
+  "en": "\"Very well.\"{end}",
   "notes": ""
  },
  {
@@ -2282,7 +2282,7 @@
   "op": "95D711",
   "len": 26,
   "jp": "「それにしても、{br}こいつは一体何なんだ…？{end}",
-  "en": "",
+  "en": "\"Still, what on earth is this thing...?\"{end}",
   "notes": ""
  },
  {
@@ -2291,7 +2291,7 @@
   "op": "95D732",
   "len": 10,
   "jp": "声「人間だ。{end}",
-  "en": "",
+  "en": "Voice: A human.{end}",
   "notes": ""
  },
  {
@@ -2300,7 +2300,7 @@
   "op": "95D749",
   "len": 44,
   "jp": "「お前は………{c1C:3C}。{br}{c1E}たしか、工場地区の地下下水道で！{end}",
-  "en": "",
+  "en": "\"You're...{c1C:3C} {c1E}That's right, the sewers under the{br}Factory District!\"{end}",
   "notes": ""
  },
  {
@@ -2309,7 +2309,7 @@
   "op": "95D77B",
   "len": 29,
   "jp": "「CTIのコスタが言っとった{br}バイオモンスターじゃな。{end}",
-  "en": "",
+  "en": "\"The bio-monster Costa of CTI was talking{br}about, eh?\"{end}",
   "notes": ""
  },
  {
@@ -2318,7 +2318,7 @@
   "op": "95D79D",
   "len": 48,
   "jp": "「おれはラオエル。{br}そのモンスター、正確には{br}元・人間と言うべきかも知れないな。{endFD}",
-  "en": "",
+  "en": "\"I am Raoel. That monster... it might be more{br}accurate to call him a former human.\"{endFD}",
   "notes": ""
  },
  {
@@ -2327,7 +2327,7 @@
   "op": "95D7D0",
   "len": 48,
   "jp": "彼は生体実験の材料にされたんだ。{br}このような悪魔の所業ができるのは…。{endFD}",
-  "en": "",
+  "en": "He was made into material for experiments on{br}living things. The only ones who could commit{br}such devilish deeds...{endFD}",
   "notes": ""
  },
  {
@@ -2336,7 +2336,7 @@
   "op": "95D805",
   "len": 11,
   "jp": "ババリアしかいない。{end}",
-  "en": "",
+  "en": "are Bavaria.{end}",
   "notes": ""
  },
  {
@@ -2345,7 +2345,7 @@
   "op": "95D817",
   "len": 10,
   "jp": "「ババリアだと！？{end}",
-  "en": "",
+  "en": "\"Bavaria, you say?!\"{end}",
   "notes": ""
  },
  {
@@ -2354,7 +2354,7 @@
   "op": "95D828",
   "len": 18,
   "jp": "「ひ…ひい…バ、ババリア…。{end}",
-  "en": "",
+  "en": "\"Eek... B-Bavaria...\"{end}",
   "notes": ""
  },
  {
@@ -2363,7 +2363,7 @@
   "op": "95D83F",
   "len": 40,
   "jp": "「ババリアと聞いただけでこんなに{br}怯えるとは、どうやら確かなようじゃな。{end}",
-  "en": "",
+  "en": "\"To be this terrified just hearing the name{br}Bavaria... It seems it's true, then.\"{end}",
   "notes": ""
  },
  {
@@ -2372,7 +2372,7 @@
   "op": "95D86B",
   "len": 44,
   "jp": "「人間を使って生体実験なんて…。{br}ババリアは何をたくらんでいるんだ？{end}",
-  "en": "",
+  "en": "\"Experimenting on human beings... What's{br}Bavaria scheming?\"{end}",
   "notes": ""
  },
  {
@@ -2381,7 +2381,7 @@
   "op": "95D89C",
   "len": 54,
   "jp": "「こいつは、奴等の最終目的の為の{br}通過点に過ぎない。{br}そして、このおれの姿も…。{end}",
-  "en": "",
+  "en": "\"This is only a stepping stone toward their{br}final goal. As is the way I look...\"{end}",
   "notes": ""
  },
  {
@@ -2390,7 +2390,7 @@
   "op": "95D8D6",
   "len": 13,
   "jp": "「何、どういう事だ？{end}",
-  "en": "",
+  "en": "\"What? What do you mean?\"{end}",
   "notes": ""
  },
  {
@@ -2399,7 +2399,7 @@
   "op": "95D8EE",
   "len": 47,
   "jp": "「{c0C:01}、武装したランナーが{br}こちらに接近中じゃぞ。{br}早く{c0C:02}に戻るんじゃ。{end}",
-  "en": "",
+  "en": "\"{c0C:01}, armed runners are approaching. Get{br}back to {c0C:02}, quickly!\"{end}",
   "notes": ""
  },
  {
@@ -2408,7 +2408,7 @@
   "op": "95D922",
   "len": 12,
   "jp": "「まさか、ババリアか？{end}",
-  "en": "",
+  "en": "\"Don't tell me it's Bavaria?\"{end}",
   "notes": ""
  },
  {
@@ -2417,7 +2417,7 @@
   "op": "95D934",
   "len": 7,
   "jp": "「来るぞ！{end}",
-  "en": "",
+  "en": "\"Here they come!\"{end}",
   "notes": ""
  },
  {
@@ -2426,7 +2426,7 @@
   "op": "95D943",
   "len": 22,
   "jp": "ラオエル「こいつが何か話したいそうだ。{end}",
-  "en": "",
+  "en": "Raoel: He says there's something he wants to{br}tell you.{end}",
   "notes": ""
  },
  {
@@ -2435,7 +2435,7 @@
   "op": "95D961",
   "len": 35,
   "jp": "モンスター「お、おれは元々は{br}ピラーニャ・プレタにかかっていた。{endFD}",
-  "en": "",
+  "en": "Monster: I-I had Piranha Preta to begin with.{endFD}",
   "notes": ""
  },
  {
@@ -2444,7 +2444,7 @@
   "op": "95D985",
   "len": 54,
   "jp": "もう助からないとヤケになっていた時、{br}ババリアの誘いにのって{br}ドラッグ工場でヤク漬けになった。{endFD}",
-  "en": "",
+  "en": "I'd given up, thinking I was done for, when I{br}took Bavaria up on their offer and got{br}hooked on drugs at the drug factory.{endFD}",
   "notes": ""
  },
  {
@@ -2453,7 +2453,7 @@
   "op": "95D9BC",
   "len": 45,
   "jp": "しばらくすると、奴らはおれをおかしな{br}研究所に連れていって、こんな姿に…。{end}",
-  "en": "",
+  "en": "After a while, they took me to some weird lab{br}and turned me into this...{end}",
   "notes": ""
  },
  {
@@ -2462,7 +2462,7 @@
   "op": "95D9EC",
   "len": 59,
   "jp": "今思えば奴らがおれに近づいてきたのも{br}ピラーニャ・プレタの患者だと{br}知っていたからなのかも知れない。{end}",
-  "en": "",
+  "en": "Now that I think about it, maybe the reason{br}they came after me was that they knew I was{br}a Piranha Preta patient.{end}",
   "notes": ""
  },
  {
@@ -2471,7 +2471,7 @@
   "op": "95DA2C",
   "len": 20,
   "jp": "{c0C:01}「その研究所はどこなんだ？{end}",
-  "en": "",
+  "en": "{c0C:01}: Where is that lab?{end}",
   "notes": ""
  },
  {
@@ -2480,7 +2480,7 @@
   "op": "95DA44",
   "len": 41,
   "jp": "「分からない…だが、ドラッグ工場なら{br}エリア11の倉庫の中にある。{end}",
-  "en": "",
+  "en": "\"I don't know... But the drug factory is inside{br}a warehouse in Area 11.\"{end}",
   "notes": ""
  },
  {
@@ -2489,7 +2489,7 @@
   "op": "95DA72",
   "len": 29,
   "jp": "カーク「お前達は、{br}これからどうするつもりなんじゃ？{end}",
-  "en": "",
+  "en": "Kirk: What do the two of you intend to do{br}now?{end}",
   "notes": ""
  },
  {
@@ -2498,7 +2498,7 @@
   "op": "95DA98",
   "len": 53,
   "jp": "「こいつはおれが引き取る。{br}このまま人間と一緒に{br}生活して行くのは不可能だろう。{endFD}",
-  "en": "",
+  "en": "\"I'll take him in. He can't go on living among{br}humans like this.\"{endFD}",
   "notes": ""
  },
  {
@@ -2507,7 +2507,7 @@
   "op": "95DACE",
   "len": 53,
   "jp": "おれ達の元に来た方が{br}こいつにとっては幸せなはずだ。{br}もちろんこいつも承知してくれている。{end}",
-  "en": "",
+  "en": "He'll be happier if he comes to us. And of{br}course, he has agreed to it.{end}",
   "notes": ""
  },
  {
@@ -2516,7 +2516,7 @@
   "op": "95DB08",
   "len": 59,
   "jp": "「バイオモンスターが徒党を組んでいる{br}というのは本当だったんだな。{br}一体何をやらかそうっていうんだ？{end}",
-  "en": "",
+  "en": "\"So it's true that bio-monsters are banding{br}together. Just what are you planning to pull?\"{end}",
   "notes": ""
  },
  {
@@ -2525,7 +2525,7 @@
   "op": "95DB45",
   "len": 67,
   "jp": "「おれ達は身を守るための手段を{br}とっているに過ぎない。それを脅威と{br}取るのは人間どもの勝手な言い分だ。{endFD}",
-  "en": "",
+  "en": "\"We are only taking steps to protect{br}ourselves. Calling that a threat is just{br}humans' selfish way of seeing it.\"{endFD}",
   "notes": ""
  },
  {
@@ -2534,7 +2534,7 @@
   "op": "95DB89",
   "len": 51,
   "jp": "{c0C:01}といったな。{br}いずれまた会う事になるだろう。{br}その時、お前が敵でない事を願うよ。{end}",
-  "en": "",
+  "en": "{c0C:01}, was it? We'll meet again someday.{br}When we do, I hope you won't be my enemy.{end}",
   "notes": ""
  },
  {
@@ -2543,7 +2543,7 @@
   "op": "95DBC5",
   "len": 53,
   "jp": "「バイオモンスター…{br}ラオエル…そして、ババリア…。{br}何かが起きようとしているのは確かだな。{end}",
-  "en": "",
+  "en": "\"Bio-monsters... Raoel... and now Bavaria...{br}Something's about to happen, that's for sure.\"{end}",
   "notes": ""
  },
  {
@@ -2552,7 +2552,7 @@
   "op": "95DC81",
   "len": 23,
   "jp": "{c0C:01}「何か仕事の依頼はないかな？{end}",
-  "en": "",
+  "en": "{c0C:01}: Any jobs come in?{end}",
   "notes": ""
  },
  {
@@ -2561,7 +2561,7 @@
   "op": "95DCDA",
   "len": 18,
   "jp": "{c0C:01}「ディスクを調べてみよう。{end}",
-  "en": "",
+  "en": "{c0C:01}: Let's take a look at the disc.{end}",
   "notes": ""
  },
  {
@@ -2570,7 +2570,7 @@
   "op": "95DD04",
   "len": 45,
   "jp": "{c0C:01}「なるほどね。彼女は{br}カタラカンパニーの奴らに連れ去られたって{br}訳か。{end}",
-  "en": "",
+  "en": "{c0C:01}: I see. So she was carried off by the{br}Catala Company goons.{end}",
   "notes": ""
  },
  {
@@ -2579,7 +2579,7 @@
   "op": "95DD32",
   "len": 67,
   "jp": "だが、彼女は危険を感じてディスクを{br}シスターに預けた。そうと知らない奴らは{br}彼女に仲間がいると思っている。{end}",
-  "en": "",
+  "en": "But she sensed the danger and left the disc{br}with the Sister. They don't know that, so they{br}think she has a partner.{end}",
   "notes": ""
  },
  {
@@ -2588,7 +2588,7 @@
   "op": "95DD76",
   "len": 67,
   "jp": "問題は、彼女がどこに連れて行かれたのか{br}という事だが、どうすればいいんだ？{br}手がかりがありそうな所といったら…。{end}",
-  "en": "",
+  "en": "The question is where they've taken her. What{br}should I do? The only place that might have a{br}clue is...{end}",
   "notes": ""
  },
  {
@@ -2597,7 +2597,7 @@
   "op": "95DDC1",
   "len": 55,
   "jp": "{c0C:01}「ひょっとしたら、まだ何か{br}手がかりが残っているかも知れない。{br}ノーラの家へ行ってみよう。{end}",
-  "en": "",
+  "en": "{c0C:01}: Maybe there's still some clue left{br}behind. Let's go to Nora's place.{end}",
   "notes": ""
  },
  {
@@ -2606,7 +2606,7 @@
   "op": "95DE13",
   "len": 24,
   "jp": "「珍しいな。依頼が一つも無いなんて。{end}",
-  "en": "",
+  "en": "\"That's rare. Not a single job.\"{end}",
   "notes": ""
  },
  {
@@ -2615,7 +2615,7 @@
   "op": "95DE2C",
   "len": 30,
   "jp": "仕方ない、アイリーンと外にでも{br}出掛けようかな？{end}",
-  "en": "",
+  "en": "Oh well, maybe I'll take Irene out somewhere.{end}",
   "notes": ""
  },
  {
@@ -2624,7 +2624,7 @@
   "op": "95DE84",
   "len": 25,
   "jp": "「何？ …おい！{br}くっそう、ふざけやがって。{end}",
-  "en": "",
+  "en": "\"What? ...Hey! Dammit, quit messing with me.\"{end}",
   "notes": ""
  }
 ]

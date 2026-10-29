@@ -4,7 +4,7 @@
   "addr": "93:B33D",
   "len": 9,
   "jp": "耐火装甲{end}",
-  "en": "",
+  "en": "Fireproof{br}Armor{end}",
   "notes": ""
  },
  {
@@ -12,7 +12,7 @@
   "addr": "93:B346",
   "len": 9,
   "jp": "耐電装甲{end}",
-  "en": "",
+  "en": "Insulated{br}Armor{end}",
   "notes": ""
  },
  {
@@ -20,7 +20,7 @@
   "addr": "93:B34F",
   "len": 9,
   "jp": "耐毒装甲{end}",
-  "en": "",
+  "en": "Poisonproof{br}Armor{end}",
   "notes": ""
  },
  {
@@ -28,7 +28,7 @@
   "addr": "93:B358",
   "len": 9,
   "jp": "耐酸装甲{end}",
-  "en": "",
+  "en": "Acidproof{br}Armor{end}",
   "notes": ""
  },
  {
@@ -36,7 +36,7 @@
   "addr": "93:B361",
   "len": 9,
   "jp": "回復装甲{end}",
-  "en": "",
+  "en": "Recovery{br}Armor{end}",
   "notes": ""
  },
  {
@@ -44,7 +44,7 @@
   "addr": "93:B376",
   "len": 25,
   "jp": "耐性はないが、汎用的に使える装甲{end}",
-  "en": "",
+  "en": "General-purpose armor with no resistances{end}",
   "notes": ""
  },
  {
@@ -52,7 +52,7 @@
   "addr": "93:B38F",
   "len": 28,
   "jp": "火に強いがそれ以外の攻撃には弱い装甲{end}",
-  "en": "",
+  "en": "Armor that resists fire but is weak to other{br}attacks{end}",
   "notes": ""
  },
  {
@@ -60,7 +60,7 @@
   "addr": "93:B3AB",
   "len": 30,
   "jp": "電撃に強いがそれ以外の攻撃には弱い装甲{end}",
-  "en": "",
+  "en": "Armor that resists shock but is weak to other{br}attacks{end}",
   "notes": ""
  },
  {
@@ -68,7 +68,7 @@
   "addr": "93:B3C9",
   "len": 30,
   "jp": "毒素に強いがそれ以外の攻撃には弱い装甲{end}",
-  "en": "",
+  "en": "Armor that resists poison but is weak to other{br}attacks{end}",
   "notes": ""
  },
  {
@@ -76,7 +76,7 @@
   "addr": "93:B3E7",
   "len": 28,
   "jp": "酸に強いがそれ以外の攻撃には弱い装甲{end}",
-  "en": "",
+  "en": "Armor that resists acid but is weak to other{br}attacks{end}",
   "notes": ""
  },
  {
@@ -84,7 +84,7 @@
   "addr": "93:B403",
   "len": 45,
   "jp": "非戦闘時にHPが回復して行く装甲{br}ただし、ダメージを多く受けやすい{end}",
-  "en": "",
+  "en": "Armor that restores HP outside of battle.{br}However, it takes damage more easily.{end}",
   "notes": ""
  },
  {
@@ -92,7 +92,7 @@
   "addr": "93:B62E",
   "len": 7,
   "jp": "データロード{end}",
-  "en": "",
+  "en": "Load Data{end}",
   "notes": ""
  },
  {
@@ -100,7 +100,7 @@
   "addr": "93:B635",
   "len": 7,
   "jp": "データセーブ{end}",
-  "en": "",
+  "en": "Save Data{end}",
   "notes": ""
  },
  {
@@ -108,7 +108,7 @@
   "addr": "93:B63C",
   "len": 10,
   "jp": "データがありません{end}",
-  "en": "",
+  "en": "No data{end}",
   "notes": ""
  },
  {
@@ -116,7 +116,7 @@
   "addr": "93:B646",
   "len": 8,
   "jp": "セーブ中です{end}",
-  "en": "",
+  "en": "Saving...{end}",
   "notes": ""
  },
  {
@@ -124,7 +124,7 @@
   "addr": "93:B248",
   "len": 29,
   "jp": "装甲増加装甲交換強化改造やめる {end}",
-  "en": "",
+  "en": "Add Armor | Swap Armor | Upgrade | Quit{end}",
   "notes": ""
  },
  {
@@ -132,7 +132,7 @@
   "addr": "93:B274",
   "len": 14,
   "jp": "増やす やめる 費用{end}",
-  "en": "",
+  "en": "Add | Quit | Cost{end}",
   "notes": ""
  },
  {
@@ -140,7 +140,7 @@
   "addr": "93:B291",
   "len": 12,
   "jp": "費用現在： {end}",
-  "en": "",
+  "en": "Cost | Current:{end}",
   "notes": ""
  },
  {
@@ -148,7 +148,7 @@
   "addr": "93:8D77",
   "len": 19,
   "jp": "購入する売却する店を出る{end}",
-  "en": "",
+  "en": "Buy | Sell | Leave{end}",
   "notes": ""
  },
  {
@@ -156,7 +156,7 @@
   "addr": "93:8D8A",
   "len": 17,
   "jp": "アイテム購入武器購入{end}",
-  "en": "",
+  "en": "Buy Items | Buy Weapons{end}",
   "notes": ""
  },
  {
@@ -164,7 +164,7 @@
   "addr": "93:8D9B",
   "len": 17,
   "jp": "アイテム売却武器売却{end}",
-  "en": "",
+  "en": "Sell Items | Sell Weapons{end}",
   "notes": ""
  }
 ]

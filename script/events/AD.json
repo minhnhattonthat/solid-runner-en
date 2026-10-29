@@ -5,7 +5,7 @@
   "op": "AD89CB",
   "len": 18,
   "jp": "扉のカードキーを見つけました。{end}",
-  "en": "",
+  "en": "Found a card key for the doors.{end}",
   "notes": ""
  },
  {
@@ -14,7 +14,7 @@
   "op": "AD89EB",
   "len": 35,
   "jp": "カーク「これを使えば、ロックされた扉を{br}開ける事ができるぞ。{endFD}",
-  "en": "",
+  "en": "Kirk: With this, we can open the locked doors.{endFD}",
   "notes": ""
  },
  {
@@ -23,7 +23,7 @@
   "op": "AD8A0F",
   "len": 61,
   "jp": "キーはどの差し込み口にも使えるが、どの{br}階の扉が開くのかは、それぞれの差し込み口{br}によって違うぞ。{end}",
-  "en": "",
+  "en": "The key works in any slot, but which floor's{br}door opens depends on the slot.{end}",
   "notes": ""
  },
  {
@@ -32,7 +32,7 @@
   "op": "AD8ADB",
   "len": 31,
   "jp": "{c0C:01}「この扉はロックを外さないと{br}開かないみたいだ。{end}",
-  "en": "",
+  "en": "{c0C:01}: Looks like this door won't open{br}unless I release the lock.{end}",
   "notes": ""
  },
  {
@@ -41,7 +41,7 @@
   "op": "AD8B02",
   "len": 36,
   "jp": "{c0C:01}「どうやら、この扉のロックは{br}違う所から外すみたいだな。{end}",
-  "en": "",
+  "en": "{c0C:01}: Seems the lock on this door has to{br}be released from somewhere else.{end}",
   "notes": ""
  },
  {
@@ -50,7 +50,7 @@
   "op": "AD8C28",
   "len": 54,
   "jp": "カーク「この差し込み口は反対側と両方に{br}キーを差さないとロックが外れないよう{br}じゃな。{end}",
-  "en": "",
+  "en": "Kirk: It seems this slot won't release the lock{br}unless keys are inserted both here and in the{br}one on the opposite side.{end}",
   "notes": ""
  },
  {
@@ -59,7 +59,7 @@
   "op": "AD8C71",
   "len": 33,
   "jp": "カードキーを差し込みました。{br}2F奥の扉が開きました。{end}",
-  "en": "",
+  "en": "Inserted the card key. The door at the back{br}of 2F opened.{end}",
   "notes": ""
  },
  {
@@ -68,7 +68,7 @@
   "op": "AD8CB1",
   "len": 33,
   "jp": "カードキーを抜き取りました。{br}2F奥の扉が閉じました。{end}",
-  "en": "",
+  "en": "Removed the card key. The door at the back{br}of 2F closed.{end}",
   "notes": ""
  },
  {
@@ -77,7 +77,7 @@
   "op": "AD8CDA",
   "len": 47,
   "jp": "カーク「カードキーの差し込み口じゃな。{br}ここにキーを差せば扉のロックが外れるぞ。{end}",
-  "en": "",
+  "en": "Kirk: A card key slot. Insert a key here and{br}the door's lock will be released.{end}",
   "notes": ""
  },
  {
@@ -86,7 +86,7 @@
   "op": "AD8D1C",
   "len": 32,
   "jp": "カードキーを差し込みました。{br}B1Fの扉が開きました。{end}",
-  "en": "",
+  "en": "Inserted the card key. The door on B1F{br}opened.{end}",
   "notes": ""
  },
  {
@@ -95,7 +95,7 @@
   "op": "AD8D4E",
   "len": 32,
   "jp": "カードキーを抜き取りました。{br}B1Fの扉が閉じました。{end}",
-  "en": "",
+  "en": "Removed the card key. The door on B1F closed.{end}",
   "notes": ""
  },
  {
@@ -104,7 +104,7 @@
   "op": "AD8D81",
   "len": 31,
   "jp": "カードキーを差し込みました。{br}1Fの扉が開きました。{end}",
-  "en": "",
+  "en": "Inserted the card key. The door on 1F opened.{end}",
   "notes": ""
  },
  {
@@ -113,7 +113,7 @@
   "op": "AD8DB2",
   "len": 31,
   "jp": "カードキーを抜き取りました。{br}1Fの扉が閉じました。{end}",
-  "en": "",
+  "en": "Removed the card key. The door on 1F closed.{end}",
   "notes": ""
  },
  {
@@ -122,7 +122,7 @@
   "op": "AD8DE4",
   "len": 31,
   "jp": "カードキーを差し込みました。{br}2Fの扉が開きました。{end}",
-  "en": "",
+  "en": "Inserted the card key. The door on 2F{br}opened.{end}",
   "notes": ""
  },
  {
@@ -131,7 +131,7 @@
   "op": "AD8E15",
   "len": 31,
   "jp": "カードキーを抜き取りました。{br}2Fの扉が閉じました。{end}",
-  "en": "",
+  "en": "Removed the card key. The door on 2F closed.{end}",
   "notes": ""
  },
  {
@@ -140,7 +140,7 @@
   "op": "AD8E47",
   "len": 31,
   "jp": "カードキーを差し込みました。{br}3Fの扉が開きました。{end}",
-  "en": "",
+  "en": "Inserted the card key. The door on 3F{br}opened.{end}",
   "notes": ""
  },
  {
@@ -149,7 +149,7 @@
   "op": "AD8E78",
   "len": 31,
   "jp": "カードキーを抜き取りました。{br}3Fの扉が閉じました。{end}",
-  "en": "",
+  "en": "Removed the card key. The door on 3F closed.{end}",
   "notes": ""
  },
  {
@@ -158,7 +158,7 @@
   "op": "AD9476",
   "len": 43,
   "jp": "{c0C:01}「オレは下のガレージへ行って、{br}リフにランナーの具合を聞いてくるよ。{end}",
-  "en": "",
+  "en": "{c0C:01}: I'm gonna head down to the garage{br}and ask Riff how the runner's doing.{end}",
   "notes": ""
  },
  {
@@ -167,7 +167,7 @@
   "op": "AD94A3",
   "len": 56,
   "jp": "アイリーン「式にはリフも呼ばなきゃね。{br}ガレージの上の部屋を私達に貸してくれて{br}いるんだもの。{end}",
-  "en": "",
+  "en": "Irene: We'll have to invite Riff to the{br}wedding, too. He's letting us rent the room{br}above his garage, after all.{end}",
   "notes": ""
  },
  {
@@ -176,7 +176,7 @@
   "op": "AD94E3",
   "len": 27,
   "jp": "{c1C:0A}「……{c1E}…ちょっとばかしボロだけどな。{end}",
-  "en": "",
+  "en": "{c1C:0A}\"......{c1E}...even if it is a bit of a dump.\"{end}",
   "notes": ""
  },
  {
@@ -185,7 +185,7 @@
   "op": "AD9503",
   "len": 19,
   "jp": "「フフッ、あなたにはお似合いよ。{end}",
-  "en": "",
+  "en": "\"Hehe, it suits you just fine.\"{end}",
   "notes": ""
  },
  {
@@ -194,7 +194,7 @@
   "op": "AD959E",
   "len": 47,
   "jp": "カーク「用事がすんだら、明日に備えて{br}ベッドに入ってグッスリ寝ておくんじゃな。{end}",
-  "en": "",
+  "en": "Kirk: Once your business is done, get into bed{br}and have a good sleep, so you're ready for{br}tomorrow.{end}",
   "notes": ""
  },
  {
@@ -203,7 +203,7 @@
   "op": "AD9A7D",
   "len": 24,
   "jp": "   悪夢の日から1カ月が過ぎた…{endFE}",
-  "en": "",
+  "en": "A month has passed since the day of the{br}nightmare...{endFE}",
   "notes": ""
  },
  {
@@ -212,7 +212,7 @@
   "op": "AD9B8C",
   "len": 45,
   "jp": "{c0C:01}「ソリッドシティ…。{br}確かに世界有数の自由都市かも知れない。{endFD}",
-  "en": "",
+  "en": "{c0C:01}: Solid City... Maybe it really is one of{br}the freest cities in the world.{endFD}",
   "notes": ""
  },
  {
@@ -221,7 +221,7 @@
   "op": "AD9BBA",
   "len": 38,
   "jp": "けれど、俺に言わせてみれば、したい放題の{br}危ない街だよな…。{endFD}",
-  "en": "",
+  "en": "But if you ask me, it's a dangerous town where{br}anything goes...{endFD}",
   "notes": ""
  },
  {
@@ -230,7 +230,7 @@
   "op": "AD9BE1",
   "len": 33,
   "jp": "まぁ、だからこそ俺みたいなヤツも喰って{br}行けるんだけどな。{end}",
-  "en": "",
+  "en": "Well, that's exactly why a guy like me can{br}make a living here.{end}",
   "notes": ""
  },
  {
@@ -239,7 +239,7 @@
   "op": "AD9C18",
   "len": 38,
   "jp": "{c0C:01}「アイリーン…。{br}必ず仇はとってやる。安らかに眠ってくれ。{end}",
-  "en": "",
+  "en": "{c0C:01}: Irene... I swear I'll avenge you. Rest{br}in peace.{end}",
   "notes": ""
  },
  {
@@ -248,7 +248,7 @@
   "op": "AD9C54",
   "len": 36,
   "jp": "{c0C:01}「何かいつもと空気が違う…。{br}嫌な予感がするぜ。{end}",
-  "en": "",
+  "en": "{c0C:01}: Something in the air feels{br}different... I've got a bad feeling about this.{end}",
   "notes": ""
  },
  {
@@ -257,7 +257,7 @@
   "op": "AD9FD2",
   "len": 58,
   "jp": "リフ「よう、{c0C:01}。ガソリン車を{br}送迎に使うなんざ、アイリーンの親父さんは{br}良い趣味してるねぇ。{end}",
-  "en": "",
+  "en": "Riff: Hey, {c0C:01}. Sending a gasoline car to{br}pick you up - Irene's old man sure has fine{br}taste.{end}",
   "notes": ""
  },
  {
@@ -266,7 +266,7 @@
   "op": "ADA010",
   "len": 62,
   "jp": "{c0C:01}「世の中、電気自動車が当たり前{br}ガソリン車は金持ちのぜいたく品だからな。{br}それよりも…。{end}",
-  "en": "",
+  "en": "{c0C:01}: These days electric cars are the{br}norm. Gas cars are a luxury for the rich.{br}Anyway...{end}",
   "notes": ""
  },
  {
@@ -275,7 +275,7 @@
   "op": "ADA070",
   "len": 28,
   "jp": "「頼んでおいた{c0C:02}の整備は{br}終わったのかい？{end}",
-  "en": "",
+  "en": "\"Did you finish the work on {c0C:02} I asked{br}you for?\"{end}",
   "notes": ""
  },
  {
@@ -284,7 +284,7 @@
   "op": "ADA091",
   "len": 46,
   "jp": "「おう、今しがたな。{br}だがナビゲーションロボットはもっと良い{br}ヤツにした方がいいぞ。{endFD}",
-  "en": "",
+  "en": "\"Yep, just now. But you'd better get yourself{br}a better navigation robot.\"{endFD}",
   "notes": ""
  },
  {
@@ -293,7 +293,7 @@
   "op": "ADA0C0",
   "len": 36,
   "jp": "これじゃ、折角ワシが整備したランナーも{br}宝の持ちぐされだ。{end}",
-  "en": "",
+  "en": "With that thing, even a runner I worked on{br}myself is going to waste.{end}",
   "notes": ""
  },
  {
@@ -302,7 +302,7 @@
   "op": "ADA0E8",
   "len": 65,
   "jp": "「スクラップ場にあったこいつを{br}レストアしてもらうので精一杯だったのに{br}性能の良いナビロボを買う金なんて…。{endFD}",
-  "en": "",
+  "en": "\"It was all I could do to have you restore this{br}one from the scrapyard. Where am I gonna get{br}money for a good Navi-Robo...?\"{endFD}",
   "notes": ""
  },
  {
@@ -311,7 +311,7 @@
   "op": "ADA12A",
   "len": 60,
   "jp": "とにかくしばらくの間は、こいつを使って{br}仕事をするしかない。{br}性能が悪い分はオレの腕でカバーするよ。{end}",
-  "en": "",
+  "en": "Anyway, for now I've got no choice but to{br}work with this one. Whatever it lacks, I'll make{br}up for with my own skills.{end}",
   "notes": ""
  },
  {
@@ -320,7 +320,7 @@
   "op": "ADA172",
   "len": 28,
   "jp": "「ふ〜む、お前がそういうのなら{br}仕方がないか。{endFD}",
-  "en": "",
+  "en": "\"Hmm, well, if that's how you feel, I guess it{br}can't be helped.\"{endFD}",
   "notes": ""
  },
  {
@@ -329,7 +329,7 @@
   "op": "ADA18F",
   "len": 55,
   "jp": "ま、武器やアイテムが必要なら{br}エリア13にパーツショップがあるから{br}そこで調達するといいだろう。{endFD}",
-  "en": "",
+  "en": "Anyway, if you need weapons or items, there's{br}a parts shop in Area 13. You can stock up{br}there.{endFD}",
   "notes": ""
  },
  {
@@ -338,7 +338,7 @@
   "op": "ADA1C7",
   "len": 58,
   "jp": "それと、改造用のパーツを手に入れたら、{br}ここへ持ってくるといい。{br}ランナーをチューンアップしてやるぞ。{end}",
-  "en": "",
+  "en": "And if you get hold of modification parts,{br}bring them here. I'll tune up your runner.{end}",
   "notes": ""
  },
  {
@@ -347,7 +347,7 @@
   "op": "ADA267",
   "len": 58,
   "jp": "「レベルアップするか、改造用のパーツを{br}手に入れたらここへ来い。{br}ランナーをチューンアップしてやるぞ。{end}",
-  "en": "",
+  "en": "\"Come see me when you level up or get hold of{br}modification parts. I'll tune up your runner.\"{end}",
   "notes": ""
  },
  {
@@ -356,7 +356,7 @@
   "op": "ADA2AC",
   "len": 59,
   "jp": "リフ「おっ仕事に行くのか。{br}今日のひと仕事は、明日のパーツ代！{br}頑張って稼いでくるんだぞ。{end}",
-  "en": "",
+  "en": "Riff: Oh, heading out to work? Today's job is{br}tomorrow's parts money! Go out there and{br}earn it.{end}",
   "notes": ""
  },
  {
@@ -365,7 +365,7 @@
   "op": "ADA355",
   "len": 21,
   "jp": "ナビロボ「マ、待ッテクダダ、クダサイ。{end}",
-  "en": "",
+  "en": "Navi-Robo: W-WAIT, PLE-PLEASE.{end}",
   "notes": ""
  },
  {
@@ -374,7 +374,7 @@
   "op": "ADA3AD",
   "len": 39,
   "jp": "「あ〜あ。おいおい、大丈夫かよ。{br}（やれやれ先が思いやられるな）{end}",
-  "en": "",
+  "en": "\"Oh, man. Hey, hey, you okay? (Jeez, this{br}doesn't bode well...)\"{end}",
   "notes": ""
  },
  {
@@ -383,7 +383,7 @@
   "op": "ADA3D9",
   "len": 31,
   "jp": "「なぁ、{c0C:01}。{br}さっきの話、考えておいた方がいいぞ。{end}",
-  "en": "",
+  "en": "\"Say, {c0C:01}. You'd better think over what I{br}said earlier.\"{end}",
   "notes": ""
  },
  {
@@ -392,7 +392,7 @@
   "op": "ADA3FA",
   "len": 24,
   "jp": "「ああ…コイツじゃ頼りないのは確かだな。{end}",
-  "en": "",
+  "en": "\"Yeah... No doubt this thing isn't very{br}reliable.\"{end}",
   "notes": ""
  },
  {
@@ -401,7 +401,7 @@
   "op": "ADA414",
   "len": 63,
   "jp": "「ナビロボはパイロットとランナーの重要な{br}パイプ役だ。いくらパイロットやランナーが{br}優秀でも、それだけではダメだ。{endFD}",
-  "en": "",
+  "en": "\"A Navi-Robo is the vital link between pilot{br}and runner. No matter how good the pilot or{br}the runner is, that alone won't cut it.\"{endFD}",
   "notes": ""
  },
  {
@@ -410,7 +410,7 @@
   "op": "ADA454",
   "len": 57,
   "jp": "ダ・シルヴァの小僧だって、良いマシンと{br}良いスタッフがいたからこそ、チャンプに{br}なる事ができたんだぞ。{end}",
-  "en": "",
+  "en": "Even that Da Silva kid only became champ{br}because he had a good machine and a good{br}crew.{end}",
   "notes": ""
  },
  {
@@ -419,7 +419,7 @@
   "op": "ADA48F",
   "len": 62,
   "jp": "「ダ・シルヴァの小僧ねぇ…。そんな昔の{br}F1チャンプの話をされてもなぁ。{br}まぁ、ナビロボの事は考えておくよ。{end}",
-  "en": "",
+  "en": "\"The Da Silva kid, huh... Don't go telling me{br}about some F1 champ from way back. Well, I'll{br}think about the Navi-Robo thing.\"{end}",
   "notes": ""
  },
  {
@@ -428,7 +428,7 @@
   "op": "ADA4CF",
   "len": 71,
   "jp": "「なんなら、依頼を受ける前に試運転にでも{br}行ったらどうだ。エリア11の倉庫街なら{br}暴走ロボットなんかがいるハズだ。{endFD}",
-  "en": "",
+  "en": "\"Why not take it for a test run before you{br}take any jobs? The Area 11 Warehouse District{br}should have runaway robots and such.\"{endFD}",
   "notes": ""
  },
  {
@@ -437,7 +437,7 @@
   "op": "ADA517",
   "len": 59,
   "jp": "敵を行動不能にすれば、武器やアイテムを{br}手に入れる事ができるし、それを売れば{br}金にもなるぞ。{end}",
-  "en": "",
+  "en": "Disable enemies and you can get weapons and{br}items from them, and selling those will make{br}you money, too.{end}",
   "notes": ""
  },
  {
@@ -446,7 +446,7 @@
   "op": "ADA6AD",
   "len": 28,
   "jp": "リフ「おい、{c0C:01}。{br}どうした、しかめっ面なぞして。{endFD}",
-  "en": "",
+  "en": "Riff: Hey, {c0C:01}. What's with the sour face?{endFD}",
   "notes": ""
  },
  {
@@ -455,7 +455,7 @@
   "op": "ADA6CD",
   "len": 31,
   "jp": "さては、ガラナジュースの飲み過ぎで{br}腹でもこわしたな？{end}",
-  "en": "",
+  "en": "Drank too much guarana juice and upset your{br}stomach, eh?{end}",
   "notes": ""
  },
  {
@@ -464,7 +464,7 @@
   "op": "ADA6EE",
   "len": 32,
   "jp": "{c0C:01}「リフ、ついにババリアの{br}アジトの1つが分かったんだ。{end}",
-  "en": "",
+  "en": "{c0C:01}: Riff, I finally found one of Bavaria's{br}hideouts.{end}",
   "notes": ""
  },
  {
@@ -473,7 +473,7 @@
   "op": "ADA713",
   "len": 11,
   "jp": "「何、本当か？{end}",
-  "en": "",
+  "en": "\"What, really?\"{end}",
   "notes": ""
  },
  {
@@ -482,7 +482,7 @@
   "op": "ADA724",
   "len": 22,
   "jp": "「ああ。これから、そこをぶっ潰してくる。{end}",
-  "en": "",
+  "en": "\"Yeah. I'm going to go smash it right now.\"{end}",
   "notes": ""
  },
  {
@@ -491,7 +491,7 @@
   "op": "ADA73C",
   "len": 45,
   "jp": "「だが、相手はババリアだぞ。{br}ぶっ潰すといっても、そう簡単には{br}いかんだろう。{end}",
-  "en": "",
+  "en": "\"But we're talking about Bavaria. Smashing{br}them won't be that easy.\"{end}",
   "notes": ""
  },
  {
@@ -500,7 +500,7 @@
   "op": "ADA76B",
   "len": 54,
   "jp": "「ああ、カークにも言われたよ。{br}だけど、奴らに一発かましてやらなきゃ{br}オレの気が済まないんだ！{end}",
-  "en": "",
+  "en": "\"Yeah, Kirk told me the same thing. But I{br}won't be satisfied until I land one on those{br}bastards!\"{end}",
   "notes": ""
  },
  {
@@ -509,7 +509,7 @@
   "op": "ADA7A6",
   "len": 53,
   "jp": "「よ〜し、お前の気持ちは分かった。{br}それじゃあこれを持って行け！{br}きっと役にたつハズだ。{end}",
-  "en": "",
+  "en": "\"All right, I see how you feel. Then take this{br}with you! It's bound to come in handy.\"{end}",
   "notes": ""
  },
  {
@@ -518,7 +518,7 @@
   "op": "ADA7E6",
   "len": 16,
   "jp": "爆薬を受け取りました。{end}",
-  "en": "",
+  "en": "Received the explosives.{end}",
   "notes": ""
  },
  {
@@ -527,7 +527,7 @@
   "op": "ADA7FE",
   "len": 13,
   "jp": "「恩に着るぜ、リフ。{end}",
-  "en": "",
+  "en": "\"I owe you one, Riff.\"{end}",
   "notes": ""
  },
  {
@@ -536,7 +536,7 @@
   "op": "ADA813",
   "len": 23,
   "jp": "「派手な花火を撃ち上げてくれよ。{end}",
-  "en": "",
+  "en": "\"Set off some big fireworks for me.\"{end}",
   "notes": ""
  },
  {
@@ -545,7 +545,7 @@
   "op": "ADA880",
   "len": 28,
   "jp": "アイリーン「あら、リフに用があるんじゃ{br}なかったの？{end}",
-  "en": "",
+  "en": "Irene: Huh? Weren't you going to see Riff?{end}",
   "notes": ""
  },
  {
@@ -554,7 +554,7 @@
   "op": "ADA8A1",
   "len": 33,
   "jp": "{c0C:01}「いや、愛しいアイリーンの顔を{br}また見たくなってさ。{end}",
-  "en": "",
+  "en": "{c0C:01}: Nah, I just wanted to see my darling{br}Irene's face again.{end}",
   "notes": ""
  },
  {
@@ -563,7 +563,7 @@
   "op": "ADA8C7",
   "len": 55,
   "jp": "「もう、何言ってるのよ。{br}何だかはずかしくなっちゃうじゃない。{br}下でリフが待っているんじゃないの？{end}",
-  "en": "",
+  "en": "\"Oh, stop it. You're making me all embarrassed.{br}Isn't Riff waiting for you downstairs?\"{end}",
   "notes": ""
  },
  {
@@ -572,7 +572,7 @@
   "op": "ADA905",
   "len": 58,
   "jp": "アイリーン「仕事探しだったら、{br}下の仕事部屋にある端末を使えば{br}見つかるんじゃないかしら。{end}",
-  "en": "",
+  "en": "Irene: If you're looking for work, try the{br}terminal in the office downstairs. You should{br}find something there.{end}",
   "notes": ""
  },
  {
@@ -581,7 +581,7 @@
   "op": "ADA97B",
   "len": 31,
   "jp": "アイリーン「どう？{br}何か仕事の依頼は見つかった？{end}",
-  "en": "",
+  "en": "Irene: Well? Find any job requests?{end}",
   "notes": ""
  },
  {
@@ -590,7 +590,7 @@
   "op": "ADA99F",
   "len": 19,
   "jp": "{c0C:01}「いや、今日はまだ何も。{end}",
-  "en": "",
+  "en": "{c0C:01}: Nope, nothing yet today.{end}",
   "notes": ""
  },
  {
@@ -599,7 +599,7 @@
   "op": "ADA9B4",
   "len": 56,
   "jp": "「そう…でも気を落とさないで。{br}中国の古いことわざに「悠々と急げ」という{br}言葉があるわ。{end}",
-  "en": "",
+  "en": "\"I see... But don't get discouraged. There's an{br}old Chinese proverb: 'Make haste slowly.'\"{end}",
   "notes": ""
  },
  {
@@ -608,7 +608,7 @@
   "op": "ADA9EE",
   "len": 13,
   "jp": "「ど〜いう意味だ？{end}",
-  "en": "",
+  "en": "\"Meaning what?\"{end}",
   "notes": ""
  },
  {
@@ -617,7 +617,7 @@
   "op": "ADAA00",
   "len": 26,
   "jp": "「あせらずに、のんびりとおやりなさいって{br}事よ。{end}",
-  "en": "",
+  "en": "\"It means don't rush - take it easy and go at{br}your own pace.\"{end}",
   "notes": ""
  },
  {
@@ -626,7 +626,7 @@
   "op": "ADAA1F",
   "len": 56,
   "jp": "「そうか、じゃあ今日は休みだ。{br}確か、エリア7に良い店があったハズだ。{br}今から呑みに行こう！{end}",
-  "en": "",
+  "en": "\"Oh yeah? Then today's a day off. I think{br}there was a nice place in Area 7. Let's go{br}have a drink!\"{end}",
   "notes": ""
  },
  {
@@ -635,7 +635,7 @@
   "op": "ADAA5C",
   "len": 43,
   "jp": "「…もう、コンドルみたいになまけものの{br}あなたに言ったのは間違いだったわね。{end}",
-  "en": "",
+  "en": "\"...Honestly. Saying that to someone as lazy as{br}a condor was my mistake.\"{end}",
   "notes": ""
  },
  {
@@ -644,7 +644,7 @@
   "op": "ADAA9B",
   "len": 60,
   "jp": "「きっと仕事の依頼よ！{br}結婚式が近いんだから、しっかり働いて{br}資金の足しにしてもらわないとね。{end}",
-  "en": "",
+  "en": "\"I bet that's a job request! The wedding's{br}coming up, so you'd better work hard and help{br}pay for it.\"{end}",
   "notes": ""
  },
  {
@@ -653,7 +653,7 @@
   "op": "ADAAD9",
   "len": 8,
   "jp": "「ちぇ〜っ！{end}",
-  "en": "",
+  "en": "\"Aww, man!\"{end}",
   "notes": ""
  },
  {
@@ -662,7 +662,7 @@
   "op": "ADAB2A",
   "len": 39,
   "jp": "アイリーン「そろそろ端末の方に{br}依頼が来ているんじゃないかしら。{end}",
-  "en": "",
+  "en": "Irene: I bet there's a request waiting on the{br}terminal by now.{end}",
   "notes": ""
  },
  {
@@ -671,7 +671,7 @@
   "op": "ADAB57",
   "len": 38,
   "jp": "アイリーン「良かったわね、依頼が来て。{br}お仕事頑張ってね。{end}",
-  "en": "",
+  "en": "Irene: Good thing a request came in. Do your{br}best at work.{end}",
   "notes": ""
  },
  {
@@ -680,7 +680,7 @@
   "op": "ADAB89",
   "len": 39,
   "jp": "アイリーン「お仕事の進み具合はどう？{br}あまり無理はしないでね。{end}",
-  "en": "",
+  "en": "Irene: How's the job going? Don't push{br}yourself too hard.{end}",
   "notes": ""
  },
  {
@@ -689,7 +689,7 @@
   "op": "ADABBC",
   "len": 54,
   "jp": "アイリーン「やっぱり、{br}ウェディングドレス姿は女性の憧れよね。{br}早く式の日にならないかしら。{end}",
-  "en": "",
+  "en": "Irene: Every woman dreams of wearing a{br}wedding dress, you know. I can't wait for the{br}big day.{end}",
   "notes": ""
  },
  {
@@ -698,7 +698,7 @@
   "op": "ADABFE",
   "len": 54,
   "jp": "アイリーン「パパったら{br}子供ができた時には、今度こそ盛大に{br}お祝いをしようって言うのよ。{endFD}",
-  "en": "",
+  "en": "Irene: Papa says that when we have a baby,{br}this time he'll throw a huge celebration.{endFD}",
   "notes": ""
  },
  {
@@ -707,7 +707,7 @@
   "op": "ADAC35",
   "len": 51,
   "jp": "でもパパの事だから、子供の言う事を{br}何でも聞いちゃうおじいちゃんに{br}なっちゃいそうね。{end}",
-  "en": "",
+  "en": "But knowing Papa, he'll probably turn into a{br}grandpa who does whatever the kid tells him.{end}",
   "notes": ""
  },
  {
@@ -716,7 +716,7 @@
   "op": "ADAC6E",
   "len": 38,
   "jp": "アイリーン「おかえりなさい。{br}疲れたでしょう。今日はもう休んだら？{end}",
-  "en": "",
+  "en": "Irene: Welcome home. You must be tired. Why{br}not call it a day?{end}",
   "notes": ""
  },
  {
@@ -725,7 +725,7 @@
   "op": "ADACAC",
   "len": 52,
   "jp": "アイリーン「あら、どうしたの？{br}何だかうかない顔ね。ひょっとして、{br}仕事がうまくいってないの？{end}",
-  "en": "",
+  "en": "Irene: Oh, what's wrong? You look down. Is{br}work not going well?{end}",
   "notes": ""
  },
  {
@@ -734,7 +734,7 @@
   "op": "ADACE2",
   "len": 22,
   "jp": "{c0C:01}「実は………金がないんだ。{end}",
-  "en": "",
+  "en": "{c0C:01}: Actually......I'm broke.{end}",
   "notes": ""
  },
  {
@@ -743,7 +743,7 @@
   "op": "ADACFA",
   "len": 50,
   "jp": "「もう、まさかエリア7にあるっていう{br}ナイトクラブとかで無駄使いしたんじゃ{br}ないでしょうね？{end}",
-  "en": "",
+  "en": "\"Oh, don't tell me you wasted it at one of{br}those night clubs in Area 7?\"{end}",
   "notes": ""
  },
  {
@@ -752,7 +752,7 @@
   "op": "ADAD31",
   "len": 21,
   "jp": "「ち、違うって。そんな事してないよ！{end}",
-  "en": "",
+  "en": "\"N-No way! I didn't do anything like that!\"{end}",
   "notes": ""
  },
  {
@@ -761,7 +761,7 @@
   "op": "ADAD55",
   "len": 47,
   "jp": "「フフッ、冗談よ。{br}しようがないわね、これで何とかやって{br}ちょうだい。ハイ、200G。{end}",
-  "en": "",
+  "en": "\"Hehe, just kidding. Oh, all right, make do with{br}this. Here, 200G.\"{end}",
   "notes": ""
  },
  {
@@ -770,7 +770,7 @@
   "op": "ADAD93",
   "len": 28,
   "jp": "「アイリーン、やっぱり君はオレの{br}女神様だよ。{end}",
-  "en": "",
+  "en": "\"Irene, you really are my goddess.\"{end}",
   "notes": ""
  },
  {
@@ -779,7 +779,7 @@
   "op": "ADADB1",
   "len": 36,
   "jp": "「{c0C:01}ったら調子いいんだから。{br}もう無駄使いしちゃダメよ。{end}",
-  "en": "",
+  "en": "\"Oh, {c0C:01}, you're such a smooth talker.{br}Don't go wasting it again.\"{end}",
   "notes": ""
  },
  {
@@ -788,7 +788,7 @@
   "op": "ADADDC",
   "len": 36,
   "jp": "「本当は何とかしてあげたいけど、{br}私も、もうお金がないのよ。{end}",
-  "en": "",
+  "en": "\"I really wish I could help, but I'm out of{br}money, too.\"{end}",
   "notes": ""
  },
  {
@@ -797,7 +797,7 @@
   "op": "ADAE05",
   "len": 48,
   "jp": "「そうだよな………ちょっと無駄使い{br}しちまったかな。{br}トホホ、これからどうしよう？{end}",
-  "en": "",
+  "en": "\"Yeah, I guess so...... Maybe I did blow a bit{br}too much. Sigh, what do I do now?\"{end}",
   "notes": ""
  },
  {
@@ -806,7 +806,7 @@
   "op": "ADAE3C",
   "len": 58,
   "jp": "{c0C:01}「ランナーを整備する為の道具が{br}置いてあるな。うかつにいじると、後でリフ{br}に怒られちまうな。{end}",
-  "en": "",
+  "en": "{c0C:01}: These are tools for working on{br}runners. If I mess with them carelessly, Riff'll{br}chew me out later.{end}",
   "notes": ""
  },
  {
@@ -815,7 +815,7 @@
   "op": "ADB0EC",
   "len": 26,
   "jp": "リフ「一体、いつまで{br}そうしているつもりじゃ？{end}",
-  "en": "",
+  "en": "Riff: Just how long do you plan on staying like{br}that?{end}",
   "notes": ""
  },
  {
@@ -824,7 +824,7 @@
   "op": "ADB10C",
   "len": 16,
   "jp": "{c0C:01}「ほっといてくれないか。{end}",
-  "en": "",
+  "en": "{c0C:01}: Leave me alone, would you?{end}",
   "notes": ""
  },
  {
@@ -833,7 +833,7 @@
   "op": "ADB11E",
   "len": 50,
   "jp": "「こいつは重傷だな。{br}天国にいるアイリーンが{br}その情けない姿を見たら何というかの。{end}",
-  "en": "",
+  "en": "\"You've got it bad. What would Irene up in{br}heaven say if she saw you in this sorry{br}state?\"{end}",
   "notes": ""
  },
  {
@@ -842,7 +842,7 @@
   "op": "ADB157",
   "len": 13,
   "jp": "「あんたに分かるのか？{endFD}",
-  "en": "",
+  "en": "\"What would you know?\"{endFD}",
   "notes": ""
  },
  {
@@ -851,7 +851,7 @@
   "op": "ADB169",
   "len": 53,
   "jp": "アイリーンを………{br}何よりも大切なものを守る事ができなかった{br}このオレの気持ちが！？{end}",
-  "en": "",
+  "en": "How it feels to have failed to protect{br}Irene......the one thing that mattered more{br}than anything?!{end}",
   "notes": ""
  },
  {
@@ -860,7 +860,7 @@
   "op": "ADB1A3",
   "len": 58,
   "jp": "「だがな、今のままでは{br}お前はゴミ置き場のスクラップ同然だ。{br}悲しんでいるだけでは何にもならんぞ。{end}",
-  "en": "",
+  "en": "\"But the way you are now, you're no better{br}than scrap on the junk pile. Grieving won't get{br}you anywhere.\"{end}",
   "notes": ""
  },
  {
@@ -869,7 +869,7 @@
   "op": "ADB1E2",
   "len": 32,
   "jp": "「ああ…分かってるよ。{br}だけど、どうすりゃいいってんだよ？{end}",
-  "en": "",
+  "en": "\"Yeah... I know. But what am I supposed to{br}do?\"{end}",
   "notes": ""
  },
  {
@@ -878,7 +878,7 @@
   "op": "ADB207",
   "len": 11,
   "jp": "「これを見てみい。{end}",
-  "en": "",
+  "en": "\"Take a look at this.\"{end}",
   "notes": ""
  },
  {
@@ -887,7 +887,7 @@
   "op": "ADB221",
   "len": 15,
   "jp": "「何だよ、このガラクタは？{end}",
-  "en": "",
+  "en": "\"What's this junk?\"{end}",
   "notes": ""
  },
  {
@@ -896,7 +896,7 @@
   "op": "ADB232",
   "len": 41,
   "jp": "「アイリーン達が殺された現場から{br}失敬してきたランナーの部品だ。{endFD}",
-  "en": "",
+  "en": "\"Runner parts I helped myself to at the scene{br}where Irene and the others were killed.\"{endFD}",
   "notes": ""
  },
  {
@@ -905,7 +905,7 @@
   "op": "ADB25C",
   "len": 50,
   "jp": "むろん、一般に出回っているような{br}シロモノではないし、{br}ましてや軍のパーツなどでもない。{endFD}",
-  "en": "",
+  "en": "Naturally, it's not the kind of stuff you find{br}on the open market, and it sure isn't military{br}parts either.{endFD}",
   "notes": ""
  },
  {
@@ -914,7 +914,7 @@
   "op": "ADB28F",
   "len": 58,
   "jp": "内部構造に特有のクセがあって、{br}表面の仕上げも違う。{br}ま、わしぐらいでないと分からんがな。{endFD}",
-  "en": "",
+  "en": "The inner structure has its own peculiar{br}quirks, and the surface finish is different.{br}Mind you, it takes someone like me to notice.{endFD}",
   "notes": ""
  },
  {
@@ -923,7 +923,7 @@
   "op": "ADB2CA",
   "len": 41,
   "jp": "今、この部品を使っているのは{br}ババリアの連中が使うランナーだけだ。{end}",
-  "en": "",
+  "en": "Right now, the only runners that use these{br}parts are the ones that Bavaria crowd uses.{end}",
   "notes": ""
  },
  {
@@ -932,7 +932,7 @@
   "op": "ADB2F8",
   "len": 19,
   "jp": "「それじゃあ犯人は………。{end}",
-  "en": "",
+  "en": "\"Then the killers are......\"{end}",
   "notes": ""
  },
  {
@@ -941,7 +941,7 @@
   "op": "ADB30D",
   "len": 42,
   "jp": "「まず間違いあるまい。{br}アイリーン達を殺したのは、ババリアの{br}奴らだな。{end}",
-  "en": "",
+  "en": "\"No doubt about it. The ones who killed Irene{br}and the others were Bavaria's men.\"{end}",
   "notes": ""
  },
  {
@@ -950,7 +950,7 @@
   "op": "ADB339",
   "len": 41,
   "jp": "「タオは奴らがソリッドシティに{br}進出して来ているのを気にしていた…。{end}",
-  "en": "",
+  "en": "\"Tao was worried about them moving into Solid{br}City...\"{end}",
   "notes": ""
  },
  {
@@ -959,7 +959,7 @@
   "op": "ADB364",
   "len": 56,
   "jp": "「おそらく、勢力を拡大して行くには{br}タオの組織『暗龍』が邪魔な存在{br}だったんだろう。{end}",
-  "en": "",
+  "en": "\"If they wanted to expand their power, Tao's{br}organization, the 'Dark Dragon,' must have{br}been in their way.\"{end}",
   "notes": ""
  },
  {
@@ -968,7 +968,7 @@
   "op": "ADB3A3",
   "len": 26,
   "jp": "「何でもっと早く{br}教えてくれなかったんだ！？{end}",
-  "en": "",
+  "en": "\"Why didn't you tell me sooner?!\"{end}",
   "notes": ""
  },
  {
@@ -977,7 +977,7 @@
   "op": "ADB3C4",
   "len": 56,
   "jp": "「わしだってここまで調べるのに{br}相当な時間がかかったんだ。{br}お前は飲んだくれてばかりだったがな！{end}",
-  "en": "",
+  "en": "\"It took me a good long while to dig up this{br}much, you know! All you did was drink yourself{br}stupid!\"{end}",
   "notes": ""
  },
  {
@@ -986,7 +986,7 @@
   "op": "ADB402",
   "len": 44,
   "jp": "それともう一つ、やらなきゃならん事が{br}あったんだ。{br}ま、下のガレージに来てみい{end}",
-  "en": "",
+  "en": "And there was one other thing I had to take{br}care of. Now, come on down to the garage.{end}",
   "notes": ""
  },
  {
@@ -995,7 +995,7 @@
   "op": "ADB52A",
   "len": 16,
   "jp": "{c0C:01}「一体何なんだよ？{end}",
-  "en": "",
+  "en": "{c0C:01}: What the heck is it?{end}",
   "notes": ""
  },
  {
@@ -1004,7 +1004,7 @@
   "op": "ADB53C",
   "len": 14,
   "jp": "リフ「まぁ見ておれって。{endFD}",
-  "en": "",
+  "en": "Riff: Just watch.{endFD}",
   "notes": ""
  },
  {
@@ -1013,7 +1013,7 @@
   "op": "ADB54D",
   "len": 18,
   "jp": "さあ、出てきてアイサツするんだ。{end}",
-  "en": "",
+  "en": "Go on, come out and say hello.{end}",
   "notes": ""
  },
  {
@@ -1022,7 +1022,7 @@
   "op": "ADB569",
   "len": 43,
   "jp": "ナビロボ「新しいパートナーがどんな{br}人間かと思えば、まだヒヨッコではないか。{end}",
-  "en": "",
+  "en": "Navi-Robo: I wondered what sort of man my{br}new partner would be, and he's nothing but a{br}greenhorn.{end}",
   "notes": ""
  },
  {
@@ -1031,7 +1031,7 @@
   "op": "ADB599",
   "len": 54,
   "jp": "「何だとぉ、コイツ？{br}俺は24だ。ヒヨッコなんかじゃない！{br}お前、ナビロボのくせに生意気だぞ！{end}",
-  "en": "",
+  "en": "\"What'd you say, you little punk?! I'm 24. I'm{br}no greenhorn! You've got some lip for a{br}Navi-Robo!\"{end}",
   "notes": ""
  },
  {
@@ -1040,7 +1040,7 @@
   "op": "ADB5D1",
   "len": 41,
   "jp": "「たかだか24年生きているだけの{br}男がヒヨッコでなくて何だというのじゃ。{endFD}",
-  "en": "",
+  "en": "\"A man who has lived a mere 24 years - what{br}is he, if not a greenhorn?\"{endFD}",
   "notes": ""
  },
  {
@@ -1049,7 +1049,7 @@
   "op": "ADB5FB",
   "len": 63,
   "jp": "それから、ワシをナビロボなどと呼ぶな。{br}ワシには将軍からいただいた『カーク』{br}という立派な名前があるのじゃぞ。{end}",
-  "en": "",
+  "en": "And do not call me a Navi-Robo. I have a fine{br}name, bestowed on me by the General: 'Kirk.'{end}",
   "notes": ""
  },
  {
@@ -1058,7 +1058,7 @@
   "op": "ADB640",
   "len": 42,
   "jp": "「驚いたか、{c0C:01}？{br}スクラップ置き場で見つけたんだが{br}大したもんだぞ。{endFD}",
-  "en": "",
+  "en": "\"Surprised, {c0C:01}? Found him at the{br}scrapyard, but he's really something.\"{endFD}",
   "notes": ""
  },
  {
@@ -1067,7 +1067,7 @@
   "op": "ADB66E",
   "len": 45,
   "jp": "人格の刷り込みをしてあるナビロボは{br}新品じゃあ高価で手に入らんからな{endFD}",
-  "en": "",
+  "en": "A brand-new Navi-Robo with a personality{br}imprint costs way too much to get your hands{br}on.{endFD}",
   "notes": ""
  },
  {
@@ -1076,7 +1076,7 @@
   "op": "ADB69C",
   "len": 61,
   "jp": "多少ジジくさい話し方だが、{br}将軍と言ってる前の主人の影響だろう。{br}これはワシからのプレゼントだ。{end}",
-  "en": "",
+  "en": "He talks a bit like an old geezer - probably{br}picked it up from the master he calls the{br}General. Consider him a present from me.{end}",
   "notes": ""
  },
  {
@@ -1085,7 +1085,7 @@
   "op": "ADB6DE",
   "len": 35,
   "jp": "「それはありがたいけど{br}このナビロボ、信頼できる性能なのか？{end}",
-  "en": "",
+  "en": "\"I appreciate it, but can I trust this{br}Navi-Robo to perform?\"{end}",
   "notes": ""
  },
  {
@@ -1094,7 +1094,7 @@
   "op": "ADB708",
   "len": 42,
   "jp": "カーク「ヒヨッコに何が分かる！？{br}選ばれたものである、このワシの能力が。{end}",
-  "en": "",
+  "en": "Kirk: What would a greenhorn know of my{br}abilities? I am one of the chosen!{end}",
   "notes": ""
  },
  {
@@ -1103,7 +1103,7 @@
   "op": "ADB736",
   "len": 61,
   "jp": "「カークの性能はバツグンだぞ。{br}ランナーに積めば確実にパワーアップする。{br}そしてアイリーンのカタキをとるんだ。{end}",
-  "en": "",
+  "en": "\"Kirk's performance is top-notch. Put him in{br}your runner and it'll get a real power boost.{br}And then you avenge Irene.\"{end}",
   "notes": ""
  },
  {
@@ -1112,7 +1112,7 @@
   "op": "ADB775",
   "len": 24,
   "jp": "「リ{c1C:14}フ……{c1E}…よし、分かった。{end}",
-  "en": "",
+  "en": "\"Riff{c1C:14}......{c1E}...All right, I hear you.\"{end}",
   "notes": ""
  },
  {
@@ -1121,7 +1121,7 @@
   "op": "ADB790",
   "len": 40,
   "jp": "カーク、コイツ呼ばわりしてすまなかった。{br}俺は{c0C:01}、これからよろしくな。{end}",
-  "en": "",
+  "en": "Kirk, sorry I called you a punk. I'm {c0C:01}.{br}Looking forward to working with you.{end}",
   "notes": ""
  },
  {
@@ -1130,7 +1130,7 @@
   "op": "ADB7BD",
   "len": 56,
   "jp": "「うむ、お前はまだまだ若い。{br}若いうちは過ちをおかす事もある。{br}だが、それは学んで行けば良い。{endFD}",
-  "en": "",
+  "en": "\"Hmm. You are still young. The young may err.{br}But one learns from one's mistakes.\"{endFD}",
   "notes": ""
  },
  {
@@ -1139,7 +1139,7 @@
   "op": "ADB7F6",
   "len": 14,
   "jp": "{c0C:01}、よろしく頼むぞ。{end}",
-  "en": "",
+  "en": "I shall be counting on you, {c0C:01}.{end}",
   "notes": ""
  },
  {
@@ -1148,7 +1148,7 @@
   "op": "ADB808",
   "len": 15,
   "jp": "（…な、なんかムカつくな）{end}",
-  "en": "",
+  "en": "(...S-Something about that really ticks me off.){end}",
   "notes": ""
  },
  {
@@ -1157,7 +1157,7 @@
   "op": "ADB81F",
   "len": 28,
   "jp": "「とにかく、これで新しいコンビが{br}できたって訳だ。{endFD}",
-  "en": "",
+  "en": "\"Anyhow, that makes you two a new team.\"{endFD}",
   "notes": ""
  },
  {
@@ -1166,7 +1166,7 @@
   "op": "ADB83C",
   "len": 50,
   "jp": "{c0C:01}、ず〜っと家に閉じこもって{br}いたんだ。{br}たまには外へ出て気分転換してこい。{end}",
-  "en": "",
+  "en": "{c0C:01}, you've been cooped up in the house{br}this whole time. Get out once in a while and{br}clear your head.{end}",
   "notes": ""
  },
  {
@@ -1175,7 +1175,7 @@
   "op": "ADB870",
   "len": 32,
   "jp": "「それもそうだな。{br}おい、カーク。どこか行きたい所あるか？{end}",
-  "en": "",
+  "en": "\"Guess you're right. Hey, Kirk. Anywhere you{br}want to go?\"{end}",
   "notes": ""
  },
  {
@@ -1184,7 +1184,7 @@
   "op": "ADB895",
   "len": 49,
   "jp": "「ワシが将軍にお仕えしていた頃は{br}必ずアフタヌーンティーの時間を{br}とっておったぞ。{end}",
-  "en": "",
+  "en": "\"When I served the General, we never failed{br}to take time for afternoon tea.\"{end}",
   "notes": ""
  },
  {
@@ -1193,7 +1193,7 @@
   "op": "ADB8C8",
   "len": 41,
   "jp": "「アフタヌーンティーねぇ…。{br}EL’Sカフェだったらティーぐらい{br}あるかな？{end}",
-  "en": "",
+  "en": "\"Afternoon tea, huh... Maybe EL'S Cafe would{br}at least have tea?\"{end}",
   "notes": ""
  },
  {
@@ -1202,7 +1202,7 @@
   "op": "ADB9BC",
   "len": 18,
   "jp": "{c0C:02}に乗って外へ出ますか？{end}",
-  "en": "",
+  "en": "Head out in {c0C:02}?{end}",
   "notes": ""
  },
  {
@@ -1211,7 +1211,7 @@
   "op": "ADB9CF",
   "len": 14,
   "jp": "  乗る{br}  乗らない{endFE}",
-  "en": "",
+  "en": "Get in{br}Don't get in{endFE}",
   "notes": ""
  },
  {
@@ -1220,7 +1220,7 @@
   "op": "ADBA01",
   "len": 33,
   "jp": "{c0C:01}「リフの作業が終わるまでは{br}{c0C:02}には乗れないな。{end}",
-  "en": "",
+  "en": "{c0C:01}: I can't get in {c0C:02} until Riff{br}finishes his work.{end}",
   "notes": ""
  },
  {
@@ -1229,7 +1229,7 @@
   "op": "ADBB8E",
   "len": 19,
   "jp": "{c0C:01}「すっかり囲まれちまったな。{end}",
-  "en": "",
+  "en": "{c0C:01}: We're completely surrounded.{end}",
   "notes": ""
  },
  {
@@ -1238,7 +1238,7 @@
   "op": "ADBBA6",
   "len": 51,
   "jp": "バーンズ「周りの村は、全部敵軍に攻略{br}されている。村人もほとんど殺されている。{endFD}",
-  "en": "",
+  "en": "Barnes: The enemy's taken every village{br}around here. Most of the villagers have been{br}killed, too.{endFD}",
   "notes": ""
  },
  {
@@ -1247,7 +1247,7 @@
   "op": "ADBBDA",
   "len": 69,
   "jp": "政府軍のヘリが来て、おれ達を救出して{br}くれる可能性は、サイの角でランナーを{br}ぶち壊すのと同じくらいしかないな。{endFD}",
-  "en": "",
+  "en": "The chances of a government chopper coming{br}to rescue us are about as good as wrecking a{br}runner with a rhino horn.{endFD}",
   "notes": ""
  },
  {
@@ -1256,7 +1256,7 @@
   "op": "ADBC20",
   "len": 32,
   "jp": "おまけにケガまでしてるんだ。{br}おれは多分、助からないよ。{end}",
-  "en": "",
+  "en": "And on top of that, I'm wounded. I probably{br}won't make it.{end}",
   "notes": ""
  },
  {
@@ -1265,7 +1265,7 @@
   "op": "ADBC42",
   "len": 27,
   "jp": "「大丈夫だ。助かる時は、みんな一緒さ。{end}",
-  "en": "",
+  "en": "\"You'll be fine. If we make it, we all make it{br}together.\"{end}",
   "notes": ""
  },
  {
@@ -1274,7 +1274,7 @@
   "op": "ADBC62",
   "len": 27,
   "jp": "兵士「お、おれはこんなとこで死ぬのは{br}いやだ。{end}",
-  "en": "",
+  "en": "Soldier: I-I don't want to die in a place like{br}this.{end}",
   "notes": ""
  },
  {
@@ -1283,7 +1283,7 @@
   "op": "ADBC7F",
   "len": 41,
   "jp": "「誰だってそうだよ。オレ達は国の為に{br}戦争している訳じゃないんだ。{end}",
-  "en": "",
+  "en": "\"Nobody does. We're not fighting this war for{br}our country.\"{end}",
   "notes": ""
  },
  {
@@ -1292,7 +1292,7 @@
   "op": "ADBCAD",
   "len": 21,
   "jp": "兵士「じゃあ、一体何の為に？{end}",
-  "en": "",
+  "en": "Soldier: Then what for?{end}",
   "notes": ""
  },
  {
@@ -1301,7 +1301,7 @@
   "op": "ADBCC4",
   "len": 15,
   "jp": "「そうだな…。いろいろさ。{endFD}",
-  "en": "",
+  "en": "\"Let's see... All sorts of reasons.\"{endFD}",
   "notes": ""
  },
  {
@@ -1310,7 +1310,7 @@
   "op": "ADBCD4",
   "len": 68,
   "jp": "例えば、オレは親の顔を知らない。良くある{br}話だけどな。修道院の婆さんに育てられたん{br}だが、よく言われたもんさ。{endFD}",
-  "en": "",
+  "en": "Take me: I never knew my parents. Common{br}enough story. I was raised by the old lady at{br}a convent, and she used to tell me this.{endFD}",
   "notes": ""
  },
  {
@@ -1319,7 +1319,7 @@
   "op": "ADBD19",
   "len": 65,
   "jp": "『{c0C:01}＝{c0C:00}、今受けている{br}恩を誰かにする事でお返しなさい。それが{br}神の慈悲に報いる道ですよ』ってね。{end}",
-  "en": "",
+  "en": "'{c0C:01} {c0C:00}, repay the kindness you{br}receive by passing it on to someone else. That{br}is how you answer God's mercy.'{end}",
   "notes": ""
  },
  {
@@ -1328,7 +1328,7 @@
   "op": "ADBD5F",
   "len": 66,
   "jp": "兵士「神の道は険しくて、しかもそれを{br}走りきる事は不可能に近い。大抵は途中で{br}疲れ、息絶える。{end}",
-  "en": "",
+  "en": "Soldier: The road of God is steep, and running{br}it to the end is next to impossible. Most tire{br}and die along the way.{end}",
   "notes": ""
  },
  {
@@ -1337,7 +1337,7 @@
   "op": "ADBDA6",
   "len": 10,
   "jp": "「ハッハッハ…。{end}",
-  "en": "",
+  "en": "\"Hahaha...\"{end}",
   "notes": ""
  },
  {
@@ -1346,7 +1346,7 @@
   "op": "ADBDB5",
   "len": 51,
   "jp": "「オレは、女のケツを追いかけ回す事の{br}他には、ランナーに乗るしか能がなかった{br}からな。{endFD}",
-  "en": "",
+  "en": "\"Besides chasing skirts, piloting runners was{br}the only thing I was ever good at.\"{endFD}",
   "notes": ""
  },
  {
@@ -1355,7 +1355,7 @@
   "op": "ADBDE9",
   "len": 63,
   "jp": "こういう生き方をしてるってのは、例えば{br}戦争を早く終わらせて、親のない子供を{br}減らすためかもしれない。{end}",
-  "en": "",
+  "en": "Maybe the reason I live like this is, say, to{br}end the war sooner and leave fewer kids{br}without parents.{end}",
   "notes": ""
  },
  {
@@ -1364,7 +1364,7 @@
   "op": "ADBE2D",
   "len": 19,
   "jp": "「ずいぶんとロマンティストなんだな。{end}",
-  "en": "",
+  "en": "\"You're quite the romantic, huh?\"{end}",
   "notes": ""
  },
  {
@@ -1373,7 +1373,7 @@
   "op": "ADBE42",
   "len": 52,
   "jp": "「だから、みんな一緒なんて言ってるのさ。{br}じゃなきゃ、お前は見捨てられてるよ、{br}バーンズ。{end}",
-  "en": "",
+  "en": "\"That's why I say we all make it together.{br}Otherwise, you'd have been left behind{br}already, Barnes.\"{end}",
   "notes": ""
  },
  {
@@ -1382,7 +1382,7 @@
   "op": "ADBE7B",
   "len": 17,
   "jp": "「じ、実戦は初めてなんだ。{end}",
-  "en": "",
+  "en": "\"Th-This is my first real combat.\"{end}",
   "notes": ""
  },
  {
@@ -1391,7 +1391,7 @@
   "op": "ADBE90",
   "len": 40,
   "jp": "「誰でも初めてはあるもんさ。終わりも{br}もちろん一生に一回はある。{end}",
-  "en": "",
+  "en": "\"Everyone's got a first time. And of course,{br}everyone gets one last time in their life, too.\"{end}",
   "notes": ""
  },
  {
@@ -1400,7 +1400,7 @@
   "op": "ADBEBA",
   "len": 23,
   "jp": "「人生の終わりにならなきゃいいけどな。{end}",
-  "en": "",
+  "en": "\"Let's just hope it's not the end of the line{br}for him.\"{end}",
   "notes": ""
  },
  {
@@ -1409,7 +1409,7 @@
   "op": "ADBEDB",
   "len": 11,
   "jp": "「ひ、ひい、敵だ！{end}",
-  "en": "",
+  "en": "\"Y-Yaaah! It's the enemy!\"{end}",
   "notes": ""
  },
  {
@@ -1418,7 +1418,7 @@
   "op": "ADBEF6",
   "len": 17,
   "jp": "バーンズ「バカ野郎、やめろ！{end}",
-  "en": "",
+  "en": "Barnes: Stop it, you idiot!{end}",
   "notes": ""
  },
  {
@@ -1427,7 +1427,7 @@
   "op": "ADBF19",
   "len": 18,
   "jp": "子供「こ、このたべものを…。{end}",
-  "en": "",
+  "en": "Child: Th-This food...{end}",
   "notes": ""
  },
  {
@@ -1436,7 +1436,7 @@
   "op": "ADBF2D",
   "len": 18,
   "jp": "{c0C:01}「これを、オレ達に…？。{end}",
-  "en": "",
+  "en": "{c0C:01}: This is... for us...?{end}",
   "notes": ""
  },
  {
@@ -1445,7 +1445,7 @@
   "op": "ADBF41",
   "len": 13,
   "jp": "「あんたたち、いいひと。{endFD}",
-  "en": "",
+  "en": "\"You people, good people.\"{endFD}",
   "notes": ""
  },
  {
@@ -1454,7 +1454,7 @@
   "op": "ADBF4F",
   "len": 24,
   "jp": "ゲリラ、ぼくのとうさん、かあさん、{br}ころした。{endFD}",
-  "en": "",
+  "en": "Guerrillas, they killed my papa, my mama.{endFD}",
   "notes": ""
  },
  {
@@ -1463,7 +1463,7 @@
   "op": "ADBF68",
   "len": 36,
   "jp": "きのう、あんたたち、ゲリラのランナー{br}やっつけた。だ…か…ら…。{end}",
-  "en": "",
+  "en": "Yesterday, you beat guerrilla runner. So...{br}so...{end}",
   "notes": ""
  },
  {
@@ -1472,7 +1472,7 @@
   "op": "ADBF9E",
   "len": 22,
   "jp": "ナビロボ「政府軍ノ輸送機デス！{end}",
-  "en": "",
+  "en": "Navi-Robo: IT IS A GOVERNMENT ARMY{br}TRANSPORT!{end}",
   "notes": ""
  },
  {
@@ -1481,7 +1481,7 @@
   "op": "ADBFB9",
   "len": 52,
   "jp": "政府軍兵士「そこの5機！ 待たせたな。{br}お前らが最後だ。さあ、ヘリに乗ってくれ！{end}",
-  "en": "",
+  "en": "Government Soldier: You five units there!{br}Sorry to keep you waiting. You're the last{br}ones. Now get on the chopper!{end}",
   "notes": ""
  },
  {
@@ -1490,7 +1490,7 @@
   "op": "ADBFF6",
   "len": 17,
   "jp": "「…{c0C:01}………{c0C:01}！{end}",
-  "en": "",
+  "en": "\"...{c0C:01}......{c0C:01}!\"{end}",
   "notes": ""
  },
  {
@@ -1499,7 +1499,7 @@
   "op": "ADC7BE",
   "len": 46,
   "jp": "カーク「会場に行く前に、ランナーの装備を{br}よくチェックしておいた方がよいぞ。{end}",
-  "en": "",
+  "en": "Kirk: Before you head to the venue, you'd{br}best check your runner's equipment carefully.{end}",
   "notes": ""
  },
  {
@@ -1508,7 +1508,7 @@
   "op": "ADC831",
   "len": 34,
   "jp": "アイリーン「ずっとうなされていたわ。{br}またいやな夢を見たのね。{end}",
-  "en": "",
+  "en": "Irene: You were tossing and turning the whole{br}time. You had that bad dream again, didn't{br}you?{end}",
   "notes": ""
  },
  {
@@ -1517,7 +1517,7 @@
   "op": "ADC85B",
   "len": 15,
   "jp": "{c0C:01}「…いつものやつさ。{end}",
-  "en": "",
+  "en": "{c0C:01}: ...The usual one.{end}",
   "notes": ""
  },
  {
@@ -1526,7 +1526,7 @@
   "op": "ADC86C",
   "len": 28,
   "jp": "「子供の夢でしょ。{br}あなたに責任はないわよ。{end}",
-  "en": "",
+  "en": "\"The one about the child, right? It wasn't{br}your fault.\"{end}",
   "notes": ""
  },
  {
@@ -1535,7 +1535,7 @@
   "op": "ADC88D",
   "len": 57,
   "jp": "「あの子供達のために戦っていたんだ。{br}ゲリラを倒して、オレみたいに親のいない{br}子を無くすために。{endFD}",
-  "en": "",
+  "en": "\"I was fighting for kids like that. To beat the{br}guerrillas, so no more kids would end up{br}without parents like me.\"{endFD}",
   "notes": ""
  },
  {
@@ -1544,7 +1544,7 @@
   "op": "ADC8CA",
   "len": 30,
   "jp": "それなのに、{br}オレ達があの子供を殺しちまった…。{end}",
-  "en": "",
+  "en": "And yet we killed that child...{end}",
   "notes": ""
  },
  {
@@ -1553,7 +1553,7 @@
   "op": "ADC8EC",
   "len": 34,
   "jp": "「{c0C:01}………。{br}お願い、そんなに自分を責めないで。{endFD}",
-  "en": "",
+  "en": "\"{c0C:01}...... Please, don't blame yourself so{br}much.\"{endFD}",
   "notes": ""
  },
  {
@@ -1562,7 +1562,7 @@
   "op": "ADC90F",
   "len": 53,
   "jp": "ここは戦場じゃないのよ。{br}私がいつもあなたの側にいるわ。{br}だから、つらい事はもう忘れて…。{end}",
-  "en": "",
+  "en": "This isn't a battlefield. I'm always right here{br}beside you. So please, forget those painful{br}things...{end}",
   "notes": ""
  },
  {
@@ -1571,7 +1571,7 @@
   "op": "ADC946",
   "len": 22,
   "jp": "「心配させちまったな、アイリーン…。{end}",
-  "en": "",
+  "en": "\"Sorry I made you worry, Irene...\"{end}",
   "notes": ""
  },
  {
@@ -1580,7 +1580,7 @@
   "op": "ADC9B1",
   "len": 11,
   "jp": "「タオ！？ タオ！！{endFD}",
-  "en": "",
+  "en": "\"Tao?! Tao!!\"{endFD}",
   "notes": ""
  },
  {
@@ -1589,7 +1589,7 @@
   "op": "ADC9C2",
   "len": 28,
   "jp": "くそっ、切れたか。{br}チャイナタウンへ急がなければ！{end}",
-  "en": "",
+  "en": "Damn, the line's dead. I've got to hurry to{br}Chinatown!{end}",
   "notes": ""
  },
  {
@@ -1598,7 +1598,7 @@
   "op": "ADC9F9",
   "len": 39,
   "jp": "{c0C:01}「カーク、俺は決めたぞ。{br}ババリアのドラッグ工場をぶっ潰す。{end}",
-  "en": "",
+  "en": "{c0C:01}: Kirk, I've made up my mind. I'm going{br}to smash Bavaria's drug factory.{end}",
   "notes": ""
  },
  {
@@ -1607,7 +1607,7 @@
   "op": "ADCA22",
   "len": 43,
   "jp": "カーク「良いのか？{br}ババリアに戦いを挑むとなれば{br}今までのようにはいかんぞ。{end}",
-  "en": "",
+  "en": "Kirk: Are you sure? Once you challenge{br}Bavaria, things will not be as they were.{end}",
   "notes": ""
  },
  {
@@ -1616,7 +1616,7 @@
   "op": "ADCA4F",
   "len": 54,
   "jp": "「ああ、分かっているさ。{br}だが、奴等のアジトの1つが分かったんだ。{br}黙っている訳にはいかない。{end}",
-  "en": "",
+  "en": "\"Yeah, I know. But I've found one of their{br}hideouts. I can't just sit back and do nothing.\"{end}",
   "notes": ""
  },
  {
@@ -1625,7 +1625,7 @@
   "op": "ADCA87",
   "len": 37,
   "jp": "「…そうか。ならば、もう言うまい。{br}ワシも協力しようではないか。{end}",
-  "en": "",
+  "en": "\"...I see. Then I shall say no more. I will lend{br}you my aid as well.\"{end}",
   "notes": ""
  },
  {
@@ -1634,7 +1634,7 @@
   "op": "ADCAAE",
   "len": 12,
   "jp": "「本当か、カーク？{end}",
-  "en": "",
+  "en": "\"Really, Kirk?\"{end}",
   "notes": ""
  },
  {
@@ -1643,7 +1643,7 @@
   "op": "ADCABC",
   "len": 52,
   "jp": "「勘違いするでないぞ、{c0C:01}。{br}ワシがいなければ、無駄に死にに行く{br}ようなものじゃからな。{endFD}",
-  "en": "",
+  "en": "\"Do not misunderstand, {c0C:01}. Without me,{br}you would simply be throwing your life away.\"{endFD}",
   "notes": ""
  },
  {
@@ -1652,7 +1652,7 @@
   "op": "ADCAF1",
   "len": 32,
   "jp": "お前はまだまだ若い。{br}そう死に急ぐ事もないじゃろう。{end}",
-  "en": "",
+  "en": "You are still young. There is no need to be in{br}such a hurry to die.{end}",
   "notes": ""
  },
  {
@@ -1661,7 +1661,7 @@
   "op": "ADCB13",
   "len": 12,
   "jp": "「ヘッ、よく言うぜ。{end}",
-  "en": "",
+  "en": "\"Heh, listen to you.\"{end}",
   "notes": ""
  },
  {
@@ -1670,7 +1670,7 @@
   "op": "ADCBC5",
   "len": 54,
   "jp": "{c0C:01}「反乱分子っていうのは{br}ラオエル達の事だったのか。{br}どうも気が乗らない依頼だな。{end}",
-  "en": "",
+  "en": "{c0C:01}: So the rebels were Raoel and his{br}band. I don't like the feel of this job.{end}",
   "notes": ""
  },
  {
@@ -1679,7 +1679,7 @@
   "op": "ADCC00",
   "len": 43,
   "jp": "カーク「引き受けるしかあるまい？{br}CTIに逆らうのは、得策とは言えんぞ。{end}",
-  "en": "",
+  "en": "Kirk: You have little choice but to accept, no?{br}Defying CTI would hardly be wise.{end}",
   "notes": ""
  },
  {
@@ -1688,7 +1688,7 @@
   "op": "ADCC36",
   "len": 54,
   "jp": "「コスタの事が気に入らないのも確かだが、{br}オレにはラオエルがただのテロ屋だとは{br}思えないんだ。{end}",
-  "en": "",
+  "en": "\"Sure, I don't like Costa, but I also just can't{br}see Raoel as some ordinary terrorist.\"{end}",
   "notes": ""
  },
  {
@@ -1697,7 +1697,7 @@
   "op": "ADCC6E",
   "len": 70,
   "jp": "「しかし、端末でニュースを見れば分かる{br}ように、奴らのテロ行為は事実じゃ。{br}それに、ワシらが奴をかばう道理もない。{endFD}",
-  "en": "",
+  "en": "\"But as you can see from the news on the{br}terminal, their acts of terror are fact. Nor{br}have we any reason to shield him.\"{endFD}",
   "notes": ""
  },
  {
@@ -1706,7 +1706,7 @@
   "op": "ADCCB5",
   "len": 50,
   "jp": "お人好しでは、この仕事は勤まらんぞ。{br}また、バーンズの時のような目にあいたい{br}のか？{end}",
-  "en": "",
+  "en": "A soft heart won't get you far in this line of{br}work. Do you want a repeat of what happened{br}with Barnes?{end}",
   "notes": ""
  },
  {
@@ -1715,7 +1715,7 @@
   "op": "ADCCE9",
   "len": 22,
   "jp": "「お人好しか…そうかも知れないな。{end}",
-  "en": "",
+  "en": "\"A soft heart, huh... Maybe you're right.\"{end}",
   "notes": ""
  },
  {
@@ -1724,7 +1724,7 @@
   "op": "ADCD0A",
   "len": 31,
   "jp": "「来客じゃな。{br}IDを照合、客はCTIのテオじゃ。{end}",
-  "en": "",
+  "en": "\"A visitor. Checking ID... It is Theo from CTI.\"{end}",
   "notes": ""
  },
  {
@@ -1733,7 +1733,7 @@
   "op": "ADCD2E",
   "len": 20,
   "jp": "「よし、ロックを外して通してくれ。{end}",
-  "en": "",
+  "en": "\"Okay, unlock the door and let him in.\"{end}",
   "notes": ""
  },
  {
@@ -1742,7 +1742,7 @@
   "op": "ADCD60",
   "len": 55,
   "jp": "テオ「先日は随分と派手にやりましたね。{br}おかげで、ネズミどもの動きが騒がしく{br}なりましたよ。{end}",
-  "en": "",
+  "en": "Theo: You certainly made a splash the other{br}day. Thanks to you, the rats are scurrying{br}about.{end}",
   "notes": ""
  },
  {
@@ -1751,7 +1751,7 @@
   "op": "ADCD99",
   "len": 69,
   "jp": "「倉庫の爆破の事か。ババリアの正体が{br}今一つつかめない以上、あちこちつついて{br}奴らの出方をうかがうしかない。{endFD}",
-  "en": "",
+  "en": "\"You mean the warehouse blast. Since I can't{br}get a handle on what Bavaria really is, I have{br}to poke around and see how they react.\"{endFD}",
   "notes": ""
  },
  {
@@ -1760,7 +1760,7 @@
   "op": "ADCDDF",
   "len": 38,
   "jp": "ま、向こうが騒ぎ出したんなら、こっちの{br}狙い通りという訳だな。{end}",
-  "en": "",
+  "en": "Well, if they're stirring things up, that means{br}it's working.{end}",
   "notes": ""
  },
  {
@@ -1769,7 +1769,7 @@
   "op": "ADCE07",
   "len": 19,
   "jp": "「フフ、あなたらしいやり方ですね。{end}",
-  "en": "",
+  "en": "\"Heh, that's just your style.\"{end}",
   "notes": ""
  },
  {
@@ -1778,7 +1778,7 @@
   "op": "ADCE3C",
   "len": 56,
   "jp": "「ちょうど今、あんたの所からの依頼を{br}引き受けた所だよ。{br}それにしても、コスタは嫌な奴だな。{end}",
-  "en": "",
+  "en": "\"I just took on a job from your people. Still,{br}Costa's a real jerk.\"{end}",
   "notes": ""
  },
  {
@@ -1787,7 +1787,7 @@
   "op": "ADCE76",
   "len": 64,
   "jp": "「あの人は、うちのグロリア局長にいつも{br}怒られてますから、自分より目下の人間に{br}当たり散らすんですよ。{end}",
-  "en": "",
+  "en": "\"He's always getting chewed out by our{br}Director Gloria, so he takes it out on the{br}people beneath him.\"{end}",
   "notes": ""
  },
  {
@@ -1796,7 +1796,7 @@
   "op": "ADCEB8",
   "len": 34,
   "jp": "「あの男も、その局長だけには頭が{br}上がらないって訳か。{endFD}",
-  "en": "",
+  "en": "\"So even that guy can't stand up to the{br}Director, huh?\"{endFD}",
   "notes": ""
  },
  {
@@ -1805,7 +1805,7 @@
   "op": "ADCEDB",
   "len": 40,
   "jp": "それで、依頼の事とかで少し聞きたい事が{br}あるんだが、構わないか？{end}",
-  "en": "",
+  "en": "Anyway, I've got a few questions about the{br}job and such. Mind if I ask?{end}",
   "notes": ""
  },
  {
@@ -1814,7 +1814,7 @@
   "op": "ADCF05",
   "len": 32,
   "jp": "「依頼解決の助けになるのでしたら、{br}構いませんよ。{end}",
-  "en": "",
+  "en": "\"If it helps you solve the case, by all means.\"{end}",
   "notes": ""
  },
  {
@@ -1823,7 +1823,7 @@
   "op": "ADCF26",
   "len": 11,
   "jp": "何を聞きますか？{end}",
-  "en": "",
+  "en": "What would you like to ask?{end}",
   "notes": ""
  },
  {
@@ -1832,7 +1832,7 @@
   "op": "ADCF38",
   "len": 37,
   "jp": "  ババリアについて{br}  バイオモンスターについて{br}  ラオエルについて{endFE}",
-  "en": "",
+  "en": "About Bavaria{br}About bio-monsters{br}About Raoel{endFE}",
   "notes": ""
  },
  {
@@ -1841,7 +1841,7 @@
   "op": "ADCF6B",
   "len": 32,
   "jp": "「CTIの方もババリアには手をやいて{br}いるんじゃないのか？{end}",
-  "en": "",
+  "en": "\"Isn't CTI having trouble with Bavaria, too?\"{end}",
   "notes": ""
  },
  {
@@ -1850,7 +1850,7 @@
   "op": "ADCF8D",
   "len": 73,
   "jp": "「我々も奴らの動きはマークしているの{br}ですが、なかなか情報はつかめませんね。{br}特に、組織の黒幕である人物に関しては。{endFD}",
-  "en": "",
+  "en": "\"We keep tabs on them, but information is{br}hard to come by. Especially on the{br}organization's mastermind.\"{endFD}",
   "notes": ""
  },
  {
@@ -1859,7 +1859,7 @@
   "op": "ADCFD7",
   "len": 64,
   "jp": "現在分かっているのは、奴らがこの街に{br}やってきた理由の一つは、バイオ研究の為{br}だという事ぐらいですね。{endFD}",
-  "en": "",
+  "en": "All we know right now is that one reason they{br}came to this city is bio-research.{endFD}",
   "notes": ""
  },
  {
@@ -1868,7 +1868,7 @@
   "op": "ADD018",
   "len": 75,
   "jp": "我々行政側には、実行部隊といったものが{br}ありません。だからこそ、あなたのような{br}探偵に仕事を依頼している訳なんです。{end}",
-  "en": "",
+  "en": "We in the administration have no action unit{br}of our own. That's precisely why we hire{br}detectives like you.{end}",
   "notes": ""
  },
  {
@@ -1877,7 +1877,7 @@
   "op": "ADD06C",
   "len": 39,
   "jp": "「最近多発しているバイオモンスターの{br}事件についてはどうなんだ？{end}",
-  "en": "",
+  "en": "\"What about all the bio-monster incidents{br}lately?\"{end}",
   "notes": ""
  },
  {
@@ -1886,7 +1886,7 @@
   "op": "ADD095",
   "len": 76,
   "jp": "「昔は、バイオ研究所から逃げ出した{br}実験体が事件を起こしていたんですが、{br}最近では出所不明のものが現れています。{endFD}",
-  "en": "",
+  "en": "\"Escaped test subjects from bio-research labs{br}used to cause the incidents, but lately ones of{br}unknown origin have been showing up.\"{endFD}",
   "notes": ""
  },
  {
@@ -1895,7 +1895,7 @@
   "op": "ADD0E2",
   "len": 45,
   "jp": "今回の依頼であるテロ集団のリーダー、{br}ラオエルもそういったケースのようです。{endFD}",
-  "en": "",
+  "en": "Raoel, leader of the terrorist group in this{br}job, seems to be one such case.{endFD}",
   "notes": ""
  },
  {
@@ -1904,7 +1904,7 @@
   "op": "ADD110",
   "len": 69,
   "jp": "何者かの手によって、バイオ研究所以外の{br}場所で、バイオモンスターが密かに生み{br}出されているのかも知れません。{end}",
-  "en": "",
+  "en": "Someone may be secretly creating{br}bio-monsters somewhere other than the{br}bio-research labs.{end}",
   "notes": ""
  },
  {
@@ -1913,7 +1913,7 @@
   "op": "ADD15E",
   "len": 25,
   "jp": "「ラオエルについて何か分かっている{br}事は？{end}",
-  "en": "",
+  "en": "\"Anything known about Raoel?\"{end}",
   "notes": ""
  },
  {
@@ -1922,7 +1922,7 @@
   "op": "ADD179",
   "len": 53,
   "jp": "「ラオエルは、知っての通りバイオ{br}モンスターどもを率いてさまざまな{br}テロ活動を行っています。{endFD}",
-  "en": "",
+  "en": "\"As you know, Raoel leads bio-monsters in all{br}sorts of terrorist activities.\"{endFD}",
   "notes": ""
  },
  {
@@ -1931,7 +1931,7 @@
   "op": "ADD1AF",
   "len": 63,
   "jp": "生まれは不明、居場所も不明。{br}金色のたてがみを持ち、非常に知能の{br}高いバイオモンスターです。{end}",
-  "en": "",
+  "en": "Origin unknown, whereabouts unknown. A{br}highly intelligent bio-monster with a golden{br}mane.{end}",
   "notes": ""
  },
  {
@@ -1940,7 +1940,7 @@
   "op": "ADD1F0",
   "len": 28,
   "jp": "「奴らのアジトについて、何か情報は{br}ないのか？{end}",
-  "en": "",
+  "en": "\"Any information on their hideout?\"{end}",
   "notes": ""
  },
  {
@@ -1949,7 +1949,7 @@
   "op": "ADD20E",
   "len": 29,
   "jp": "「残念ですが、その辺りの情報は{br}ありませんね。{endFD}",
-  "en": "",
+  "en": "\"Unfortunately, we have nothing on that.\"{endFD}",
   "notes": ""
  },
  {
@@ -1958,7 +1958,7 @@
   "op": "ADD22C",
   "len": 65,
   "jp": "ただ、SCBCの記者なら何か情報を{br}持っているかも知れません。さすがに私達{br}には情報をくれませんでしたが。{end}",
-  "en": "",
+  "en": "But a reporter at SCBC might know something.{br}Of course, they wouldn't give us anything.{end}",
   "notes": ""
  },
  {
@@ -1967,7 +1967,7 @@
   "op": "ADD26F",
   "len": 38,
   "jp": "「SCBC…エリア7のTV局か。端末で{br}調べてみた方がいいな。{end}",
-  "en": "",
+  "en": "\"SCBC... The TV station in Area 7. Better look{br}it up on the terminal.\"{end}",
   "notes": ""
  },
  {
@@ -1976,7 +1976,7 @@
   "op": "ADD29E",
   "len": 70,
   "jp": "「おっと、おしゃべりが過ぎたようですね。{br}私はそろそろ失礼します。あまり油を売って{br}いては、コスタ部長に怒られますから。{end}",
-  "en": "",
+  "en": "\"Oops, I seem to have talked too much. I'll be{br}taking my leave. If I dawdle too long, Chief{br}Costa will chew me out.\"{end}",
   "notes": ""
  },
  {
@@ -1985,7 +1985,7 @@
   "op": "ADD2E6",
   "len": 16,
   "jp": "「ああ、いろいろとありがとう。{end}",
-  "en": "",
+  "en": "\"Yeah, thanks for everything.\"{end}",
   "notes": ""
  },
  {
@@ -1994,7 +1994,7 @@
   "op": "ADD383",
   "len": 50,
   "jp": "カーク「{c0C:01}、デイモンを倒した時に{br}回収したユニットをリフに見せてみようでは{br}ないか。{end}",
-  "en": "",
+  "en": "Kirk: {c0C:01}, why not show Riff the unit we{br}recovered when we defeated Daemon?{end}",
   "notes": ""
  },
  {
@@ -2003,7 +2003,7 @@
   "op": "ADD3B7",
   "len": 51,
   "jp": "{c0C:01}「そうだな。リフだったら、{br}こいつを使ってランナーをチューンアップ{br}できるかも知れないな。{end}",
-  "en": "",
+  "en": "{c0C:01}: Good idea. Riff might be able to use{br}this to tune up the runner.{end}",
   "notes": ""
  },
  {
@@ -2012,7 +2012,7 @@
   "op": "ADD46B",
   "len": 32,
   "jp": "{c0C:01}「リフ、ちょっと見てもらいたい{br}物があるんだけどな。{end}",
-  "en": "",
+  "en": "{c0C:01}: Riff, there's something I want you to{br}take a look at.{end}",
   "notes": ""
  },
  {
@@ -2021,7 +2021,7 @@
   "op": "ADD490",
   "len": 35,
   "jp": "リフ「何だ？ 新しいアダルトVRソフト{br}でも手に入れたのか？{end}",
-  "en": "",
+  "en": "Riff: What is it? Got your hands on a new adult{br}VR game?{end}",
   "notes": ""
  },
  {
@@ -2030,7 +2030,7 @@
   "op": "ADD4B5",
   "len": 28,
   "jp": "「ち・が・う。このユニットを調べて{br}もらいたいんだ。{end}",
-  "en": "",
+  "en": "\"N-O, no. I want you to check out this unit.\"{end}",
   "notes": ""
  },
  {
@@ -2039,7 +2039,7 @@
   "op": "ADD4D6",
   "len": 48,
   "jp": "「おっ、こいつはまた珍しいランナーの{br}ユニットだな。どこでこんな物を手に{br}入れたんだ？{end}",
-  "en": "",
+  "en": "\"Oh, now that's a rare runner unit. Where'd{br}you get your hands on this thing?\"{end}",
   "notes": ""
  },
  {
@@ -2048,7 +2048,7 @@
   "op": "ADD508",
   "len": 64,
   "jp": "「デイモンというランナーを倒した時に{br}手に入れたんだ。どうだい、こいつを使って{br}ランナーをチューンアップできないか？{end}",
-  "en": "",
+  "en": "\"I got it when I beat a runner called Daemon.{br}What do you think, can you use it to tune up{br}the runner?\"{end}",
   "notes": ""
  },
  {
@@ -2057,7 +2057,7 @@
   "op": "ADD54A",
   "len": 56,
   "jp": "「そうだな…。こいつはなかなか{br}いじりがいのあるユニットのようだ。{br}面白い、わしも腕がうずいてきたぞ。{end}",
-  "en": "",
+  "en": "\"Let's see... This looks like a unit worth{br}tinkering with. Interesting - my hands are{br}itching to get at it.\"{end}",
   "notes": ""
  },
  {
@@ -2066,7 +2066,7 @@
   "op": "ADD584",
   "len": 16,
   "jp": "「じゃあ、やってくれるのかい？{end}",
-  "en": "",
+  "en": "\"So you'll do it?\"{end}",
   "notes": ""
  },
  {
@@ -2075,7 +2075,7 @@
   "op": "ADD596",
   "len": 61,
   "jp": "「おお、わしにまかせておけ。{br}ゴキゲンなランナーに改造してやるぞ。{br}作業が終わるまで、息抜きでもしてこい。{end}",
-  "en": "",
+  "en": "\"Oh, leave it to me. I'll turn it into one sweet{br}runner. Go take a breather until I'm done.\"{end}",
   "notes": ""
  },
  {
@@ -2084,7 +2084,7 @@
   "op": "ADD5EA",
   "len": 41,
   "jp": "リフ「あわてるな、あわてるな。作業が{br}終わるまで、息抜きでもしてこい。{end}",
-  "en": "",
+  "en": "Riff: Easy, easy. Go take a breather until I'm{br}done.{end}",
   "notes": ""
  },
  {
@@ -2093,7 +2093,7 @@
   "op": "ADD627",
   "len": 47,
   "jp": "リフ「待ってたぞ、{c0C:01}。{br}どうじゃ、今までのランナーよりもずっと{br}パワーアップしたぞ。{endFD}",
-  "en": "",
+  "en": "Riff: Been waiting for you, {c0C:01}. How about{br}that? It's way more powerful than your old{br}runner.{endFD}",
   "notes": ""
  },
  {
@@ -2102,7 +2102,7 @@
   "op": "ADD657",
   "len": 43,
   "jp": "装甲厚も出力も大幅に強化したから、{br}これでもう怖い物なしだな。{end}",
-  "en": "",
+  "en": "I beefed up the armor and the output{br}big-time, so now you've got nothing to fear.{end}",
   "notes": ""
  },
  {
@@ -2111,7 +2111,7 @@
   "op": "ADD684",
   "len": 41,
   "jp": "{c0C:01}「うんうん、確かに前のよりも{br}強くなったみたいだ。ありがとう、リフ。{end}",
-  "en": "",
+  "en": "{c0C:01}: Yeah, yeah, it's definitely stronger{br}than before. Thanks, Riff.{end}",
   "notes": ""
  },
  {
@@ -2120,7 +2120,7 @@
   "op": "ADD6AF",
   "len": 29,
   "jp": "「なぁに、いいって事。{br}さて、代金の方だが…。{end}",
-  "en": "",
+  "en": "\"Aw, don't mention it. Now, about the bill...\"{end}",
   "notes": ""
  },
  {
@@ -2129,7 +2129,7 @@
   "op": "ADD6D1",
   "len": 15,
   "jp": "「えっ、金を取るのか！？{end}",
-  "en": "",
+  "en": "\"Huh? You're charging me?!\"{end}",
   "notes": ""
  },
  {
@@ -2138,7 +2138,7 @@
   "op": "ADD6E2",
   "len": 56,
   "jp": "「当たり前だろーが。わしだって{br}遊びでやっているんじゃないぞ。{br}代金は200Gだ、払ってもらうぞ。{end}",
-  "en": "",
+  "en": "\"Of course I am. I'm not doing this for fun,{br}you know. That'll be 200G - pay up.\"{end}",
   "notes": ""
  },
  {
@@ -2147,7 +2147,7 @@
   "op": "ADD737",
   "len": 23,
   "jp": "「トホホ…仕方ないな。ほら、200G。{end}",
-  "en": "",
+  "en": "\"Sigh... Can't be helped. Here, 200G.\"{end}",
   "notes": ""
  },
  {
@@ -2156,7 +2156,7 @@
   "op": "ADD750",
   "len": 12,
   "jp": "「へい、毎度あり。{endFD}",
-  "en": "",
+  "en": "\"Much obliged!\"{endFD}",
   "notes": ""
  },
  {
@@ -2165,7 +2165,7 @@
   "op": "ADD75F",
   "len": 41,
   "jp": "まぁ、そうしょげるな。金を稼ぐのに{br}とっておきの場所を教えてやるから。{end}",
-  "en": "",
+  "en": "Now, don't look so glum. I'll tell you a great{br}place to earn some money.{end}",
   "notes": ""
  },
  {
@@ -2174,7 +2174,7 @@
   "op": "ADD791",
   "len": 31,
   "jp": "「すまない、リフ。{br}今ちょっと持ち合わせがないんだよ。{end}",
-  "en": "",
+  "en": "\"Sorry, Riff. I'm a little short on cash right{br}now.\"{end}",
   "notes": ""
  },
  {
@@ -2183,7 +2183,7 @@
   "op": "ADD7B2",
   "len": 46,
   "jp": "「やれやれしようがない奴だな。じゃあ{br}金を稼ぐのにとっておきの場所を教えよう。{end}",
-  "en": "",
+  "en": "\"Geez, you're hopeless. Fine, I'll tell you a{br}great place to earn some money.\"{end}",
   "notes": ""
  },
  {
@@ -2192,7 +2192,7 @@
   "op": "ADD7E5",
   "len": 13,
   "jp": "「とっておきの場所？{end}",
-  "en": "",
+  "en": "\"A great place?\"{end}",
   "notes": ""
  },
  {
@@ -2201,7 +2201,7 @@
   "op": "ADD7F4",
   "len": 50,
   "jp": "「お前も知っとるだろう。ジャスティスだ。{br}あれに出場してファイトマネーをいただくん{br}だよ。{endFD}",
-  "en": "",
+  "en": "\"You know it, too. Justice. You enter and{br}collect the prize money.\"{endFD}",
   "notes": ""
  },
  {
@@ -2210,7 +2210,7 @@
   "op": "ADD827",
   "len": 37,
   "jp": "新しいランナーのテストにもなるし、まさに{br}一石二鳥じゃないか。{end}",
-  "en": "",
+  "en": "It'll be a test for your new runner, too. Two{br}birds with one stone!{end}",
   "notes": ""
  },
  {
@@ -2219,7 +2219,7 @@
   "op": "ADD84E",
   "len": 28,
   "jp": "「ジャスティスか…。そうだな、出場して{br}みるか。{end}",
-  "en": "",
+  "en": "\"Justice, huh... Yeah, maybe I'll enter.\"{end}",
   "notes": ""
  },
  {
@@ -2228,7 +2228,7 @@
   "op": "ADD86F",
   "len": 32,
   "jp": "カーク「ワシはそういった遊びは気が{br}進まないのじゃがな。{end}",
-  "en": "",
+  "en": "Kirk: I must say, I have little taste for such{br}games.{end}",
   "notes": ""
  },
  {
@@ -2237,7 +2237,7 @@
   "op": "ADD891",
   "len": 60,
   "jp": "「そう言うなよ、カーク。これから戦いも{br}辛くなって行くハズだ。腕を磨いておいた{br}方がいいに決まってる。{end}",
-  "en": "",
+  "en": "\"Don't be like that, Kirk. The fights are only{br}gonna get tougher from here. We'd better{br}sharpen our skills.\"{end}",
   "notes": ""
  },
  {
@@ -2246,7 +2246,7 @@
   "op": "ADD8CF",
   "len": 44,
   "jp": "「ワシがジャスティスなんていう賭け事に{br}出るハメになるとは。何という事じゃ。{end}",
-  "en": "",
+  "en": "\"That I should end up in a gambling match like{br}Justice. What has the world come to?\"{end}",
   "notes": ""
  },
  {
@@ -2255,7 +2255,7 @@
   "op": "ADD8FF",
   "len": 33,
   "jp": "「それじゃ早速、エリア13のジャスティス{br}ドームへ行くぞ。{end}",
-  "en": "",
+  "en": "\"All right, let's head straight to the Justice{br}Dome in Area 13.\"{end}",
   "notes": ""
  },
  {
@@ -2264,7 +2264,7 @@
   "op": "ADDB43",
   "len": 36,
   "jp": "カーク「イオンがさらわれたのか。とんでも{br}ない事になったものじゃな。{end}",
-  "en": "",
+  "en": "Kirk: Ion has been kidnapped? This is a fine{br}mess.{end}",
   "notes": ""
  },
  {
@@ -2273,7 +2273,7 @@
   "op": "ADDB69",
   "len": 46,
   "jp": "「ああ、何だか街の様子もおかしくなって{br}いるようだし、一体どうなっているんだ？{end}",
-  "en": "",
+  "en": "\"Yeah, and the whole city seems to be acting{br}strange, too. What on earth is going on?\"{end}",
   "notes": ""
  },
  {
@@ -2282,7 +2282,7 @@
   "op": "ADDCEE",
   "len": 43,
   "jp": "リフ「おお、{c0C:01}。戻ってきたか。{br}お前に会いたいという人達が来とるぞ。{end}",
-  "en": "",
+  "en": "Riff: Oh, {c0C:01}. You're back. Some people{br}are here to see you.{end}",
   "notes": ""
  },
  {
@@ -2291,7 +2291,7 @@
   "op": "ADDD1D",
   "len": 21,
   "jp": "{c0C:01}「人達？ 1人じゃないのか。{end}",
-  "en": "",
+  "en": "{c0C:01}: People? More than one?{end}",
   "notes": ""
  },
  {
@@ -2300,7 +2300,7 @@
   "op": "ADDD3E",
   "len": 22,
   "jp": "グロリア{br}「久しぶりね、{c0C:01}＝{c0C:00}。{end}",
-  "en": "",
+  "en": "Gloria: It's been a while, {c0C:01} {c0C:00}.{end}",
   "notes": ""
  },
  {
@@ -2309,7 +2309,7 @@
   "op": "ADDD56",
   "len": 57,
   "jp": "「お前達は…。一体、どういう事だ？{br}何故、CTIとバイビジブルの人間が一緒に{br}いるんだ？{end}",
-  "en": "",
+  "en": "\"You people... What's going on here? Why are{br}CTI and Bivisible together?\"{end}",
   "notes": ""
  },
  {
@@ -2318,7 +2318,7 @@
   "op": "ADDD94",
   "len": 61,
   "jp": "ブランドル「バイビジブルは只のギャング{br}組織ではない。元々、ある目的を持って{br}作られたものだったのだ。{end}",
-  "en": "",
+  "en": "Brundle: Bivisible is no mere gang. It was{br}created from the start with a certain purpose.{end}",
   "notes": ""
  },
  {
@@ -2327,7 +2327,7 @@
   "op": "ADDDD5",
   "len": 48,
   "jp": "レクター「普段はチンケな悪さばかりやって{br}いたけどな。それもカモフラージュだった{br}のさ。{end}",
-  "en": "",
+  "en": "Lecter: Sure, most days we just pulled petty{br}crap. But that was camouflage, too.{end}",
   "notes": ""
  },
  {
@@ -2336,7 +2336,7 @@
   "op": "ADDE09",
   "len": 33,
   "jp": "テオ「全てはグロリア局長の立てた計画{br}だったのです。{end}",
-  "en": "",
+  "en": "Theo: It was all part of a plan devised by{br}Director Gloria.{end}",
   "notes": ""
  },
  {
@@ -2345,7 +2345,7 @@
   "op": "ADDE2F",
   "len": 24,
   "jp": "「…詳しく説明してもらおうじゃないか。{end}",
-  "en": "",
+  "en": "\"...Then how about you explain in detail?\"{end}",
   "notes": ""
  },
  {
@@ -2354,7 +2354,7 @@
   "op": "ADDE4C",
   "len": 66,
   "jp": "「バイビジブルはCTIの影の実行部隊と{br}して私が作った。CTI内部にも、この事を{br}知る者はほとんどいない。{end}",
-  "en": "",
+  "en": "\"I created Bivisible as CTI's covert action{br}unit. Even within CTI, hardly anyone knows{br}about it.\"{end}",
   "notes": ""
  },
  {
@@ -2363,7 +2363,7 @@
   "op": "ADDE92",
   "len": 54,
   "jp": "「我々バイビジブルはギャング組織を装い{br}ながら、ババリアを倒す為の活動を行って{br}きた。{end}",
-  "en": "",
+  "en": "\"We of Bivisible have posed as a gang while{br}working to bring down Bavaria.\"{end}",
   "notes": ""
  },
  {
@@ -2372,7 +2372,7 @@
   "op": "ADDECC",
   "len": 46,
   "jp": "「しかし、今まで裏世界で暗躍していた{br}ババリアが突如として表に現れた。{endFD}",
-  "en": "",
+  "en": "\"But Bavaria, which until now worked behind{br}the scenes in the underworld, has suddenly{br}come out into the open.\"{endFD}",
   "notes": ""
  },
  {
@@ -2381,7 +2381,7 @@
   "op": "ADDEFB",
   "len": 59,
   "jp": "CTI本部にあるメインコンピューターは{br}乗っ取られ、この街の制御は、奴らの手に{br}移ってしまった。{end}",
-  "en": "",
+  "en": "The main computer at CTI HQ has been{br}hijacked, and control of this city has passed{br}into their hands.{end}",
   "notes": ""
  },
  {
@@ -2390,7 +2390,7 @@
   "op": "ADDF38",
   "len": 25,
   "jp": "「なぜ奴らは表立った行動に出たんだ？{end}",
-  "en": "",
+  "en": "\"Why did they come out into the open?\"{end}",
   "notes": ""
  },
  {
@@ -2399,7 +2399,7 @@
   "op": "ADDF56",
   "len": 36,
   "jp": "「ひょっとしたら、それはあなたの行動が{br}原因かも知れません。{end}",
-  "en": "",
+  "en": "\"It may be that your actions were the cause.\"{end}",
   "notes": ""
  },
  {
@@ -2408,7 +2408,7 @@
   "op": "ADDF7F",
   "len": 16,
   "jp": "「オレの行動………？{end}",
-  "en": "",
+  "en": "\"My actions......?\"{end}",
   "notes": ""
  },
  {
@@ -2417,7 +2417,7 @@
   "op": "ADDF94",
   "len": 60,
   "jp": "「この間、ババリアのアジトに侵入した{br}だろ？ きっとあれで、バイスハイトの奴が{br}危機感を覚えたんだぜ。{end}",
-  "en": "",
+  "en": "\"You broke into a Bavaria hideout the other{br}day, right? Bet that's what got Weissheit{br}spooked.\"{end}",
   "notes": ""
  },
  {
@@ -2426,7 +2426,7 @@
   "op": "ADDFD6",
   "len": 46,
   "jp": "「どうだろう、{c0C:01}＝{c0C:00}。{br}ババリアを倒す為に手を貸してもらえない{br}だろうか？{end}",
-  "en": "",
+  "en": "\"What do you say, {c0C:01} {c0C:00}? Will you{br}lend us a hand in bringing down Bavaria?\"{end}",
   "notes": ""
  },
  {
@@ -2435,7 +2435,7 @@
   "op": "ADE009",
   "len": 57,
   "jp": "「オレの狙いはバイスハイトだ。それでも{br}構わないのなら、一緒に来い。今から奴らの{br}アジトへ行く。{end}",
-  "en": "",
+  "en": "\"I'm after Weissheit. If you're fine with that,{br}come along. I'm heading to their hideout now.\"{end}",
   "notes": ""
  },
  {
@@ -2444,7 +2444,7 @@
   "op": "ADE044",
   "len": 51,
   "jp": "「バイスハイトを倒す事はババリアを倒す{br}と同じ事。ブランドルとレクターを同行{br}させる。{end}",
-  "en": "",
+  "en": "\"Defeating Weissheit is the same as defeating{br}Bavaria. Brundle and Lecter will go with you.\"{end}",
   "notes": ""
  },
  {
@@ -2453,7 +2453,7 @@
   "op": "ADE07B",
   "len": 44,
   "jp": "「では我々は外で待つ。準備ができたら{br}ランナーに乗って外へ来てくれ。{end}",
-  "en": "",
+  "en": "\"Then we'll wait outside. When you're ready,{br}get in your runner and come out.\"{end}",
   "notes": ""
  },
  {
@@ -2462,7 +2462,7 @@
   "op": "ADE0B3",
   "len": 32,
   "jp": "カーク「奴らの事を信用していなかったの{br}ではないのか？{end}",
-  "en": "",
+  "en": "Kirk: I thought you did not trust them?{end}",
   "notes": ""
  },
  {
@@ -2471,7 +2471,7 @@
   "op": "ADE0D7",
   "len": 38,
   "jp": "シュウ「あぁ。だが、またバイスハイトを{br}逃す事があってはマズイからな。{endFD}",
-  "en": "",
+  "en": "Shu: I don't. But I can't afford to let{br}Weissheit get away again.{endFD}",
   "notes": ""
  },
  {
@@ -2480,7 +2480,7 @@
   "op": "ADE0FE",
   "len": 42,
   "jp": "奴らがオレを利用しようというつもりなら、{br}オレも奴らを利用してやるさ。{end}",
-  "en": "",
+  "en": "If they mean to use me, then I'll use them{br}right back.{end}",
   "notes": ""
  },
  {
@@ -2489,7 +2489,7 @@
   "op": "ADE151",
   "len": 24,
   "jp": "{c0C:01}「う〜ん、寝るにはまだ{br}早いかな。{end}",
-  "en": "",
+  "en": "{c0C:01}: Hmm, still a bit early for bed.{end}",
   "notes": ""
  },
  {
@@ -2498,7 +2498,7 @@
   "op": "ADE1C4",
   "len": 18,
   "jp": "    そして、コンサート当日{endFE}",
-  "en": "",
+  "en": "And then, the day of the concert...{endFE}",
   "notes": ""
  },
  {
@@ -2507,7 +2507,7 @@
   "op": "ADE703",
   "len": 21,
   "jp": "イオン「来たわね。準備は整った？{end}",
-  "en": "",
+  "en": "Ion: You made it. All set?{end}",
   "notes": ""
  },
  {
@@ -2516,7 +2516,7 @@
   "op": "ADE71A",
   "len": 30,
   "jp": "{c0C:01}「オレ達の他にもランナー使いが{br}いるようだな。{end}",
-  "en": "",
+  "en": "{c0C:01}: Looks like there are other runner{br}pilots here besides us.{end}",
   "notes": ""
  },
  {
@@ -2525,7 +2525,7 @@
   "op": "ADE73A",
   "len": 61,
   "jp": "「賞金目当てのゴロツキよ。{br}どうせあいつらにデイモンは倒せないわ。{br}バイオモンスター辺りが良い相手ね。{endFD}",
-  "en": "",
+  "en": "\"Bounty-hunting thugs. They'll never beat{br}Daemon anyway. Bio-monsters are more their{br}speed.\"{endFD}",
   "notes": ""
  },
  {
@@ -2534,7 +2534,7 @@
   "op": "ADE778",
   "len": 42,
   "jp": "そういえば、{c0C:01}。あなた、バイオ{br}モンスターのテロ集団と戦ったんですって？{end}",
-  "en": "",
+  "en": "By the way, {c0C:01}. I hear you fought that{br}band of bio-monster terrorists?{end}",
   "notes": ""
  },
  {
@@ -2543,7 +2543,7 @@
   "op": "ADE7A4",
   "len": 18,
   "jp": "「耳が早いな。誰からそれを？{end}",
-  "en": "",
+  "en": "\"Word travels fast. Who told you?\"{end}",
   "notes": ""
  },
  {
@@ -2552,7 +2552,7 @@
   "op": "ADE7B8",
   "len": 64,
   "jp": "「あたしだって探偵よ。情報源の1つや{br}2つは持ってるわ。それよりもどうだったの{br}奴らのリーダーは仕留めたの？{end}",
-  "en": "",
+  "en": "\"I'm a detective too, you know. I've got a{br}source or two. More importantly, how'd it go?{br}Did you take out their leader?\"{end}",
   "notes": ""
  },
  {
@@ -2561,7 +2561,7 @@
   "op": "ADE7FA",
   "len": 40,
   "jp": "「いや、あいつ…ラオエルにとどめは{br}させなかった。実は奴は………。{end}",
-  "en": "",
+  "en": "\"No, I couldn't finish him off... Raoel. The{br}truth is, he's......\"{end}",
   "notes": ""
  },
  {
@@ -2570,7 +2570,7 @@
   "op": "ADE827",
   "len": 21,
   "jp": "「………………そうだったの。{endFD}",
-  "en": "",
+  "en": "\"..................I see.\"{endFD}",
   "notes": ""
  },
  {
@@ -2579,7 +2579,7 @@
   "op": "ADE83D",
   "len": 58,
   "jp": "ババリアによって生み出された{br}バイオモンスター、しかも失敗作と{br}言われて始末されそうになるなんて。{endFD}",
-  "en": "",
+  "en": "A bio-monster created by Bavaria, then called{br}a failure and nearly disposed of...{endFD}",
   "notes": ""
  },
  {
@@ -2588,7 +2588,7 @@
   "op": "ADE878",
   "len": 55,
   "jp": "人間に対する憎しみも分かるような{br}気がするわ。あたしだって、あいつらに{br}対する憎しみは…。{end}",
-  "en": "",
+  "en": "I think I understand why he hates humans.{br}And the hatred I feel toward those people...{end}",
   "notes": ""
  },
  {
@@ -2597,7 +2597,7 @@
   "op": "ADE8B1",
   "len": 12,
   "jp": "「何だって、イオン？{end}",
-  "en": "",
+  "en": "\"What was that, Ion?\"{end}",
   "notes": ""
  },
  {
@@ -2606,7 +2606,7 @@
   "op": "ADE8C2",
   "len": 16,
   "jp": "「あ、いいえ。何でもないわ。{end}",
-  "en": "",
+  "en": "\"Oh, no. It's nothing.\"{end}",
   "notes": ""
  },
  {
@@ -2615,7 +2615,7 @@
   "op": "ADE8D4",
   "len": 9,
   "jp": "「………？{end}",
-  "en": "",
+  "en": "\"......?\"{end}",
   "notes": ""
  },
  {
@@ -2624,7 +2624,7 @@
   "op": "ADE8DF",
   "len": 41,
   "jp": "「ねぇお願い、{c0C:01}。少しの間で{br}いいの。1人にさせてもらえないかしら。{end}",
-  "en": "",
+  "en": "\"Please, {c0C:01}. Just for a little while. Could{br}you leave me alone?\"{end}",
   "notes": ""
  },
  {
@@ -2633,7 +2633,7 @@
   "op": "ADE90A",
   "len": 28,
   "jp": "「ああ、それは構わないけど。一体どう{br}したんだ？{end}",
-  "en": "",
+  "en": "\"Sure, I don't mind. But what's wrong?\"{end}",
   "notes": ""
  },
  {
@@ -2642,7 +2642,7 @@
   "op": "ADE928",
   "len": 36,
   "jp": "「ごめんなさい。ちょっと心を落ち着かせ{br}たいの。すぐに戻るわ。{end}",
-  "en": "",
+  "en": "\"Sorry. I just need to calm down a bit. I'll be{br}right back.\"{end}",
   "notes": ""
  },
  {
@@ -2651,7 +2651,7 @@
   "op": "ADE958",
   "len": 43,
   "jp": "カーク「何を言いかけていたのじゃろうな。{br}彼女らしくない様子じゃったが。{end}",
-  "en": "",
+  "en": "Kirk: I wonder what she was about to say.{br}That was not like her.{end}",
   "notes": ""
  },
  {
@@ -2660,7 +2660,7 @@
   "op": "ADE985",
   "len": 34,
   "jp": "{c0C:01}「そうだったな。憎しみがどう{br}とか言っていたようだけど。{end}",
-  "en": "",
+  "en": "{c0C:01}: Yeah. She said something about{br}hatred.{end}",
   "notes": ""
  },
  {
@@ -2669,7 +2669,7 @@
   "op": "ADE9A9",
   "len": 58,
   "jp": "「彼女にも人に言えん事情があるという事{br}じゃろうな。しばらくそっとしておいた方が{br}良いじゃろう。{end}",
-  "en": "",
+  "en": "\"She too must have circumstances she cannot{br}tell others. Best to leave her be for a while.\"{end}",
   "notes": ""
  },
  {
@@ -2678,7 +2678,7 @@
   "op": "ADE9E5",
   "len": 24,
   "jp": "「他のランナー使いに話を聞いてみるか。{end}",
-  "en": "",
+  "en": "\"Maybe I'll talk to the other runner pilots.\"{end}",
   "notes": ""
  },
  {
@@ -2687,7 +2687,7 @@
   "op": "ADEA0D",
   "len": 32,
   "jp": "カーク「イオンの事は、少しそっとして{br}おいた方が良い。{end}",
-  "en": "",
+  "en": "Kirk: Best leave Ion be for a little while.{end}",
   "notes": ""
  },
  {
@@ -2696,7 +2696,7 @@
   "op": "ADEA48",
   "len": 32,
   "jp": "「ヘッ、デイモンを倒して賞金を頂くのは{br}このオレだぜ！{end}",
-  "en": "",
+  "en": "\"Heh, I'm the one who's gonna take down{br}Daemon and grab the bounty!\"{end}",
   "notes": ""
  },
  {
@@ -2705,7 +2705,7 @@
   "op": "ADEA7E",
   "len": 48,
   "jp": "「デイモンを倒せば、ジャスティスで優勝{br}するよりも手っ取り早く有名になれるな。{end}",
-  "en": "",
+  "en": "\"Beat Daemon, and you'll get famous faster{br}than by winning Justice.\"{end}",
   "notes": ""
  },
  {
@@ -2714,7 +2714,7 @@
   "op": "ADEACE",
   "len": 57,
   "jp": "「お前もデイモンを狙ってるのか。あいにく{br}だが、奴はおれのエモノだ。先にお前から{br}始末してやるぜ！{end}",
-  "en": "",
+  "en": "\"So you're after Daemon, too? Too bad, he's{br}my prey. I'll take care of you first!\"{end}",
   "notes": ""
  },
  {
@@ -2723,7 +2723,7 @@
   "op": "ADEB2C",
   "len": 42,
   "jp": "「まったく、こんなにランナーがいるんじゃ{br}デイモンなんて出てこないんじゃないか？{end}",
-  "en": "",
+  "en": "\"Jeez, with this many runners around,{br}Daemon's never gonna show, is he?\"{end}",
   "notes": ""
  },
  {
@@ -2732,7 +2732,7 @@
   "op": "ADEB72",
   "len": 29,
   "jp": "{c0C:01}「イオンの奴、遅いな。どこまで{br}行ったんだ？{end}",
-  "en": "",
+  "en": "{c0C:01}: Ion's taking her time. Where'd she{br}go?{end}",
   "notes": ""
  },
  {
@@ -2741,7 +2741,7 @@
   "op": "ADEB97",
   "len": 28,
   "jp": "イオン「{c0C:01}、デイモンが現れたわ、{br}早く来て！{end}",
-  "en": "",
+  "en": "Ion: {c0C:01}, Daemon's here! Hurry!{end}",
   "notes": ""
  },
  {
@@ -2750,7 +2750,7 @@
   "op": "ADEBBB",
   "len": 17,
   "jp": "「イオン、今どこにいるんだ！？{end}",
-  "en": "",
+  "en": "\"Ion, where are you?!\"{end}",
   "notes": ""
  },
  {
@@ -2759,7 +2759,7 @@
   "op": "ADEBCE",
   "len": 43,
   "jp": "「倉庫街の北の方よ。{br}早く、早く来て！{br}もう持ちこたえられない！！{end}",
-  "en": "",
+  "en": "\"The north end of the Warehouse District.{br}Hurry, hurry! I can't hold out much longer!!\"{end}",
   "notes": ""
  },
  {
@@ -2768,7 +2768,7 @@
   "op": "ADEBFB",
   "len": 17,
   "jp": "「待ってろイオン、今行く！{end}",
-  "en": "",
+  "en": "\"Hang on, Ion, I'm coming!\"{end}",
   "notes": ""
  },
  {
@@ -2777,7 +2777,7 @@
   "op": "ADEC0E",
   "len": 9,
   "jp": "「キャアアアア！{end}",
-  "en": "",
+  "en": "\"Aaaaaah!\"{end}",
   "notes": ""
  },
  {
@@ -2786,7 +2786,7 @@
   "op": "ADEC1C",
   "len": 15,
   "jp": "「イオン！ おい、イオン！！{end}",
-  "en": "",
+  "en": "\"Ion! Hey, Ion!!\"{end}",
   "notes": ""
  },
  {
@@ -2795,7 +2795,7 @@
   "op": "ADEC3A",
   "len": 27,
   "jp": "{c0C:01}「イオン、生きているのか？{br}返事しろ！！{end}",
-  "en": "",
+  "en": "{c0C:01}: Ion, are you alive? Answer me!!{end}",
   "notes": ""
  },
  {
@@ -2804,7 +2804,7 @@
   "op": "ADEC5A",
   "len": 31,
   "jp": "カーク「ランナーからは生体反応は感知{br}できんぞ。{end}",
-  "en": "",
+  "en": "Kirk: I detect no life signs from the runner.{end}",
   "notes": ""
  },
  {
@@ -2813,7 +2813,7 @@
   "op": "ADEC7E",
   "len": 20,
   "jp": "「そんな、ウソだろ。あのイオンが…！{end}",
-  "en": "",
+  "en": "\"No way, that can't be. Not Ion...!\"{end}",
   "notes": ""
  },
  {
@@ -2822,7 +2822,7 @@
   "op": "ADEC97",
   "len": 19,
   "jp": "イオン「あたしはここよ、{c0C:01}…。{end}",
-  "en": "",
+  "en": "Ion: I'm over here, {c0C:01}...{end}",
   "notes": ""
  },
  {
@@ -2831,7 +2831,7 @@
   "op": "ADECB3",
   "len": 6,
   "jp": "「イオン！{end}",
-  "en": "",
+  "en": "\"Ion!\"{end}",
   "notes": ""
  },
  {
@@ -2840,7 +2840,7 @@
   "op": "ADECBE",
   "len": 35,
   "jp": "「しっかりするんだ！ おいカーク、{br}彼女の容態はどうなんだ？{end}",
-  "en": "",
+  "en": "\"Hang in there! Hey, Kirk, how is she?\"{end}",
   "notes": ""
  },
  {
@@ -2849,7 +2849,7 @@
   "op": "ADECEE",
   "len": 36,
   "jp": "「心配せんでいい、大丈夫じゃ。{br}命にかかわる程ではない。{end}",
-  "en": "",
+  "en": "\"No need to worry, she will be fine. Her life is{br}not in danger.\"{end}",
   "notes": ""
  },
  {
@@ -2858,7 +2858,7 @@
   "op": "ADED16",
   "len": 36,
   "jp": "「ランナーを放棄したおかげで、命を{br}落とさずに済んだんです。{end}",
-  "en": "",
+  "en": "\"We abandoned the runner, and that's how we{br}escaped with our lives.\"{end}",
   "notes": ""
  },
  {
@@ -2867,7 +2867,7 @@
   "op": "ADED3B",
   "len": 47,
   "jp": "デイモンは脱出した私達に目もくれず、{br}ランナーを破壊して去って行きました。{endFD}",
-  "en": "",
+  "en": "Daemon paid no attention to us as we escaped.{br}It destroyed the runner and left.{endFD}",
   "notes": ""
  },
  {
@@ -2876,7 +2876,7 @@
   "op": "ADED6E",
   "len": 68,
   "jp": "「{c0C:01}、デイモンは強い、強すぎる。{br}あたしは耐えるのが精一杯で…。うかつに{br}手を出せば、やられるわ。気をつけて。{end}",
-  "en": "",
+  "en": "\"{c0C:01}, Daemon is strong. Too strong. All I{br}could do was hold out... Rush in carelessly and{br}it'll get you. Be careful.\"{end}",
   "notes": ""
  },
  {
@@ -2885,7 +2885,7 @@
   "op": "ADEDB7",
   "len": 22,
   "jp": "「ミネルバ、デイモンは何処へ行った？{end}",
-  "en": "",
+  "en": "\"Minerva, where did Daemon go?\"{end}",
   "notes": ""
  },
  {
@@ -2894,7 +2894,7 @@
   "op": "ADEDD2",
   "len": 21,
   "jp": "「デイモンは、東の方へ行きました。{end}",
-  "en": "",
+  "en": "\"Daemon went east.\"{end}",
   "notes": ""
  },
  {
@@ -2903,7 +2903,7 @@
   "op": "ADEDE8",
   "len": 48,
   "jp": "{c0C:01}さん、壊されたブリガンティアの{br}仇を取って下さい。{br}イオンは私が見ています。{endFD}",
-  "en": "",
+  "en": "{c0C:01}-san, please avenge Brigantia, which{br}was destroyed. I'll look after Ion.{endFD}",
   "notes": ""
  },
  {
@@ -2912,7 +2912,7 @@
   "op": "ADEE1A",
   "len": 33,
   "jp": "「よし、待ってろよイオン。必ずデイモンを{br}ぶっつぶしてやる！{end}",
-  "en": "",
+  "en": "\"All right. Hang on, Ion. I'm gonna smash{br}Daemon for sure!\"{end}",
   "notes": ""
  },
  {
@@ -2921,7 +2921,7 @@
   "op": "ADEEC5",
   "len": 24,
   "jp": "イオン「デイモンは強いわ。気をつけて…。{end}",
-  "en": "",
+  "en": "Ion: Daemon is strong. Be careful...{end}",
   "notes": ""
  },
  {
@@ -2930,7 +2930,7 @@
   "op": "ADEF35",
   "len": 34,
   "jp": "ミネルバ「イオンは私が見ています。心配{br}しないで下さい。{end}",
-  "en": "",
+  "en": "Minerva: I'll look after Ion. Please don't{br}worry.{end}",
   "notes": ""
  },
  {
@@ -2939,7 +2939,7 @@
   "op": "ADEF9E",
   "len": 11,
   "jp": "{c0C:01}「これは…。{end}",
-  "en": "",
+  "en": "{c0C:01}: This is...{end}",
   "notes": ""
  },
  {
@@ -2948,7 +2948,7 @@
   "op": "ADEFAE",
   "len": 32,
   "jp": "カーク「デイモンを狙って、返り討ちに{br}あったようじゃな。{end}",
-  "en": "",
+  "en": "Kirk: It seems they went after Daemon and{br}were cut down in turn.{end}",
   "notes": ""
  },
  {
@@ -2957,7 +2957,7 @@
   "op": "ADEFD0",
   "len": 18,
   "jp": "「奴はまだこの近くにいるのか？{end}",
-  "en": "",
+  "en": "\"Is it still nearby?\"{end}",
   "notes": ""
  },
  {
@@ -2966,7 +2966,7 @@
   "op": "ADEFE8",
   "len": 37,
   "jp": "「{c0C:01}、動体反応を感知したぞ。{br}奴は倉庫の中じゃ！{end}",
-  "en": "",
+  "en": "\"{c0C:01}, I detect movement. It is inside the{br}warehouse!\"{end}",
   "notes": ""
  },
  {
@@ -2975,7 +2975,7 @@
   "op": "ADF3CF",
   "len": 17,
   "jp": "{c0C:01}「見つけたぞ、デイモン。{end}",
-  "en": "",
+  "en": "{c0C:01}: Found you, Daemon.{end}",
   "notes": ""
  },
  {
@@ -2984,7 +2984,7 @@
   "op": "ADF3E7",
   "len": 62,
   "jp": "デイモンのパイロット「ケケケ、命知らずが{br}また1人来やがったか。お前も他の奴らと{br}同じように殺してやる！{end}",
-  "en": "",
+  "en": "Daemon's Pilot: Heh heh heh, another one with{br}a death wish. I'll kill you just like all the rest!{end}",
   "notes": ""
  },
  {
@@ -2993,7 +2993,7 @@
   "op": "ADF427",
   "len": 36,
   "jp": "「お前の目的は何だ、なぜランナーを{br}襲ったりなんかするんだ？{end}",
-  "en": "",
+  "en": "\"What are you after? Why are you attacking{br}runners?\"{end}",
   "notes": ""
  },
  {
@@ -3002,7 +3002,7 @@
   "op": "ADF44D",
   "len": 61,
   "jp": "「目的だと？ ケッ、殺しが楽しいからに{br}決まってんだろぉ！ くだらねぇ事を{br}聞くんじゃねぇよ、マヌケがぁ。{endFD}",
-  "en": "",
+  "en": "\"What am I after? Tch, killing's fun, obviously!{br}Don't ask stupid questions, you moron.\"{endFD}",
   "notes": ""
  },
  {
@@ -3011,7 +3011,7 @@
   "op": "ADF48B",
   "len": 49,
   "jp": "お前もこのランナーに乗ってみれば{br}分かるぜぇ。こいつはよぉ、すっげえ{br}ゴキゲンなんだぜぇ。{end}",
-  "en": "",
+  "en": "You'd get it if you rode this runner, too. This{br}baby's sooo damn sweet.{end}",
   "notes": ""
  },
  {
@@ -3020,7 +3020,7 @@
   "op": "ADF4C8",
   "len": 13,
   "jp": "「ちっ、イカレてやがる。{end}",
-  "en": "",
+  "en": "\"Tch, he's lost it.\"{end}",
   "notes": ""
  },
  {
@@ -3029,7 +3029,7 @@
   "op": "ADF4F1",
   "len": 55,
   "jp": "{c0C:01}「危ない所だったぜ。もし{br}あの時、あいつに異変が起きなかったら、{br}確実にやられていた。{endFD}",
-  "en": "",
+  "en": "{c0C:01}: That was close. If something hadn't{br}gone wrong with him back there, I'd have been{br}done for.{endFD}",
   "notes": ""
  },
  {
@@ -3038,7 +3038,7 @@
   "op": "ADF529",
   "len": 61,
   "jp": "だが、このランナーの強さ…これからの{br}ババリアとの戦いに必要な力だ。何とか{br}手に入れられないだろうか。{end}",
-  "en": "",
+  "en": "But this runner's power... I'll need it for the{br}fight against Bavaria ahead. Is there any way{br}I could get my hands on it?{end}",
   "notes": ""
  },
  {
@@ -3047,7 +3047,7 @@
   "op": "ADF56B",
   "len": 20,
   "jp": "デイモンのパーツを手に入れました。{end}",
-  "en": "",
+  "en": "Obtained Daemon's parts.{end}",
   "notes": ""
  },
  {
@@ -3056,7 +3056,7 @@
   "op": "ADF667",
   "len": 51,
   "jp": "イオン「…でも、あの時の{c0C:01}の{br}情けない顔ったら、思い出すだけで{br}ふき出しちゃうわ。{end}",
-  "en": "",
+  "en": "Ion: ...But the pathetic look on your face back{br}then, {c0C:01} - just remembering it makes me{br}crack up.{end}",
   "notes": ""
  },
  {
@@ -3065,7 +3065,7 @@
   "op": "ADF69C",
   "len": 49,
   "jp": "{c0C:01}「おいおい、ひどいな。オレは{br}お前がデイモンにやられたもんだと{br}ばっかり思ったんだぜ？{end}",
-  "en": "",
+  "en": "{c0C:01}: Hey now, that's harsh. I really{br}thought Daemon had gotten you, you know?{end}",
   "notes": ""
  },
  {
@@ -3074,7 +3074,7 @@
   "op": "ADF6D2",
   "len": 53,
   "jp": "カーク「いやいや、イオンのいう通り{br}じゃぞ。確かにあの時のお前は、情けない{br}顔をしとったぞ。{end}",
-  "en": "",
+  "en": "Kirk: No, no, Ion is right. You certainly did{br}have a pathetic look on your face then.{end}",
   "notes": ""
  },
  {
@@ -3083,7 +3083,7 @@
   "op": "ADF70E",
   "len": 14,
   "jp": "「カ、カーク、お前なぁ！{end}",
-  "en": "",
+  "en": "\"K-Kirk, you...!\"{end}",
   "notes": ""
  },
  {
@@ -3092,7 +3092,7 @@
   "op": "ADF721",
   "len": 20,
   "jp": "「アハハハハ。もう、あなた達ったら。{end}",
-  "en": "",
+  "en": "\"Ahahaha. Honestly, you two.\"{end}",
   "notes": ""
  },
  {
@@ -3101,7 +3101,7 @@
   "op": "ADF73A",
   "len": 29,
   "jp": "ミネルバ「イオン、あんまり笑うと傷に{br}ひびきますよ。{end}",
-  "en": "",
+  "en": "Minerva: Ion, if you laugh so hard, it'll{br}aggravate your wounds.{end}",
   "notes": ""
  },
  {
@@ -3110,7 +3110,7 @@
   "op": "ADF75C",
   "len": 16,
   "jp": "「いたたたた。ほ、本当ね。{end}",
-  "en": "",
+  "en": "\"Owowow. Y-You're right.\"{end}",
   "notes": ""
  },
  {
@@ -3119,7 +3119,7 @@
   "op": "ADF770",
   "len": 64,
   "jp": "ところで{c0C:01}、賞金の事なんだけど{br}あたしは何もできなかったから、全部{br}あなたにもらってもらおうと思うんだけど。{end}",
-  "en": "",
+  "en": "By the way, {c0C:01}, about the bounty. I{br}didn't do anything, so I was thinking you{br}should take all of it.{end}",
   "notes": ""
  },
  {
@@ -3128,7 +3128,7 @@
   "op": "ADF7B3",
   "len": 8,
   "jp": "どうしますか？{end}",
-  "en": "",
+  "en": "What will you do?{end}",
   "notes": ""
  },
  {
@@ -3137,7 +3137,7 @@
   "op": "ADF7BC",
   "len": 42,
   "jp": "  当然、自分が全額もらう{br}  やっぱりイオンと半分ずつに分ける{endFE}",
-  "en": "",
+  "en": "Take it all, of course{br}Split it with Ion after all{endFE}",
   "notes": ""
  },
  {
@@ -3146,7 +3146,7 @@
   "op": "ADF7F6",
   "len": 45,
   "jp": "「本当かい？ それはありがたいな。{br}それじゃ全額頂くとするよ。悪いなイオン。{end}",
-  "en": "",
+  "en": "\"Really? That's great. Then I'll take the whole{br}thing. Sorry, Ion.\"{end}",
   "notes": ""
  },
  {
@@ -3155,7 +3155,7 @@
   "op": "ADF828",
   "len": 39,
   "jp": "「いえ、いいのよ。デイモンを倒したのは{br}あなたなんだし、当然の事よ。{end}",
-  "en": "",
+  "en": "\"No, it's fine. You're the one who beat{br}Daemon, so it's only fair.\"{end}",
   "notes": ""
  },
  {
@@ -3164,7 +3164,7 @@
   "op": "ADF854",
   "len": 35,
   "jp": "「退院する時には花束でも持って、迎えに{br}来てやるよ。{end}",
-  "en": "",
+  "en": "\"When you get out of the hospital, I'll come{br}pick you up with a bouquet.\"{end}",
   "notes": ""
  },
  {
@@ -3173,7 +3173,7 @@
   "op": "ADF87C",
   "len": 40,
   "jp": "「やめとけ、やめとけ。3枚目のお前に{br}そんなキザなマネは似合わんよ。{end}",
-  "en": "",
+  "en": "\"Don't, don't. Cheesy stunts like that don't{br}suit a clown like you.\"{end}",
   "notes": ""
  },
  {
@@ -3182,7 +3182,7 @@
   "op": "ADF8A6",
   "len": 32,
   "jp": "「カーク、3枚目はないだろ。こんなイイ男{br}をつかまえて。{end}",
-  "en": "",
+  "en": "\"Kirk, 'clown' is going too far - calling a{br}handsome guy like me that.\"{end}",
   "notes": ""
  },
  {
@@ -3191,7 +3191,7 @@
   "op": "ADF8D6",
   "len": 60,
   "jp": "「いや、誘ってくれたのはイオンなんだし、{br}デイモンの強さを聞いてなかったら、{br}オレも同じようにやられていたよ。{endFD}",
-  "en": "",
+  "en": "\"No, Ion, you're the one who invited me. If I{br}hadn't heard how strong Daemon was, I'd have{br}gotten wrecked just like you.\"{endFD}",
   "notes": ""
  },
  {
@@ -3200,7 +3200,7 @@
   "op": "ADF913",
   "len": 33,
   "jp": "だから、賞金は2人で山分けにしよう。{br}それでどうだい？{end}",
-  "en": "",
+  "en": "So let's split the bounty between the two of{br}us. How's that?{end}",
   "notes": ""
  },
  {
@@ -3209,7 +3209,7 @@
   "op": "ADF939",
   "len": 47,
   "jp": "「本当に？ うれしいわ、{c0C:01}。{br}あたし、あなたの事を少し誤解していた{br}みたい。{endFD}",
-  "en": "",
+  "en": "\"Really? I'm so happy, {c0C:01}. I guess I had{br}you a little wrong.\"{endFD}",
   "notes": ""
  },
  {
@@ -3218,7 +3218,7 @@
   "op": "ADF969",
   "len": 43,
   "jp": "もっとお金の事に対してクールな人だと{br}思っていたわ。本当にありがとう。{end}",
-  "en": "",
+  "en": "I thought you were much colder when it came{br}to money. Thank you so much.{end}",
   "notes": ""
  },
  {
@@ -3227,7 +3227,7 @@
   "op": "ADF999",
   "len": 52,
   "jp": "「イオン、あんまり{c0C:01}を買い{br}かぶらない方がよいぞ。どうせ下心が{br}あるに決まっとるんじゃ。{end}",
-  "en": "",
+  "en": "\"Ion, best not think too highly of {c0C:01}. He{br}surely has an ulterior motive.\"{end}",
   "notes": ""
  },
  {
@@ -3236,7 +3236,7 @@
   "op": "ADF9D1",
   "len": 38,
   "jp": "「バ、バカ。何言ってるんだ、カーク！{br}下心なんてあるわけないだろ。{end}",
-  "en": "",
+  "en": "\"Wh-What are you saying, Kirk, you idiot! I{br}don't have any ulterior motive!\"{end}",
   "notes": ""
  },
  {
@@ -3245,7 +3245,7 @@
   "op": "ADF9F9",
   "len": 10,
   "jp": "「アハハハハ…。{end}",
-  "en": "",
+  "en": "\"Ahahaha...\"{end}",
   "notes": ""
  }
 ]

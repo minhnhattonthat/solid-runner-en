@@ -1,0 +1,342 @@
+jp	proposed EN	count	kind	note
+シュウ	Shu	5	person	Hero, default given name ({c0C:01}); 24, ex-army runner pilot, raised in Sister Rachel's convent; casual, cocky, jokey "Ore" speech; soft-hearted underneath
+アースキン	Erskine	3	person	Hero default family name ({c0C:00}); full name shown "Shu＝Erskine" -> "Shu Erskine"
+グランディル	Grandil	2	runner	Hero's runner default name ({c0C:02})
+アイリーン	Irene	91	person	Shu's fiancee, Tao's only daughter, 22; killed on wedding eve (early); warm, teasing, feminine speech; calls Tao "Papa"
+タオ	Tao	23	person	Boss of Anryu, Irene's father, 57; old-man speech (washi), deferential to Sister Rachel; killed early
+リフ	Riff	74	person	Runner mechanic, 55, owns Junkyard garages, lends Shu the room upstairs; gruff old-man speech (washi), crude jokes; later Resistance member
+シスターレイチェル	Sister Rachel	13	person	Head of the convent in Area 2, 41; raised Shu (abandoned at the door) and Nora; very polite "watakushi", -masu/-wa; Shu calls her "Sister", privately "the old lady" (婆さん/ババア)
+レイチェル院長	Mother Superior Rachel	2	title	Nuns' form of address for Sister Rachel (ev_9EDC60)
+レイチェル	Rachel	16	person	Bare form (count includes シスターレイチェル)
+カーク	Kirk	222	person	Shu's Navi-Robo from the scrapyard, formerly the General's; pompous old-gentleman speech (washi, -ja, -oru), loves afternoon tea, calls Shu ヒヨッコ (greenhorn) / バカ
+イオン	Ion	187	person	Female detective, 18, psycho-dive specialist, pilots Brigantia; tomboyish, sharp-tongued, -wa/-yo feminine casual; SPOILER: daughter of Weissheit's victims
+ミネルバ	Minerva	31	person	Ion's Navi-Robo, female personality imprint; very polite -desu/-masu, calls Shu "{name}-san"
+コスタ	Costa	24	person	CTI Security Division chief, 44; arrogant, cowardly, stutters when angry; later Bavaria puppet director
+テオ	Theo	29	person	CTI security officer, 26, Shu's liaison; polite, dry; calls Shu "{name}-san"; profile says he is gay
+グロリア	Gloria	32	person	Director of CTI Integrated Management Bureau, 40; cold, commanding; SPOILER: lost her child to Piranha Preta
+ラオエル	Raoel	81	person	Lion-maned, intelligent bio-monster leading the "terrorist" group; grave, formal "ore"; SPOILER: Weissheit's failed genetic offspring
+バイスハイト	Weissheit	82	person	Bavaria's boss (name withheld until the Garcia psycho-dive); German; final boss. Alt: Weisheit (German "wisdom")
+ネオバイスハイト	Neo Weissheit	1	runner	Final-form enemy entry (runners list)
+バーンズ	Barnes	15	person	Shu's army buddy; reappears with a bounty job; SPOILER: works for Bavaria, betrays Shu and is killed
+アンナ＝ケリー	Anna Kelly	6	person	Top pop singer, 21, Irene's double; polite, sweet; falls for Shu
+アンナ	Anna	61	person	Short form of Anna Kelly (count includes full form); also a doll name in Ion's home (ev_94A406)
+ハロルド	Harold	4	person	Bavaria colonel (ハロルド大佐), Weissheit's right hand; his attack kills Thomas
+レクター	Lecter	23	person	Bivisible gang member, 26, black man, flippant slangy speech; pilots Nobleness; SPOILER: CTI covert unit
+ブランドル	Brundle	21	person	Bivisible boss, 45, stiff, formal; pilots Phantom; SPOILER: CTI agent under Gloria
+ガルシア	Garcia	18	person	Bavaria hitman, ex-mercenary; killed Tao and Irene; Justice entrant; rough, boastful
+トーマス	Thomas	23	person	Ex-British-army runner researcher, Daemon's designer, worked with the General and Kirk; reclusive; killed in Harold's attack
+サンタナ	Santana	13	person	Justice tournament announcer; hyped MC voice
+サントス	Santos	17	person	SCBC news reporter chasing the terrorists; slacker, loves detective stories
+ノーラ	Nora	25	person	Young woman raised at the convent; Catala Company employee who leaked its Bavaria land deal; calls Rachel "Mother"
+レミン	Remin	10	person	Little girl trapped in a VR game; Piranha Preta carrier; calls Shu "onii-chan". Alt: Lemin
+シェリー＝ミラン	Sherry Milan	2	person	Rival singer, Anna's friend
+シェリー	Sherry	16	person	Short form (count includes full form)
+ハンス	Hans	15	person	Sherry's manager; hired the "stalker" to attack Anna
+ロドリゲス	Rodriguez	10	person	Anna Kelly's manager; polite, nervous
+ロイ＝エンゾ	Roy Enzo	1	person	Name on SCBC dressing-room door (one-off)
+アサド＝メンドーサ	Asad Mendoza	1	person	Name on SCBC dressing-room door (one-off)
+シャロン＝クレイン	Sharon Crane	4	person	Client: wife looking for missing husband David
+シャロン	Sharon	9	person	Short form (count includes full form)
+デビッド＝クレイン	David Crane	3	person	Sharon's husband; Ural Factory worker turned into a bio-monster
+デビッド	David	19	person	Short form (count includes full form)
+バルデス	Valdez	10	person	Cautious information broker met in Natural Park; quiz before selling info
+ボーマン	Bowman	18	person	Fantasy Dome owner; pompous, two-timing (affair with secretary)
+カルロ＝キティ	Carlo Kitty	1	person	Doctor who raised Ion (SPOILER backstory, ev_9EA26E)
+ストーカー	stalker	11	role	Anna's "stalker", actually a hired thug/second-rate detective; Ion explains the word (ev_97A321)
+将軍	the General	9	role	Kirk's former master, head of the army's next-gen runner project; dead
+デイモンのパイロット	Daemon's pilot	3	role	Psychotic killer piloting Daemon; collapses from the sync system
+ダ・シルヴァ	Da Silva	2	person	Riff's reference to an old F1 champion ("the Da Silva kid")
+エビータ	Evita	2	person	Tip-off board (Domingo's crush)
+ドミンゴ	Domingo	1	person	Tip-off poster name
+クスリ屋のサムソン	Samson the Pusher	4	person	Tip-off poster name
+早耳のトム	Tom the Ear	3	person	Tip-off poster name ("sharp-eared Tom")
+ミサンガ売りのアドン	Adon the Bracelet Seller	2	person	Tip-off poster; ミサンガ = friendship bracelet (misanga)
+ハイエナ	Hyena	3	person	Tip-off poster name
+カルロス	Carlos	1	person	Tip-off poster name
+チクリ屋ブラウン	Brown the Snitch	3	person	Tip-off poster name
+クビチェック	Kubitschek	1	person	Tip-off poster name (Brazilian surname)
+ポポス	Popos	1	person	Tip-off poster name
+一ッ目のスネイク	One-Eye Snake	1	person	Tip-off poster name
+不死身のジョン	Deathless John	1	person	Tip-off poster name
+ババリア	Bavaria	183	org	German-born crime syndicate (drugs, military runners, bio-research); Weissheit's organisation
+暗龍	Anryu	15	org	Tao's Chinese "mafia" (really a business association) in Chinatown. Alt: Dark Dragon / Anlong
+バイビジブル	Bivisible	12	org	Gang that fights Bavaria; SPOILER: CTI's shadow unit. Also misspelt バイジブル in runner bios (count includes)
+CTI	CTI	75	org	Government agency running Solid City's main computer; quiz glosses it as 中央科学局
+保安部	Security Division	9	org	CTI保安部; 保安部長 = Security Chief (Costa)
+保安部長	Security Chief	3	title	Costa's title
+統合管理局	Integrated Management Bureau	4	org	CTI統合管理局 headed by Gloria
+局長	Director	25	title	Gloria (then Costa); CTI bureau head
+中央科学局	Central Science Bureau	1	org	Valdez quiz expansion of CTI (one-off)
+カタラカンパニー	Catala Company	10	org	Real-estate firm trading with Bavaria; goes bankrupt
+レジスタンス	Resistance	20	org	Anti-Weissheit fighters after the takeover (Raoel's group + Gloria's ex-CTI group)
+SCBC	SCBC	13	org	TV station in Area 7 (SCBC局)
+政府軍	government army	3	org	Flashback war
+ゲリラ	guerrillas	3	org	Flashback war enemy
+ソリッドシティ	Solid City	28	place	The city (Orbiselus, South America); also ソリッドシテイ typo once
+オルビセルス	Orbiselus	5	place	The South American country
+アルタニア	Altania	1	place	Fake country (quiz wrong answer)
+チャイナタウン	Chinatown	10	place	Area 11; Anryu territory
+ジャンクヤード	Junkyard	3	place	Area 1; Riff's garages, later Resistance base underground
+臨河住宅地区	Riverside Residential District	1	place	Area 2
+工場地区	Factory District	4	place	Area 3
+中央住宅地区	Central Residential District	1	place	Area 4
+臨河アミューズメント地区	Riverside Amusement District	1	place	Area 5
+自然保護地区	Nature Reserve District	1	place	Area 6
+南アミューズメント地区	South Amusement District	1	place	Area 7
+バイオ研究施設地区	Bio-Research Facility District	1	place	Area 8
+行政地区	Administrative District	1	place	Area 9
+北アミューズメント地区	North Amusement District	1	place	Area 10
+国際港地区	International Port District	1	place	Area 11
+商業地区	Commercial District	2	place	Area 12
+闘技場地区	Arena District	1	place	Area 13
+エリア	Area	87	place	"エリアN" -> "Area N"
+修道院	convent	12	place	Sister Rachel's convent (Area 2); nuns = sisters
+ファンタジードーム	Fantasy Dome	9	place	Area 5 amusement park recreating VR game "ZONE"
+ナチュラルパーク	Natural Park	8	place	Area 6 nature park
+アレックス病院	Alex Hospital	13	place	Area 6; hidden Bavaria lab
+EL’Sカフェ	EL'S Cafe	2	place	Area 7 cafe (Kirk wants tea)
+VRゲームセンター	VR Game Center	18	place	Area 7; also VRゲーセン (VR arcade); count includes both
+VRホストセンター	VR Host Center	14	place	Area 10; also bare ホストセンター (count includes)
+ディルコア	Dilcore	5	place	Night club in Area 7 (ナイトクラブ『ディルコア』)
+ナイトクラブ	night club	3	place	-
+廃ビル	abandoned building	10	place	Area 8
+CTI本部	CTI HQ	24	place	Area 9; count includes 旧CTI本部
+旧CTI本部	Former CTI HQ	16	place	Final dungeon (Part 4)
+ミレニアムホール	Millennium Hall	3	place	Area 10 concert venue
+倉庫街	Warehouse District	15	place	Area 11
+2番倉庫	Warehouse No. 2	4	place	Nora exchange site
+パーツショップ	Parts Shop	3	place	Area 13
+ジャスティスドーム	Justice Dome	4	place	Area 13 arena
+ウラル工場	Ural Factory	9	place	Area 3 runner-parts plant hiding a Bavaria lab
+スラム街	slums	12	place	Area 3; Raoel's hideout under ruins
+地下下水道	underground sewers	14	place	Also bare 下水道 (count includes)
+ドラッグ工場	drug factory	15	place	Bavaria's, under Area 11 warehouses
+アジト	hideout	48	place	ババリアのアジト / テロリストのアジト / レジスタンスのアジト
+荒れ地ゾーン	Wasteland Zone	2	place	Fantasy Dome
+森林ゾーン	Forest Zone	5	place	Fantasy Dome
+ココ・ストリート	Coco Street	1	place	One-off
+コパカバーナ	Copacabana	1	place	One-off
+レブロン	Leblon	1	place	One-off
+サント・アントニオ	Santo Antonio	1	place	Rio church/wedding
+アマゾン河	Amazon River	2	place	-
+ドイツ	Germany	5	place	-
+ヨーロッパ	Europe	7	place	-
+イギリス	Britain	3	place	Thomas's former lab
+ランナー	runner	171	term	Piloted mech; lowercase in prose
+ランナー使い	runner pilot	6	term	Person who pilots runners
+ランナー免許	runner license	1	term	-
+バイオランナー	bio-runner	1	term	-
+ナビロボ	Navi-Robo	37	term	Also ナビゲーションロボット = navigation robot
+ナビゲーションロボット	navigation robot	3	term	-
+電脳探偵	Cyber Detective	1	term	Title phrase in intro
+探偵	detective	37	term	-
+電脳空間	cyberspace	13	term	-
+サイコダイブ	Psycho Dive	14	term	Mind dive into networks/brains (Ion's specialty)
+サルベージ	salvage	5	term	Recover a trapped consciousness
+ダイブポイント	dive point	2	term	Cyberspace exit
+シグナル	signal	10	term	Encrypted signals in cyberspace maze
+アドレス	address	4	term	Cyberspace navigation
+バイオモンスター	bio-monster	135	term	Also split バイオ / モンスター over line breaks (count includes); Bモンスター = B-monster
+バイオ研究	bio-research	20	term	-
+ハリケイン	Hurricane	15	item	Virtual (VR) drug wired into nerve ganglia
+ヴァーチャルドラッグ	virtual drug	4	term	Also バーチャルドラッグ, VRドラッグ
+ピラーニャ・プレタ	Piranha Preta	27	term	Fatal muscle-wasting disease, aka 黒ピラニア病; spelt with ・, ＝ or nothing (count includes)
+黒ピラニア病	black piranha disease	2	term	Nickname of Piranha Preta
+ジャスティス	Justice	27	term	Runner gladiator betting tournament in Justice Dome
+ビギナークラス	Beginner Class	2	term	Justice class
+ノーマルクラス	Normal Class	3	term	Justice class
+エキスパートクラス	Expert Class	2	term	Justice class
+エントリー	entry	9	term	Justice entry; エントリー料 = entry fee
+ファイトマネー	fight money	1	term	Prize money
+辻ランナー	rogue runner	10	term	Random-attack runner (Daemon); 辻 = street ambush
+シンクロ	sync	4	term	Brain-machine synchronisation; シンクロ率 = sync rate
+例のシステム	the system	4	term	Thomas's sync system that absorbs the pilot
+悪魔の力	Devil's Power	2	term	Shu's term for the sync system; also mission title
+人格の刷り込み	personality imprint	2	term	Navi-Robo personality
+ビデオフォン	videophone	5	term	-
+ホログラムシート	hologram sheet	5	item	3D photo
+光ディスク	optical disc	2	item	Nora's evidence disc (also ディスク)
+ディスク	disc	17	item	-
+爆薬	explosives	3	item	From Riff, for the drug factory
+ペンダント	pendant	2	item	David's keepsake for Sharon
+メガ・ヌートゥロピクス	Mega Nootropics	1	item	Brain-boosting drug (lab note)
+延齢処理	life-extension treatment	1	term	Lab note
+不老不死	immortality	9	term	Weissheit's goal
+凍結受精卵	frozen fertilised eggs	2	term	Weissheit's eugenics programme
+人工授精	artificial insemination	3	term	-
+メインコンピューター	main computer	13	term	CTI's city-control computer
+ライフライン	lifelines	2	term	Utilities cut by Weissheit
+ランドエア政策	Land-Air policy	2	term	City environment policy (NPC talk)
+生体建材	bio-building materials	1	term	-
+G	G	61	ui	Currency suffix; keep G
+リクエスト	Request	1	ui	Terminal menu: job requests
+ニュース	News	5	ui	Terminal menu: free news
+インフォメーション	Information	2	ui	Terminal menu: paid tip-offs; also インフォメーションブース in park
+データライブラリー	Data Library	1	ui	Terminal menu
+タレコミ情報	tip-offs	2	ui	Paid informant posts
+端末	terminal	11	ui	Home terminal
+依頼	request	66	ui	Job/request (仕事の依頼); 依頼人 = client
+依頼内容	Job Details	12	ui	Menu label and request card header
+依頼人	Client	12	ui	Request card field
+報告	Report	12	ui	Mission result screen
+報酬	Reward	10	ui	Mission result screen
+所持金合計	Total funds	1	ui	Mission result screen
+ミッション	Mission	1	ui	Mission『…』終了 = Mission "…" complete
+チューンアップ	tune-up	8	ui	Riff's service; also チューンナップ / チューン
+改造	modify	17	ui	Riff menu: 改造 / 強化 / 装甲増加 / 装甲交換
+装甲増加	Add Armor	1	ui	Riff menu
+装甲交換	Swap Armor	1	ui	Riff menu
+強化	Upgrade	9	ui	Riff menu
+セットアップ	Setup	2	ui	Main menu
+コンフィグ	Config	2	ui	Main menu
+ステータス	Status	2	ui	Main menu
+アイテム	Item	9	ui	Menu / item
+ストック	stock	1	ui	Item stock (inventory full)
+左肩	L.Shoulder	3	ui	Weapon mount; may need abbreviation in narrow slot (flag)
+右肩	R.Shoulder	3	ui	Weapon mount
+左腕	L.Arm	3	ui	Weapon mount
+右腕	R.Arm	3	ui	Weapon mount
+攻撃力	Attack	12	stat	-
+防御力	Defense	4	stat	-
+反応速度	Reaction	8	stat	Reaction speed
+命中率	accuracy	12	stat	命中 = Accuracy (weapon stat)
+回避率	evasion	5	stat	回避力 also
+発射数	Shots	2	stat	Weapon stat
+弾倉	Magazine	2	stat	Weapon stat
+HP	HP	7	stat	-
+経験値	EXP	1	stat	-
+戦闘レベル	combat level	1	stat	-
+オーバーブースト	Overboost	1	ui	Battle command
+防御	Defend	7	ui	Battle command
+コンディションイエロー	Condition Yellow	1	term	Kirk battle line
+ターボファイル	Turbo File	6	ui	ASCII save peripheral; keep product name
+データロード	Data Load	1	ui	-
+データセーブ	Data Save	1	ui	-
+耐火装甲	Fireproof Armor	3	equip	Armor type
+耐電装甲	Insulated Armor	3	equip	Armor type
+耐毒装甲	Poisonproof Armor	3	equip	Armor type
+耐酸装甲	Acidproof Armor	3	equip	Armor type
+回復装甲	Regen Armor	1	equip	Armor type; HP regen out of battle
+装甲	armor	40	term	-
+火	fire	22	status	Napalm damage state (火で焼かれた)
+電撃	shock	5	status	Electric attack; 電気回路の異常 = circuit malfunction
+毒	poison	17	status	-
+酸	acid	13	status	-
+ナパーム	napalm	7	status	Fire attack type; also MPナパーム weapons
+リペアキット	Repair Kit	5	item	Tiers L/M/H/SP/X keep as suffix letters
+リペアキットL	Repair Kit L	1	item	150 HP
+リペアキットM	Repair Kit M	1	item	300 HP
+リペアキットH	Repair Kit H	1	item	600 HP
+リペアキットSP	Repair Kit SP	1	item	Full HP
+リペアキットX	Repair Kit X	1	item	Random HP
+リカバーリキッド	Recover Liquid	1	item	Cures fire damage
+リフレッシャー	Refresher	1	item	Cures accuracy/evasion down
+アルカリワックス	Alkali Wax	1	item	Cures acid
+キュアリキッド	Cure Liquid	1	item	Cures poison
+フレイムコート	Flame Coat	1	item	Blocks one napalm attack
+スタンコート	Stun Coat	1	item	Blocks one shock attack
+アシッドコート	Acid Coat	1	item	Blocks one acid attack
+ポイズンコート	Poison Coat	1	item	Blocks one poison attack
+パワーアシスト	Power Assist	1	item	+1 attack
+EXアーマー	EX Armor	1	item	+1 defense
+ブースターキット	Booster Kit	1	item	+1 reaction
+スナイパーキット	Sniper Kit	1	item	+1 accuracy
+ドッジシステム	Dodge System	1	item	+1 evasion
+アタッカー	Attacker	1	item	+1 atk/acc
+ディフェンサー	Defenser	1	item	+1 def/eva (Japanese-English "defenser"; alt Defender)
+クイックムーバ	Quick Mover	1	item	+1 reaction/acc/eva
+マスターキー	Master Key	2	item	-
+カードキー	Card Key	29	item	Numbered 1-4
+IDカード	ID Card	5	item	-
+技術者専用キー	Technician Key	2	item	-
+非常階段のキー	Emergency Stair Key	2	item	-
+ライフル	rifle	16	weapon	RY suffix
+マシンガン	machine gun	8	weapon	MG suffix
+ショットガン	shotgun	5	weapon	SG suffix
+グレネードガン	grenade gun	5	weapon	GG suffix
+バズーカ	bazooka	7	weapon	BZ suffix
+ミサイルポッド	missile pod	12	weapon	MS suffix
+ガンポッド	gun pod	3	weapon	GP suffix
+パイルバンカー	pile bunker	3	weapon	PB prefix (PBトレント)
+アームスパイク	arm spike	3	weapon	AS prefix (ASベレム)
+スタンナックル	stun knuckle	3	weapon	SN prefix (SN1ライデン…)
+ウィリス	Willis	11	weapon	Maker/line: ウィリスRY1-4, BZ1-4; ウィリス社 = Willis Co.
+レイヴン	Raven	8	weapon	Maker/line: RY1-4, SG1-3; レイヴン社
+ニーメイヤ	Niemeyer	9	weapon	Maker/line: RY1-4, MG1-4; ニーメイヤ社
+ガーシュ	Gersh	3	weapon	Line: ガーシュRY1-3. Alt: Garsh
+ギガイアス	Gigaias	4	weapon	Legendary weapon line (RY/MG/MS); rumoured in tip-offs
+スワロー	Swallow	1	weapon	スワロー1MG
+コンドル	Condor	2	weapon	コンドル2MG; also Irene: lazy as a condor
+イーグル	Eagle	1	weapon	イーグル3MG
+ポルド	Pold	3	weapon	ポルド1-3SG. Alt: Poldo
+オーク	Orc	1	weapon	オーク1GG (alt Oak)
+ノーム	Gnome	1	weapon	ノーム2GG
+エルフ	Elf	1	weapon	エルフ3GG
+ゴーント	Gaunt	5	weapon	ゴーントBZ1-4; ゴーント社
+レイジア	Reizia	4	weapon	レイジア1-4MS. Unsure origin
+ベグルド	Begld	5	weapon	ベグルド1-4MS; ベグルド社. Unsure origin
+ジョブズ	Jobs	5	weapon	ジョブズ1-4GP; ジョブス社 (sic; count includes)
+トレント	Torrent	4	weapon	PBトレント1-4
+ベレム	Belem	6	weapon	ASベレム1-4 (Brazilian city Belem)
+ライデン	Raiden	1	weapon	SN1ライデン
+ライジン	Raijin	1	weapon	SN2ライジン
+ライリュウ	Rairyu	1	weapon	SN3ライリュウ
+ライオウ	Raio	1	weapon	SN4ライオウ. Alt: Raiou
+アシッド	Acid	4	weapon	MPアシッド1-3
+ポイズン	Poison	4	weapon	MPポイズン1-3
+チェイン	Chain	3	weapon	チェイン1-3 (immobilising weapon)
+アニル社	Anil Co.	2	weapon	Maker in descriptions
+DMA	DMA	5	runner	DMA-01/02/03 security robots
+ラヴィアン	Lavian	2	runner	Off-the-shelf runner; Brigantia is based on it. Alt: La Vie en?
+マッドキャット	Mad Cat	1	runner	-
+エミネンス	Eminence	1	runner	-
+ミーティアリック	Meteoric	1	runner	-
+ゲイル	Gale	1	runner	-
+デフィート	Defeat	1	runner	-
+ドーガン	Dorgan	1	runner	Alt: Dougan
+デイモン	Daemon	52	runner	Rogue runner with Thomas's sync system; mission title too. Alt: Demon
+セイヂ	Sage	1	runner	Alt: Seiji
+クリムゾン	Crimson	1	runner	-
+ワイルドハート	Wildheart	1	runner	-
+ヌーヴェルバーグ	Nouvelle Vague	2	runner	Justice champion's custom runner (also ヌーヴェル＝バーグ)
+ガシップ	Gossip	1	runner	Alt: Gasship
+メルゴス	Melgos	1	runner	-
+アマデウス	Amadeus	1	runner	-
+ノウブルネス	Nobleness	2	runner	Lecter's custom runner
+ファントム	Phantom	2	runner	Brundle's custom runner
+ブリガンティア	Brigantia	6	runner	Ion's runner (tuned Lavian)
+グリープハンター	Greep Hunter	1	runner	Unsure; alt Grief Hunter
+マッディドッグ	Muddy Dog	1	runner	-
+ウォー・クライ	War Cry	1	runner	-
+グレゴリー	Gregory	1	runner	-
+アキューサ	Accusa	1	runner	Alt: Accuser
+リザウガ	Lizauga	2	runner	Sewer boss bio-monster (Theo's job)
+ツイン・ヘッド	Twin Head	1	runner	Two-headed dog bio-monster
+BR−1	BR-1	1	runner	-
+ネイバル	Naval	1	runner	-
+ブーギー	Boogie	1	runner	-
+ピースリザード	Peace Lizard	1	runner	Alt: Piece Lizard
+ジェンス	Gens	1	runner	Alt: Jens
+スケルター	Skelter	1	runner	-
+ファイアドレイク	Firedrake	8	runner	Dragon-like bio-monsters in Fantasy Dome (20 of them)
+CTICPU	CTI CPU	1	runner	Enemy entry for the main computer
+バーサティリティー	Versatility	1	runner	Unmanned work-robot type (drug factory)
+IRQ−01	IRQ-01	1	runner	Work runner
+母と娘	Mother and Daughter	1	mission	Mission title (Nora)
+少女の夢	A Girl's Dream	1	mission	Mission title (Remin)
+ハンティング	Hunting	1	mission	Mission title (sewers)
+宣戦布告	Declaration of War	1	mission	Mission title (drug factory)
+失敗作	The Failure	4	mission	Mission title (Raoel); Weissheit's word for Raoel/"defective"
+眼前の敵	The Enemy Before Me	1	mission	Mission title (Bavaria hideout)
+帰らなかった男	The Man Who Never Came Home	1	mission	Mission title (David)
+黄金のたてがみ	Golden Mane	1	mission	Mission title (Fantasy Dome/Raoel)
+アイドルのアイドル	The Idol's Idol	1	mission	Mission title (Anna)
+破壊・誕生	Destruction / Birth	1	episode	第4部エピソード「破壊・誕生」 = Part 4 Episode (ev_A8A99B; only episode header in dump)
+遠くから見つめて	Watching from Afar	1	song	Anna's ballad (ev_9ECE6C)
+ヒヨッコ	greenhorn	7	term	Kirk's (and Kirk-quoting) name for Shu
+大佐	Colonel	1	title	Harold
+院長	Mother Superior	3	title	Sister Rachel
+お嬢さん	Miss	6	title	Anryu men's name for Irene; consider "young miss"
+ガラナジュース	guarana juice	1	item	Flavour
+カイピリーニャ	caipirinha	2	item	Flavour
+アフタヌーンティー	afternoon tea	3	term	Kirk's obsession

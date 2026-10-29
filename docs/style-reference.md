@@ -31,8 +31,8 @@ it (Sister Rachel is formal, Tao is an old-school boss). Narration and system te
 |---|---|---|
 | ev_958480 | タオ「どうやら、裏の世界で / 大きな動きがあるようだな。 / お前達の結婚式が近いというのに…。 | Tao: Seems something big is stirring in the underworld. And with your wedding so close, too... |
 | ev_9584CA | タオ「…とにかくだ。 / アイリーンは、わしの一人娘。 / 他に龍の血と符丁をつぐ者はおらん。 | Tao: ...Anyway. Irene is my only daughter. No one else carries on the Dragon's blood and its signs. |
-| ev_958501 | その娘に むこどのを迎えるのだから / 式は組織をあげて盛大に行わねばな。 | She's taking a husband, so the whole organisation must throw a grand ceremony. |
-| ev_95852F | {c0C:01}「何度も言うが、オレは / あんたらの組織『暗龍』と結婚するんじゃ / ないんだ。 | {c0C:01}: Like I keep telling you, I'm not marrying your organisation, the 'Dark Dragon.' |
+| ev_958501 | その娘に むこどのを迎えるのだから / 式は組織をあげて盛大に行わねばな。 | She's taking a husband, so the whole organization must throw a grand ceremony. |
+| ev_95852F | {c0C:01}「何度も言うが、オレは / あんたらの組織『暗龍』と結婚するんじゃ / ないんだ。 | {c0C:01}: Like I keep telling you, I'm not marrying your organization, the 'Dark Dragon.' |
 | (next) | アイリーンを愛しているから、一緒に / なるんだ。ハデな式なんてゴメンだぜ。 | I'm marrying Irene because I love her. Spare me the flashy wedding. |
 | (next) | アイリーン「パパ、 / 私も{c0C:01}と同じ気持ちよ。 / 私達の結婚に暗龍は関係ないわ。 | Irene: Papa, I feel the same as {c0C:01}. Our wedding has nothing to do with the Dark Dragon. |
 | (next) | 「アイリーン おまえまで…！ | "Irene, not you too...!" |

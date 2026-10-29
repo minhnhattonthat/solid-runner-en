@@ -4,7 +4,7 @@
   "addr": "83:B4B2",
   "len": 16,
   "jp": "        2番倉庫{end}",
-  "en": "",
+  "en": "Warehouse No. 2{end}",
   "notes": ""
  },
  {
@@ -12,7 +12,7 @@
   "addr": "83:B4C2",
   "len": 16,
   "jp": "    ホストセンター B1F{end}",
-  "en": "",
+  "en": "Host Center B1F{end}",
   "notes": ""
  },
  {
@@ -20,7 +20,7 @@
   "addr": "83:B4D2",
   "len": 16,
   "jp": "     ホストセンター 1F{end}",
-  "en": "",
+  "en": "Host Center 1F{end}",
   "notes": ""
  },
  {
@@ -28,7 +28,7 @@
   "addr": "83:B4E2",
   "len": 16,
   "jp": "     ホストセンター 2F{end}",
-  "en": "",
+  "en": "Host Center 2F{end}",
   "notes": ""
  },
  {
@@ -36,7 +36,7 @@
   "addr": "83:B4F2",
   "len": 16,
   "jp": "     ホストセンター 3F{end}",
-  "en": "",
+  "en": "Host Center 3F{end}",
   "notes": ""
  },
  {
@@ -44,7 +44,7 @@
   "addr": "83:B502",
   "len": 18,
   "jp": "       地下下水道{end}",
-  "en": "",
+  "en": "Sewers{end}",
   "notes": ""
  },
  {
@@ -52,7 +52,7 @@
   "addr": "83:B514",
   "len": 15,
   "jp": "      廃ビル B1F{end}",
-  "en": "",
+  "en": "Abandoned Building B1F{end}",
   "notes": ""
  },
  {
@@ -60,7 +60,7 @@
   "addr": "83:B523",
   "len": 15,
   "jp": "       廃ビル 1F{end}",
-  "en": "",
+  "en": "Abandoned Building 1F{end}",
   "notes": ""
  },
  {
@@ -68,7 +68,7 @@
   "addr": "83:B532",
   "len": 15,
   "jp": "       廃ビル 2F{end}",
-  "en": "",
+  "en": "Abandoned Building 2F{end}",
   "notes": ""
  },
  {
@@ -76,7 +76,7 @@
   "addr": "83:B541",
   "len": 15,
   "jp": "       廃ビル 3F{end}",
-  "en": "",
+  "en": "Abandoned Building 3F{end}",
   "notes": ""
  },
  {
@@ -84,7 +84,7 @@
   "addr": "83:B550",
   "len": 18,
   "jp": "     ドラッグ工場 B1F{end}",
-  "en": "",
+  "en": "Drug Factory B1F{end}",
   "notes": ""
  },
  {
@@ -92,7 +92,7 @@
   "addr": "83:B562",
   "len": 18,
   "jp": "     ドラッグ工場 B2F{end}",
-  "en": "",
+  "en": "Drug Factory B2F{end}",
   "notes": ""
  },
  {
@@ -100,7 +100,7 @@
   "addr": "83:B574",
   "len": 18,
   "jp": "     ドラッグ工場 B3F{end}",
-  "en": "",
+  "en": "Drug Factory B3F{end}",
   "notes": ""
  },
  {
@@ -108,7 +108,7 @@
   "addr": "83:B586",
   "len": 16,
   "jp": "      SCBC局 1F{end}",
-  "en": "",
+  "en": "SCBC Station 1F{end}",
   "notes": ""
  },
  {
@@ -116,7 +116,7 @@
   "addr": "83:B596",
   "len": 16,
   "jp": "      SCBC局 2F{end}",
-  "en": "",
+  "en": "SCBC Station 2F{end}",
   "notes": ""
  },
  {
@@ -124,7 +124,7 @@
   "addr": "83:B5A6",
   "len": 17,
   "jp": "   テロリストのアジト B1F{end}",
-  "en": "",
+  "en": "Terrorist Hideout B1F{end}",
   "notes": ""
  },
  {
@@ -132,7 +132,7 @@
   "addr": "83:B5B7",
   "len": 17,
   "jp": "   テロリストのアジト B2F{end}",
-  "en": "",
+  "en": "Terrorist Hideout B2F{end}",
   "notes": ""
  },
  {
@@ -140,7 +140,7 @@
   "addr": "83:B5C8",
   "len": 17,
   "jp": "   テロリストのアジト B3F{end}",
-  "en": "",
+  "en": "Terrorist Hideout B3F{end}",
   "notes": ""
  },
  {
@@ -148,7 +148,7 @@
   "addr": "83:B5D9",
   "len": 17,
   "jp": "      CTI本部 1F{end}",
-  "en": "",
+  "en": "CTI HQ 1F{end}",
   "notes": ""
  },
  {
@@ -156,7 +156,7 @@
   "addr": "83:B5EA",
   "len": 17,
   "jp": "      CTI本部 5F{end}",
-  "en": "",
+  "en": "CTI HQ 5F{end}",
   "notes": ""
  },
  {
@@ -164,7 +164,7 @@
   "addr": "83:B5FB",
   "len": 18,
   "jp": "    アレックス病院 B2F{end}",
-  "en": "",
+  "en": "Alex Hospital B2F{end}",
   "notes": ""
  },
  {
@@ -172,7 +172,7 @@
   "addr": "83:B60D",
   "len": 18,
   "jp": "    アレックス病院 B1F{end}",
-  "en": "",
+  "en": "Alex Hospital B1F{end}",
   "notes": ""
  },
  {
@@ -180,7 +180,7 @@
   "addr": "83:B61F",
   "len": 18,
   "jp": "     アレックス病院 1F{end}",
-  "en": "",
+  "en": "Alex Hospital 1F{end}",
   "notes": ""
  },
  {
@@ -188,7 +188,7 @@
   "addr": "83:B631",
   "len": 18,
   "jp": "     アレックス病院 2F{end}",
-  "en": "",
+  "en": "Alex Hospital 2F{end}",
   "notes": ""
  },
  {
@@ -196,7 +196,7 @@
   "addr": "83:B643",
   "len": 18,
   "jp": "     アレックス病院 3F{end}",
-  "en": "",
+  "en": "Alex Hospital 3F{end}",
   "notes": ""
  },
  {
@@ -204,7 +204,7 @@
   "addr": "83:B655",
   "len": 16,
   "jp": "        2番倉庫{end}",
-  "en": "",
+  "en": "Warehouse No. 2{end}",
   "notes": ""
  },
  {
@@ -212,7 +212,7 @@
   "addr": "83:B665",
   "len": 17,
   "jp": "   ジャスティスドーム B1F{end}",
-  "en": "",
+  "en": "Justice Dome B1F{end}",
   "notes": ""
  },
  {
@@ -220,7 +220,7 @@
   "addr": "83:B676",
   "len": 17,
   "jp": "    ジャスティスドーム 1F{end}",
-  "en": "",
+  "en": "Justice Dome 1F{end}",
   "notes": ""
  },
  {
@@ -228,7 +228,7 @@
   "addr": "83:B687",
   "len": 17,
   "jp": "    ババリアのアジト B1F{end}",
-  "en": "",
+  "en": "Bavaria Hideout B1F{end}",
   "notes": ""
  },
  {
@@ -236,7 +236,7 @@
   "addr": "83:B698",
   "len": 16,
   "jp": "    ババリアのアジト 1F{end}",
-  "en": "",
+  "en": "Bavaria Hideout 1F{end}",
   "notes": ""
  },
  {
@@ -244,7 +244,7 @@
   "addr": "83:B6A8",
   "len": 16,
   "jp": "    ババリアのアジト 2F{end}",
-  "en": "",
+  "en": "Bavaria Hideout 2F{end}",
   "notes": ""
  },
  {
@@ -252,7 +252,7 @@
   "addr": "83:B6B8",
   "len": 16,
   "jp": "    ババリアのアジト 3F{end}",
-  "en": "",
+  "en": "Bavaria Hideout 3F{end}",
   "notes": ""
  },
  {
@@ -260,7 +260,7 @@
   "addr": "83:B6C8",
   "len": 16,
   "jp": "    ババリアのアジト 4F{end}",
-  "en": "",
+  "en": "Bavaria Hideout 4F{end}",
   "notes": ""
  },
  {
@@ -268,7 +268,7 @@
   "addr": "83:B6D8",
   "len": 16,
   "jp": "    ババリアのアジト 5F{end}",
-  "en": "",
+  "en": "Bavaria Hideout 5F{end}",
   "notes": ""
  },
  {
@@ -276,7 +276,7 @@
   "addr": "83:B6E8",
   "len": 16,
   "jp": "    ババリアのアジト 6F{end}",
-  "en": "",
+  "en": "Bavaria Hideout 6F{end}",
   "notes": ""
  },
  {
@@ -284,7 +284,7 @@
   "addr": "83:B6F8",
   "len": 20,
   "jp": "  CTI本部コンピュータールーム{end}",
-  "en": "",
+  "en": "CTI HQ Computer Room{end}",
   "notes": ""
  },
  {
@@ -292,7 +292,7 @@
   "addr": "83:B70C",
   "len": 17,
   "jp": "    ババリアのアジト B2F{end}",
-  "en": "",
+  "en": "Bavaria Hideout B2F{end}",
   "notes": ""
  },
  {
@@ -300,7 +300,7 @@
   "addr": "83:B71D",
   "len": 17,
   "jp": "    ババリアのアジト B1F{end}",
-  "en": "",
+  "en": "Bavaria Hideout B1F{end}",
   "notes": ""
  },
  {
@@ -308,7 +308,7 @@
   "addr": "83:B72E",
   "len": 16,
   "jp": "    ババリアのアジト 1F{end}",
-  "en": "",
+  "en": "Bavaria Hideout 1F{end}",
   "notes": ""
  },
  {
@@ -316,7 +316,7 @@
   "addr": "83:B73E",
   "len": 16,
   "jp": "    ババリアのアジト 2F{end}",
-  "en": "",
+  "en": "Bavaria Hideout 2F{end}",
   "notes": ""
  },
  {
@@ -324,7 +324,7 @@
   "addr": "83:B74E",
   "len": 16,
   "jp": "    ババリアのアジト 3F{end}",
-  "en": "",
+  "en": "Bavaria Hideout 3F{end}",
   "notes": ""
  },
  {
@@ -332,7 +332,7 @@
   "addr": "83:B75E",
   "len": 16,
   "jp": "    ババリアのアジト 4F{end}",
-  "en": "",
+  "en": "Bavaria Hideout 4F{end}",
   "notes": ""
  },
  {
@@ -340,7 +340,7 @@
   "addr": "83:B76E",
   "len": 16,
   "jp": "    ババリアのアジト 5F{end}",
-  "en": "",
+  "en": "Bavaria Hideout 5F{end}",
   "notes": ""
  },
  {
@@ -348,7 +348,7 @@
   "addr": "83:B77E",
   "len": 16,
   "jp": "    ババリアのアジト 6F{end}",
-  "en": "",
+  "en": "Bavaria Hideout 6F{end}",
   "notes": ""
  },
  {
@@ -356,7 +356,7 @@
   "addr": "83:B78E",
   "len": 16,
   "jp": "    ババリアのアジト 7F{end}",
-  "en": "",
+  "en": "Bavaria Hideout 7F{end}",
   "notes": ""
  },
  {
@@ -364,7 +364,7 @@
   "addr": "83:B79E",
   "len": 18,
   "jp": "     地下道 Aブロック{end}",
-  "en": "",
+  "en": "Tunnel Block A{end}",
   "notes": ""
  },
  {
@@ -372,7 +372,7 @@
   "addr": "83:B7B0",
   "len": 18,
   "jp": "     地下道 Bブロック{end}",
-  "en": "",
+  "en": "Tunnel Block B{end}",
   "notes": ""
  },
  {
@@ -380,7 +380,7 @@
   "addr": "83:B7C2",
   "len": 19,
   "jp": "     旧CTI本部 B4F{end}",
-  "en": "",
+  "en": "Old CTI HQ B4F{end}",
   "notes": ""
  },
  {
@@ -388,7 +388,7 @@
   "addr": "83:B7D5",
   "len": 19,
   "jp": "     旧CTI本部 B3F{end}",
-  "en": "",
+  "en": "Old CTI HQ B3F{end}",
   "notes": ""
  },
  {
@@ -396,7 +396,7 @@
   "addr": "83:B7E8",
   "len": 19,
   "jp": "     旧CTI本部 B2F{end}",
-  "en": "",
+  "en": "Old CTI HQ B2F{end}",
   "notes": ""
  },
  {
@@ -404,7 +404,7 @@
   "addr": "83:B7FB",
   "len": 19,
   "jp": "     旧CTI本部 B1F{end}",
-  "en": "",
+  "en": "Old CTI HQ B1F{end}",
   "notes": ""
  },
  {
@@ -412,7 +412,7 @@
   "addr": "83:B80E",
   "len": 18,
   "jp": "     旧CTI本部 1F{end}",
-  "en": "",
+  "en": "Old CTI HQ 1F{end}",
   "notes": ""
  },
  {
@@ -420,7 +420,7 @@
   "addr": "83:B820",
   "len": 18,
   "jp": "     旧CTI本部 2F{end}",
-  "en": "",
+  "en": "Old CTI HQ 2F{end}",
   "notes": ""
  },
  {
@@ -428,7 +428,7 @@
   "addr": "83:B832",
   "len": 18,
   "jp": "     旧CTI本部 3F{end}",
-  "en": "",
+  "en": "Old CTI HQ 3F{end}",
   "notes": ""
  },
  {
@@ -436,7 +436,7 @@
   "addr": "83:B844",
   "len": 18,
   "jp": "     旧CTI本部 4F{end}",
-  "en": "",
+  "en": "Old CTI HQ 4F{end}",
   "notes": ""
  },
  {
@@ -444,7 +444,7 @@
   "addr": "83:B856",
   "len": 18,
   "jp": "     旧CTI本部 5F{end}",
-  "en": "",
+  "en": "Old CTI HQ 5F{end}",
   "notes": ""
  },
  {
@@ -452,7 +452,7 @@
   "addr": "83:B868",
   "len": 18,
   "jp": "     旧CTI本部 6F{end}",
-  "en": "",
+  "en": "Old CTI HQ 6F{end}",
   "notes": ""
  },
  {
@@ -460,7 +460,7 @@
   "addr": "83:B87A",
   "len": 18,
   "jp": "     旧CTI本部 7F{end}",
-  "en": "",
+  "en": "Old CTI HQ 7F{end}",
   "notes": ""
  },
  {
@@ -468,7 +468,7 @@
   "addr": "83:B88C",
   "len": 18,
   "jp": "     旧CTI本部 8F{end}",
-  "en": "",
+  "en": "Old CTI HQ 8F{end}",
   "notes": ""
  },
  {
@@ -476,7 +476,7 @@
   "addr": "83:B89E",
   "len": 17,
   "jp": "     ドラッグ工場 1F{end}",
-  "en": "",
+  "en": "Drug Factory 1F{end}",
   "notes": ""
  },
  {
@@ -484,7 +484,7 @@
   "addr": "83:B8AF",
   "len": 15,
   "jp": "      廃墟 B1F{end}",
-  "en": "",
+  "en": "Ruins B1F{end}",
   "notes": ""
  },
  {
@@ -492,7 +492,7 @@
   "addr": "83:B8BE",
   "len": 15,
   "jp": "       廃墟 1F{end}",
-  "en": "",
+  "en": "Ruins 1F{end}",
   "notes": ""
  },
  {
@@ -500,7 +500,7 @@
   "addr": "83:B8CD",
   "len": 15,
   "jp": "       廃墟 2F{end}",
-  "en": "",
+  "en": "Ruins 2F{end}",
   "notes": ""
  },
  {
@@ -508,7 +508,7 @@
   "addr": "83:B8DC",
   "len": 18,
   "jp": "       地下下水道{end}",
-  "en": "",
+  "en": "Sewers{end}",
   "notes": ""
  },
  {
@@ -516,7 +516,7 @@
   "addr": "83:B8EE",
   "len": 16,
   "jp": "      ウラル工場1F{end}",
-  "en": "",
+  "en": "Ural Factory 1F{end}",
   "notes": ""
  },
  {
@@ -524,7 +524,7 @@
   "addr": "83:B8FE",
   "len": 17,
   "jp": "      ウラル工場B1F{end}",
-  "en": "",
+  "en": "Ural Factory B1F{end}",
   "notes": ""
  },
  {
@@ -532,7 +532,7 @@
   "addr": "83:B90F",
   "len": 17,
   "jp": "      ウラル工場B2F{end}",
-  "en": "",
+  "en": "Ural Factory B2F{end}",
   "notes": ""
  },
  {
@@ -540,7 +540,7 @@
   "addr": "83:B920",
   "len": 19,
   "jp": "     荒れ地ゾーン 地上{end}",
-  "en": "",
+  "en": "Wasteland Zone Surface{end}",
   "notes": ""
  },
  {
@@ -548,7 +548,7 @@
   "addr": "83:B933",
   "len": 19,
   "jp": "     荒れ地ゾーン 地下{end}",
-  "en": "",
+  "en": "Wasteland Zone Underground{end}",
   "notes": ""
  },
  {
@@ -556,7 +556,7 @@
   "addr": "83:B946",
   "len": 19,
   "jp": "      森林ゾーン 地上{end}",
-  "en": "",
+  "en": "Forest Zone Surface{end}",
   "notes": ""
  },
  {
@@ -564,7 +564,7 @@
   "addr": "83:B959",
   "len": 19,
   "jp": "      森林ゾーン 地下{end}",
-  "en": "",
+  "en": "Forest Zone Underground{end}",
   "notes": ""
  },
  {
@@ -572,7 +572,7 @@
   "addr": "83:B96C",
   "len": 19,
   "jp": "      スラム街 地下道{end}",
-  "en": "",
+  "en": "Slum Tunnel{end}",
   "notes": ""
  },
  {
@@ -580,7 +580,7 @@
   "addr": "83:B97F",
   "len": 16,
   "jp": "        1番倉庫{end}",
-  "en": "",
+  "en": "Warehouse No. 1{end}",
   "notes": ""
  },
  {
@@ -588,7 +588,7 @@
   "addr": "83:B98F",
   "len": 16,
   "jp": "      SCBC局 3F{end}",
-  "en": "",
+  "en": "SCBC Station 3F{end}",
   "notes": ""
  },
  {
@@ -596,7 +596,7 @@
   "addr": "83:B99F",
   "len": 16,
   "jp": "      SCBC局 4F{end}",
-  "en": "",
+  "en": "SCBC Station 4F{end}",
   "notes": ""
  }
 ]

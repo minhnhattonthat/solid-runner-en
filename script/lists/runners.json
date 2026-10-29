@@ -4,7 +4,7 @@
   "addr": "82:A1C9",
   "len": 7,
   "jp": "DMA−01{end}",
-  "en": "",
+  "en": "DMA-01{end}",
   "notes": ""
  },
  {
@@ -12,7 +12,7 @@
   "addr": "82:A1D0",
   "len": 7,
   "jp": "DMA−02{end}",
-  "en": "",
+  "en": "DMA-02{end}",
   "notes": ""
  },
  {
@@ -20,7 +20,7 @@
   "addr": "82:A1D7",
   "len": 7,
   "jp": "DMA−03{end}",
-  "en": "",
+  "en": "DMA-03{end}",
   "notes": ""
  },
  {
@@ -28,7 +28,7 @@
   "addr": "82:A1DE",
   "len": 6,
   "jp": "ラヴィアン{end}",
-  "en": "",
+  "en": "Lavian{end}",
   "notes": ""
  },
  {
@@ -36,7 +36,7 @@
   "addr": "82:A1E4",
   "len": 8,
   "jp": "マッドキャット{end}",
-  "en": "",
+  "en": "Mad Cat{end}",
   "notes": ""
  },
  {
@@ -44,7 +44,7 @@
   "addr": "82:A1EC",
   "len": 6,
   "jp": "エミネンス{end}",
-  "en": "",
+  "en": "Eminence{end}",
   "notes": ""
  },
  {
@@ -52,7 +52,7 @@
   "addr": "82:A1F2",
   "len": 9,
   "jp": "ミーティアリック{end}",
-  "en": "",
+  "en": "Meteoric{end}",
   "notes": ""
  },
  {
@@ -60,7 +60,7 @@
   "addr": "82:A1FB",
   "len": 4,
   "jp": "ゲイル{end}",
-  "en": "",
+  "en": "Gale{end}",
   "notes": ""
  },
  {
@@ -68,7 +68,7 @@
   "addr": "82:A1FF",
   "len": 6,
   "jp": "デフィート{end}",
-  "en": "",
+  "en": "Defeat{end}",
   "notes": ""
  },
  {
@@ -76,7 +76,7 @@
   "addr": "82:A205",
   "len": 5,
   "jp": "ドーガン{end}",
-  "en": "",
+  "en": "Dorgan{end}",
   "notes": ""
  },
  {
@@ -84,7 +84,7 @@
   "addr": "82:A20A",
   "len": 5,
   "jp": "デイモン{end}",
-  "en": "",
+  "en": "Daemon{end}",
   "notes": ""
  },
  {
@@ -92,7 +92,7 @@
   "addr": "82:A20F",
   "len": 4,
   "jp": "セイヂ{end}",
-  "en": "",
+  "en": "Sage{end}",
   "notes": ""
  },
  {
@@ -100,7 +100,7 @@
   "addr": "82:A213",
   "len": 6,
   "jp": "クリムゾン{end}",
-  "en": "",
+  "en": "Crimson{end}",
   "notes": ""
  },
  {
@@ -108,7 +108,7 @@
   "addr": "82:A219",
   "len": 8,
   "jp": "ワイルドハート{end}",
-  "en": "",
+  "en": "Wildheart{end}",
   "notes": ""
  },
  {
@@ -116,7 +116,7 @@
   "addr": "82:A221",
   "len": 9,
   "jp": "ヌーヴェルバーグ{end}",
-  "en": "",
+  "en": "Nouvelle Vague{end}",
   "notes": ""
  },
  {
@@ -124,7 +124,7 @@
   "addr": "82:A22A",
   "len": 5,
   "jp": "ガシップ{end}",
-  "en": "",
+  "en": "Gossip{end}",
   "notes": ""
  },
  {
@@ -132,7 +132,7 @@
   "addr": "82:A22F",
   "len": 5,
   "jp": "メルゴス{end}",
-  "en": "",
+  "en": "Melgos{end}",
   "notes": ""
  },
  {
@@ -140,7 +140,7 @@
   "addr": "82:A234",
   "len": 6,
   "jp": "アマデウス{end}",
-  "en": "",
+  "en": "Amadeus{end}",
   "notes": ""
  },
  {
@@ -148,7 +148,7 @@
   "addr": "82:A23A",
   "len": 7,
   "jp": "ノウブルネス{end}",
-  "en": "",
+  "en": "Nobleness{end}",
   "notes": ""
  },
  {
@@ -156,7 +156,7 @@
   "addr": "82:A241",
   "len": 6,
   "jp": "ファントム{end}",
-  "en": "",
+  "en": "Phantom{end}",
   "notes": ""
  },
  {
@@ -164,7 +164,7 @@
   "addr": "82:A247",
   "len": 8,
   "jp": "ブリガンティア{end}",
-  "en": "",
+  "en": "Brigantia{end}",
   "notes": ""
  },
  {
@@ -172,7 +172,7 @@
   "addr": "82:A24F",
   "len": 9,
   "jp": "グリープハンター{end}",
-  "en": "",
+  "en": "Greep Hunter{end}",
   "notes": ""
  },
  {
@@ -180,7 +180,7 @@
   "addr": "82:A258",
   "len": 8,
   "jp": "マッディドッグ{end}",
-  "en": "",
+  "en": "Muddy Dog{end}",
   "notes": ""
  },
  {
@@ -188,7 +188,7 @@
   "addr": "82:A260",
   "len": 8,
   "jp": "ウォー・クライ{end}",
-  "en": "",
+  "en": "War Cry{end}",
   "notes": ""
  },
  {
@@ -196,7 +196,7 @@
   "addr": "82:A268",
   "len": 6,
   "jp": "グレゴリー{end}",
-  "en": "",
+  "en": "Gregory{end}",
   "notes": ""
  },
  {
@@ -204,7 +204,7 @@
   "addr": "82:A26E",
   "len": 6,
   "jp": "アキューサ{end}",
-  "en": "",
+  "en": "Accusa{end}",
   "notes": ""
  },
  {
@@ -212,7 +212,7 @@
   "addr": "82:A274",
   "len": 5,
   "jp": "リザウガ{end}",
-  "en": "",
+  "en": "Lizauga{end}",
   "notes": ""
  },
  {
@@ -220,7 +220,7 @@
   "addr": "82:A279",
   "len": 8,
   "jp": "ツイン・ヘッド{end}",
-  "en": "",
+  "en": "Twin Head{end}",
   "notes": ""
  },
  {
@@ -228,7 +228,7 @@
   "addr": "82:A281",
   "len": 5,
   "jp": "BR−1{end}",
-  "en": "",
+  "en": "BR-1{end}",
   "notes": ""
  },
  {
@@ -236,7 +236,7 @@
   "addr": "82:A286",
   "len": 5,
   "jp": "ネイバル{end}",
-  "en": "",
+  "en": "Naval{end}",
   "notes": ""
  },
  {
@@ -244,7 +244,7 @@
   "addr": "82:A28B",
   "len": 5,
   "jp": "ブーギー{end}",
-  "en": "",
+  "en": "Boogie{end}",
   "notes": ""
  },
  {
@@ -252,7 +252,7 @@
   "addr": "82:A290",
   "len": 8,
   "jp": "ピースリザード{end}",
-  "en": "",
+  "en": "Peace Lizard{end}",
   "notes": ""
  },
  {
@@ -260,7 +260,7 @@
   "addr": "82:A298",
   "len": 5,
   "jp": "ジェンス{end}",
-  "en": "",
+  "en": "Gens{end}",
   "notes": ""
  },
  {
@@ -268,7 +268,7 @@
   "addr": "82:A29D",
   "len": 6,
   "jp": "スケルター{end}",
-  "en": "",
+  "en": "Skelter{end}",
   "notes": ""
  },
  {
@@ -276,7 +276,7 @@
   "addr": "82:A2A3",
   "len": 9,
   "jp": "ファイアドレイク{end}",
-  "en": "",
+  "en": "Firedrake{end}",
   "notes": ""
  },
  {
@@ -284,7 +284,7 @@
   "addr": "82:A2AC",
   "len": 9,
   "jp": "ネオバイスハイト{end}",
-  "en": "",
+  "en": "Neo Weissheit{end}",
   "notes": ""
  },
  {
@@ -292,7 +292,7 @@
   "addr": "82:A2B5",
   "len": 5,
   "jp": "ラオエル{end}",
-  "en": "",
+  "en": "Raoel{end}",
   "notes": ""
  },
  {
@@ -300,7 +300,7 @@
   "addr": "82:A2BA",
   "len": 7,
   "jp": "CTICPU{end}",
-  "en": "",
+  "en": "CTI CPU{end}",
   "notes": ""
  }
 ]

@@ -4,7 +4,7 @@
   "addr": "82:C48F",
   "len": 26,
   "jp": "アイテム  セットアップ情報    コンフィグ{end}",
-  "en": "",
+  "en": "Item | Setup | Information | Config{end}",
   "notes": ""
  },
  {
@@ -12,7 +12,7 @@
   "addr": "82:C4A9",
   "len": 15,
   "jp": " アイテム 使用廃棄{end}",
-  "en": "",
+  "en": "Item | Use | Discard{end}",
   "notes": ""
  },
  {
@@ -20,7 +20,7 @@
   "addr": "82:C4B8",
   "len": 7,
   "jp": "セットアップ{end}",
-  "en": "",
+  "en": "Setup{end}",
   "notes": ""
  },
  {
@@ -28,7 +28,7 @@
   "addr": "82:C4BF",
   "len": 8,
   "jp": " 情報  {end}",
-  "en": "",
+  "en": "Information{end}",
   "notes": ""
  },
  {
@@ -36,7 +36,7 @@
   "addr": "82:C4C7",
   "len": 6,
   "jp": "コンフィグ{end}",
-  "en": "",
+  "en": "Config{end}",
   "notes": ""
  },
  {
@@ -44,7 +44,7 @@
   "addr": "82:C4CD",
   "len": 6,
   "jp": "ステータス{end}",
-  "en": "",
+  "en": "Status{end}",
   "notes": ""
  },
  {
@@ -52,7 +52,7 @@
   "addr": "82:C4D3",
   "len": 10,
   "jp": " 依頼内容{end}",
-  "en": "",
+  "en": "Request{end}",
   "notes": ""
  },
  {
@@ -60,7 +60,7 @@
   "addr": "82:C4DD",
   "len": 29,
   "jp": "左肩： 右肩： 左腕： 右腕： {end}",
-  "en": "",
+  "en": "Left Shoulder: | Right Shoulder: | Left Arm: | Right Arm:{end}",
   "notes": ""
  },
  {
@@ -68,7 +68,7 @@
   "addr": "82:C4FA",
   "len": 27,
   "jp": "攻撃力 発射数 命中  弾倉  {end}",
-  "en": "",
+  "en": "Attack | Shots | Accuracy | Magazine{end}",
   "notes": ""
  },
  {
@@ -76,7 +76,7 @@
   "addr": "82:C515",
   "len": 20,
   "jp": "ステータス 依頼内容データ  {end}",
-  "en": "",
+  "en": "Status | Request | Data{end}",
   "notes": ""
  },
  {
@@ -84,7 +84,7 @@
   "addr": "82:C529",
   "len": 23,
   "jp": "サウンドメッセージ速度 コントローラー {end}",
-  "en": "",
+  "en": "Sound | Message Speed | Controller{end}",
   "notes": ""
  },
  {
@@ -92,7 +92,7 @@
   "addr": "82:C540",
   "len": 9,
   "jp": "ステレオモノラル{end}",
-  "en": "",
+  "en": "Stereo | Mono{end}",
   "notes": ""
  },
  {
@@ -100,7 +100,7 @@
   "addr": "82:C549",
   "len": 11,
   "jp": "速い普通遅い{end}",
-  "en": "",
+  "en": "Fast | Normal | Slow{end}",
   "notes": ""
  },
  {
@@ -108,7 +108,7 @@
   "addr": "82:C554",
   "len": 32,
   "jp": "メニュー開く調べる・話す・決定 ダッシュ・キャンセル{end}",
-  "en": "",
+  "en": "Open Menu | Examine/Talk/OK | Dash/Cancel{end}",
   "notes": ""
  },
  {
@@ -116,7 +116,7 @@
   "addr": "82:C574",
   "len": 53,
   "jp": "左肩攻撃左腕攻撃右肩攻撃右腕攻撃オーバーブースト防御アイテムメニュー{end}",
-  "en": "",
+  "en": "Left Shoulder Attack | Left Arm Attack | Right Shoulder Attack | Right Arm Attack | Overboost | Guard | Item Menu{end}",
   "notes": ""
  }
 ]

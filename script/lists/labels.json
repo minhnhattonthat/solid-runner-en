@@ -4,7 +4,7 @@
   "addr": "82:AB25",
   "len": 5,
   "jp": "左肩{end}",
-  "en": "",
+  "en": "Left{br}Shoulder{end}",
   "notes": ""
  },
  {
@@ -12,7 +12,7 @@
   "addr": "82:AB2A",
   "len": 5,
   "jp": "右肩{end}",
-  "en": "",
+  "en": "Right{br}Shoulder{end}",
   "notes": ""
  },
  {
@@ -20,7 +20,7 @@
   "addr": "82:AB2F",
   "len": 5,
   "jp": "左腕{end}",
-  "en": "",
+  "en": "Left{br}Arm{end}",
   "notes": ""
  },
  {
@@ -28,7 +28,7 @@
   "addr": "82:AB34",
   "len": 5,
   "jp": "右腕{end}",
-  "en": "",
+  "en": "Right{br}Arm{end}",
   "notes": ""
  },
  {
@@ -36,7 +36,7 @@
   "addr": "82:AEF4",
   "len": 9,
   "jp": "情報人物{end}",
-  "en": "",
+  "en": "Information | People{end}",
   "notes": ""
  },
  {
@@ -44,7 +44,7 @@
   "addr": "82:C13F",
   "len": 9,
   "jp": "−−−−−−−−{end}",
-  "en": "",
+  "en": "--------{end}",
   "notes": ""
  },
  {
@@ -52,7 +52,7 @@
   "addr": "83:9A66",
   "len": 9,
   "jp": "−−−−−−−−{end}",
-  "en": "",
+  "en": "--------{end}",
   "notes": ""
  },
  {
@@ -60,7 +60,7 @@
   "addr": "82:C1DB",
   "len": 4,
   "jp": "はずす{end}",
-  "en": "",
+  "en": "Remove{end}",
   "notes": ""
  },
  {
@@ -68,7 +68,7 @@
   "addr": "93:8AFB",
   "len": 7,
   "jp": "所持数{end}",
-  "en": "",
+  "en": "Owned{end}",
   "notes": ""
  },
  {
@@ -76,7 +76,7 @@
   "addr": "93:8B02",
   "len": 5,
   "jp": "値段{end}",
-  "en": "",
+  "en": "Price{end}",
   "notes": ""
  }
 ]

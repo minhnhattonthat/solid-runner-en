@@ -2,15 +2,27 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 6 (translate) **in progress** 2026-10-30.
-- **Phase 6 state:** `tools/batches.py` (split/check/merge/fit/pairs; English = one paragraph per box, wrapped by
-  pixel width from the VWF advance table; box never smaller than the JP's own geometry), `docs/translator-brief.md`,
-  `docs/reviewer-brief.md`, `docs/style-reference.md` (pilot = opening Tao scene, not yet seen in-game: insertion
-  is phase 7), `docs/synopsis.md`, glossary tables (terms pass over the whole script). 36 batches in `work/tl/`
-  (gitignored; `split` regenerates them identically): b001-b028 events, b029-b035 lists, b036 = the 21 sliced menu
-  cells (controller-translated, done; widths are phase 7 warnings). Wave 1 dispatched: 9 translator agents
-  (b001-4, b005-8, ..., b025-8, b029-31, b032-5). Then: merge NEW TERMs into glossary, `pairs` + reviewer per batch,
-  fix Critical/Important, `merge` all into `script/`, commit.
+- **Phase:** 6 (translate) **done** 2026-10-30. **Next: phase 7 (insert, fit, check).**
+- **Phase 6 result:** all 4079 non-empty entries have `en` in `script/*.json` (wrapped with `{br}` by pixel width,
+  end code copied from the JP; sliced menus keep ` | ` between cells). 36 batches, all `batches.py check` OK; 9
+  reviewer passes, every Critical/Important fixed (no Critical found), most accuracy Minors applied in the same round.
+  Tools: `tools/batches.py` (split/check/merge/fit/pairs/dump; box never smaller than the JP's own geometry),
+  `script/engine_todo.txt` (15 full-term entries waiting for a wider box/buffer: warnings, not errors).
+  Docs: `docs/translator-brief.md`, `docs/reviewer-brief.md`, `docs/style-reference.md` (pilot = opening Tao scene,
+  not yet seen in-game), `docs/synopsis.md`, glossary (rulings D9-D11 + "Decisions from earlier batches"),
+  `docs/translation-notes.md` (wave-1 phase 7 items), `docs/terms_proposed.tsv` (terms pass source).
+  `work/tl/` is gitignored; `split` regenerates the batch inputs identically, outputs live only in `script/`.
+- **Phase 7 must do (from phase 6, details in `docs/translation-notes.md`):**
+  - insert `en` (encode with `tbl/en.tbl`; ` | ` cells -> tab-to-cell code); lint = `test_batches` fit + romdiff.
+  - layout blanks dropped by translators: restore the JP's leading indent per line (choice cursor, 12 px per JP
+    blank) and a pad-to-x for column menus (elevators, keypad, turbo Yes/No) and centring (places_*, turbo_*).
+  - `engine_todo.txt`: widen name buffers (Erskine/Grandil, D11), tune_armor 54 px, slot labels 36 px, results
+    120 px; sliced menus in full words (`batches.py check b036` warnings, needs `split` first).
+  - extractor blind spot: 5 entries start mid-string (fake op inside a string; head bytes uncovered, stay JP):
+    ev_93827B, ev_959A59, ev_959C40, ev_97BA44, ev_A8C91E; garbage-prefixed/garbage entries: ev_91940D, ev_92DE77,
+    ev_95A2AA, ev_96DB26, ev_96DBF8, ev_979F08, ev_A8D233, loose_93EED3, turbo_929F06, places2_93C015. Sweep the
+    whole ROM for the form, fix extraction, re-translate the changed entries (full-string EN drafts in the notes).
+  - `{c1C:xx}` slow-print codes were moved off name interiors (Weissheit, Riff) to keep names whole: check timing.
 - **Done (phase 5):**
   - VWF `asm/vwf.asm` (asar 1.91 in `tools/asar/`): hooks glyph draw 84:A993, pixel cursor in the $7E:2000 line
     bitmap, centring via 84:AA2A, 10-column wrap kept at string end (`docs/re/vwf.md`). Font `fonts/vwf.txt` ->
@@ -32,8 +44,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
     point an NPC's resume script (thread x: $7E:B4C2+x lo / B4E7+x hi / B50C+x bank, op 49/4A at 81:D33F) at another
     VM script. Riff's tune-up: from `work/play/riff3/0001.mss`, POKE x=13 to 93:A5AE (`work/play/riff6`). The
     add-armor yes/no (`増やす/やめる`) needs a level-up and was not seen.
-- **Phase 7 carry-overs:** name buffers 5/6 letters < Erskine / Grandil (D11: widen); sliced menus in full words
-  need wider cells (`batches.py check b036` lists them); tab-to-cell control code for the 14 sliced menus and a wider info>data submenu
+- **Phase 7 carry-overs (from phase 5):** tab-to-cell control code for the 14 sliced menus and a wider info>data submenu
   (`data_submenu` 22 px); `loose` VM texts need their roots found (watch $7E:B297 writes) before scripts are
   relocated; find users of the 8x8 kana font (AC_01/AC_05; the save slot's name/TIME/LV line is one).
 - **Done (phases 1-4):** recon (`docs/re/`), debug warp tool (`tools/debug/`, `run_scenes.py`; 93 scenes + raw
@@ -44,4 +55,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   ~3460 mashed frames; spawning a thread over the opening thread gives a black screen.
 - **Open bugs:** none.
 - **Waiting on the user:** (non-blocking) the Mesen GUI's keyboard input was not hand-tested (headless session);
-  emu.py wrote default key mappings to `tools/mesen/settings.json`.
+  emu.py wrote default key mappings to `tools/mesen/settings.json`. (non-blocking) Name spellings chosen by the
+  controller with no official source: Weissheit, Raoel, Brundle, Lecter, Orbiselus, Bivisible, Dark Dragon (暗龍),
+  Daemon, runner/weapon names in glossary.md; register/SFX/speech layout D9-D10. Owner may override; a rename is a
+  glossary edit + `batches.py check` sweep.

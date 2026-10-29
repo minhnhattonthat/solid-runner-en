@@ -4,7 +4,7 @@
   "addr": "92:8F1F",
   "len": 134,
   "jp": "21XX年。政治や経済、人口など{br}といった様々な問題をかかえつつも、{br}人類は滅びる事もなくどうにか{br}生きていた。{br}{br}混乱と秩序が奇妙なバランスを保ち{br}ながら、地球にしがみついたままの{br}人類を生かし続けていた。{end}",
-  "en": "",
+  "en": "21XX. Burdened with all sorts of problems -{br}politics, the economy, population - humanity{br}had not perished, and somehow lived on.{br}{br}Chaos and order held a strange balance,{br}keeping alive a humanity that still clung to{br}the Earth.{end}",
   "notes": ""
  },
  {
@@ -12,7 +12,7 @@
   "addr": "92:8FA5",
   "len": 126,
   "jp": "南アメリカ大陸に位置する国、{br}オルビセルスは独自の政策によって{br}繁栄した国である。{br}{br}オルビセルスの都市の一つ、{br}ソリッドシティは様々な{br}文化・思想・人種が混じり合い、{br}トラブルが多発していた。{end}",
-  "en": "",
+  "en": "Orbiselus, a country on the South American{br}continent, prospered through its own unique{br}policies.{br}{br}In Solid City, one of its cities, all kinds of{br}cultures, ideologies and races mixed, and{br}trouble broke out constantly.{end}",
   "notes": ""
  },
  {
@@ -20,7 +20,7 @@
   "addr": "92:9023",
   "len": 130,
   "jp": "暴走ロボット、バイオモンスター、{br}マフィア、ヴァーチャルドラッグ、{br}テロリスト…。{br}トラブルのネタは尽きないが、{br}この街ではそれが生きて行く為の{br}商売になる。{br}死ととなり合わせの危険な仕事屋…{br}    「電脳探偵」{end}",
-  "en": "",
+  "en": "Runaway robots, bio-monsters, mafia, virtual{br}drugs, terrorists...{br}Trouble never runs short, but in this city, it's{br}how you make a living.{br}A dangerous trade, with death right next{br}door...{br}\"Cyber Detective\"{end}",
   "notes": ""
  }
 ]

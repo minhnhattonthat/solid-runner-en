@@ -4,7 +4,7 @@
   "addr": "92:96A3",
   "len": 6,
   "jp": "母と娘{end}",
-  "en": "",
+  "en": "Mother and Daughter{end}",
   "notes": ""
  },
  {
@@ -12,7 +12,7 @@
   "addr": "92:96A9",
   "len": 8,
   "jp": "少女の夢{end}",
-  "en": "",
+  "en": "A Girl's Dream{end}",
   "notes": ""
  },
  {
@@ -20,7 +20,7 @@
   "addr": "92:96B1",
   "len": 7,
   "jp": "ハンティング{end}",
-  "en": "",
+  "en": "Hunting{end}",
   "notes": ""
  },
  {
@@ -28,7 +28,7 @@
   "addr": "92:96B8",
   "len": 6,
   "jp": "ハリケイン{end}",
-  "en": "",
+  "en": "Hurricane{end}",
   "notes": ""
  },
  {
@@ -36,7 +36,7 @@
   "addr": "92:96BE",
   "len": 9,
   "jp": "宣戦布告{end}",
-  "en": "",
+  "en": "Declaration of War{end}",
   "notes": ""
  },
  {
@@ -44,7 +44,7 @@
   "addr": "92:96C7",
   "len": 7,
   "jp": "失敗作{end}",
-  "en": "",
+  "en": "The Failure{end}",
   "notes": ""
  },
  {
@@ -52,7 +52,7 @@
   "addr": "92:96CE",
   "len": 10,
   "jp": "ピラーニャ・プレタ{end}",
-  "en": "",
+  "en": "Piranha Preta{end}",
   "notes": ""
  },
  {
@@ -60,7 +60,7 @@
   "addr": "92:96D8",
   "len": 5,
   "jp": "デイモン{end}",
-  "en": "",
+  "en": "Daemon{end}",
   "notes": ""
  },
  {
@@ -68,7 +68,7 @@
   "addr": "92:96DD",
   "len": 7,
   "jp": "ジャスティス{end}",
-  "en": "",
+  "en": "Justice{end}",
   "notes": ""
  },
  {
@@ -76,7 +76,7 @@
   "addr": "92:96E4",
   "len": 8,
   "jp": "眼前の敵{end}",
-  "en": "",
+  "en": "The Enemy Before Me{end}",
   "notes": ""
  },
  {
@@ -84,7 +84,7 @@
   "addr": "92:96EC",
   "len": 7,
   "jp": "サイコダイブ{end}",
-  "en": "",
+  "en": "Psycho Dive{end}",
   "notes": ""
  },
  {
@@ -92,7 +92,7 @@
   "addr": "92:96F3",
   "len": 8,
   "jp": "悪魔の力{end}",
-  "en": "",
+  "en": "The Devil's Power{end}",
   "notes": ""
  },
  {
@@ -100,7 +100,7 @@
   "addr": "92:96FB",
   "len": 10,
   "jp": "帰らなかった男{end}",
-  "en": "",
+  "en": "The Man Who Never{br}Came Home{end}",
   "notes": ""
  },
  {
@@ -108,7 +108,7 @@
   "addr": "92:9705",
   "len": 10,
   "jp": "黄金のたてがみ{end}",
-  "en": "",
+  "en": "Golden Mane{end}",
   "notes": ""
  },
  {
@@ -116,7 +116,7 @@
   "addr": "92:970F",
   "len": 10,
   "jp": "アイドルのアイドル{end}",
-  "en": "",
+  "en": "The Idol's Idol{end}",
   "notes": ""
  },
  {
@@ -124,7 +124,7 @@
   "addr": "92:973B",
   "len": 32,
   "jp": "カタラカンパニーにさらわれたノーラ{br}を無事に助け出す。{end}",
-  "en": "",
+  "en": "Safely rescued Nora, who was{br}kidnapped by the Catala Company.{end}",
   "notes": ""
  },
  {
@@ -132,7 +132,7 @@
   "addr": "92:975B",
   "len": 49,
   "jp": "バイオモンスターを退治、レミンを {br}電脳空間からサルベージする事に  {br}成功。{end}",
-  "en": "",
+  "en": "Exterminated the bio-monster and{br}successfully salvaged Remin from{br}cyberspace.{end}",
   "notes": ""
  },
  {
@@ -140,7 +140,7 @@
   "addr": "92:978C",
   "len": 36,
   "jp": "地下下水道に巣くっていたバイオ  {br}モンスターを退治。{end}",
-  "en": "",
+  "en": "Exterminated the bio-monsters{br}nesting in the sewers.{end}",
   "notes": ""
  },
  {
@@ -148,7 +148,7 @@
   "addr": "92:97B0",
   "len": 40,
   "jp": "バーンズを倒し、発見したバイオ  {br}モンスターはラオエルが引き取る。{end}",
-  "en": "",
+  "en": "Defeated Barnes. Raoel took the{br}bio-monster that was found.{end}",
   "notes": ""
  },
  {
@@ -156,7 +156,7 @@
   "addr": "92:97D8",
   "len": 37,
   "jp": "倉庫街に隠されていたババリアの  {br}ドラッグ工場を爆破。{end}",
-  "en": "",
+  "en": "Blew up Bavaria's drug factory{br}hidden in the Warehouse District.{end}",
   "notes": ""
  },
  {
@@ -164,7 +164,7 @@
   "addr": "92:97FD",
   "len": 36,
   "jp": "武装テロリストグループのリーダー {br}ラオエルの始末に失敗。{end}",
-  "en": "",
+  "en": "Failed to eliminate Raoel, leader of{br}an armed terrorist group.{end}",
   "notes": ""
  },
  {
@@ -172,7 +172,7 @@
   "addr": "92:9821",
   "len": 61,
   "jp": "アレックス病院の地下に隠されていた{br}ババリアのバイオ研究施設を調査、 {br}バイオモンスターを倒す。{end}",
-  "en": "",
+  "en": "Investigated Bavaria's bio-research{br}facility hidden under Alex Hospital and{br}defeated the bio-monster.{end}",
   "notes": ""
  },
  {
@@ -180,7 +180,7 @@
   "addr": "92:985E",
   "len": 28,
   "jp": "正体不明の辻ランナー、デイモンを {br}倒す。{end}",
-  "en": "",
+  "en": "Defeated Daemon, the unidentified{br}rogue runner.{end}",
   "notes": ""
  },
  {
@@ -188,7 +188,7 @@
   "addr": "92:987A",
   "len": 47,
   "jp": "ジャスティスでアイリーンの仇を倒し{br}ババリアとバイスハイトに関する情報{br}を得る。{end}",
-  "en": "",
+  "en": "Defeated Irene's killer at Justice and{br}obtained information on Bavaria and{br}Weissheit.{end}",
   "notes": ""
  },
  {
@@ -196,7 +196,7 @@
   "addr": "92:98A9",
   "len": 53,
   "jp": "ババリアのアジトに潜入、組織のボス{br}バイスハイトを発見するが邪魔が入り{br}逃げられる。{end}",
-  "en": "",
+  "en": "Infiltrated Bavaria's hideout and found{br}Weissheit, the boss, but he got away{br}after an interruption.{end}",
   "notes": ""
  },
  {
@@ -204,7 +204,7 @@
   "addr": "92:98DE",
   "len": 31,
   "jp": "ババリアによってさらわれたイオンを{br}アジトから救出する。{end}",
-  "en": "",
+  "en": "Rescued Ion, who was kidnapped by{br}Bavaria, from their hideout.{end}",
   "notes": ""
  },
  {
@@ -212,7 +212,7 @@
   "addr": "92:98FD",
   "len": 39,
   "jp": "ランナーを最終段階へパワーアップ {br}してもらう。トーマスは死亡。{end}",
-  "en": "",
+  "en": "Had the runner powered up to its{br}final stage. Thomas died.{end}",
   "notes": ""
  },
  {
@@ -220,7 +220,7 @@
   "addr": "92:9924",
   "len": 56,
   "jp": "行方不明だったデビッドを発見するが{br}バイオモンスターと化してしまう。{br}やむなくデビッドを倒す。{end}",
-  "en": "",
+  "en": "Found the missing David, but he turned{br}into a bio-monster. Had no choice but{br}to defeat him.{end}",
   "notes": ""
  },
  {
@@ -228,7 +228,7 @@
   "addr": "92:995C",
   "len": 55,
   "jp": "ファンタジードームに侵入した{br}ファイアドレイクを全て始末し、{br}コンピューターを元通りに戻す。{end}",
-  "en": "",
+  "en": "Eliminated every Firedrake that{br}broke into the Fantasy Dome and{br}restored the computer.{end}",
   "notes": ""
  },
  {
@@ -236,7 +236,7 @@
   "addr": "92:9993",
   "len": 52,
   "jp": "ストーカーの仕業とみせかけて{br}人気歌手アンナを襲わせたハンスを{br}警察に引き渡す。{end}",
-  "en": "",
+  "en": "Handed Hans over to the police. He'd{br}had pop singer Anna attacked to look{br}like a stalker's work.{end}",
   "notes": ""
  }
 ]

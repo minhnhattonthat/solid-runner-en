@@ -5,7 +5,7 @@
   "op": "9EA0E0",
   "len": 21,
   "jp": "「バイスハイトがまだドイツにいた頃よ。{endFE}",
-  "en": "",
+  "en": "\"It was back when Weissheit was still in{br}Germany.\"{endFE}",
   "notes": ""
  },
  {
@@ -14,7 +14,7 @@
   "op": "9EA0FC",
   "len": 81,
   "jp": "あの男は自分がそうして生まれたように、{br}人工授精によって優秀な血統から子供を作り{br}ある能力集団を形成しようとしていた。{endFE}",
-  "en": "",
+  "en": "Born that way himself, he wanted to breed{br}children from superior bloodlines by artificial{br}insemination and form a gifted group.{endFE}",
   "notes": ""
  },
  {
@@ -23,7 +23,7 @@
   "op": "9EA154",
   "len": 36,
   "jp": "自らをその頂点に据えた、選ばれたエリート{br}だけの集団を。{endFE}",
-  "en": "",
+  "en": "A group made up only of the chosen elite, with{br}himself at the top.{endFE}",
   "notes": ""
  },
  {
@@ -32,7 +32,7 @@
   "op": "9EA184",
   "len": 80,
   "jp": "当時、ドイツでも高名な研究者だった母に{br}目をつけたあの男は、部下に自分の精子を{br}母の卵子と授精させるよう命じたわ。{end}",
-  "en": "",
+  "en": "He had his eye on my mother, a famous German{br}researcher back then, and ordered a man of{br}his to fertilize her egg with his sperm.{end}",
   "notes": ""
  },
  {
@@ -41,7 +41,7 @@
   "op": "9EA1DB",
   "len": 70,
   "jp": "でも、その部下は命令に背いて自らの精子を{br}使って受精を行った。なぜなら、その部下は{br}母の恋人だったのよ。{endFE}",
-  "en": "",
+  "en": "But that subordinate disobeyed the order and{br}used his own sperm. Because he was my{br}mother's lover.{endFE}",
   "notes": ""
  },
  {
@@ -50,7 +50,7 @@
   "op": "9EA22D",
   "len": 59,
   "jp": "それを知ったバイスハイトは、その部下、{br}つまりあたしの父を殺して受精卵のプラント{br}も破壊したわ。{endFE}",
-  "en": "",
+  "en": "When Weissheit found out, he killed that{br}subordinate - my father - and destroyed the{br}fertilized-egg plant as well.{endFE}",
   "notes": ""
  },
  {
@@ -59,7 +59,7 @@
   "op": "9EA26D",
   "len": 73,
   "jp": "でも、すでに受精卵は別の場所に移されて{br}いた。父の友人で、このソリッドシティに{br}住んでいたカルロ＝キティ博士の元に。{endFE}",
-  "en": "",
+  "en": "But the egg had already been moved{br}elsewhere. To Dr. Carlo Kitty, my father's{br}friend, who lived here in Solid City.{endFE}",
   "notes": ""
  },
  {
@@ -68,7 +68,7 @@
   "op": "9EA2BB",
   "len": 62,
   "jp": "あたしはその博士に取り上げられ、育てられ{br}たわ。そして、15歳の時に今までの事を{br}全て聞かされたの。{endFE}",
-  "en": "",
+  "en": "The doctor delivered me and raised me. And{br}when I was 15, he told me everything.{endFE}",
   "notes": ""
  },
  {
@@ -77,7 +77,7 @@
   "op": "9EA797",
   "len": 40,
   "jp": "通路転送プログラムがロードされている。{br}プログラムを実行しますか？{end}",
-  "en": "",
+  "en": "A passage transfer program is loaded. Run the{br}program?{end}",
   "notes": ""
  },
  {
@@ -86,7 +86,7 @@
   "op": "9EA7C0",
   "len": 17,
   "jp": "  実行する{br}  やめておく{endFE}",
-  "en": "",
+  "en": "Run{br}Don't{endFE}",
   "notes": ""
  },
  {
@@ -95,7 +95,7 @@
   "op": "9EA801",
   "len": 26,
   "jp": "通路転送プログラムは実行されています。{end}",
-  "en": "",
+  "en": "The passage transfer program is running.{end}",
   "notes": ""
  },
  {
@@ -104,7 +104,7 @@
   "op": "9EA8AF",
   "len": 22,
   "jp": "カーク「{c0C:01}、後方にお客さんじゃ。{end}",
-  "en": "",
+  "en": "Kirk: {c0C:01}, we have company behind us.{end}",
   "notes": ""
  },
  {
@@ -113,7 +113,7 @@
   "op": "9EA8C9",
   "len": 9,
   "jp": "{c0C:01}「敵か？{end}",
-  "en": "",
+  "en": "{c0C:01}: Enemies?{end}",
   "notes": ""
  },
  {
@@ -122,7 +122,7 @@
   "op": "9EA8D7",
   "len": 14,
   "jp": "イオン「待って、{c0C:01}。{end}",
-  "en": "",
+  "en": "Ion: Wait, {c0C:01}.{end}",
   "notes": ""
  },
  {
@@ -131,7 +131,7 @@
   "op": "9EA8EB",
   "len": 19,
   "jp": "「イオンじゃないか、何故ここに？{end}",
-  "en": "",
+  "en": "\"Ion? What are you doing here?\"{end}",
   "notes": ""
  },
  {
@@ -140,7 +140,7 @@
   "op": "9EA902",
   "len": 53,
   "jp": "「やっぱり思った通りね。このアジトの事を{br}聞いて、じっとしていられるような人じゃ{br}ないものね。{end}",
-  "en": "",
+  "en": "\"Just as I thought. You're not the type to sit{br}still after hearing about this hideout.\"{end}",
   "notes": ""
  },
  {
@@ -149,7 +149,7 @@
   "op": "9EA939",
   "len": 36,
   "jp": "「ああ、CTIの奴らが動き出す前にオレの{br}手でカタをつける。{end}",
-  "en": "",
+  "en": "\"Yeah. I'm settling this myself before the CTI{br}guys make their move.\"{end}",
   "notes": ""
  },
  {
@@ -158,7 +158,7 @@
   "op": "9EA962",
   "len": 31,
   "jp": "声「カタをつける、か。{br}タダ事ではなさそうだな、{c0C:01}。{end}",
-  "en": "",
+  "en": "Voice: Settling it, eh? Sounds like something{br}serious, {c0C:01}.{end}",
   "notes": ""
  },
  {
@@ -167,7 +167,7 @@
   "op": "9EA98D",
   "len": 7,
   "jp": "「ラオエル！{end}",
-  "en": "",
+  "en": "\"Raoel!\"{end}",
   "notes": ""
  },
  {
@@ -176,7 +176,7 @@
   "op": "9EA99A",
   "len": 17,
   "jp": "この間の復讐に来たのか？{end}",
-  "en": "",
+  "en": "Come to get revenge for the other day?{end}",
   "notes": ""
  },
  {
@@ -185,7 +185,7 @@
   "op": "9EA9B0",
   "len": 12,
   "jp": "「あれがラオエル…。{end}",
-  "en": "",
+  "en": "\"So that's Raoel...\"{end}",
   "notes": ""
  },
  {
@@ -194,7 +194,7 @@
   "op": "9EA9C0",
   "len": 62,
   "jp": "「身構えるな、復讐に来た訳じゃない。{br}おれもここがババリアの重要なアジトだと{br}知って、やって来たんだ。{endFD}",
-  "en": "",
+  "en": "\"Don't tense up. I'm not here for revenge. I{br}came because I found out this is an important{br}Bavaria hideout too.\"{endFD}",
   "notes": ""
  },
  {
@@ -203,7 +203,7 @@
   "op": "9EA9FF",
   "len": 32,
   "jp": "教えてくれないか、一体ここには何が{br}あるっていうんだ？{end}",
-  "en": "",
+  "en": "Tell me, what exactly is in this place?{end}",
   "notes": ""
  },
  {
@@ -212,7 +212,7 @@
   "op": "9EAA23",
   "len": 16,
   "jp": "「バイスハイトがいるらしいわ。{end}",
-  "en": "",
+  "en": "\"Weissheit is supposed to be here.\"{end}",
   "notes": ""
  },
  {
@@ -221,7 +221,7 @@
   "op": "9EAA3A",
   "len": 6,
   "jp": "「イオン！{end}",
-  "en": "",
+  "en": "\"Ion!\"{end}",
   "notes": ""
  },
  {
@@ -230,7 +230,7 @@
   "op": "9EAA45",
   "len": 36,
   "jp": "あなた達だけじゃないのよ、バイスハイトに{br}恨みを持っているのは。{end}",
-  "en": "",
+  "en": "You two aren't the only ones with a grudge{br}against Weissheit.{end}",
   "notes": ""
  },
  {
@@ -239,7 +239,7 @@
   "op": "9EAA6E",
   "len": 20,
   "jp": "「イオン、君は一体………？{end}",
-  "en": "",
+  "en": "\"Ion, what are you...?\"{end}",
   "notes": ""
  },
  {
@@ -248,7 +248,7 @@
   "op": "9EAA84",
   "len": 70,
   "jp": "「あたしが生まれた時、両親は殺されて{br}もうこの世にはいなかった。あたしは{br}人工授精によって生まれた子供だったの。{endFD}",
-  "en": "",
+  "en": "\"By the time I was born, my parents had been{br}murdered. They were already gone. I was a{br}child born by artificial insemination.\"{endFD}",
   "notes": ""
  },
  {
@@ -257,7 +257,7 @@
   "op": "9EAACB",
   "len": 27,
   "jp": "そして、両親を殺したのはバイスハイト{br}なのよ。{end}",
-  "en": "",
+  "en": "And the one who killed my parents was{br}Weissheit.{end}",
   "notes": ""
  },
  {
@@ -266,7 +266,7 @@
   "op": "9EAAEB",
   "len": 9,
   "jp": "「何だって！？{end}",
-  "en": "",
+  "en": "\"What?!\"{end}",
   "notes": ""
  },
  {
@@ -275,7 +275,7 @@
   "op": "9EAB11",
   "len": 19,
   "jp": "「そうだったのか。そんな事が…。{end}",
-  "en": "",
+  "en": "\"So that's how it was. All that...\"{end}",
   "notes": ""
  },
  {
@@ -284,7 +284,7 @@
   "op": "9EAB28",
   "len": 43,
   "jp": "「イオン…だったな。お前にもそんな事が{br}あったのか。お前も、おれと同じだ。{end}",
-  "en": "",
+  "en": "\"Ion, was it? So that happened to you too.{br}You're the same as me.\"{end}",
   "notes": ""
  },
  {
@@ -293,7 +293,7 @@
   "op": "9EAB58",
   "len": 51,
   "jp": "「博士はあたしに復讐なんてバカげた事は{br}考えずに、自分の為に生きろと言ったわ。{endFD}",
-  "en": "",
+  "en": "\"The doctor told me not to think about{br}anything as stupid as revenge, and to live for{br}myself.\"{endFD}",
   "notes": ""
  },
  {
@@ -302,7 +302,7 @@
   "op": "9EAB8C",
   "len": 59,
   "jp": "でもね、自分の両親が殺されたっていうのに{br}自分の事だけを考えて生きるなんて、できる{br}訳ないわ。{endFD}",
-  "en": "",
+  "en": "But my own parents were murdered. How could{br}I live thinking only about myself? There's no{br}way.{endFD}",
   "notes": ""
  },
  {
@@ -311,7 +311,7 @@
   "op": "9EABC8",
   "len": 66,
   "jp": "あたしは探偵をしながらバイスハイトの{br}手がかりを追って来た。だから、あなた達に{br}あの男を渡す訳にはいかないのよ。{end}",
-  "en": "",
+  "en": "I've been following leads on Weissheit while{br}working as a detective. So I can't let you two{br}have him.{end}",
   "notes": ""
  },
  {
@@ -320,7 +320,7 @@
   "op": "9EAC0F",
   "len": 35,
   "jp": "「おれだって奴を狙っている。これだけは{br}ゆずる訳にはいかない。{end}",
-  "en": "",
+  "en": "\"I'm after him too. This is one thing I won't{br}give up.\"{end}",
   "notes": ""
  },
  {
@@ -329,7 +329,7 @@
   "op": "9EAC37",
   "len": 55,
   "jp": "「やれやれ、3人ともバイスハイトという{br}共通の目的があるのに、協力はできんと{br}言うのじゃな。{end}",
-  "en": "",
+  "en": "\"Good grief. The three of you share a common{br}goal in Weissheit, and yet you say you can't{br}work together.\"{end}",
   "notes": ""
  },
  {
@@ -338,7 +338,7 @@
   "op": "9EAC73",
   "len": 20,
   "jp": "「だったら、それぞれ別行動だな。{end}",
-  "en": "",
+  "en": "\"Then we each go our own way.\"{end}",
   "notes": ""
  },
  {
@@ -347,7 +347,7 @@
   "op": "9EAC8B",
   "len": 23,
   "jp": "「そうだな。それじゃ、おれは先に行くぞ。{end}",
-  "en": "",
+  "en": "\"Right. Then I'll go on ahead.\"{end}",
   "notes": ""
  },
  {
@@ -356,7 +356,7 @@
   "op": "9EACAC",
   "len": 24,
   "jp": "「{c0C:01}、バイスハイトを討つのは{br}あたしよ。{end}",
-  "en": "",
+  "en": "\"{c0C:01}, I'm the one who's taking Weissheit{br}down.\"{end}",
   "notes": ""
  },
  {
@@ -365,7 +365,7 @@
   "op": "9EAD9D",
   "len": 24,
   "jp": "バイスハイト「ぬぅ、{c1A:1E}何者だ貴様。{endFD}",
-  "en": "",
+  "en": "Weissheit: Hmph,{c1A:1E} who are you?{endFD}",
   "notes": ""
  },
  {
@@ -374,7 +374,7 @@
   "op": "9EADB6",
   "len": 56,
   "jp": "そのような姿で、このバイスハイトの前に{br}現れるとは、どれ程無礼な事か分かっている{br}のだろうな？{end}",
-  "en": "",
+  "en": "You do realize how insolent it is to appear{br}before me, Weissheit, looking like that?{end}",
   "notes": ""
  },
  {
@@ -383,7 +383,7 @@
   "op": "9EADF3",
   "len": 48,
   "jp": "{c0C:01}「お前が{c1A:14}…{c1A:0A}…{c1A:0A}バイスハイト！！{br}ついに、{c1A:1E}ついに見つけたぞ。{endFD}",
-  "en": "",
+  "en": "{c0C:01}: So you're{c1A:14}...{c1A:0A}...{c1A:0A}Weissheit!! At last,{c1A:1E} I've{br}finally found you.{endFD}",
   "notes": ""
  },
  {
@@ -392,7 +392,7 @@
   "op": "9EAE24",
   "len": 49,
   "jp": "オレは、お前の命令で殺された、アイリーン{br}やタオのカタキを討つ為に、ここまで来た！{end}",
-  "en": "",
+  "en": "I've come all this way to avenge Irene and{br}Tao, who were killed on your orders!{end}",
   "notes": ""
  },
  {
@@ -401,7 +401,7 @@
   "op": "9EAE5A",
   "len": 77,
   "jp": "「カタキ……{c1A:28}だと？ 笑わせてくれる。{c1A:1E}{br}貴様ごとき若造が、私を相手にしようなど{br}とは。身の程をわきまえぬ愚か者め。{end}",
-  "en": "",
+  "en": "\"Avenge......{c1A:28} you say? Don't make me laugh.{c1A:1E} A{br}whelp like you, thinking to take me on? You{br}fool, you don't know your place.\"{end}",
   "notes": ""
  },
  {
@@ -410,7 +410,7 @@
   "op": "9EAEA9",
   "len": 8,
   "jp": "「何だと！？{end}",
-  "en": "",
+  "en": "\"What?!\"{end}",
   "notes": ""
  },
  {
@@ -419,7 +419,7 @@
   "op": "9EAEBA",
   "len": 54,
   "jp": "ガルシア「バイスハイト様、{br}お手をわずらわす必要はございません。{br}ここは私めにお任せ下さい。{end}",
-  "en": "",
+  "en": "Garcia: Weissheit-sama, there's no need for{br}you to trouble yourself. Leave this to me.{end}",
   "notes": ""
  },
  {
@@ -428,7 +428,7 @@
   "op": "9EAEF4",
   "len": 43,
   "jp": "「…ガルシアか。{br}良いだろう、こやつを倒して{br}己の失態を償うが良い。{end}",
-  "en": "",
+  "en": "\"...Garcia. Very well. Defeat this one and atone{br}for your failure.\"{end}",
   "notes": ""
  },
  {
@@ -437,7 +437,7 @@
   "op": "9EAF26",
   "len": 16,
   "jp": "「くそっ、待てバイスハイト！{end}",
-  "en": "",
+  "en": "\"Damn it, wait, Weissheit!\"{end}",
   "notes": ""
  },
  {
@@ -446,7 +446,7 @@
   "op": "9EAF3D",
   "len": 24,
   "jp": "「おっと、{c1A:1E}お前の相手はこのおれだ。{end}",
-  "en": "",
+  "en": "\"Whoa there,{c1A:1E} I'm the one you're fighting.\"{end}",
   "notes": ""
  },
  {
@@ -455,7 +455,7 @@
   "op": "9EAF5A",
   "len": 36,
   "jp": "「ガルシア、CTIに引き渡したハズの{br}お前が何故ここにいる？{end}",
-  "en": "",
+  "en": "\"Garcia, we handed you over to CTI. What are{br}you doing here?\"{end}",
   "notes": ""
  },
  {
@@ -464,7 +464,7 @@
   "op": "9EAF80",
   "len": 47,
   "jp": "「ハハハ、我々ババリアの力を持ってすれば{br}CTIから逃れる事など造作もない。{endFD}",
-  "en": "",
+  "en": "\"Ha ha ha, with the power of Bavaria behind{br}us, escaping CTI was child's play.\"{endFD}",
   "notes": ""
  },
  {
@@ -473,7 +473,7 @@
   "op": "9EAFB0",
   "len": 45,
   "jp": "あの時、おれにとどめを刺さなかった事を{br}後悔するんだな、{c1A:1E}{c0C:01}＝{c0C:00}！{end}",
-  "en": "",
+  "en": "You'll regret not finishing me off back then,{c1A:1E}{br}{c0C:01} {c0C:00}!{end}",
   "notes": ""
  },
  {
@@ -482,7 +482,7 @@
   "op": "9EB10D",
   "len": 28,
   "jp": "{c0C:01}「カーク、バイスハイトの行方は{br}分かるか？{end}",
-  "en": "",
+  "en": "{c0C:01}: Kirk, can you tell where Weissheit{br}went?{end}",
   "notes": ""
  },
  {
@@ -491,7 +491,7 @@
   "op": "9EB12B",
   "len": 32,
   "jp": "カーク「ダメじゃ。もうセンサーの有効範囲{br}の外じゃ。{end}",
-  "en": "",
+  "en": "Kirk: No good. He's already out of sensor{br}range.{end}",
   "notes": ""
  },
  {
@@ -500,7 +500,7 @@
   "op": "9EB14D",
   "len": 29,
   "jp": "「何て事だ、やっとここまで来たっていう{br}のに…。{end}",
-  "en": "",
+  "en": "\"Dammit, and after we finally made it this{br}far...\"{end}",
   "notes": ""
  },
  {
@@ -509,7 +509,7 @@
   "op": "9EB174",
   "len": 18,
   "jp": "イオン「{c0C:01}、バイスハイトは！？{end}",
-  "en": "",
+  "en": "Ion: {c0C:01}, what about Weissheit?!{end}",
   "notes": ""
  },
  {
@@ -518,7 +518,7 @@
   "op": "9EB188",
   "len": 24,
   "jp": "「ダメだ、ガルシアの邪魔が入っちまった。{end}",
-  "en": "",
+  "en": "\"No luck. Garcia got in the way.\"{end}",
   "notes": ""
  },
  {
@@ -527,7 +527,7 @@
   "op": "9EB1A2",
   "len": 14,
   "jp": "「えっ、ガルシアって…。{end}",
-  "en": "",
+  "en": "\"Huh? Garcia...?\"{end}",
   "notes": ""
  },
  {
@@ -536,7 +536,7 @@
   "op": "9EB1B5",
   "len": 30,
   "jp": "「どうやら、ババリアがCTIから脱走{br}させたようじゃ。{end}",
-  "en": "",
+  "en": "\"It seems Bavaria broke him out of CTI.\"{end}",
   "notes": ""
  },
  {
@@ -545,7 +545,7 @@
   "op": "9EB1D8",
   "len": 30,
   "jp": "「そうなの…。{c1A:1E}バイスハイトには逃げられた{br}のね。{end}",
-  "en": "",
+  "en": "\"I see...{c1A:1E} So Weissheit got away.\"{end}",
   "notes": ""
  },
  {
@@ -554,7 +554,7 @@
   "op": "9EB1FD",
   "len": 47,
   "jp": "「イオン、気を落とすな。またチャンスは{br}やってくる。お前にも、{c1A:1E}そしておれにもな。{end}",
-  "en": "",
+  "en": "\"Ion, don't lose heart. Another chance will{br}come. For you,{c1A:1E} and for me too.\"{end}",
   "notes": ""
  },
  {
@@ -563,7 +563,7 @@
   "op": "9EB22E",
   "len": 9,
   "jp": "「ラオエル…。{end}",
-  "en": "",
+  "en": "\"Raoel...\"{end}",
   "notes": ""
  },
  {
@@ -572,7 +572,7 @@
   "op": "9EB239",
   "len": 40,
   "jp": "「だが、そのチャンスをモノにするのは{br}このおれだ。バイスハイトはおれが倒す。{end}",
-  "en": "",
+  "en": "\"But I'm the one who'll seize that chance. I'll{br}be the one to defeat Weissheit.\"{end}",
   "notes": ""
  },
  {
@@ -581,7 +581,7 @@
   "op": "9EB26D",
   "len": 6,
   "jp": "「{c0C:01}？{end}",
-  "en": "",
+  "en": "\"{c0C:01}?\"{end}",
   "notes": ""
  },
  {
@@ -590,7 +590,7 @@
   "op": "9EB27A",
   "len": 10,
   "jp": "「何だ、イオン？{end}",
-  "en": "",
+  "en": "\"What is it, Ion?\"{end}",
   "notes": ""
  },
  {
@@ -599,7 +599,7 @@
   "op": "9EB286",
   "len": 35,
   "jp": "「恋人の…{c1A:28}アイリーンのカタキを討つ事が{br}できたわね。{end}",
-  "en": "",
+  "en": "\"You managed to avenge your sweetheart...{c1A:28}{br}Irene.\"{end}",
   "notes": ""
  },
  {
@@ -608,7 +608,7 @@
   "op": "9EB2AB",
   "len": 46,
   "jp": "「ああ。だけど、バイスハイトをこの手で{br}倒すまでは本当に終わった訳じゃないさ。{end}",
-  "en": "",
+  "en": "\"Yeah. But it's not really over until I take{br}down Weissheit with my own hands.\"{end}",
   "notes": ""
  },
  {
@@ -617,7 +617,7 @@
   "op": "9EB3B0",
   "len": 13,
   "jp": "何階へ行きますか？{end}",
-  "en": "",
+  "en": "Which floor?{end}",
   "notes": ""
  },
  {
@@ -626,7 +626,7 @@
   "op": "9EB3BE",
   "len": 52,
   "jp": "  1階       2階{br}  3階       次ページ{br}現在{c04:010A0270}階にいます。{endFE}",
-  "en": "",
+  "en": "1F, 2F{br}3F, Next Page{br}Now on {c04:010A0270}F{endFE}",
   "notes": ""
  },
  {
@@ -635,7 +635,7 @@
   "op": "9EB403",
   "len": 52,
   "jp": "  4階       5階{br}  6階       前ページ{br}現在{c04:010A0270}階にいます。{endFE}",
-  "en": "",
+  "en": "4F, 5F{br}6F, Previous Page{br}Now on {c04:010A0270}F{endFE}",
   "notes": ""
  },
  {
@@ -644,7 +644,7 @@
   "op": "9EB4A2",
   "len": 16,
   "jp": "エレベーターから降りますか？{end}",
-  "en": "",
+  "en": "Get off the elevator?{end}",
   "notes": ""
  },
  {
@@ -653,7 +653,7 @@
   "op": "9EB4B3",
   "len": 19,
   "jp": "  他の階へ行く{br}  降りる{endFE}",
-  "en": "",
+  "en": "Go to another floor{br}Get off{endFE}",
   "notes": ""
  },
  {
@@ -662,7 +662,7 @@
   "op": "9EB637",
   "len": 17,
   "jp": "キーがなければ動きそうにない。{end}",
-  "en": "",
+  "en": "It won't move without a key.{end}",
   "notes": ""
  },
  {
@@ -671,7 +671,7 @@
   "op": "9EB659",
   "len": 17,
   "jp": "「うん、いつ見てもいい男だ。{end}",
-  "en": "",
+  "en": "\"Yep, a handsome guy every time I look.\"{end}",
   "notes": ""
  },
  {
@@ -680,7 +680,7 @@
   "op": "9EB672",
   "len": 34,
   "jp": "「俺にはよく分からないが、{br}どうやら高価な絵画らしい。{end}",
-  "en": "",
+  "en": "\"I don't really get it, but it seems to be an{br}expensive painting.\"{end}",
   "notes": ""
  },
  {
@@ -689,7 +689,7 @@
   "op": "9EB69D",
   "len": 25,
   "jp": "「これは清の時代に作られたものだそうだ。{end}",
-  "en": "",
+  "en": "\"This is supposed to be from the Qing{br}Dynasty.\"{end}",
   "notes": ""
  },
  {
@@ -698,7 +698,7 @@
   "op": "9EB6BF",
   "len": 21,
   "jp": "「こんな所を調べても意味がない。{end}",
-  "en": "",
+  "en": "\"There's no point searching here.\"{end}",
   "notes": ""
  },
  {
@@ -707,7 +707,7 @@
   "op": "9EB6DF",
   "len": 27,
   "jp": "「お願いだから、{br}ドロボーみたいな事はしないで。{end}",
-  "en": "",
+  "en": "\"Please, don't do anything like a burglar{br}would.\"{end}",
   "notes": ""
  },
  {
@@ -716,7 +716,7 @@
   "op": "9EB70A",
   "len": 14,
   "jp": "「何してるのよ、{c0C:01}？{end}",
-  "en": "",
+  "en": "\"What are you doing, {c0C:01}?\"{end}",
   "notes": ""
  },
  {
@@ -725,7 +725,7 @@
   "op": "9EB722",
   "len": 15,
   "jp": "「俺…何やってんだろ？{end}",
-  "en": "",
+  "en": "\"What... am I doing?\"{end}",
   "notes": ""
  },
  {
@@ -734,7 +734,7 @@
   "op": "9EB748",
   "len": 11,
   "jp": "「さぁ、アイリーン？{end}",
-  "en": "",
+  "en": "\"Well then, Irene?\"{end}",
   "notes": ""
  },
  {
@@ -743,7 +743,7 @@
   "op": "9EB758",
   "len": 18,
   "jp": "「やぁね、まだ外は明るいわよ。{end}",
-  "en": "",
+  "en": "\"Oh, stop it, it's still light out.\"{end}",
   "notes": ""
  },
  {
@@ -752,7 +752,7 @@
   "op": "9EB76C",
   "len": 16,
   "jp": "「オレは全然かまわないぜ。{end}",
-  "en": "",
+  "en": "\"Doesn't bother me one bit.\"{end}",
   "notes": ""
  },
  {
@@ -761,7 +761,7 @@
   "op": "9EB77E",
   "len": 14,
   "jp": "「…もう、知らないっ。{end}",
-  "en": "",
+  "en": "\"...Hmph, I'm not speaking to you!\"{end}",
   "notes": ""
  },
  {
@@ -770,7 +770,7 @@
   "op": "9EB7AA",
   "len": 19,
   "jp": "「おいおい、これはタオのベッドだぜ。{end}",
-  "en": "",
+  "en": "\"Whoa, whoa, this is Tao's bed.\"{end}",
   "notes": ""
  },
  {
@@ -779,7 +779,7 @@
   "op": "9EB7D8",
   "len": 41,
   "jp": "{c0C:01}「オレとアイリーンの写った{br}ホログラムシート、つまり立体写真だ。{end}",
-  "en": "",
+  "en": "{c0C:01}: A hologram sheet of me and Irene -{br}a 3D photo, basically.{end}",
   "notes": ""
  },
  {
@@ -788,7 +788,7 @@
   "op": "9EB808",
   "len": 29,
   "jp": "{c0C:01}「アイリーンが生きていた頃の{br}写真だ…。{end}",
-  "en": "",
+  "en": "{c0C:01}: A photo from when Irene was still{br}alive...{end}",
   "notes": ""
  },
  {
@@ -797,7 +797,7 @@
   "op": "9EB831",
   "len": 32,
   "jp": "{c0C:01}「そういえば、{br}アイリーンは料理が得意だったな。{end}",
-  "en": "",
+  "en": "{c0C:01}: Come to think of it, Irene was a{br}great cook.{end}",
   "notes": ""
  },
  {
@@ -806,7 +806,7 @@
   "op": "9EB875",
   "len": 33,
   "jp": "{c0C:01}「まだ、リフにランナーの具合を{br}聞いていなかったな。{end}",
-  "en": "",
+  "en": "{c0C:01}: I still haven't asked Riff how the{br}runner's doing.{end}",
   "notes": ""
  },
  {
@@ -815,7 +815,7 @@
   "op": "9EB89E",
   "len": 20,
   "jp": "{c0C:01}「おっと、リフが呼んでいたな。{end}",
-  "en": "",
+  "en": "{c0C:01}: Oh right, Riff was calling me.{end}",
   "notes": ""
  },
  {
@@ -824,7 +824,7 @@
   "op": "9EB8C3",
   "len": 34,
   "jp": "{c0C:01}「そういや、ガキの頃に{br}こいつで遊んで怒られたっけな。{end}",
-  "en": "",
+  "en": "{c0C:01}: Now that I think of it, I got in{br}trouble for playing with this when I was a kid.{end}",
   "notes": ""
  },
  {
@@ -833,7 +833,7 @@
   "op": "9EB8EE",
   "len": 50,
   "jp": "{c0C:01}「宗教画みたいだな。{br}オレはもっと色気のあるポスターの方が{br}いいと思うけどな。{end}",
-  "en": "",
+  "en": "{c0C:01}: Looks like a religious painting. I'd{br}rather have a poster with a bit more sex{br}appeal.{end}",
   "notes": ""
  },
  {
@@ -842,7 +842,7 @@
   "op": "9EB929",
   "len": 27,
   "jp": "{c0C:01}「こんな所を開けたら{br}バチがあたるかもな。{end}",
-  "en": "",
+  "en": "{c0C:01}: If I opened this, I might get struck{br}down from above.{end}",
   "notes": ""
  },
  {
@@ -851,7 +851,7 @@
   "op": "9EB977",
   "len": 7,
   "jp": "{c0C:01}の家{endFE}",
-  "en": "",
+  "en": "{c0C:01}'s House{endFE}",
   "notes": ""
  },
  {
@@ -860,7 +860,7 @@
   "op": "9EB980",
   "len": 11,
   "jp": "ラオエル達のアジト{endFE}",
-  "en": "",
+  "en": "Raoel's Hideout{endFE}",
   "notes": ""
  },
  {
@@ -869,7 +869,7 @@
   "op": "9EB995",
   "len": 17,
   "jp": "シスターレイチェルの修道院{endFE}",
-  "en": "",
+  "en": "Sister Rachel's Convent{endFE}",
   "notes": ""
  },
  {
@@ -878,7 +878,7 @@
   "op": "9EB9A8",
   "len": 9,
   "jp": "ババリアのアジト{endFE}",
-  "en": "",
+  "en": "Bavaria Hideout{endFE}",
   "notes": ""
  },
  {
@@ -887,7 +887,7 @@
   "op": "9EB9BF",
   "len": 17,
   "jp": "地下下水道への入口{endFE}",
-  "en": "",
+  "en": "Sewer Entrance{endFE}",
   "notes": ""
  },
  {
@@ -896,7 +896,7 @@
   "op": "9EB9D2",
   "len": 6,
   "jp": "スラム街{endFE}",
-  "en": "",
+  "en": "Slums{endFE}",
   "notes": ""
  },
  {
@@ -905,7 +905,7 @@
   "op": "9EB9DA",
   "len": 20,
   "jp": "ウラル工場への地下道入口{endFE}",
-  "en": "",
+  "en": "Tunnel to Ural Factory{endFE}",
   "notes": ""
  },
  {
@@ -914,7 +914,7 @@
   "op": "9EB9FA",
   "len": 7,
   "jp": "住宅街{endFE}",
-  "en": "",
+  "en": "Residential Area{endFE}",
   "notes": ""
  },
  {
@@ -923,7 +923,7 @@
   "op": "9EBA03",
   "len": 10,
   "jp": "ファンタジードーム{endFE}",
-  "en": "",
+  "en": "Fantasy Dome{endFE}",
   "notes": ""
  },
  {
@@ -932,7 +932,7 @@
   "op": "9EBA17",
   "len": 9,
   "jp": "ナチュラルパーク{endFE}",
-  "en": "",
+  "en": "Natural Park{endFE}",
   "notes": ""
  },
  {
@@ -941,7 +941,7 @@
   "op": "9EBA22",
   "len": 10,
   "jp": "アレックス病院{endFE}",
-  "en": "",
+  "en": "Alex Hospital{endFE}",
   "notes": ""
  },
  {
@@ -950,7 +950,7 @@
   "op": "9EBA3A",
   "len": 9,
   "jp": "EL’Sカフェ{endFE}",
-  "en": "",
+  "en": "EL'S Cafe{endFE}",
   "notes": ""
  },
  {
@@ -959,7 +959,7 @@
   "op": "9EBA45",
   "len": 10,
   "jp": "VRゲームセンター{endFE}",
-  "en": "",
+  "en": "VR Game Center{endFE}",
   "notes": ""
  },
  {
@@ -968,7 +968,7 @@
   "op": "9EBA51",
   "len": 7,
   "jp": "SCBC局{endFE}",
-  "en": "",
+  "en": "SCBC Station{endFE}",
   "notes": ""
  },
  {
@@ -977,7 +977,7 @@
   "op": "9EBA5A",
   "len": 14,
   "jp": "ナイトクラブ『ディルコア』{endFE}",
-  "en": "",
+  "en": "Night Club Dilcore{endFE}",
   "notes": ""
  },
  {
@@ -986,7 +986,7 @@
   "op": "9EBA72",
   "len": 5,
   "jp": "廃ビル{endFE}",
-  "en": "",
+  "en": "Abandoned Building{endFE}",
   "notes": ""
  },
  {
@@ -995,7 +995,7 @@
   "op": "9EBA79",
   "len": 8,
   "jp": "トーマスの家{endFE}",
-  "en": "",
+  "en": "Thomas's House{endFE}",
   "notes": ""
  },
  {
@@ -1004,7 +1004,7 @@
   "op": "9EBA83",
   "len": 8,
   "jp": "CTI本部{endFE}",
-  "en": "",
+  "en": "CTI HQ{endFE}",
   "notes": ""
  },
  {
@@ -1013,7 +1013,7 @@
   "op": "9EBA95",
   "len": 10,
   "jp": "VRホストセンター{endFE}",
-  "en": "",
+  "en": "VR Host Center{endFE}",
   "notes": ""
  },
  {
@@ -1022,7 +1022,7 @@
   "op": "9EBAA1",
   "len": 9,
   "jp": "ミレニアムホール{endFE}",
-  "en": "",
+  "en": "Millennium Hall{endFE}",
   "notes": ""
  },
  {
@@ -1031,7 +1031,7 @@
   "op": "9EBAB6",
   "len": 6,
   "jp": "タオの家{endFE}",
-  "en": "",
+  "en": "Tao's House{endFE}",
   "notes": ""
  },
  {
@@ -1040,7 +1040,7 @@
   "op": "9EBABE",
   "len": 8,
   "jp": "倉庫街1{endFE}",
-  "en": "",
+  "en": "Warehouse District 1{endFE}",
   "notes": ""
  },
  {
@@ -1049,7 +1049,7 @@
   "op": "9EBAC8",
   "len": 8,
   "jp": "倉庫街2{endFE}",
-  "en": "",
+  "en": "Warehouse District 2{endFE}",
   "notes": ""
  },
  {
@@ -1058,7 +1058,7 @@
   "op": "9EBAD2",
   "len": 10,
   "jp": "ババリアのアジト1{endFE}",
-  "en": "",
+  "en": "Bavaria Hideout 1{endFE}",
   "notes": ""
  },
  {
@@ -1067,7 +1067,7 @@
   "op": "9EBAE6",
   "len": 8,
   "jp": "パーツショップ{endFE}",
-  "en": "",
+  "en": "Parts Shop{endFE}",
   "notes": ""
  },
  {
@@ -1076,7 +1076,7 @@
   "op": "9EBAF0",
   "len": 10,
   "jp": "ジャスティスドーム{endFE}",
-  "en": "",
+  "en": "Justice Dome{endFE}",
   "notes": ""
  },
  {
@@ -1085,7 +1085,7 @@
   "op": "9EBB29",
   "len": 14,
   "jp": "エリア1：ジャンクヤード{endFE}",
-  "en": "",
+  "en": "Area 1: Junkyard{endFE}",
   "notes": ""
  },
  {
@@ -1094,7 +1094,7 @@
   "op": "9EBB39",
   "len": 19,
   "jp": "エリア2：臨河住宅地区{endFE}",
-  "en": "",
+  "en": "Area 2: Riverside Residential District{endFE}",
   "notes": ""
  },
  {
@@ -1103,7 +1103,7 @@
   "op": "9EBB4E",
   "len": 15,
   "jp": "エリア3：工場地区{endFE}",
-  "en": "",
+  "en": "Area 3: Factory District{endFE}",
   "notes": ""
  },
  {
@@ -1112,7 +1112,7 @@
   "op": "9EBB5F",
   "len": 19,
   "jp": "エリア4：中央住宅地区{endFE}",
-  "en": "",
+  "en": "Area 4: Central Residential District{endFE}",
   "notes": ""
  },
  {
@@ -1121,7 +1121,7 @@
   "op": "9EBB74",
   "len": 23,
   "jp": "エリア5：臨河アミューズメント地区{endFE}",
-  "en": "",
+  "en": "Area 5: Riverside Amusement District{endFE}",
   "notes": ""
  },
  {
@@ -1130,7 +1130,7 @@
   "op": "9EBB8D",
   "len": 19,
   "jp": "エリア6：自然保護地区{endFE}",
-  "en": "",
+  "en": "Area 6: Nature Reserve District{endFE}",
   "notes": ""
  },
  {
@@ -1139,7 +1139,7 @@
   "op": "9EBBA2",
   "len": 21,
   "jp": "エリア7：南アミューズメント地区{endFE}",
-  "en": "",
+  "en": "Area 7: South Amusement District{endFE}",
   "notes": ""
  },
  {
@@ -1148,7 +1148,7 @@
   "op": "9EBBB9",
   "len": 22,
   "jp": "エリア8：バイオ研究施設地区{endFE}",
-  "en": "",
+  "en": "Area 8: Bio-Research Facility District{endFE}",
   "notes": ""
  },
  {
@@ -1157,7 +1157,7 @@
   "op": "9EBBD1",
   "len": 15,
   "jp": "エリア9：行政地区{endFE}",
-  "en": "",
+  "en": "Area 9: Administrative District{endFE}",
   "notes": ""
  },
  {
@@ -1166,7 +1166,7 @@
   "op": "9EBBE2",
   "len": 22,
   "jp": "エリア10：北アミューズメント地区{endFE}",
-  "en": "",
+  "en": "Area 10: North Amusement District{endFE}",
   "notes": ""
  },
  {
@@ -1175,7 +1175,7 @@
   "op": "9EBBFA",
   "len": 18,
   "jp": "エリア11：国際港地区{endFE}",
-  "en": "",
+  "en": "Area 11: International Port District{endFE}",
   "notes": ""
  },
  {
@@ -1184,7 +1184,7 @@
   "op": "9EBC0E",
   "len": 16,
   "jp": "エリア12：商業地区{endFE}",
-  "en": "",
+  "en": "Area 12: Commercial District{endFE}",
   "notes": ""
  },
  {
@@ -1193,7 +1193,7 @@
   "op": "9EBC20",
   "len": 18,
   "jp": "エリア13：闘技場地区{endFE}",
-  "en": "",
+  "en": "Area 13: Arena District{endFE}",
   "notes": ""
  },
  {
@@ -1202,7 +1202,7 @@
   "op": "9EBEEB",
   "len": 18,
   "jp": "リフ「やっぱり行くのか、{c0C:01}。{end}",
-  "en": "",
+  "en": "Riff: So you're going after all, {c0C:01}.{end}",
   "notes": ""
  },
  {
@@ -1211,7 +1211,7 @@
   "op": "9EBEFF",
   "len": 40,
   "jp": "{c0C:01}「イオンがガルシアの脳から{br}引き出した情報を覚えているだろ。{endFD}",
-  "en": "",
+  "en": "{c0C:01}: You remember the info Ion pulled{br}out of Garcia's brain, right?{endFD}",
   "notes": ""
  },
  {
@@ -1220,7 +1220,7 @@
   "op": "9EBF28",
   "len": 31,
   "jp": "エリア2のアジトにババリアのボス、{br}バイスハイトがいるんだ。{end}",
-  "en": "",
+  "en": "Bavaria's boss, Weissheit, is at the hideout in{br}Area 2.{end}",
   "notes": ""
  },
  {
@@ -1229,7 +1229,7 @@
   "op": "9EBF49",
   "len": 63,
   "jp": "「ああ、覚えているとも。{br}しかし、たった1人で乗り込むのは危険だ。{br}この間のドラッグ工場とは違うんだぞ。{endFD}",
-  "en": "",
+  "en": "\"Yeah, I remember all right. But charging in{br}there alone is dangerous. This isn't like that{br}drug factory the other day.\"{endFD}",
   "notes": ""
  },
  {
@@ -1238,7 +1238,7 @@
   "op": "9EBF89",
   "len": 62,
   "jp": "ボスが居るっていうのなら、それなりの{br}警備がなされているに決まってる。{br}ボスに辿り着く前にやられてしまうぞ。{endFD}",
-  "en": "",
+  "en": "If the boss is there, it's bound to be well{br}guarded. You'll get taken out before you ever{br}reach him.{endFD}",
   "notes": ""
  },
  {
@@ -1247,7 +1247,7 @@
   "op": "9EBFC8",
   "len": 42,
   "jp": "悪い事は言わん。CTIにでも協力を{br}頼んだ方が良いんじゃないのか？{end}",
-  "en": "",
+  "en": "Take my advice. Wouldn't it be better to ask{br}CTI or someone for help?{end}",
   "notes": ""
  },
  {
@@ -1256,7 +1256,7 @@
   "op": "9EBFF4",
   "len": 58,
   "jp": "「いや、CTIの奴らは信用できない。{br}表では協力を装っているが、本心は分かった{br}もんじゃない。{end}",
-  "en": "",
+  "en": "\"No, I can't trust the CTI guys. They put on a{br}show of cooperating, but who knows what they{br}really want.\"{end}",
   "notes": ""
  },
  {
@@ -1265,7 +1265,7 @@
   "op": "9EC02F",
   "len": 68,
   "jp": "奴らにとって、オレのようなアウトローは{br}チームワークを乱す邪魔な存在のハズだ。{br}オレの狙いを知ったら、なおさらだろう。{end}",
-  "en": "",
+  "en": "To them, an outlaw like me is just a nuisance{br}who messes up their teamwork. Even more so{br}if they knew what I'm after.{end}",
   "notes": ""
  },
  {
@@ -1274,7 +1274,7 @@
   "op": "9EC075",
   "len": 33,
   "jp": "「やれやれだな。カーク、お前からも何か{br}言ってくれないか。{end}",
-  "en": "",
+  "en": "\"Good grief. Kirk, won't you say something to{br}him too?\"{end}",
   "notes": ""
  },
  {
@@ -1283,7 +1283,7 @@
   "op": "9EC09F",
   "len": 59,
   "jp": "カーク「リフ、あきらめるんじゃ。{br}このバカは、ババリアの事になると物事の{br}見境が無くなってしまうんじゃ。{end}",
-  "en": "",
+  "en": "Kirk: Give it up, Riff. When it comes to{br}Bavaria, this fool loses all sense.{end}",
   "notes": ""
  },
  {
@@ -1292,7 +1292,7 @@
   "op": "9EC0DD",
   "len": 24,
   "jp": "その事は、お前さんも分かっとるじゃろう？{end}",
-  "en": "",
+  "en": "You know that as well as I do, don't you?{end}",
   "notes": ""
  },
  {
@@ -1301,7 +1301,7 @@
   "op": "9EC0F9",
   "len": 22,
   "jp": "「誰にも{c0C:01}を止める事はできんか。{end}",
-  "en": "",
+  "en": "\"So nobody can stop {c0C:01}, eh?\"{end}",
   "notes": ""
  },
  {
@@ -1310,7 +1310,7 @@
   "op": "9EC111",
   "len": 47,
   "jp": "「ワシにできる事は、コイツを無駄死に{br}させんように手助けしてやる事ぐらいじゃ。{end}",
-  "en": "",
+  "en": "\"All I can do is help make sure he doesn't{br}throw his life away.\"{end}",
   "notes": ""
  },
  {
@@ -1319,7 +1319,7 @@
   "op": "9EC144",
   "len": 49,
   "jp": "「どうも年寄り達は心配し過ぎるな。{br}少しはオレの力を認めて欲しいもんだがな。{end}",
-  "en": "",
+  "en": "\"You old guys sure worry too much. I wish{br}you'd give me a little credit.\"{end}",
   "notes": ""
  },
  {
@@ -1328,7 +1328,7 @@
   "op": "9EC17C",
   "len": 30,
   "jp": "「お前の無鉄砲さならば、とっくに認めて{br}おるよ。{end}",
-  "en": "",
+  "en": "\"Oh, I acknowledged your recklessness long{br}ago.\"{end}",
   "notes": ""
  },
  {
@@ -1337,7 +1337,7 @@
   "op": "9EC1A0",
   "len": 27,
   "jp": "「ハッハッハ。{br}そうだな、それはわしも認めとるよ。{end}",
-  "en": "",
+  "en": "\"Ha ha ha. Yes, I'll give him that too.\"{end}",
   "notes": ""
  },
  {
@@ -1346,7 +1346,7 @@
   "op": "9EC1BD",
   "len": 20,
   "jp": "「ちぇっ、2人共言ってくれるぜ。{end}",
-  "en": "",
+  "en": "\"Tch, you two sure know how to talk.\"{end}",
   "notes": ""
  },
  {
@@ -1355,7 +1355,7 @@
   "op": "9EC7CA",
   "len": 31,
   "jp": "{c0C:01}「あんた、ハンスとかいったな。{br}何でここにいるんだ？{end}",
-  "en": "",
+  "en": "{c0C:01}: You - Hans, wasn't it? What are you{br}doing here?{end}",
   "notes": ""
  },
  {
@@ -1364,7 +1364,7 @@
   "op": "9EC7EB",
   "len": 45,
   "jp": "ハンス「シェリーのライバルの仕事ぶりを{br}見物するのも、マネージャーの仕事さ。{end}",
-  "en": "",
+  "en": "Hans: Watching Sherry's rival at work is part{br}of a manager's job too.{end}",
   "notes": ""
  },
  {
@@ -1373,7 +1373,7 @@
   "op": "9EC81A",
   "len": 17,
   "jp": "「ふ〜ん。そんなもんなのかね。{end}",
-  "en": "",
+  "en": "\"Hmmm. Is that how it works?\"{end}",
   "notes": ""
  },
  {
@@ -1382,7 +1382,7 @@
   "op": "9EC82D",
   "len": 34,
   "jp": "「しっかりアンナを守ってやる事だな。{br}クックック………。{end}",
-  "en": "",
+  "en": "\"You'd better protect Anna well. Heh heh{br}heh.........\"{end}",
   "notes": ""
  },
  {
@@ -1391,7 +1391,7 @@
   "op": "9EC859",
   "len": 30,
   "jp": "ハンス「私なんかにかまってるヒマは{br}ないんじゃないのか？{end}",
-  "en": "",
+  "en": "Hans: Shouldn't you have better things to do{br}than bother with me?{end}",
   "notes": ""
  },
  {
@@ -1400,7 +1400,7 @@
   "op": "9EC89B",
   "len": 43,
   "jp": "{c0C:01}「すごい人気だな。{br}ソリッドシティで1番ていうのも{br}本当みたいだな。{end}",
-  "en": "",
+  "en": "{c0C:01}: She's really popular. Looks like that{br}number one in Solid City stuff is true.{end}",
   "notes": ""
  },
  {
@@ -1409,7 +1409,7 @@
   "op": "9EC8C8",
   "len": 33,
   "jp": "イオン「もうすぐ始まるけど、{br}奴は本当に現れるかしら？{end}",
-  "en": "",
+  "en": "Ion: It's about to start. Do you think he'll{br}really show up?{end}",
   "notes": ""
  },
  {
@@ -1418,7 +1418,7 @@
   "op": "9EC8EB",
   "len": 46,
   "jp": "「予告してきたくらいだからな。{br}危険なのはやっぱり会場から移動する時か。{end}",
-  "en": "",
+  "en": "\"He went as far as giving us warning. I guess{br}the dangerous part is when she leaves the{br}venue.\"{end}",
   "notes": ""
  },
  {
@@ -1427,7 +1427,7 @@
   "op": "9EC91E",
   "len": 12,
   "jp": "アンナ「あっ、{c0C:01}！{end}",
-  "en": "",
+  "en": "Anna: Oh, {c0C:01}!{end}",
   "notes": ""
  },
  {
@@ -1436,7 +1436,7 @@
   "op": "9EC93E",
   "len": 52,
   "jp": "「アイリ…いや、アンナ。{br}（ダメだ、彼女の顔を見ると{br}アイリーンの事を思い出しちまう）{end}",
-  "en": "",
+  "en": "\"Ire... I mean, Anna. (It's no good. When I see{br}her face, I can't help thinking of Irene.)\"{end}",
   "notes": ""
  },
  {
@@ -1445,7 +1445,7 @@
   "op": "9EC976",
   "len": 18,
   "jp": "「実は…お願いがあるんです。{endFD}",
-  "en": "",
+  "en": "\"Actually... I have a favor to ask.\"{endFD}",
   "notes": ""
  },
  {
@@ -1454,7 +1454,7 @@
   "op": "9EC989",
   "len": 31,
   "jp": "今日歌うバラードを{br}是非聞いてもらいたいんです。{end}",
-  "en": "",
+  "en": "I really want you to hear the ballad I'm{br}singing today.{end}",
   "notes": ""
  },
  {
@@ -1463,7 +1463,7 @@
   "op": "9EC9AD",
   "len": 23,
   "jp": "「えっ、でもオレは君をガードしないと…。{end}",
-  "en": "",
+  "en": "\"Huh? But I've got to guard you...\"{end}",
   "notes": ""
  },
  {
@@ -1472,7 +1472,7 @@
   "op": "9EC9C6",
   "len": 21,
   "jp": "「お願いです、1曲だけでいいんです。{end}",
-  "en": "",
+  "en": "\"Please, just one song is all I ask.\"{end}",
   "notes": ""
  },
  {
@@ -1481,7 +1481,7 @@
   "op": "9EC9DF",
   "len": 27,
   "jp": "「1曲ぐらいいいじゃない。{br}聞いてあげたらどう？{end}",
-  "en": "",
+  "en": "\"What's one song? Why not listen to it for{br}her?\"{end}",
   "notes": ""
  },
  {
@@ -1490,7 +1490,7 @@
   "op": "9ECA03",
   "len": 19,
   "jp": "「分かった。じゃあ1曲だけだぜ。{end}",
-  "en": "",
+  "en": "\"Okay. Just one song, then.\"{end}",
   "notes": ""
  },
  {
@@ -1499,7 +1499,7 @@
   "op": "9ECA1B",
   "len": 19,
   "jp": "「うれしい…ありがとうございます！{end}",
-  "en": "",
+  "en": "\"I'm so happy... Thank you!\"{end}",
   "notes": ""
  },
  {
@@ -1508,7 +1508,7 @@
   "op": "9ECA36",
   "len": 33,
   "jp": "ロドリゲス「アンナ、次の曲が始まるぞ。{br}早くステージに！{end}",
-  "en": "",
+  "en": "Rodriguez: Anna, the next song's starting.{br}Hurry to the stage!{end}",
   "notes": ""
  },
  {
@@ -1517,7 +1517,7 @@
   "op": "9ECA5E",
   "len": 38,
   "jp": "「はい、今行きます。{br}じゃあ必ず聞いて下さいね。約束ですよ。{end}",
-  "en": "",
+  "en": "\"Yes, I'm coming. Then be sure to listen, okay?{br}It's a promise.\"{end}",
   "notes": ""
  },
  {
@@ -1526,7 +1526,7 @@
   "op": "9ECAA2",
   "len": 33,
   "jp": "イオン「確か、バラードはこの次よ。{br}早く行ってあげたら？{end}",
-  "en": "",
+  "en": "Ion: The ballad's next, I think. Why don't you{br}hurry over?{end}",
   "notes": ""
  },
  {
@@ -1535,7 +1535,7 @@
   "op": "9ECAC7",
   "len": 10,
   "jp": "{c0C:01}「あ、ああ。{end}",
-  "en": "",
+  "en": "{c0C:01}: Y-yeah.{end}",
   "notes": ""
  },
  {
@@ -1544,7 +1544,7 @@
   "op": "9ECAD7",
   "len": 23,
   "jp": "「彼女…あなたの事が好きみたいよ。{end}",
-  "en": "",
+  "en": "\"I think... she likes you.\"{end}",
   "notes": ""
  },
  {
@@ -1553,7 +1553,7 @@
   "op": "9ECAF3",
   "len": 60,
   "jp": "探偵に憧れていたって言ってたでしょ。{br}昨日、あなたの事を話していたら、{br}ますます好きになったみたい。{end}",
-  "en": "",
+  "en": "Remember how she said she always looked up{br}to detectives? Yesterday, when we talked{br}about you, she seemed to like you more.{end}",
   "notes": ""
  },
  {
@@ -1562,7 +1562,7 @@
   "op": "9ECB31",
   "len": 15,
   "jp": "「………………。{end}",
-  "en": "",
+  "en": "\".................\"{end}",
   "notes": ""
  },
  {
@@ -1571,7 +1571,7 @@
   "op": "9ECB42",
   "len": 17,
   "jp": "「あなたは………どうなの？{end}",
-  "en": "",
+  "en": "\"And you......... how about you?\"{end}",
   "notes": ""
  },
  {
@@ -1580,7 +1580,7 @@
   "op": "9ECB55",
   "len": 17,
   "jp": "「何でそんな事を聞くんだ？{end}",
-  "en": "",
+  "en": "\"Why do you ask?\"{end}",
   "notes": ""
  },
  {
@@ -1589,7 +1589,7 @@
   "op": "9ECB68",
   "len": 40,
   "jp": "「あたし、知ってるわ。{br}彼女が死んだ恋人によく似ているって事。{endFD}",
-  "en": "",
+  "en": "\"I know. She looks a lot like your girlfriend{br}who died.\"{endFD}",
   "notes": ""
  },
  {
@@ -1598,7 +1598,7 @@
   "op": "9ECB91",
   "len": 47,
   "jp": "もし、あなたが彼女を恋人の代わりとして{br}見ているのなら…彼女かわいそうよ。{end}",
-  "en": "",
+  "en": "If you're seeing her as a stand-in for your{br}girlfriend... I feel sorry for her.{end}",
   "notes": ""
  },
  {
@@ -1607,7 +1607,7 @@
   "op": "9ECBC4",
   "len": 30,
   "jp": "「…アイリーンは1人だけだ。{br}代わりなんかいないよ。{end}",
-  "en": "",
+  "en": "\"...There's only one Irene. Nobody can take{br}her place.\"{end}",
   "notes": ""
  },
  {
@@ -1616,7 +1616,7 @@
   "op": "9ECC20",
   "len": 9,
   "jp": "イオン「{c0C:01}！{end}",
-  "en": "",
+  "en": "Ion: {c0C:01}!{end}",
   "notes": ""
  },
  {
@@ -1625,7 +1625,7 @@
   "op": "9ECC2B",
   "len": 17,
   "jp": "{c0C:01}「奴はどこへ行った！？{end}",
-  "en": "",
+  "en": "{c0C:01}: Where did he go?!{end}",
   "notes": ""
  },
  {
@@ -1634,7 +1634,7 @@
   "op": "9ECC3E",
   "len": 29,
   "jp": "「奴はエリア3のスラム街の方へ向かった{br}みたい。{end}",
-  "en": "",
+  "en": "\"Looks like he headed for the slums in Area{br}3.\"{end}",
   "notes": ""
  },
  {
@@ -1643,7 +1643,7 @@
   "op": "9ECC5D",
   "len": 20,
   "jp": "「よし分かった。奴はオレが追う！{end}",
-  "en": "",
+  "en": "\"Right, got it. I'll go after him!\"{end}",
   "notes": ""
  },
  {
@@ -1652,7 +1652,7 @@
   "op": "9ECC8F",
   "len": 17,
   "jp": "イオン「早くアンナを助けて！{end}",
-  "en": "",
+  "en": "Ion: Hurry and save Anna!{end}",
   "notes": ""
  },
  {
@@ -1661,7 +1661,7 @@
   "op": "9ECD92",
   "len": 36,
   "jp": "アンナ「皆さん、今日は私のライブに{br}来てくれて、ありがとう！{endFD}",
-  "en": "",
+  "en": "Anna: Everyone, thank you for coming to my{br}concert today!{endFD}",
   "notes": ""
  },
  {
@@ -1670,7 +1670,7 @@
   "op": "9ECDB7",
   "len": 36,
   "jp": "次の曲は私の憧れの人の為に歌います。{br}聞いて下さい！{end}",
-  "en": "",
+  "en": "I'm singing this next song for someone I{br}admire. Please listen!{end}",
   "notes": ""
  },
  {
@@ -1679,7 +1679,7 @@
   "op": "9ECE0A",
   "len": 36,
   "jp": "{c0C:01}「アンナ！！{br}しまった、まさかライブ中に{br}襲ってくるなんて！{end}",
-  "en": "",
+  "en": "{c0C:01}: Anna!! Damn, I never thought he'd{br}strike in the middle of the concert!{end}",
   "notes": ""
  },
  {
@@ -1688,7 +1688,7 @@
   "op": "9ECE6B",
   "len": 49,
   "jp": "「遠くから見つめて」{br}Word：Kenjiro Hira{br}Song：PURE SOUND{endFE}",
-  "en": "",
+  "en": "\"Watching You From Afar\"{br}Word: Kenjiro Hira{br}Song: PURE SOUND{endFE}",
   "notes": ""
  },
  {
@@ -1697,7 +1697,7 @@
   "op": "9ECEB6",
   "len": 20,
   "jp": "視線感じて 欲しいの貴方に{endFE}",
-  "en": "",
+  "en": "I want you to feel my eyes on you{endFE}",
   "notes": ""
  },
  {
@@ -1706,7 +1706,7 @@
   "op": "9ECED5",
   "len": 19,
   "jp": "振り向いてとねがうよ 神様に{endFE}",
-  "en": "",
+  "en": "I pray to God that you'll turn around{endFE}",
   "notes": ""
  },
  {
@@ -1715,7 +1715,7 @@
   "op": "9ECEF3",
   "len": 19,
   "jp": "夢の中では 貴方と一緒よ{endFE}",
-  "en": "",
+  "en": "In my dreams, I'm always with you{endFE}",
   "notes": ""
  },
  {
@@ -1724,7 +1724,7 @@
   "op": "9ECF11",
   "len": 17,
   "jp": "この夢覚めないでと ねがうよ{endFE}",
-  "en": "",
+  "en": "I pray this dream will never end{endFE}",
   "notes": ""
  },
  {
@@ -1733,7 +1733,7 @@
   "op": "9ECF2D",
   "len": 19,
   "jp": "現実に帰ると 貴方はいない{endFE}",
-  "en": "",
+  "en": "But when I wake up, you're not there{endFE}",
   "notes": ""
  },
  {
@@ -1742,7 +1742,7 @@
   "op": "9ECF4B",
   "len": 20,
   "jp": "シャボン玉みたいに はじけて消えた{endFE}",
-  "en": "",
+  "en": "Like a soap bubble, it burst and was gone{endFE}",
   "notes": ""
  },
  {
@@ -1751,7 +1751,7 @@
   "op": "9ECF6A",
   "len": 18,
   "jp": "このあつい想い 感じて欲しい{endFE}",
-  "en": "",
+  "en": "I want you to feel this burning love{endFE}",
   "notes": ""
  },
  {
@@ -1760,7 +1760,7 @@
   "op": "9ECF87",
   "len": 18,
   "jp": "そのむねの中で だいてて欲しい{endFE}",
-  "en": "",
+  "en": "I want you to hold me in your arms{endFE}",
   "notes": ""
  },
  {
@@ -1769,7 +1769,7 @@
   "op": "9ECFA4",
   "len": 6,
   "jp": "いつまでも{endFE}",
-  "en": "",
+  "en": "Forever and ever{endFE}",
   "notes": ""
  },
  {
@@ -1778,7 +1778,7 @@
   "op": "9ED0A7",
   "len": 36,
   "jp": "「みんな、今のが事件なのか演出なのか{br}分からないようだな。{end}",
-  "en": "",
+  "en": "\"Looks like nobody can tell if that was a real{br}incident or part of the show.\"{end}",
   "notes": ""
  },
  {
@@ -1787,7 +1787,7 @@
   "op": "9ED0D1",
   "len": 37,
   "jp": "「ステージの方で何かあったようですけど、{br}一体どうしたんですか？{end}",
-  "en": "",
+  "en": "\"Something seems to have happened on stage.{br}What on earth is going on?\"{end}",
   "notes": ""
  },
  {
@@ -1796,7 +1796,7 @@
   "op": "9ED0FC",
   "len": 34,
   "jp": "カーク「こっちから出てどうする。{br}裏口の方へ行くんじゃ。{end}",
-  "en": "",
+  "en": "Kirk: What good is going out this way? Head{br}for the back door.{end}",
   "notes": ""
  },
  {
@@ -1805,7 +1805,7 @@
   "op": "9ED3C0",
   "len": 31,
   "jp": "ロドリゲス「{c0C:01}はアンナを{br}助け出せたんだろうか…。{end}",
-  "en": "",
+  "en": "Rodriguez: I wonder if {c0C:01} managed to{br}rescue Anna...{end}",
   "notes": ""
  },
  {
@@ -1814,7 +1814,7 @@
   "op": "9ED3E1",
   "len": 33,
   "jp": "ハンス「フン、あんな探偵なんかに{br}何ができるっていうんだ。{endFD}",
-  "en": "",
+  "en": "Hans: Hmph. What could a detective like that{br}possibly do?{endFD}",
   "notes": ""
  },
  {
@@ -1823,7 +1823,7 @@
   "op": "9ED403",
   "len": 33,
   "jp": "今ごろアンナはストーカーの手に{br}かかっているんじゃないのか？{end}",
-  "en": "",
+  "en": "By now, Anna's probably in the hands of that{br}stalker, isn't she?{end}",
   "notes": ""
  },
  {
@@ -1832,7 +1832,7 @@
   "op": "9ED426",
   "len": 14,
   "jp": "「そ、そんな………。{end}",
-  "en": "",
+  "en": "\"N-no.........\"{end}",
   "notes": ""
  },
  {
@@ -1841,7 +1841,7 @@
   "op": "9ED436",
   "len": 31,
   "jp": "「アンナもかわいそうに。{br}まだまだこれからだっていうのにな。{end}",
-  "en": "",
+  "en": "\"Poor Anna. And her career was just getting{br}started.\"{end}",
   "notes": ""
  },
  {
@@ -1850,7 +1850,7 @@
   "op": "9ED45A",
   "len": 41,
   "jp": "{c0C:01}「ずいぶんと確信を持った{br}言い方をするじゃないか、ハンスさんよ。{end}",
-  "en": "",
+  "en": "{c0C:01}: You sound awfully sure of that,{br}Hans-san.{end}",
   "notes": ""
  },
  {
@@ -1859,7 +1859,7 @@
   "op": "9ED48F",
   "len": 23,
   "jp": "「アンナ！{br}よかった、無事だったんだな！{end}",
-  "en": "",
+  "en": "\"Anna! Thank goodness, you're safe!\"{end}",
   "notes": ""
  },
  {
@@ -1868,7 +1868,7 @@
   "op": "9ED4B7",
   "len": 17,
   "jp": "「そ、そんなバカな………。{end}",
-  "en": "",
+  "en": "\"Th-that's impossible.........\"{end}",
   "notes": ""
  },
  {
@@ -1877,7 +1877,7 @@
   "op": "9ED4CC",
   "len": 51,
   "jp": "「意外だって顔だな。{br}無理もないか、自分のやとった男が{br}倒されちまったんだからな。{end}",
-  "en": "",
+  "en": "\"You look surprised. Can't blame you - the man{br}you hired got taken down.\"{end}",
   "notes": ""
  },
  {
@@ -1886,7 +1886,7 @@
   "op": "9ED507",
   "len": 24,
   "jp": "「何だって？{br}{c0C:01}、どういう事なんだ！？{end}",
-  "en": "",
+  "en": "\"What? {c0C:01}, what do you mean?!\"{end}",
   "notes": ""
  },
  {
@@ -1895,7 +1895,7 @@
   "op": "9ED523",
   "len": 37,
   "jp": "「ストーカーだと思っていた犯人は{br}ハンスがやとった男だったのさ。{endFD}",
-  "en": "",
+  "en": "\"The culprit we thought was a stalker was a{br}man Hans hired.\"{endFD}",
   "notes": ""
  },
  {
@@ -1904,7 +1904,7 @@
   "op": "9ED549",
   "len": 40,
   "jp": "おそらく、どんな仕事でも引き受ける{br}二流以下の探偵だろう。{end}",
-  "en": "",
+  "en": "Probably some second-rate detective who'll{br}take any job.{end}",
   "notes": ""
  },
  {
@@ -1913,7 +1913,7 @@
   "op": "9ED578",
   "len": 45,
   "jp": "「くっそ〜。{br}ヤツめ、仕事をしくじった上に{br}おれの事までしゃべりやがったのか。{end}",
-  "en": "",
+  "en": "\"Daaamn it. That guy botched the job and{br}then ratted me out too?\"{end}",
   "notes": ""
  },
  {
@@ -1922,7 +1922,7 @@
   "op": "9ED5A9",
   "len": 35,
   "jp": "「もうあきらめるんだな。{br}さあ、警察へ付き合ってもらおうか。{end}",
-  "en": "",
+  "en": "\"Give it up. Now, how about you come with me{br}to the police?\"{end}",
   "notes": ""
  },
  {
@@ -1931,7 +1931,7 @@
   "op": "9ED5D0",
   "len": 18,
   "jp": "「おれは絶対に捕まらないぞ！{end}",
-  "en": "",
+  "en": "\"They'll never catch me!\"{end}",
   "notes": ""
  },
  {
@@ -1940,7 +1940,7 @@
   "op": "9ED5E8",
   "len": 17,
   "jp": "「あっこのヤロウ、待ちやがれ！{end}",
-  "en": "",
+  "en": "\"Hey, you bastard, get back here!\"{end}",
   "notes": ""
  },
  {
@@ -1949,7 +1949,7 @@
   "op": "9ED612",
   "len": 45,
   "jp": "ロドリゲス「ハンスめ、何て事をするんだ。{br}{c0C:01}、早くあいつを捕まえて下さい。{end}",
-  "en": "",
+  "en": "Rodriguez: Hans, how could he do such a thing?{br}{c0C:01}, please, catch him quickly.{end}",
   "notes": ""
  },
  {
@@ -1958,7 +1958,7 @@
   "op": "9ED65C",
   "len": 23,
   "jp": "アンナ「どうして、どうしてこんな事を…。{end}",
-  "en": "",
+  "en": "Anna: Why, why would he do this...?{end}",
   "notes": ""
  },
  {
@@ -1967,7 +1967,7 @@
   "op": "9ED87E",
   "len": 16,
   "jp": "ハンス「おい女、そこをどけ！{end}",
-  "en": "",
+  "en": "Hans: Hey, woman, out of my way!{end}",
   "notes": ""
  },
  {
@@ -1976,7 +1976,7 @@
   "op": "9ED897",
   "len": 54,
   "jp": "イオン「あなたの事は、{c0C:01}から{br}連絡があって分かってたわ。{br}女だからって甘く見ない事ね。{end}",
-  "en": "",
+  "en": "Ion: I knew all about you - {c0C:01} called me.{br}Don't underestimate me just because I'm a{br}woman.{end}",
   "notes": ""
  },
  {
@@ -1985,7 +1985,7 @@
   "op": "9ED8D5",
   "len": 38,
   "jp": "………あら、気絶しちゃったみたい。{br}強くたたき過ぎたかしら。{end}",
-  "en": "",
+  "en": ".........Oh my, looks like he passed out. Did I hit{br}him too hard?{end}",
   "notes": ""
  },
  {
@@ -1994,7 +1994,7 @@
   "op": "9ED905",
   "len": 40,
   "jp": "{c0C:01}「あ〜あ。のびちゃってるよ。{br}イオン、ひどくやりすぎたんじゃないのか？{end}",
-  "en": "",
+  "en": "{c0C:01}: Oh, man. He's out cold. Ion, didn't{br}you go way overboard?{end}",
   "notes": ""
  },
  {
@@ -2003,7 +2003,7 @@
   "op": "9ED931",
   "len": 27,
   "jp": "イオン「違うわよ。{br}その男がひ弱過ぎるのよ。{end}",
-  "en": "",
+  "en": "Ion: I did not. That man's just too much of a{br}weakling.{end}",
   "notes": ""
  },
  {
@@ -2012,7 +2012,7 @@
   "op": "9ED94E",
   "len": 15,
   "jp": "「本当かよ………。{end}",
-  "en": "",
+  "en": "\"Yeah, right.........\"{end}",
   "notes": ""
  },
  {
@@ -2021,7 +2021,7 @@
   "op": "9ED95F",
   "len": 16,
   "jp": "「何よ、違うって言うの？{end}",
-  "en": "",
+  "en": "\"What? You're saying I'm wrong?\"{end}",
   "notes": ""
  },
  {
@@ -2030,7 +2030,7 @@
   "op": "9ED974",
   "len": 36,
   "jp": "「い、いや何でもない。{br}とにかく、こいつを警察に引き渡そう。{end}",
-  "en": "",
+  "en": "\"N-no, nothing. Anyway, let's hand this guy{br}over to the police.\"{end}",
   "notes": ""
  },
  {
@@ -2039,7 +2039,7 @@
   "op": "9EDC5F",
   "len": 43,
   "jp": "「あら{c0C:01}さん、こんにちは。{br}レイチェル院長でしたら奥の執務室ですわ。{end}",
-  "en": "",
+  "en": "\"Oh, {c0C:01}-san, good afternoon. If you're{br}looking for Mother Superior Rachel, she's in{br}the office at the back.\"{end}",
   "notes": ""
  },
  {
@@ -2048,7 +2048,7 @@
   "op": "9EDC92",
   "len": 37,
   "jp": "「ノーラさんはレイチェル院長を{br}母親のようにしたっていましたわ。{end}",
-  "en": "",
+  "en": "\"Nora-san loved Mother Superior Rachel like a{br}mother.\"{end}",
   "notes": ""
  },
  {
@@ -2057,7 +2057,7 @@
   "op": "9EDCBF",
   "len": 55,
   "jp": "「人々の心は大きな悪によって{br}苦しめられています。{br}今はただ、救いを信じて祈るだけです。{end}",
-  "en": "",
+  "en": "\"People's hearts are tormented by a great{br}evil. For now, all we can do is pray and{br}believe in salvation.\"{end}",
   "notes": ""
  },
  {
@@ -2066,7 +2066,7 @@
   "op": "9EDD19",
   "len": 48,
   "jp": "「{c0C:01}さんは15歳まで{br}ここに住んでいらっしゃったと{br}聞きましたけど、本当ですか？{end}",
-  "en": "",
+  "en": "\"{c0C:01}-san, I heard you lived here until{br}you were 15. Is that true?\"{end}",
   "notes": ""
  },
  {
@@ -2075,7 +2075,7 @@
   "op": "9EDD4B",
   "len": 42,
   "jp": "{c0C:01}「あぁ本当だよ。シスター達に{br}手を出しすぎて追い出されたんだ。{end}",
-  "en": "",
+  "en": "{c0C:01}: Yeah, it's true. I got kicked out for{br}making too many passes at the Sisters.{end}",
   "notes": ""
  },
  {
@@ -2084,7 +2084,7 @@
   "op": "9EDD77",
   "len": 48,
   "jp": "「まぁ{c0C:01}さんったら。{br}でも、{c0C:01}さんが相手なら…。{br}い、いえ 何でもありません。{end}",
-  "en": "",
+  "en": "\"Oh, {c0C:01}-san, really. But if it were with{br}you, {c0C:01}-san... Oh, n-no, it's nothing.\"{end}",
   "notes": ""
  },
  {
@@ -2093,7 +2093,7 @@
   "op": "9EDDB1",
   "len": 33,
   "jp": "「{c0C:01}さんが相手なら…。{br}い、いえ 何でもありません。{end}",
-  "en": "",
+  "en": "\"If it were with you, {c0C:01}-san... Oh, n-no,{br}it's nothing.\"{end}",
   "notes": ""
  },
  {
@@ -2102,7 +2102,7 @@
   "op": "9EDDDA",
   "len": 58,
   "jp": "「あっ、{c0C:01}さん、こ、こんにちは。{br}あ、あの…お会いできてうれしいです。{br}！…やだ、私ったら何を…。{end}",
-  "en": "",
+  "en": "\"Oh, {c0C:01}-san, g-good afternoon. Um... I'm{br}so happy to see you. ...Oh no, what am I{br}saying...\"{end}",
   "notes": ""
  },
  {
@@ -2111,7 +2111,7 @@
   "op": "9EDE1C",
   "len": 45,
   "jp": "「しばらく姿を見なかったので{br}心配していました。{br}無理はしないで下さいね。{end}",
-  "en": "",
+  "en": "\"I hadn't seen you for a while, so I was{br}worried. Please don't push yourself too hard.\"{end}",
   "notes": ""
  },
  {
@@ -2120,7 +2120,7 @@
   "op": "9EDE78",
   "len": 31,
   "jp": "「もうすぐ結婚式ですね。{br}お幸せになって下さいね。{end}",
-  "en": "",
+  "en": "\"Your wedding is coming up soon, isn't it? I{br}wish you every happiness.\"{end}",
   "notes": ""
  },
  {
@@ -2129,7 +2129,7 @@
   "op": "9EDE9F",
   "len": 29,
   "jp": "「{c0C:01}さん、神への祈りを{br}忘れないで下さいね。{end}",
-  "en": "",
+  "en": "\"{c0C:01}-san, please don't forget your{br}prayers to God.\"{end}",
   "notes": ""
  },
  {
@@ -2138,7 +2138,7 @@
   "op": "9EDEC4",
   "len": 50,
   "jp": "「確かノーラさんは、{br}カタラカンパニーという不動産会社で{br}働いていると聞きました。{end}",
-  "en": "",
+  "en": "\"I believe I heard that Nora-san works at a{br}real estate firm called Catala Company.\"{end}",
   "notes": ""
  },
  {
@@ -2147,7 +2147,7 @@
   "op": "9EDEFE",
   "len": 40,
   "jp": "「神は必ず人々をお救い下さります。{br}{c0C:01}さんも祈って下さい。{end}",
-  "en": "",
+  "en": "\"God will surely save His people. Please pray{br}too, {c0C:01}-san.\"{end}",
   "notes": ""
  },
  {
@@ -2156,7 +2156,7 @@
   "op": "9EDF41",
   "len": 31,
   "jp": "「何か悩み事ですか？{br}よろしかったらお話しください。{end}",
-  "en": "",
+  "en": "\"Is something troubling you? If you like,{br}please tell me about it.\"{end}",
   "notes": ""
  },
  {
@@ -2165,7 +2165,7 @@
   "op": "9EDF61",
   "len": 58,
   "jp": "  結婚して幸せになれるでしょうか{br}  手っ取り早くお金が欲しい{br}  あなたとお付き合いしたい{endFE}",
-  "en": "",
+  "en": "Will I find happiness in marriage?{br}I want money, and fast{br}I'd like to go out with you{endFE}",
   "notes": ""
  },
  {
@@ -2174,7 +2174,7 @@
   "op": "9EDFA8",
   "len": 60,
   "jp": "「2人の愛がまことのものであれば、{br}必ず幸せになれるでしょう。2人の愛と{br}神のおみちびきを信じなさい。{end}",
-  "en": "",
+  "en": "\"If the love between you is true, you will{br}surely find happiness. Believe in your love and{br}in God's guidance.\"{end}",
   "notes": ""
  },
  {
@@ -2183,7 +2183,7 @@
   "op": "9EDFE8",
   "len": 55,
   "jp": "「強い欲は人をだらくさせます。{br}目先の事ばかりにとらわれずに、{br}ゆとりのある心を持ちなさい。{end}",
-  "en": "",
+  "en": "\"Strong greed leads people to ruin. Don't be{br}ruled by what's right in front of you; keep a{br}generous heart.\"{end}",
   "notes": ""
  },
  {
@@ -2192,7 +2192,7 @@
   "op": "9EE023",
   "len": 60,
   "jp": "「………………コホン、私は神に{br}お仕えする身です。そのお言葉だけ{br}ありがたく頂いておきます。{end}",
-  "en": "",
+  "en": "\".................Ahem. I am one who serves God. I'll{br}gratefully accept the words alone.\"{end}",
   "notes": ""
  },
  {
@@ -2201,7 +2201,7 @@
   "op": "9EE063",
   "len": 40,
   "jp": "「人々を苦しめている邪悪は{br}必ず滅びます。神を信じるのです。{end}",
-  "en": "",
+  "en": "\"The evil that torments people will surely{br}perish. Have faith in God.\"{end}",
   "notes": ""
  },
  {
@@ -2210,7 +2210,7 @@
   "op": "9EE08F",
   "len": 37,
   "jp": "「神はあなたの行動を見ておられます。{br}信心を忘れずに…。{end}",
-  "en": "",
+  "en": "\"God is watching what you do. Never forget{br}your faith...\"{end}",
   "notes": ""
  },
  {
@@ -2219,7 +2219,7 @@
   "op": "9EE0F1",
   "len": 45,
   "jp": "シスターレイチェル「いらっしゃい。{br}あなたの家だと思ってゆっくりして行き{br}なさい。{end}",
-  "en": "",
+  "en": "Sister Rachel: Welcome. Make yourself at home,{br}as if it were your own house.{end}",
   "notes": ""
  },
  {
@@ -2228,7 +2228,7 @@
   "op": "9EE125",
   "len": 38,
   "jp": "シスターレイチェル「アイリーン達が{br}あんな事になってしまうなんて…。{endFD}",
-  "en": "",
+  "en": "Sister Rachel: To think such a thing would{br}happen to Irene and the others...{endFD}",
   "notes": ""
  },
  {
@@ -2237,7 +2237,7 @@
   "op": "9EE14C",
   "len": 30,
   "jp": "せめて天国で安らかに送れるように{br}祈りましょう。{end}",
-  "en": "",
+  "en": "Let us pray that they may at least rest in{br}peace in Heaven.{end}",
   "notes": ""
  },
  {
@@ -2246,7 +2246,7 @@
   "op": "9EE171",
   "len": 38,
   "jp": "シスターレイチェル「いらっしゃい{br}{c0C:01}＝{c0C:00}。{br}よく来てくれました。{end}",
-  "en": "",
+  "en": "Sister Rachel: Welcome, {c0C:01} {c0C:00}.{br}Thank you for coming.{end}",
   "notes": ""
  },
  {
@@ -2255,7 +2255,7 @@
   "op": "9EE198",
   "len": 34,
   "jp": "もうすぐアイリーンとの結婚式だと{br}いうのに、ごめんなさいね。{end}",
-  "en": "",
+  "en": "And with your wedding to Irene so close, too.{br}I'm sorry.{end}",
   "notes": ""
  },
  {
@@ -2264,7 +2264,7 @@
   "op": "9EE1BC",
   "len": 45,
   "jp": "{c0C:01}「いや構いませんよ。{br}結婚式まで遊んでいる訳にもいかない{br}ですからね。{endFD}",
-  "en": "",
+  "en": "{c0C:01}: No, it's fine. I can't just goof off{br}until the wedding.{endFD}",
   "notes": ""
  },
  {
@@ -2273,7 +2273,7 @@
   "op": "9EE1EA",
   "len": 40,
   "jp": "それよりも、ビデオフォンで言ってた{br}依頼の事を聞かせてくれませんか？{end}",
-  "en": "",
+  "en": "More importantly, could you tell me about that{br}job you mentioned on the videophone?{end}",
   "notes": ""
  },
  {
@@ -2282,7 +2282,7 @@
   "op": "9EE214",
   "len": 68,
   "jp": "「そうですね。3日前からノーラという{br}女性から小包を預かっていたのですけれど{br}一向に取りにいらっしゃらないのです。{endFD}",
-  "en": "",
+  "en": "\"Yes. Three days ago, a woman named Nora{br}left a parcel with me, but she still hasn't come{br}to pick it up.\"{endFD}",
   "notes": ""
  },
  {
@@ -2291,7 +2291,7 @@
   "op": "9EE259",
   "len": 44,
   "jp": "そこで、あの方の家に行って{br}直接小包を渡して来ていただきたいのです。{end}",
-  "en": "",
+  "en": "So I'd like you to go to her home and hand{br}the parcel to her directly.{end}",
   "notes": ""
  },
  {
@@ -2300,7 +2300,7 @@
   "op": "9EE287",
   "len": 15,
   "jp": "「やれやれ、お使いですか。{end}",
-  "en": "",
+  "en": "\"Sheesh, an errand, huh?\"{end}",
   "notes": ""
  },
  {
@@ -2309,7 +2309,7 @@
   "op": "9EE29B",
   "len": 38,
   "jp": "「あの方は、よくこちらに{br}通っていましたから、少し気になるのです。{end}",
-  "en": "",
+  "en": "\"She used to visit here often, so I'm a little{br}worried.\"{end}",
   "notes": ""
  },
  {
@@ -2318,7 +2318,7 @@
   "op": "9EE2C5",
   "len": 24,
   "jp": "いいこと？ ちゃんと本人に渡すのですよ。{end}",
-  "en": "",
+  "en": "Do you hear me? Make sure you hand it to her{br}in person.{end}",
   "notes": ""
  },
  {
@@ -2327,7 +2327,7 @@
   "op": "9EE2DF",
   "len": 58,
   "jp": "「はいはい。たとえ行方不明に{br}なっていても必ず探して渡しますよ。{br}（ま、そんな事はないだろうけど）{end}",
-  "en": "",
+  "en": "\"Yes, yes. Even if she's gone missing, I'll find{br}her and hand it over, for sure. (Not that{br}that'll happen.)\"{end}",
   "notes": ""
  },
  {
@@ -2336,7 +2336,7 @@
   "op": "9EE31B",
   "len": 63,
   "jp": "「その言葉を忘れてはなりません。{br}報酬は100G、あの方の家はエリア4に{br}あります。それではお願いしますよ。{end}",
-  "en": "",
+  "en": "\"Do not forget those words. The reward is{br}100G, and her home is in Area 4. I'm counting{br}on you, then.\"{end}",
   "notes": ""
  },
  {
@@ -2345,7 +2345,7 @@
   "op": "9EE35F",
   "len": 24,
   "jp": "「たったの100G？{br}はぁ、少ないなあ…。{end}",
-  "en": "",
+  "en": "\"Just 100G? Sheesh, that's not much...\"{end}",
   "notes": ""
  },
  {
@@ -2354,7 +2354,7 @@
   "op": "9EE379",
   "len": 43,
   "jp": "「信仰心の厚い方からいただいたお金です。{br}1Gとて、むだにはできません。{end}",
-  "en": "",
+  "en": "\"This money was given by people of deep{br}faith. I can't waste even 1G of it.\"{end}",
   "notes": ""
  },
  {
@@ -2363,7 +2363,7 @@
   "op": "9EE3B0",
   "len": 41,
   "jp": "シスターレイチェル「ノーラの家はエリア4{br}にあります。よろしくお願いします。{end}",
-  "en": "",
+  "en": "Sister Rachel: Nora's home is in Area 4. I'm{br}counting on you.{end}",
   "notes": ""
  },
  {
@@ -2372,7 +2372,7 @@
   "op": "9EE3E0",
   "len": 59,
   "jp": "「何という事でしょう。{br}街の人々は生活だけでなく、心までも{br}ババリアに支配されようとしています。{endFD}",
-  "en": "",
+  "en": "\"How terrible. Bavaria is trying to rule not{br}only the lives of this city's people, but their{br}very hearts.\"{endFD}",
   "notes": ""
  },
  {
@@ -2381,7 +2381,7 @@
   "op": "9EE41C",
   "len": 38,
   "jp": "人の心だけは常に自由でなければ{br}ならないというのに………。{end}",
-  "en": "",
+  "en": "And yet the human heart, above all, must{br}always remain free...{end}",
   "notes": ""
  },
  {
@@ -2390,7 +2390,7 @@
   "op": "9EE449",
   "len": 38,
   "jp": "レイチェル「{c0C:01}、お願いです。{br}どうかノーラを助け出して下さい。{end}",
-  "en": "",
+  "en": "Rachel: {c0C:01}, I beg you. Please rescue{br}Nora.{end}",
   "notes": ""
  },
  {
@@ -2399,7 +2399,7 @@
   "op": "9EE50D",
   "len": 44,
   "jp": "シスターレイチェル「…ああ、何という事{br}でしょう。一体どうしてこんな事に。{end}",
-  "en": "",
+  "en": "Sister Rachel: ...Oh, how dreadful. How could{br}this have happened?{end}",
   "notes": ""
  },
  {
@@ -2408,7 +2408,7 @@
   "op": "9EE53D",
   "len": 54,
   "jp": "{c0C:01}「どうやら奴らはノーラが{br}持っていた『ブツ』が目当てらしい。{br}それが何かは分からないが。{endFD}",
-  "en": "",
+  "en": "{c0C:01}: Looks like they were after some{br}'goods' Nora had. No idea what, though.{endFD}",
   "notes": ""
  },
  {
@@ -2417,7 +2417,7 @@
   "op": "9EE574",
   "len": 65,
   "jp": "ドラッグか、金か{c1C:08}。{br}……………………………………{br}{c1C:00}待てよ、まさかこの小包が…。{end}",
-  "en": "",
+  "en": "Drugs, or money{c1C:08}.{br}..................{br}{c1C:00}Wait, don't tell me this parcel...{end}",
   "notes": ""
  },
  {
@@ -2426,7 +2426,7 @@
   "op": "9EE5B9",
   "len": 48,
   "jp": "「中に光ディスクが入っていたよ。{br}どうやら、『ブツ』っていうのは{br}こいつの事らしいな。{end}",
-  "en": "",
+  "en": "\"There was an optical disc inside. Looks like{br}this is the 'goods' they were after.\"{end}",
   "notes": ""
  },
  {
@@ -2435,7 +2435,7 @@
   "op": "9EE5EB",
   "len": 30,
   "jp": "「このディスクのせいで、{br}ノーラが誘拐されたのですか？{end}",
-  "en": "",
+  "en": "\"Nora was kidnapped because of this disc?\"{end}",
   "notes": ""
  },
  {
@@ -2444,7 +2444,7 @@
   "op": "9EE60B",
   "len": 47,
   "jp": "「このままじゃ分からないな。{br}家の端末を使って、中のデータを{br}調べてみないと。{end}",
-  "en": "",
+  "en": "\"Can't tell just like this. I'll need to check the{br}data on it with my terminal at home.\"{end}",
   "notes": ""
  },
  {
@@ -2453,7 +2453,7 @@
   "op": "9EE63C",
   "len": 34,
   "jp": "「{c0C:01}＝{c0C:00}、お願いです。{br}ノーラを助け出して下さい。{end}",
-  "en": "",
+  "en": "\"{c0C:01} {c0C:00}, I beg you. Please rescue{br}Nora.\"{end}",
   "notes": ""
  },
  {
@@ -2462,7 +2462,7 @@
   "op": "9EE667",
   "len": 35,
   "jp": "「待って下さいよ！{br}オレの仕事は小包を渡す事だけだ。{end}",
-  "en": "",
+  "en": "\"Hold on! My job was just to deliver the{br}parcel.\"{end}",
   "notes": ""
  },
  {
@@ -2471,7 +2471,7 @@
   "op": "9EE68E",
   "len": 54,
   "jp": "「あら、たとえ行方不明になっていても{br}必ず探して渡しますって言ったのを{br}忘れたのですか？{endFD}",
-  "en": "",
+  "en": "\"Oh my, have you forgotten? You said that{br}even if she'd gone missing, you'd find her and{br}deliver it no matter what.\"{endFD}",
   "notes": ""
  },
  {
@@ -2480,7 +2480,7 @@
   "op": "9EE6C7",
   "len": 38,
   "jp": "わたくしに誓うというのは、主に{br}お誓い申し上げるのと同じです。{end}",
-  "en": "",
+  "en": "A vow made to me is the same as a vow made{br}to the Lord.{end}",
   "notes": ""
  },
  {
@@ -2489,7 +2489,7 @@
   "op": "9EE6F2",
   "len": 33,
   "jp": "「うっ………分かりましたよ。{br}助けりゃあいいんでしょ？{end}",
-  "en": "",
+  "en": "\"Ugh... All right, all right. I just have to{br}rescue her, right?\"{end}",
   "notes": ""
  },
  {
@@ -2498,7 +2498,7 @@
   "op": "9EE718",
   "len": 54,
   "jp": "「分かってもらえて良かったわ。{br}報酬の方は500Gにしますから、{br}ノーラの事は頼みましたよ。{end}",
-  "en": "",
+  "en": "\"I'm so glad you understand. I'll make the{br}reward 500G, so please take good care of{br}Nora.\"{end}",
   "notes": ""
  },
  {
@@ -2507,7 +2507,7 @@
   "op": "9EE753",
   "len": 33,
   "jp": "「それくらい当然ですって！{br}じゃ、ディスクは預かりますよ。{end}",
-  "en": "",
+  "en": "\"That's the least you could do! Okay, I'll hang{br}on to the disc.\"{end}",
   "notes": ""
  },
  {
@@ -2516,7 +2516,7 @@
   "op": "9EE7D5",
   "len": 18,
   "jp": "{c0C:01}「あの、✕✕ババア…！{end}",
-  "en": "",
+  "en": "{c0C:01}: That old **** hag...!{end}",
   "notes": ""
  },
  {
@@ -2525,7 +2525,7 @@
   "op": "9EE7F3",
   "len": 11,
   "jp": "「どうしたのですか？{end}",
-  "en": "",
+  "en": "\"Is something the matter?\"{end}",
   "notes": ""
  },
  {
@@ -2534,7 +2534,7 @@
   "op": "9EE8B5",
   "len": 37,
   "jp": "{c0C:01}「お母さん、か…。{br}忘れてたな、そんな言葉があった事。{end}",
-  "en": "",
+  "en": "{c0C:01}: \"Mother,\" huh... I'd forgotten that{br}word even existed.{end}",
   "notes": ""
  },
  {
@@ -2543,7 +2543,7 @@
   "op": "9EE90E",
   "len": 34,
   "jp": "シスターレイチェル「ノーラ！{br}良かった、無事だったのですね。{end}",
-  "en": "",
+  "en": "Sister Rachel: Nora! Thank goodness, you're{br}safe.{end}",
   "notes": ""
  },
  {
@@ -2552,7 +2552,7 @@
   "op": "9EE934",
   "len": 11,
   "jp": "ノーラ「お母さん！{end}",
-  "en": "",
+  "en": "Nora: Mother!{end}",
   "notes": ""
  },
  {
@@ -2561,7 +2561,7 @@
   "op": "9EE948",
   "len": 15,
   "jp": "{c0C:01}「えっ？ お母さん？{end}",
-  "en": "",
+  "en": "{c0C:01}: Huh? Mother?{end}",
   "notes": ""
  },
  {
@@ -2579,7 +2579,7 @@
   "op": "9EE963",
   "len": 43,
   "jp": "「ノーラも小さい頃にここで育ったのです。{br}あなたがここを出た後ですけどね。{end}",
-  "en": "",
+  "en": "\"Nora grew up here too when she was little.{br}After you had left, though.\"{end}",
   "notes": ""
  },
  {
@@ -2588,7 +2588,7 @@
   "op": "9EE995",
   "len": 50,
   "jp": "「私、あいつらがここを取り壊そうと{br}しているのを知って、どうしても{br}止めさせたくて…。{end}",
-  "en": "",
+  "en": "\"I found out they were trying to tear this{br}place down, and I just had to stop them...\"{end}",
   "notes": ""
  },
  {
@@ -2597,7 +2597,7 @@
   "op": "9EE9CE",
   "len": 54,
   "jp": "「ありがとう。その気持ちだけで十分です。{br}ですから、もうこんな危険な事をしては{br}なりません。{end}",
-  "en": "",
+  "en": "\"Thank you. Your feelings alone are more than{br}enough. So you mustn't do anything so{br}dangerous ever again.\"{end}",
   "notes": ""
  },
  {
@@ -2606,7 +2606,7 @@
   "op": "9EEA08",
   "len": 14,
   "jp": "「グスン…ごめんなさい。{end}",
-  "en": "",
+  "en": "\"Sniff... I'm sorry.\"{end}",
   "notes": ""
  },
  {
@@ -2615,7 +2615,7 @@
   "op": "9EECFC",
   "len": 23,
   "jp": "「さあいらっしゃい、冷たいアイスだよ〜。{end}",
-  "en": "",
+  "en": "\"Step right up! Nice, cold ice cream!\"{end}",
   "notes": ""
  },
  {
@@ -2624,7 +2624,7 @@
   "op": "9EED1D",
   "len": 21,
   "jp": "「パイナップル味のアイスはいかが〜。{end}",
-  "en": "",
+  "en": "\"How about some pineapple ice cream?\"{end}",
   "notes": ""
  },
  {
@@ -2633,7 +2633,7 @@
   "op": "9EED3B",
   "len": 40,
   "jp": "「ババリアの奴らが高いショバ代を{br}要求するから商売にならないよ。{end}",
-  "en": "",
+  "en": "\"Those Bavaria thugs demand so much{br}protection money, I can't make a living.\"{end}",
   "notes": ""
  },
  {
@@ -2642,7 +2642,7 @@
   "op": "9EED7C",
   "len": 44,
   "jp": "{c0C:01}「軍にいたからナイフの扱いには{br}自信があるけど、ここまでは無理だな。{end}",
-  "en": "",
+  "en": "{c0C:01}: I was in the army, so I'm pretty{br}handy with a knife, but this is way beyond me.{end}",
   "notes": ""
  },
  {
@@ -2651,7 +2651,7 @@
   "op": "9EEDAE",
   "len": 26,
   "jp": "{c0C:01}「こいつらは、一体{br}いつ休むんだろう？{end}",
-  "en": "",
+  "en": "{c0C:01}: When do these guys ever take a{br}break?{end}",
   "notes": ""
  },
  {
@@ -2660,7 +2660,7 @@
   "op": "9EEE0A",
   "len": 35,
   "jp": "{c0C:01}「話しかけるのは危なそうだ。{br}止めておいた方がいいな。{end}",
-  "en": "",
+  "en": "{c0C:01}: Talking to them looks dangerous.{br}Better leave them alone.{end}",
   "notes": ""
  },
  {
@@ -2669,7 +2669,7 @@
   "op": "9EEE33",
   "len": 33,
   "jp": "{c0C:01}「よく見ると、二人とも{br}そっくりだな。双子かな？{end}",
-  "en": "",
+  "en": "{c0C:01}: Look closely, and the two of them{br}are identical. Twins, maybe?{end}",
   "notes": ""
  },
  {
@@ -2678,7 +2678,7 @@
   "op": "9EEFBB",
   "len": 29,
   "jp": "「いやあ、公園を歩いていると気持ちが{br}いいね。{end}",
-  "en": "",
+  "en": "\"Ahh, walking in the park feels great.\"{end}",
   "notes": ""
  },
  {
@@ -2687,7 +2687,7 @@
   "op": "9EEFE2",
   "len": 30,
   "jp": "「彼女と一緒ならどこにいても楽しいんだ{br}けどね。{end}",
-  "en": "",
+  "en": "\"Then again, anywhere's fun as long as I'm{br}with her.\"{end}",
   "notes": ""
  },
  {
@@ -2696,7 +2696,7 @@
   "op": "9EF009",
   "len": 38,
   "jp": "「今、二人で他の街へ行こうと{br}話し合っている所なんです。{end}",
-  "en": "",
+  "en": "\"Right now, we're talking about moving to{br}another city together.\"{end}",
   "notes": ""
  },
  {
@@ -2705,7 +2705,7 @@
   "op": "9EF043",
   "len": 30,
   "jp": "「あたし達、デートの時には必ずここへ{br}来るんです。{end}",
-  "en": "",
+  "en": "\"We always come here when we go on a date.\"{end}",
   "notes": ""
  },
  {
@@ -2714,7 +2714,7 @@
   "op": "9EF06B",
   "len": 34,
   "jp": "「ここは2人が初めてデートした想い出の{br}場所なんです。{end}",
-  "en": "",
+  "en": "\"This is where we had our very first date.\"{end}",
   "notes": ""
  },
  {
@@ -2723,7 +2723,7 @@
   "op": "9EF096",
   "len": 33,
   "jp": "「こうして二人でここへ来るのも{br}最後かも知れません。{end}",
-  "en": "",
+  "en": "\"This might be the last time the two of us{br}come here like this.\"{end}",
   "notes": ""
  },
  {
@@ -2732,7 +2732,7 @@
   "op": "9EF0D4",
   "len": 36,
   "jp": "「あのね、じょうずににげるためには{br}にげるれんしゅうがひつようなのよ。{end}",
-  "en": "",
+  "en": "\"Y'know, if you wanna run away good, you{br}gotta practice running away.\"{end}",
   "notes": ""
  },
  {
@@ -2741,7 +2741,7 @@
   "op": "9EF0FE",
   "len": 12,
   "jp": "「ウフフ………。{end}",
-  "en": "",
+  "en": "\"Tee-hee-hee...\"{end}",
   "notes": ""
  },
  {
@@ -2750,7 +2750,7 @@
   "op": "9EF17D",
   "len": 63,
   "jp": "「この公園に来ると、自然のありがたみを{br}つくづく感じるのう。ランドエア政策が{br}生まれたのも当然じゃて。{end}",
-  "en": "",
+  "en": "\"Coming to this park really makes you{br}appreciate nature. No wonder they came up{br}with the Land-Air policy.\"{end}",
   "notes": ""
  },
  {
@@ -2759,7 +2759,7 @@
   "op": "9EF1C6",
   "len": 75,
   "jp": "「わしらが子供の頃は、未来は機械だらけの{br}世界になると教えられたものじゃがな。{br}やっぱり人間には自然が必要なんじゃ。{end}",
-  "en": "",
+  "en": "\"When we were children, we were taught the{br}future would be a world full of machines. But{br}people need nature after all.\"{end}",
   "notes": ""
  },
  {
@@ -2768,7 +2768,7 @@
   "op": "9EF21A",
   "len": 55,
   "jp": "「平和だったこの場所も、{br}今では夜になるとドラッグの売人が{br}うろつくようになってしまったよ。{end}",
-  "en": "",
+  "en": "\"This place used to be so peaceful, but these{br}days drug dealers prowl around here at{br}night.\"{end}",
   "notes": ""
  },
  {
@@ -2777,7 +2777,7 @@
   "op": "9EF267",
   "len": 51,
   "jp": "「良くできているこの人工の森も、{br}アマゾン河の密林なんかに比べれば、{br}まだまだだね。{end}",
-  "en": "",
+  "en": "\"This artificial forest is well made, but next to{br}the jungles of the Amazon, it's still got a long{br}way to go.\"{end}",
   "notes": ""
  },
  {
@@ -2786,7 +2786,7 @@
   "op": "9EF2A3",
   "len": 36,
   "jp": "「所詮は作られた自然さ。本物には到底{br}かなわないよ。{end}",
-  "en": "",
+  "en": "\"It's man-made nature, after all. It can never{br}match the real thing.\"{end}",
   "notes": ""
  },
  {
@@ -2795,7 +2795,7 @@
   "op": "9EF2D0",
   "len": 58,
   "jp": "「この偽りの自然と同じように、{br}この街に住む人達の心も偽りに満ちている。{br}もうおしまいだね。{end}",
-  "en": "",
+  "en": "\"Just like this fake nature, the hearts of the{br}people in this city are full of falsehood. It's{br}all over for us.\"{end}",
   "notes": ""
  },
  {
@@ -2804,7 +2804,7 @@
   "op": "9EF327",
   "len": 34,
   "jp": "「やっぱりこういう所はステキな彼と一緒に{br}来たいものね。{end}",
-  "en": "",
+  "en": "\"A place like this, you really want to come with{br}a wonderful guy.\"{end}",
   "notes": ""
  },
  {
@@ -2813,7 +2813,7 @@
   "op": "9EF34B",
   "len": 38,
   "jp": "{c0C:01}「ステキな彼か。オレだったら{br}その条件を満たせそうだけどな？{end}",
-  "en": "",
+  "en": "{c0C:01}: A wonderful guy, huh? I think I'd fit{br}the bill.{end}",
   "notes": ""
  },
  {
@@ -2822,7 +2822,7 @@
   "op": "9EF373",
   "len": 42,
   "jp": "「悪いわね。ちょっと今は1人でいたいの。{br}また今度、さそってちょうだい。{end}",
-  "en": "",
+  "en": "\"Sorry. I just want to be alone right now. Ask{br}me again some other time.\"{end}",
   "notes": ""
  },
  {
@@ -2831,7 +2831,7 @@
   "op": "9EF3A4",
   "len": 36,
   "jp": "「あ〜誰かババリアの連中をサクッと{br}やっつけてくれないかしら。{end}",
-  "en": "",
+  "en": "\"Ugh, I wish someone would just wipe out{br}those Bavaria creeps, nice and quick.\"{end}",
   "notes": ""
  },
  {
@@ -2840,7 +2840,7 @@
   "op": "9EF3F6",
   "len": 28,
   "jp": "「あぁ、あの子ったらどこへ行っちゃったの{br}かしら。{end}",
-  "en": "",
+  "en": "\"Oh, where on earth did that child go?\"{end}",
   "notes": ""
  },
  {
@@ -2849,7 +2849,7 @@
   "op": "9EF420",
   "len": 29,
   "jp": "「今ごろ、あの子泣いているんじゃない{br}かしら…。{end}",
-  "en": "",
+  "en": "\"I bet the poor thing is crying right now...\"{end}",
   "notes": ""
  },
  {
@@ -2858,7 +2858,7 @@
   "op": "9EF45A",
   "len": 52,
   "jp": "{c0C:01}「インフォメーションブースに{br}親とはぐれた男の子がいたよ。あんたの子供{br}じゃないのか？{end}",
-  "en": "",
+  "en": "{c0C:01}: There's a little boy at the{br}information booth who got separated from his{br}parents. Isn't he your kid?{end}",
   "notes": ""
  },
  {
@@ -2867,7 +2867,7 @@
   "op": "9EF490",
   "len": 30,
   "jp": "「えっ、本当ですか？{br}分かりました。行ってみます。{end}",
-  "en": "",
+  "en": "\"Oh, really? Thank you, I'll go and see.\"{end}",
   "notes": ""
  },
  {
@@ -2876,7 +2876,7 @@
   "op": "9EF4D2",
   "len": 22,
   "jp": "「その節はどうもありがとうございました。{end}",
-  "en": "",
+  "en": "\"Thank you so much for the other day.\"{end}",
   "notes": ""
  },
  {
@@ -2885,7 +2885,7 @@
   "op": "9EF4EE",
   "len": 33,
   "jp": "「今じゃ日中しか外出が許可されて{br}いないんですよ。{end}",
-  "en": "",
+  "en": "\"These days we're only allowed outside during{br}the day.\"{end}",
   "notes": ""
  },
  {
@@ -2894,7 +2894,7 @@
   "op": "9EF530",
   "len": 20,
   "jp": "「ぼく、もう泣いたりなんかしないよ！{end}",
-  "en": "",
+  "en": "\"I'm not gonna cry anymore!\"{end}",
   "notes": ""
  },
  {
@@ -2903,7 +2903,7 @@
   "op": "9EF54A",
   "len": 15,
   "jp": "「もっと遊びたいよぉ〜。{end}",
-  "en": "",
+  "en": "\"I wanna play moooore!\"{end}",
   "notes": ""
  },
  {
@@ -2912,7 +2912,7 @@
   "op": "9EF56D",
   "len": 61,
   "jp": "「ようこそ、ナチュラルパークへ。ここは{br}都市の中央に作られた、市民の為の自然保護{br}公園です。{end}",
-  "en": "",
+  "en": "\"Welcome to the Natural Park. This nature{br}reserve was built in the heart of the city for{br}its citizens.\"{end}",
   "notes": ""
  },
  {
@@ -2921,7 +2921,7 @@
   "op": "9EF5B4",
   "len": 42,
   "jp": "「休日にはカップルや家族連れの方々が{br}大勢いらっしゃるんですよ。{end}",
-  "en": "",
+  "en": "\"On holidays, lots of couples and families come{br}to visit.\"{end}",
   "notes": ""
  },
  {
@@ -2930,7 +2930,7 @@
   "op": "9EF5E7",
   "len": 44,
   "jp": "「もう、この子達の親はどこで何を{br}してるのかしら？{br}うっとおしいったらないわ。{end}",
-  "en": "",
+  "en": "\"Honestly, where are these kids' parents, and{br}what are they doing? They're driving me up{br}the wall.\"{end}",
   "notes": ""
  },
  {
@@ -2939,7 +2939,7 @@
   "op": "9EF62A",
   "len": 10,
   "jp": "「ワーイ、ワーイ。{end}",
-  "en": "",
+  "en": "\"Yay! Yay!\"{end}",
   "notes": ""
  },
  {
@@ -2948,7 +2948,7 @@
   "op": "9EF63A",
   "len": 21,
   "jp": "「ヘヘヘ、あのオネーチャンおこってるぞ。{end}",
-  "en": "",
+  "en": "\"Hehehe, the lady's getting mad!\"{end}",
   "notes": ""
  },
  {
@@ -2957,7 +2957,7 @@
   "op": "9EF666",
   "len": 8,
   "jp": "「キャハハハ。{end}",
-  "en": "",
+  "en": "\"Kyahahaha!\"{end}",
   "notes": ""
  },
  {
@@ -2966,7 +2966,7 @@
   "op": "9EF674",
   "len": 54,
   "jp": "「おとなのひとってゲンキがないよね。{br}じめんになぁ〜んにもおちてないのに、{br}したばっかりみてるんだもん。{end}",
-  "en": "",
+  "en": "\"Grown-ups don't have any pep, huh? There's{br}nothin' on the ground, but they're always{br}lookin' down.\"{end}",
   "notes": ""
  },
  {
@@ -2975,7 +2975,7 @@
   "op": "9EF6C2",
   "len": 19,
   "jp": "「ぐすっ、ママとはぐれちゃったよー。{end}",
-  "en": "",
+  "en": "\"Sniff... I lost my mommy...\"{end}",
   "notes": ""
  },
  {
@@ -2984,7 +2984,7 @@
   "op": "9EF70D",
   "len": 25,
   "jp": "「ありがとうございました。あなたの{br}おかげです。{end}",
-  "en": "",
+  "en": "\"Thank you so much. It's all thanks to you.\"{end}",
   "notes": ""
  },
  {
@@ -2993,7 +2993,7 @@
   "op": "9EF72A",
   "len": 30,
   "jp": "「お兄ちゃんがママに言ってくれたんだね。{br}ありがとー。{end}",
-  "en": "",
+  "en": "\"Mister, you told my mommy where I was,{br}right? Thank youuu!\"{end}",
   "notes": ""
  },
  {
@@ -3002,7 +3002,7 @@
   "op": "9EF74A",
   "len": 30,
   "jp": "{c0C:01}「もう泣くんじゃないぞ。男の子{br}なんだからな。{end}",
-  "en": "",
+  "en": "{c0C:01}: No more crying, okay? You're a boy,{br}after all.{end}",
   "notes": ""
  },
  {
@@ -3011,7 +3011,7 @@
   "op": "9EF76A",
   "len": 14,
   "jp": "「うん、もう泣かないよ！{end}",
-  "en": "",
+  "en": "\"Okay, I won't cry anymore!\"{end}",
   "notes": ""
  },
  {
@@ -3020,7 +3020,7 @@
   "op": "9EF77C",
   "len": 22,
   "jp": "「これはお礼です。とっておいて下さい。{end}",
-  "en": "",
+  "en": "\"This is a token of our thanks. Please take{br}it.\"{end}",
   "notes": ""
  },
  {
@@ -3029,7 +3029,7 @@
   "op": "9EF799",
   "len": 15,
   "jp": "200Gを受け取りました{end}",
-  "en": "",
+  "en": "Received 200G.{end}",
   "notes": ""
  },
  {
@@ -3038,7 +3038,7 @@
   "op": "9EF894",
   "len": 18,
   "jp": "テオ「探しましたよ、{c0C:01}さん。{end}",
-  "en": "",
+  "en": "Theo: There you are, {c0C:01}-san. I've been{br}looking for you.{end}",
   "notes": ""
  },
  {
@@ -3047,7 +3047,7 @@
   "op": "9EF8B0",
   "len": 59,
   "jp": "{c0C:01}「テオか。またCTIの依頼か？{br}この間、依頼を断ってコスタのおっさんに{br}怒鳴られたばかりだぜ。{end}",
-  "en": "",
+  "en": "{c0C:01}: Theo. Another CTI job? I just turned{br}one down the other day and got chewed out{br}by old man Costa.{end}",
   "notes": ""
  },
  {
@@ -3056,7 +3056,7 @@
   "op": "9EF8ED",
   "len": 59,
   "jp": "「いえ、今日はちょっと違うんです。{br}実は、うちのグロリア局長が是非あなたに{br}会いたいそうなんです。{end}",
-  "en": "",
+  "en": "\"No, today's a little different. Actually, our{br}Director Gloria is very eager to meet you.\"{end}",
   "notes": ""
  },
  {
@@ -3065,7 +3065,7 @@
   "op": "9EF92A",
   "len": 33,
   "jp": "「局長？ やれやれ、今度は局長さんの{br}お出ましか。{end}",
-  "en": "",
+  "en": "\"The Director? Sheesh, so now the Director{br}herself is making an appearance.\"{end}",
   "notes": ""
  },
  {
@@ -3074,7 +3074,7 @@
   "op": "9EF94D",
   "len": 24,
   "jp": "「CTI本部まで、ご足労願えますか？{end}",
-  "en": "",
+  "en": "\"Would you mind coming with me to CTI HQ?\"{end}",
   "notes": ""
  },
  {
@@ -3083,7 +3083,7 @@
   "op": "9EF967",
   "len": 31,
   "jp": "「どうせイヤだと言っても、連れて行く{br}つもりなんだろ？{end}",
-  "en": "",
+  "en": "\"Even if I said no, you'd drag me there{br}anyway, right?\"{end}",
   "notes": ""
  },
  {
@@ -3092,7 +3092,7 @@
   "op": "9EF988",
   "len": 17,
   "jp": "「それが私の仕事ですから。{end}",
-  "en": "",
+  "en": "\"That's my job, after all.\"{end}",
   "notes": ""
  },
  {
@@ -3101,7 +3101,7 @@
   "op": "9EF9CB",
   "len": 19,
   "jp": "{c0C:01}「情報屋のバルデスだな？{end}",
-  "en": "",
+  "en": "{c0C:01}: You're Valdez the informant, right?{end}",
   "notes": ""
  },
  {
@@ -3110,7 +3110,7 @@
   "op": "9EF9E0",
   "len": 49,
   "jp": "バルデス「あんたが{c0C:01}だな。{br}知ってるぜ、ババリアにケンカを{br}ふっかけてるらしいじゃないか。{endFD}",
-  "en": "",
+  "en": "Valdez: So you're {c0C:01}. I've heard of you.{br}Word is you're picking a fight with Bavaria.{endFD}",
   "notes": ""
  },
  {
@@ -3119,7 +3119,7 @@
   "op": "9EFA12",
   "len": 42,
   "jp": "ぜひ一度会ってみたいと思っていた。{br}なるほど、いい眼をしてるじゃないか。{end}",
-  "en": "",
+  "en": "I'd been wanting to meet you. I see... you've{br}got good eyes.{end}",
   "notes": ""
  },
  {
@@ -3128,7 +3128,7 @@
   "op": "9EFA3E",
   "len": 41,
   "jp": "「お前から情報を買いたい。{br}バイオモンスターのテロ集団に関してだ。{end}",
-  "en": "",
+  "en": "\"I want to buy some information from you.{br}About the band of bio-monster terrorists.\"{end}",
   "notes": ""
  },
  {
@@ -3137,7 +3137,7 @@
   "op": "9EFA69",
   "len": 39,
   "jp": "情報を教えるにはちょっとした{br}テストをクリアしてもらう必要がある。{end}",
-  "en": "",
+  "en": "Before I tell you anything, you'll need to pass{br}a little test.{end}",
   "notes": ""
  },
  {
@@ -3146,7 +3146,7 @@
   "op": "9EFA91",
   "len": 30,
   "jp": "なぁに、簡単な問題に答えてくれれば{br}いいだけだ。{endFD}",
-  "en": "",
+  "en": "Nothing to it. Just answer a few easy{br}questions.{endFD}",
   "notes": ""
  },
  {
@@ -3155,7 +3155,7 @@
   "op": "9EFAB1",
   "len": 32,
   "jp": "「その問題に答えれば、{br}情報を教えてくれるんだな？{end}",
-  "en": "",
+  "en": "\"If I answer them, you'll give me the{br}information?\"{end}",
   "notes": ""
  },
  {
@@ -3164,7 +3164,7 @@
   "op": "9EFAD3",
   "len": 53,
   "jp": "「ああ、そうだ。全問正解すればな。{br}問題は全部で3つだ。{br}それでは早速始めようか。{end}",
-  "en": "",
+  "en": "\"That's right. If you get every one right, that{br}is. There are three questions in all. Let's get{br}started.\"{end}",
   "notes": ""
  },
  {
@@ -3173,7 +3173,7 @@
   "op": "9EFB0E",
   "len": 31,
   "jp": "「第1問。ここ、ソリッドシティのある{br}国の名前は？{end}",
-  "en": "",
+  "en": "\"Question 1. What is the name of the country{br}Solid City is in?\"{end}",
   "notes": ""
  },
  {
@@ -3182,7 +3182,7 @@
   "op": "9EFB3C",
   "len": 23,
   "jp": "  オルビセルス{br}  アルタニア{br}  カナダ{endFE}",
-  "en": "",
+  "en": "Orbiselus{br}Altania{br}Canada{endFE}",
   "notes": ""
  },
  {
@@ -3191,7 +3191,7 @@
   "op": "9EFB64",
   "len": 45,
   "jp": "「では第2問。{br}犯罪組織ババリアは、ヨーロッパの{br}どの国からやって来た？{end}",
-  "en": "",
+  "en": "\"Now, question 2. Which European country did{br}the crime syndicate Bavaria come from?\"{end}",
   "notes": ""
  },
  {
@@ -3200,7 +3200,7 @@
   "op": "9EFBA0",
   "len": 20,
   "jp": "  ドイツ{br}  イタリア{br}  イギリス{endFE}",
-  "en": "",
+  "en": "Germany{br}Italy{br}Britain{endFE}",
   "notes": ""
  },
  {
@@ -3209,7 +3209,7 @@
   "op": "9EFBC5",
   "len": 62,
   "jp": "「最後の問題だ。{br}この国の行政を司る機関、中央科学局を{br}アルファベット3文字で表すと？{end}",
-  "en": "",
+  "en": "\"Last question. What's the three-letter{br}abbreviation for the Central Science Bureau,{br}which runs this country?\"{end}",
   "notes": ""
  },
  {
@@ -3218,7 +3218,7 @@
   "op": "9EFC12",
   "len": 18,
   "jp": "  CTI{br}  CKK{br}  CKI{endFE}",
-  "en": "",
+  "en": "CTI{br}CKK{br}CKI{endFE}",
   "notes": ""
  },
  {
@@ -3227,7 +3227,7 @@
   "op": "9EFC3B",
   "len": 46,
   "jp": "「これくらいの問題に答えられないとはな。{br}もう一度よく勉強して来るんだな。{end}",
-  "en": "",
+  "en": "\"Can't even answer questions this easy? Go{br}hit the books and come back.\"{end}",
   "notes": ""
  },
  {
@@ -3236,7 +3236,7 @@
   "op": "9EFC7D",
   "len": 29,
   "jp": "バルデス「よく勉強してきたか？{br}それでは始めるぞ。{end}",
-  "en": "",
+  "en": "Valdez: Did you study up? Then let's begin.{end}",
   "notes": ""
  },
  {
@@ -3245,7 +3245,7 @@
   "op": "9EFCA2",
   "len": 45,
   "jp": "「よし、全問正解だ。いいだろう。{br}おれの情報を買う資格はあるようだな。{end}",
-  "en": "",
+  "en": "\"Good, all correct. All right. Looks like you've{br}earned the right to buy my information.\"{end}",
   "notes": ""
  },
  {
@@ -3254,7 +3254,7 @@
   "op": "9EFCD1",
   "len": 20,
   "jp": "「やれやれ、めんどうな事をさせるぜ。{end}",
-  "en": "",
+  "en": "\"Sheesh, what a hassle.\"{end}",
   "notes": ""
  },
  {
@@ -3263,7 +3263,7 @@
   "op": "9EFCE7",
   "len": 44,
   "jp": "「言っておくが、テロ集団についての{br}情報料は500Gだ。払えるだろうな？{end}",
-  "en": "",
+  "en": "\"Just so you know, information on the{br}terrorist band costs 500G. You can pay,{br}right?\"{end}",
   "notes": ""
  },
  {
@@ -3272,7 +3272,7 @@
   "op": "9EFD14",
   "len": 12,
   "jp": "お金を払いますか？{end}",
-  "en": "",
+  "en": "Pay the money?{end}",
   "notes": ""
  },
  {
@@ -3281,7 +3281,7 @@
   "op": "9EFD21",
   "len": 14,
   "jp": "  払う{br}  やめておく{endFE}",
-  "en": "",
+  "en": "Pay{br}Not now{endFE}",
   "notes": ""
  },
  {
@@ -3290,7 +3290,7 @@
   "op": "9EFD3A",
   "len": 30,
   "jp": "「いや、今日は持ち合わせがないから{br}やめておくよ。{end}",
-  "en": "",
+  "en": "\"Nah, I'm a little short today, so I'll pass.\"{end}",
   "notes": ""
  },
  {
@@ -3299,7 +3299,7 @@
   "op": "9EFD62",
   "len": 40,
   "jp": "バルデス「金ができたらまたここへ来い。{br}そうしたら情報を教えてやる。{end}",
-  "en": "",
+  "en": "Valdez: Come back here when you've got the{br}money. Then I'll tell you.{end}",
   "notes": ""
  },
  {
@@ -3308,7 +3308,7 @@
   "op": "9EFD9F",
   "len": 30,
   "jp": "「おいおい、冗談はよせ。{br}金が足りないじゃないか。{end}",
-  "en": "",
+  "en": "\"Hey, hey, quit joking. You don't have enough{br}money.\"{end}",
   "notes": ""
  },
  {
@@ -3317,7 +3317,7 @@
   "op": "9EFDC8",
   "len": 31,
   "jp": "バルデス「情報料は500Gだ。{br}金は作ってきたか？{end}",
-  "en": "",
+  "en": "Valdez: The fee is 500G. Got the money?{end}",
   "notes": ""
  },
  {
@@ -3326,7 +3326,7 @@
   "op": "9EFDF5",
   "len": 22,
   "jp": "「ではテロ組織の情報を教えよう。{endFD}",
-  "en": "",
+  "en": "\"Then I'll tell you about the terrorist group.\"{endFD}",
   "notes": ""
  },
  {
@@ -3335,7 +3335,7 @@
   "op": "9EFE0C",
   "len": 63,
   "jp": "奴らは、ラオエルというリーダーを中心に{br}高い知能を持ったバイオモンスターのみで{br}構成されたテロ組織だ。{endFD}",
-  "en": "",
+  "en": "They're a terrorist group made up entirely of{br}highly intelligent bio-monsters, centered{br}around a leader called Raoel.{endFD}",
   "notes": ""
  },
  {
@@ -3344,7 +3344,7 @@
   "op": "9EFE4C",
   "len": 67,
   "jp": "奴らの目的は、バイオモンスターを{br}人間からの迫害から守る事だ。ただし、{br}ラオエルには他にも目的があるようだ。{endFD}",
-  "en": "",
+  "en": "Their goal is to protect bio-monsters from{br}human persecution. But Raoel seems to have{br}another goal as well.{endFD}",
   "notes": ""
  },
  {
@@ -3353,7 +3353,7 @@
   "op": "9EFE90",
   "len": 44,
   "jp": "奴らのアジトはエリア3のスラム街にある{br}廃墟の地下に隠されているらしい。{endFD}",
-  "en": "",
+  "en": "Their hideout is supposedly hidden{br}underground, beneath the Ruins in the Area 3{br}slums.{endFD}",
   "notes": ""
  },
  {
@@ -3362,7 +3362,7 @@
   "op": "9EFEBD",
   "len": 24,
   "jp": "おれが今つかんでいる情報はこんな所だ。{end}",
-  "en": "",
+  "en": "That's all the information I've got for now.{end}",
   "notes": ""
  },
  {
@@ -3371,7 +3371,7 @@
   "op": "9EFEDD",
   "len": 50,
   "jp": "「高い割に情報は少ないな。{br}だが、奴らのアジトの場所が分かったのは{br}大きいな。{end}",
-  "en": "",
+  "en": "\"Pretty pricey for so little information. But{br}knowing where their hideout is - that's big.\"{end}",
   "notes": ""
  },
  {
@@ -3380,7 +3380,7 @@
   "op": "9EFF11",
   "len": 70,
   "jp": "ま、情報を生かすも殺すもお前次第だ。{br}何をするのか知らんが、命は大事にな。{br}こいつだけは金では買えないからな。{end}",
-  "en": "",
+  "en": "Well, what you do with the information is up to{br}you. Not sure what you're planning, but value{br}your life. Money can't buy that.{end}",
   "notes": ""
  },
  {
@@ -3389,7 +3389,7 @@
   "op": "9EFF62",
   "len": 26,
   "jp": "バルデス「もう一度、情報を聞きたいのか？{end}",
-  "en": "",
+  "en": "Valdez: Want to hear the information again?{end}",
   "notes": ""
  }
 ]

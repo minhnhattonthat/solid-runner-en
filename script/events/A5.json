@@ -5,7 +5,7 @@
   "op": "A59E84",
   "len": 22,
   "jp": "ブランドル「ここは我々に任せておけ。{end}",
-  "en": "",
+  "en": "Brundle: Leave this to us.{end}",
   "notes": ""
  },
  {
@@ -14,7 +14,7 @@
   "op": "A59ED7",
   "len": 22,
   "jp": "レクター「さっさと済ませちまってくれよ。{end}",
-  "en": "",
+  "en": "Lecter: Hurry up and get it over with, will ya?{end}",
   "notes": ""
  },
  {
@@ -23,7 +23,7 @@
   "op": "A59EF5",
   "len": 44,
   "jp": "{c0C:01}「まずオレはイオンを助け出す。{br}バイスハイトを見つけ出すのはその後だ。{end}",
-  "en": "",
+  "en": "{c0C:01}: First I'm getting Ion out. Finding{br}Weissheit comes after that.{end}",
   "notes": ""
  },
  {
@@ -32,7 +32,7 @@
   "op": "A59F26",
   "len": 39,
   "jp": "ブランドル「ふむ。それでは我々は、ここで{br}出口を確保しておこう。{end}",
-  "en": "",
+  "en": "Brundle: Hm. Then we'll secure the exit here.{end}",
   "notes": ""
  },
  {
@@ -41,7 +41,7 @@
   "op": "A59F51",
   "len": 25,
   "jp": "レクター「ハハッ。しっかりやるんだぜ、{br}{c0C:01}。{end}",
-  "en": "",
+  "en": "Lecter: Haha. Give 'em hell, {c0C:01}.{end}",
   "notes": ""
  },
  {
@@ -50,7 +50,7 @@
   "op": "A59F7B",
   "len": 13,
   "jp": "カーク「のう、{c0C:01}よ。{end}",
-  "en": "",
+  "en": "Kirk: I say, {c0C:01}.{end}",
   "notes": ""
  },
  {
@@ -59,7 +59,7 @@
   "op": "A59F8D",
   "len": 16,
   "jp": "{c0C:01}「ん？ 何だ、カーク。{end}",
-  "en": "",
+  "en": "{c0C:01}: Hm? What is it, Kirk?{end}",
   "notes": ""
  },
  {
@@ -68,7 +68,7 @@
   "op": "A59F9F",
   "len": 31,
   "jp": "「お前、もしやイオンの事を好いて{br}おるんじゃないのか？{end}",
-  "en": "",
+  "en": "\"Could it be that you're sweet on Ion?\"{end}",
   "notes": ""
  },
  {
@@ -77,7 +77,7 @@
   "op": "A59FC3",
   "len": 23,
   "jp": "「な、何を言い出すんだ。こんな時に！{end}",
-  "en": "",
+  "en": "\"Wh-what are you saying? At a time like this!\"{end}",
   "notes": ""
  },
  {
@@ -86,7 +86,7 @@
   "op": "A59FDC",
   "len": 40,
   "jp": "「こんな時だからこそ、聞いとるんじゃ。{br}で、本当の所、どうなのじゃ？{end}",
-  "en": "",
+  "en": "\"It's precisely because it's a time like this{br}that I ask. So, what's the truth of it?\"{end}",
   "notes": ""
  },
  {
@@ -95,7 +95,7 @@
   "op": "A5A005",
   "len": 31,
   "jp": "  あぁ、イオンの事が好きだ{br}  いや、そんな事はない{endFE}",
-  "en": "",
+  "en": "Yeah, I like Ion{br}No, nothing like that{endFE}",
   "notes": ""
  },
  {
@@ -104,7 +104,7 @@
   "op": "A5A037",
   "len": 51,
   "jp": "「好き…か。そうだな、好きなのかも知れ{br}ない。気にかかっているのは確かなんだ{br}けれどな。{endFD}",
-  "en": "",
+  "en": "\"Like her... huh. Yeah, maybe I do. She's{br}definitely on my mind, anyway.\"{endFD}",
   "notes": ""
  },
  {
@@ -113,7 +113,7 @@
   "op": "A5A06B",
   "len": 35,
   "jp": "でも、今はアイリーンの仇を討つ事で、頭が{br}一杯なんだ。{end}",
-  "en": "",
+  "en": "But right now, all I can think about is{br}avenging Irene.{end}",
   "notes": ""
  },
  {
@@ -122,7 +122,7 @@
   "op": "A5A096",
   "len": 40,
   "jp": "「好き…というよりも、気にかかって仕方の{br}ない妹みたいなもんだな。{endFD}",
-  "en": "",
+  "en": "\"It's less that I like her, and more that she's{br}like a little sister I can't help worrying{br}about.\"{endFD}",
   "notes": ""
  },
  {
@@ -131,7 +131,7 @@
   "op": "A5A0BF",
   "len": 69,
   "jp": "それに、オレにはアイリーンという最高の{br}恋人がいたんだ。アイリーンの仇を討つ{br}までは、そんな事を考える余裕はないよ。{end}",
-  "en": "",
+  "en": "Besides, I had the best girl there ever was -{br}Irene. Until I've avenged her, I've got no{br}room to think about that stuff.{end}",
   "notes": ""
  },
  {
@@ -140,7 +140,7 @@
   "op": "A5A106",
   "len": 63,
   "jp": "「そうか………。いや、お前の気持ちを{br}確かめたかったのじゃ。生半可な気持ち{br}ではイカンと思ってな。{end}",
-  "en": "",
+  "en": "\"I see... No, I merely wished to be sure of{br}your feelings. Half-hearted feelings simply{br}won't do, I thought.\"{end}",
   "notes": ""
  },
  {
@@ -149,7 +149,7 @@
   "op": "A5A147",
   "len": 12,
   "jp": "「カーク………。{end}",
-  "en": "",
+  "en": "\"Kirk...\"{end}",
   "notes": ""
  },
  {
@@ -158,7 +158,7 @@
   "op": "A5A236",
   "len": 10,
   "jp": "{c0C:01}「イオン！！{end}",
-  "en": "",
+  "en": "{c0C:01}: Ion!!{end}",
   "notes": ""
  },
  {
@@ -167,7 +167,7 @@
   "op": "A5A24B",
   "len": 13,
   "jp": "「しっかりしろ、イオン！{end}",
-  "en": "",
+  "en": "\"Hang in there, Ion!\"{end}",
   "notes": ""
  },
  {
@@ -176,7 +176,7 @@
   "op": "A5A25F",
   "len": 21,
   "jp": "イオン「う……ん………{c0C:01}？{endFD}",
-  "en": "",
+  "en": "Ion: Mmm... {c0C:01}?{endFD}",
   "notes": ""
  },
  {
@@ -185,7 +185,7 @@
   "op": "A5A277",
   "len": 20,
   "jp": "ありがとう。助けに来てくれたのね。{end}",
-  "en": "",
+  "en": "Thank you. You came to rescue me.{end}",
   "notes": ""
  },
  {
@@ -194,7 +194,7 @@
   "op": "A5A28F",
   "len": 42,
   "jp": "「ミネルバから連絡があって、シグナルを{br}解読したんだ。どうだ、立てるか？{end}",
-  "en": "",
+  "en": "\"Minerva got in touch, and I decoded the{br}signal. How about it, can you stand?\"{end}",
   "notes": ""
  },
  {
@@ -203,7 +203,7 @@
   "op": "A5A2BD",
   "len": 21,
   "jp": "「え、ええ。何とか大丈夫みたい。{end}",
-  "en": "",
+  "en": "\"Y-yes. I think I'm okay, more or less.\"{end}",
   "notes": ""
  },
  {
@@ -212,7 +212,7 @@
   "op": "A5A2D4",
   "len": 16,
   "jp": "「よし、すぐに脱出しよう。{end}",
-  "en": "",
+  "en": "\"Good. Let's get out of here, now.\"{end}",
   "notes": ""
  },
  {
@@ -221,7 +221,7 @@
   "op": "A5A2F6",
   "len": 30,
   "jp": "{c0C:01}「ん？ ブランドルとレクターの{br}姿が見えないぞ。{end}",
-  "en": "",
+  "en": "{c0C:01}: Hm? There's no sign of Brundle and{br}Lecter.{end}",
   "notes": ""
  },
  {
@@ -230,7 +230,7 @@
   "op": "A5A31F",
   "len": 36,
   "jp": "{c0C:01}「薬物のようだな。メガ・{br}ヌートゥロピクス？ 何だこれは。{end}",
-  "en": "",
+  "en": "{c0C:01}: Looks like some kind of drug. Mega{br}Nootropics? What's this?{end}",
   "notes": ""
  },
  {
@@ -239,7 +239,7 @@
   "op": "A5A345",
   "len": 77,
   "jp": "カーク「脳を活性化させるという薬物じゃ。{br}効き目は強いが、副作用があるという事で、{br}市場には出回っていない物じゃぞ。{end}",
-  "en": "",
+  "en": "Kirk: A drug said to stimulate the brain.{br}Potent stuff, but it has side effects, so it has{br}never been put on the market.{end}",
   "notes": ""
  },
  {
@@ -248,7 +248,7 @@
   "op": "A5A396",
   "len": 54,
   "jp": "イオン「バイオモンスターの研究施設とは{br}少し違うみたいね。一体何をする所なの{br}かしら？{end}",
-  "en": "",
+  "en": "Ion: This seems a little different from a{br}bio-monster research facility. What on earth{br}do they do here?{end}",
   "notes": ""
  },
  {
@@ -257,7 +257,7 @@
   "op": "A5A3D1",
   "len": 53,
   "jp": "{c0C:01}「ピラーニャ・プレタに関する{br}実験結果…。アレックス病院にあった物と{br}同じだ。{end}",
-  "en": "",
+  "en": "{c0C:01}: Experiment results on Piranha{br}Preta... Same as the ones at Alex Hospital.{end}",
   "notes": ""
  },
  {
@@ -266,7 +266,7 @@
   "op": "A5A408",
   "len": 39,
   "jp": "イオン「ピラーニャ・プレタを研究していた{br}のかしら。でも、何の為に？{end}",
-  "en": "",
+  "en": "Ion: Were they researching Piranha Preta? But{br}what for?{end}",
   "notes": ""
  },
  {
@@ -275,7 +275,7 @@
   "op": "A5A434",
   "len": 39,
   "jp": "{c0C:01}「延齢処理、若さを保って長生き{br}する為の方法か。{end}",
-  "en": "",
+  "en": "{c0C:01}: Life-extension treatment... a way to{br}stay young and live longer, huh.{end}",
   "notes": ""
  },
  {
@@ -284,7 +284,7 @@
   "op": "A5A45D",
   "len": 61,
   "jp": "カーク「およそ犯罪組織とは思えぬような{br}研究を行っとるようじゃな。それも最先端に{br}近いレベルで。{end}",
-  "en": "",
+  "en": "Kirk: They seem to be doing research you'd{br}hardly expect of a crime syndicate. And close{br}to the cutting edge, at that.{end}",
   "notes": ""
  },
  {
@@ -293,7 +293,7 @@
   "op": "A5A49E",
   "len": 40,
   "jp": "{c0C:01}「他の研究施設からのデータが{br}ここに集められているようだな。{end}",
-  "en": "",
+  "en": "{c0C:01}: Looks like data from the other{br}research facilities is gathered here.{end}",
   "notes": ""
  },
  {
@@ -302,7 +302,7 @@
   "op": "A5A4E7",
   "len": 13,
   "jp": "{c0C:01}「バイスハイト！！{end}",
-  "en": "",
+  "en": "{c0C:01}: Weissheit!!{end}",
   "notes": ""
  },
  {
@@ -311,7 +311,7 @@
   "op": "A5A4F6",
   "len": 67,
   "jp": "バイスハイト「貴様は…。そうか、侵入者と{br}いうのは貴様の事だったか。若造が、よほど{br}死に急ぎたいようだな。{end}",
-  "en": "",
+  "en": "Weissheit: You... I see, so the intruder was{br}you. Boy, you must be in quite a hurry to die.{end}",
   "notes": ""
  },
  {
@@ -320,7 +320,7 @@
   "op": "A5A53E",
   "len": 48,
   "jp": "イオン「バイスハイト！{br}ドイツであなたに殺された父と母のカタキ。{br}ついに見つけたわ！！{end}",
-  "en": "",
+  "en": "Ion: Weissheit! You killed my father and{br}mother in Germany. I've finally found my{br}parents' killer!!{end}",
   "notes": ""
  },
  {
@@ -329,7 +329,7 @@
   "op": "A5A570",
   "len": 65,
   "jp": "「捕らえておいた小娘か、何者だ？{br}いや………その顔どこかで。そうか、さては{br}あの時の科学者の娘だな。{endFD}",
-  "en": "",
+  "en": "\"The girl we captured? Who are you? No... I{br}have seen that face somewhere. Ah, so you{br}are that scientist's daughter.\"{endFD}",
   "notes": ""
  },
  {
@@ -338,7 +338,7 @@
   "op": "A5A5B2",
   "len": 73,
   "jp": "なるほど、母親の面影をよく残しておる。{br}あの時、汚らわしい受精卵のプラントは破壊{br}したハズだったが。生まれていたのか。{end}",
-  "en": "",
+  "en": "Yes, you have your mother's face. I thought I{br}had destroyed that filthy fertilized-egg plant.{br}So you were born after all.{end}",
   "notes": ""
  },
  {
@@ -347,7 +347,7 @@
   "op": "A5A5FD",
   "len": 46,
   "jp": "「汚らわしいですって！？ あなたのやろう{br}としていた事の方がよっぽど汚らわしいわ！{end}",
-  "en": "",
+  "en": "\"Filthy?! What you were trying to do is far{br}filthier!\"{end}",
   "notes": ""
  },
  {
@@ -356,7 +356,7 @@
   "op": "A5A62D",
   "len": 74,
   "jp": "「バカめ、分からんのか。優れた能力を持つ{br}者同志から生まれた選ばれし者のみが、{br}未来を創造する事を許されるのだ。{endFD}",
-  "en": "",
+  "en": "\"Fool, do you not understand? Only the{br}chosen, born of two parents of superior{br}ability, are permitted to create the future.\"{endFD}",
   "notes": ""
  },
  {
@@ -365,7 +365,7 @@
   "op": "A5A678",
   "len": 76,
   "jp": "それ以外の、劣悪な遺伝子を持って生まれた{br}者などは失敗作か欠陥品だ。処分するか、{br}モルモットとするのがふさわしい。{end}",
-  "en": "",
+  "en": "All others, born with inferior genes, are{br}failures or defective products. They are fit{br}only for disposal, or for use as guinea pigs.{end}",
   "notes": ""
  },
  {
@@ -374,7 +374,7 @@
   "op": "A5A6C6",
   "len": 16,
   "jp": "「許せない、バイスハイト！！{end}",
-  "en": "",
+  "en": "\"I'll never forgive you, Weissheit!!\"{end}",
   "notes": ""
  },
  {
@@ -383,7 +383,7 @@
   "op": "A5A6D8",
   "len": 18,
   "jp": "「欠陥品ごときが、下らぬ。{end}",
-  "en": "",
+  "en": "\"A mere defective product. How tiresome.\"{end}",
   "notes": ""
  },
  {
@@ -392,7 +392,7 @@
   "op": "A5A6F1",
   "len": 13,
   "jp": "「待て、バイスハイト！{end}",
-  "en": "",
+  "en": "\"Wait, Weissheit!\"{end}",
   "notes": ""
  },
  {
@@ -401,7 +401,7 @@
   "op": "A5A70E",
   "len": 50,
   "jp": "バイスハイト「貴様は、この私自らが相手を{br}してやろう。小娘の始末はその後だ。{end}",
-  "en": "",
+  "en": "Weissheit: You I shall face personally. The girl{br}can be disposed of afterward.{end}",
   "notes": ""
  },
  {
@@ -410,7 +410,7 @@
   "op": "A5A742",
   "len": 32,
   "jp": "{c0C:01}「今度こそ決着をつけてやるぜ、{br}バイスハイト！！{end}",
-  "en": "",
+  "en": "{c0C:01}: This time we settle this for good,{br}Weissheit!!{end}",
   "notes": ""
  },
  {
@@ -419,7 +419,7 @@
   "op": "A5A772",
   "len": 14,
   "jp": "{c0C:01}「うわっ、何だ！？{end}",
-  "en": "",
+  "en": "{c0C:01}: Whoa, what the?!{end}",
   "notes": ""
  },
  {
@@ -428,7 +428,7 @@
   "op": "A5A785",
   "len": 33,
   "jp": "カーク「この建物が、外から攻撃を受けて{br}いるんじゃ。{end}",
-  "en": "",
+  "en": "Kirk: This building is under attack from{br}outside.{end}",
   "notes": ""
  },
  {
@@ -437,7 +437,7 @@
   "op": "A5A7AB",
   "len": 14,
   "jp": "「くそっ、一体誰が？{end}",
-  "en": "",
+  "en": "\"Damn, who's doing this?\"{end}",
   "notes": ""
  },
  {
@@ -446,7 +446,7 @@
   "op": "A5A7BD",
   "len": 19,
   "jp": "グロリア「攻撃状況はどうか。{end}",
-  "en": "",
+  "en": "Gloria: What is the status of the attack?{end}",
   "notes": ""
  },
  {
@@ -455,7 +455,7 @@
   "op": "A5A7D5",
   "len": 72,
   "jp": "ブランドル「ハッ。作戦通り建物を包囲し、{br}攻撃を行っております。あと10分程で、{br}ここはただのガレキの山となります。{end}",
-  "en": "",
+  "en": "Brundle: Ma'am. The building is surrounded as{br}planned and under attack. In about 10{br}minutes, it will be nothing but rubble.{end}",
   "notes": ""
  },
  {
@@ -464,7 +464,7 @@
   "op": "A5A81F",
   "len": 57,
   "jp": "グロリア「よろしい。良いか、誰1人として{br}逃すな。全てを始末するまで攻撃の手を{br}ゆるめるな。{end}",
-  "en": "",
+  "en": "Gloria: Good. Listen, let no one escape. Do not{br}let up the attack until everything has been{br}dealt with.{end}",
   "notes": ""
  },
  {
@@ -473,7 +473,7 @@
   "op": "A5A85A",
   "len": 11,
   "jp": "「了解しました。{end}",
-  "en": "",
+  "en": "\"Understood.\"{end}",
   "notes": ""
  },
  {
@@ -482,7 +482,7 @@
   "op": "A5A86A",
   "len": 48,
   "jp": "テオ「局長、教えて下さい。何故シュウ達{br}まで攻撃しなければならないのですか？{end}",
-  "en": "",
+  "en": "Theo: Director, please tell me. Why must we{br}attack Shu and the others as well?{end}",
   "notes": ""
  },
  {
@@ -491,7 +491,7 @@
   "op": "A5A89C",
   "len": 61,
   "jp": "グロリア「彼達はババリアや我々の事を{br}あまりにも知り過ぎた。生き残れば、いずれ{br}面倒な事になる。{endFD}",
-  "en": "",
+  "en": "Gloria: They know far too much about Bavaria,{br}and about us. If they survive, they will{br}become trouble sooner or later.{endFD}",
   "notes": ""
  },
  {
@@ -500,7 +500,7 @@
   "op": "A5A8DA",
   "len": 67,
   "jp": "この作戦と共に全て消し去るのが最も良い。{br}この街を救うのは、彼らのようなアウトロー{br}なんかであってはならない。{end}",
-  "en": "",
+  "en": "It's best to erase everything along with this{br}operation. This city must not be saved by{br}outlaws like them.{end}",
   "notes": ""
  },
  {
@@ -509,7 +509,7 @@
   "op": "A5A91F",
   "len": 12,
   "jp": "「{c0C:01}………。{end}",
-  "en": "",
+  "en": "\"{c0C:01}...\"{end}",
   "notes": ""
  },
  {
@@ -518,7 +518,7 @@
   "op": "A5A92F",
   "len": 32,
   "jp": "カーク「{c0C:01}、このままではいかん。{br}すぐ脱出するんじゃ！{end}",
-  "en": "",
+  "en": "Kirk: {c0C:01}, this won't do. Get out of here{br}at once!{end}",
   "notes": ""
  },
  {
@@ -527,7 +527,7 @@
   "op": "A5A958",
   "len": 51,
   "jp": "{c0C:01}「CTIの奴ら、裏切ったな。{br}だが、バイスハイトを倒すまでは{br}逃げ出してたまるか！{end}",
-  "en": "",
+  "en": "{c0C:01}: CTI double-crossed us. But I'm not{br}running away until I've taken down Weissheit!{end}",
   "notes": ""
  },
  {
@@ -536,7 +536,7 @@
   "op": "A5A98F",
   "len": 15,
   "jp": "「バカモノ、死ぬつもりか。{end}",
-  "en": "",
+  "en": "\"Fool, do you want to die?!\"{end}",
   "notes": ""
  },
  {
@@ -545,7 +545,7 @@
   "op": "A5A9AF",
   "len": 13,
   "jp": "{c0C:01}「うわあああっ！！{end}",
-  "en": "",
+  "en": "{c0C:01}: Whoaaaaa!!{end}",
   "notes": ""
  },
  {
@@ -554,7 +554,7 @@
   "op": "A5A9C1",
   "len": 14,
   "jp": "イオン「きゃあっ、{c0C:01}！{end}",
-  "en": "",
+  "en": "Ion: Aaah, {c0C:01}!{end}",
   "notes": ""
  },
  {
@@ -563,7 +563,7 @@
   "op": "A5A9D4",
   "len": 52,
   "jp": "カーク「いかん、ランナーの制御系統が{br}破壊されてしまった。{br}全くコントロールが効かん。{end}",
-  "en": "",
+  "en": "Kirk: Blast, the runner's control systems have{br}been destroyed. I can't control it at all!{end}",
   "notes": ""
  },
  {
@@ -572,7 +572,7 @@
   "op": "A5AA0D",
   "len": 34,
   "jp": "バイスハイト「フハハハハ、残念だったな。{br}これで、終わりだ！{end}",
-  "en": "",
+  "en": "Weissheit: Fwahahahaha, too bad for you. This{br}is the end!{end}",
   "notes": ""
  },
  {
@@ -581,7 +581,7 @@
   "op": "A5AA38",
   "len": 67,
   "jp": "「どうだ、貴様達の好きな劣悪な人間共に{br}裏切られて死んで行く気持ちは？{br}最高であろう。フハハハハ！{end}",
-  "en": "",
+  "en": "\"Well? How does it feel to die betrayed by the{br}inferior humans you are so fond of? Splendid,{br}surely. Fwahahahaha!\"{end}",
   "notes": ""
  },
  {
@@ -590,7 +590,7 @@
   "op": "A5B67F",
   "len": 13,
   "jp": "何階へ行きますか？{end}",
-  "en": "",
+  "en": "Which floor?{end}",
   "notes": ""
  },
  {
@@ -599,7 +599,7 @@
   "op": "A5B693",
   "len": 62,
   "jp": "  地下2階     地下1階{br}  1階       次ページ{br}現在地下{c04:010C0270}階にいます。{endFE}",
-  "en": "",
+  "en": "B2 B1{br}1F Next Page{br}Now on B{c04:010C0270}F{endFE}",
   "notes": ""
  },
  {
@@ -608,7 +608,7 @@
   "op": "A5B6E0",
   "len": 58,
   "jp": "  地下2階     地下1階{br}  1階       次ページ{br}現在{c04:010A0270}階にいます。{endFE}",
-  "en": "",
+  "en": "B2 B1{br}1F Next Page{br}Now on {c04:010A0270}F{endFE}",
   "notes": ""
  },
  {
@@ -617,7 +617,7 @@
   "op": "A5B729",
   "len": 56,
   "jp": "  2階       3階{br}  4階       次ページ{br}現在地下{c04:010C0270}階にいます。{endFE}",
-  "en": "",
+  "en": "2F 3F{br}4F Next Page{br}Now on B{c04:010C0270}F{endFE}",
   "notes": ""
  },
  {
@@ -626,7 +626,7 @@
   "op": "A5B770",
   "len": 52,
   "jp": "  2階       3階{br}  4階       次ページ{br}現在{c04:010A0270}階にいます。{endFE}",
-  "en": "",
+  "en": "2F 3F{br}4F Next Page{br}Now on {c04:010A0270}F{endFE}",
   "notes": ""
  },
  {
@@ -635,7 +635,7 @@
   "op": "A5B7B3",
   "len": 56,
   "jp": "  5階       6階{br}  7階       次ページ{br}現在地下{c04:010C0270}階にいます。{endFE}",
-  "en": "",
+  "en": "5F 6F{br}7F Next Page{br}Now on B{c04:010C0270}F{endFE}",
   "notes": ""
  },
  {
@@ -644,7 +644,7 @@
   "op": "A5B7FA",
   "len": 52,
   "jp": "  5階       6階{br}  7階       次ページ{br}現在{c04:010A0270}階にいます。{endFE}",
-  "en": "",
+  "en": "5F 6F{br}7F Next Page{br}Now on {c04:010A0270}F{endFE}",
   "notes": ""
  },
  {
@@ -653,7 +653,7 @@
   "op": "A5B8C7",
   "len": 14,
   "jp": "……反応が無い。{end}",
-  "en": "",
+  "en": "...No response.{end}",
   "notes": ""
  },
  {
@@ -662,7 +662,7 @@
   "op": "A5B8D9",
   "len": 16,
   "jp": "エレベーターから降りますか？{end}",
-  "en": "",
+  "en": "Get off the elevator?{end}",
   "notes": ""
  },
  {
@@ -671,7 +671,7 @@
   "op": "A5B8EA",
   "len": 19,
   "jp": "  他の階へ行く{br}  降りる{endFE}",
-  "en": "",
+  "en": "Go to another floor{br}Get off{endFE}",
   "notes": ""
  },
  {
@@ -680,7 +680,7 @@
   "op": "A5BA73",
   "len": 30,
   "jp": "スイッチはOFFになっています。{br}スイッチを入れますか？{end}",
-  "en": "",
+  "en": "The switch is OFF. Turn it on?{end}",
   "notes": ""
  },
  {
@@ -689,7 +689,7 @@
   "op": "A5BA92",
   "len": 20,
   "jp": "  スイッチを入れる{br}  やめておく{endFE}",
-  "en": "",
+  "en": "Turn it on{br}Leave it{endFE}",
   "notes": ""
  },
  {
@@ -698,7 +698,7 @@
   "op": "A5BAE0",
   "len": 29,
   "jp": "スイッチはONになっています。{br}スイッチを切りますか？{end}",
-  "en": "",
+  "en": "The switch is ON. Turn it off?{end}",
   "notes": ""
  },
  {
@@ -707,7 +707,7 @@
   "op": "A5BAFE",
   "len": 19,
   "jp": "  スイッチを切る{br}  やめておく{endFE}",
-  "en": "",
+  "en": "Turn it off{br}Leave it{endFE}",
   "notes": ""
  },
  {
@@ -716,7 +716,7 @@
   "op": "A5BC3C",
   "len": 24,
   "jp": "{c0C:01}「しまった、スイッチが{br}壊れちまった。{end}",
-  "en": "",
+  "en": "{c0C:01}: Damn, the switch broke.{end}",
   "notes": ""
  },
  {
@@ -725,7 +725,7 @@
   "op": "A5BC5B",
   "len": 17,
   "jp": "カーク「スイッチは壊れとるぞ。{end}",
-  "en": "",
+  "en": "Kirk: The switch is broken.{end}",
   "notes": ""
  },
  {
@@ -734,7 +734,7 @@
   "op": "A5BC7E",
   "len": 25,
   "jp": "{c0C:01}「くそっ、格子が{br}閉まっちまったぞ。{end}",
-  "en": "",
+  "en": "{c0C:01}: Damn, the bars closed.{end}",
   "notes": ""
  },
  {
@@ -743,7 +743,7 @@
   "op": "A5BC99",
   "len": 20,
   "jp": "カーク「スイッチが壊れたせいじゃな。{end}",
-  "en": "",
+  "en": "Kirk: Because the switch broke, I expect.{end}",
   "notes": ""
  },
  {
@@ -752,7 +752,7 @@
   "op": "A5BCD2",
   "len": 22,
   "jp": "{c0C:01}「何か書いてあるぞ………。{endFD}",
-  "en": "",
+  "en": "{c0C:01}: Something's written here...{endFD}",
   "notes": ""
  },
  {
@@ -761,7 +761,7 @@
   "op": "A5BCE9",
   "len": 44,
   "jp": "『正しく開閉させるには、3つのスイッチの{br}組み合わせを間違えない事。』{endFD}",
-  "en": "",
+  "en": "'To operate the gate properly, get the{br}combination of the three switches right.'{endFD}",
   "notes": ""
  },
  {
@@ -770,7 +770,7 @@
   "op": "A5BD16",
   "len": 15,
   "jp": "…一体、何の事だ？{end}",
-  "en": "",
+  "en": "...What's that supposed to mean?{end}",
   "notes": ""
  },
  {
@@ -779,7 +779,7 @@
   "op": "A5BD30",
   "len": 44,
   "jp": "『正しく開閉させるには、3つのスイッチの{br}組み合わせを間違えない事。』{end}",
-  "en": "",
+  "en": "'To operate the gate properly, get the{br}combination of the three switches right.'{end}",
   "notes": ""
  },
  {
@@ -788,7 +788,7 @@
   "op": "A5BDF6",
   "len": 29,
   "jp": "{c0C:01}「ん？ 開かないぞ。{br}カーク、調べてみてくれ。{end}",
-  "en": "",
+  "en": "{c0C:01}: Hm? It won't open. Kirk, check it out.{end}",
   "notes": ""
  },
  {
@@ -797,7 +797,7 @@
   "op": "A5BE18",
   "len": 35,
   "jp": "カーク「両スイッチを同時に押さなければ{br}開かぬようじゃぞ。{end}",
-  "en": "",
+  "en": "Kirk: It appears it won't open unless both{br}switches are pressed at the same time.{end}",
   "notes": ""
  },
  {
@@ -806,7 +806,7 @@
   "op": "A5BE3D",
   "len": 18,
   "jp": "「両方同時………か。{end}",
-  "en": "",
+  "en": "\"Both at once... huh.\"{end}",
   "notes": ""
  },
  {
@@ -815,7 +815,7 @@
   "op": "A5BEA8",
   "len": 42,
   "jp": "{c0C:01}「イオン、反対側のスイッチを{br}たのむ。用意ができたら言ってくれ。{end}",
-  "en": "",
+  "en": "{c0C:01}: Ion, take the switch on the other{br}side. Tell me when you're ready.{end}",
   "notes": ""
  },
  {
@@ -824,7 +824,7 @@
   "op": "A5BEE0",
   "len": 14,
   "jp": "イオン「いいわよ、{c0C:01}。{end}",
-  "en": "",
+  "en": "Ion: Ready, {c0C:01}.{end}",
   "notes": ""
  },
  {
@@ -833,7 +833,7 @@
   "op": "A5BEF0",
   "len": 38,
   "jp": "「よしイオン、オレが合図を出したら{br}スイッチを入れるんだ。いいな？{end}",
-  "en": "",
+  "en": "\"Okay, Ion, when I give the signal, hit the{br}switch. Got it?\"{end}",
   "notes": ""
  },
  {
@@ -842,7 +842,7 @@
   "op": "A5BF18",
   "len": 22,
   "jp": "「わかったわ、同時に押せばいいのね。{end}",
-  "en": "",
+  "en": "\"Got it. We just have to press them at the{br}same time, right?\"{end}",
   "notes": ""
  },
  {
@@ -851,7 +851,7 @@
   "op": "A5BF30",
   "len": 7,
   "jp": "「行くぞ。{end}",
-  "en": "",
+  "en": "\"Here we go.\"{end}",
   "notes": ""
  },
  {
@@ -860,7 +860,7 @@
   "op": "A5BF38",
   "len": 12,
   "jp": "{br}         3{end}",
-  "en": "",
+  "en": "3{end}",
   "notes": ""
  },
  {
@@ -869,7 +869,7 @@
   "op": "A5BF47",
   "len": 12,
   "jp": "{br}         2{end}",
-  "en": "",
+  "en": "2{end}",
   "notes": ""
  },
  {
@@ -878,7 +878,7 @@
   "op": "A5BF56",
   "len": 12,
   "jp": "{br}         1{end}",
-  "en": "",
+  "en": "1{end}",
   "notes": ""
  },
  {
@@ -887,7 +887,7 @@
   "op": "A5BF65",
   "len": 14,
   "jp": "{br}        今だ！{end}",
-  "en": "",
+  "en": "Now!{end}",
   "notes": ""
  },
  {
@@ -896,7 +896,7 @@
   "op": "A5C0A0",
   "len": 32,
   "jp": "カードキー2の差し込み口がある。{br}カードを入れますか？{end}",
-  "en": "",
+  "en": "There's a slot for Card Key 2. Insert the{br}card?{end}",
   "notes": ""
  },
  {
@@ -905,7 +905,7 @@
   "op": "A5C0C1",
   "len": 15,
   "jp": "  入れる{br}  やめておく{endFE}",
-  "en": "",
+  "en": "Insert it{br}Leave it{endFE}",
   "notes": ""
  },
  {
@@ -914,7 +914,7 @@
   "op": "A5C0F5",
   "len": 17,
   "jp": "カードキー2を持っていません。{end}",
-  "en": "",
+  "en": "You don't have Card Key 2.{end}",
   "notes": ""
  },
  {
@@ -923,7 +923,7 @@
   "op": "A5C10D",
   "len": 20,
   "jp": "カードキー2が差し込まれています。{end}",
-  "en": "",
+  "en": "Card Key 2 is inserted.{end}",
   "notes": ""
  },
  {
@@ -932,7 +932,7 @@
   "op": "A5C273",
   "len": 37,
   "jp": "エレベーター制御プログラムのようだ。{br}プログラムを実行しますか？{end}",
-  "en": "",
+  "en": "Looks like an elevator control program. Run{br}the program?{end}",
   "notes": ""
  },
  {
@@ -941,7 +941,7 @@
   "op": "A5C299",
   "len": 17,
   "jp": "  実行する{br}  やめておく{endFE}",
-  "en": "",
+  "en": "Run it{br}Leave it{endFE}",
   "notes": ""
  },
  {
@@ -950,7 +950,7 @@
   "op": "A5C2DE",
   "len": 31,
   "jp": "エレベーターは7階まで移動できるように{br}なっています。{end}",
-  "en": "",
+  "en": "The elevator can now go up to 7F.{end}",
   "notes": ""
  },
  {
@@ -959,7 +959,7 @@
   "op": "A5C32D",
   "len": 42,
   "jp": "{c0C:01}「反応なしか………。{br}無口なコンピちゃんに愛のプレゼント！！{end}",
-  "en": "",
+  "en": "{c0C:01}: No response... Then here's a little{br}love gift for my tight-lipped computer!!{end}",
   "notes": ""
  },
  {
@@ -968,7 +968,7 @@
   "op": "A5C35C",
   "len": 25,
   "jp": "カーク「おっ、おい{c0C:01}まさか！{br}やめるんじゃ。{end}",
-  "en": "",
+  "en": "Kirk: Wh-whoa, {c0C:01}, you're not going to...!{br}Stop that!{end}",
   "notes": ""
  },
  {
@@ -977,7 +977,7 @@
   "op": "A5C381",
   "len": 24,
   "jp": "カーク「まったくしょうのない奴じゃ……。{end}",
-  "en": "",
+  "en": "Kirk: Honestly, what a hopeless fellow...{end}",
   "notes": ""
  },
  {
@@ -986,7 +986,7 @@
   "op": "A5C39B",
   "len": 32,
   "jp": "{c0C:01}「おまえに言われなくても{br}わかってるよ。たまには、な。{end}",
-  "en": "",
+  "en": "{c0C:01}: I know, I know, you don't have to{br}tell me. Just once in a while, okay?{end}",
   "notes": ""
  },
  {
@@ -995,7 +995,7 @@
   "op": "A5C3C7",
   "len": 13,
   "jp": "{c0C:01}「もう用はない。{end}",
-  "en": "",
+  "en": "{c0C:01}: Nothing more to do here.{end}",
   "notes": ""
  },
  {
@@ -1004,7 +1004,7 @@
   "op": "A5C514",
   "len": 33,
   "jp": "{c0C:01}「イオンを助けだすまではここを{br}出る訳にはいかない。{end}",
-  "en": "",
+  "en": "{c0C:01}: I can't leave until I've rescued Ion.{end}",
   "notes": ""
  },
  {
@@ -1013,7 +1013,7 @@
   "op": "A5C53E",
   "len": 35,
   "jp": "カーク「出口がロックされとるぞ。どうやら{br}ハメられたようじゃな。{end}",
-  "en": "",
+  "en": "Kirk: The exit is locked. It seems we've been{br}set up.{end}",
   "notes": ""
  },
  {
@@ -1022,7 +1022,7 @@
   "op": "A5C565",
   "len": 15,
   "jp": "イオン「どうするの、{c0C:01}？{end}",
-  "en": "",
+  "en": "Ion: What do we do, {c0C:01}?{end}",
   "notes": ""
  },
  {
@@ -1031,7 +1031,7 @@
   "op": "A5C576",
   "len": 42,
   "jp": "{c0C:01}「仕方ない、奥へ行ってみよう。{br}別の出口があるかも知れない。{end}",
-  "en": "",
+  "en": "{c0C:01}: No choice. Let's head further in.{br}There might be another way out.{end}",
   "notes": ""
  },
  {
@@ -1040,7 +1040,7 @@
   "op": "A5C5A8",
   "len": 26,
   "jp": "{c0C:01}「特に使えそうな物は{br}入ってないな。{end}",
-  "en": "",
+  "en": "{c0C:01}: Nothing useful in here.{end}",
   "notes": ""
  },
  {
@@ -1049,7 +1049,7 @@
   "op": "A5C5CA",
   "len": 15,
   "jp": "{c0C:01}「反応なしか…。{end}",
-  "en": "",
+  "en": "{c0C:01}: No response...{end}",
   "notes": ""
  },
  {
@@ -1058,7 +1058,7 @@
   "op": "A5E815",
   "len": 13,
   "jp": "何階へ行きますか？{end}",
-  "en": "",
+  "en": "Which floor?{end}",
   "notes": ""
  },
  {
@@ -1067,7 +1067,7 @@
   "op": "A5E823",
   "len": 52,
   "jp": "  1階       2階{br}  3階       次ページ{br}現在{c04:010A0270}階にいます。{endFE}",
-  "en": "",
+  "en": "1F 2F{br}3F Next Page{br}Now on {c04:010A0270}F{endFE}",
   "notes": ""
  },
  {
@@ -1076,7 +1076,7 @@
   "op": "A5E868",
   "len": 52,
   "jp": "  4階       5階{br}  7階       前ページ{br}現在{c04:010A0270}階にいます。{endFE}",
-  "en": "",
+  "en": "4F 5F{br}7F Previous Page{br}Now on {c04:010A0270}F{endFE}",
   "notes": ""
  },
  {
@@ -1085,7 +1085,7 @@
   "op": "A5E8BF",
   "len": 27,
   "jp": "……反応が無い。{br}故障しているようだ。{end}",
-  "en": "",
+  "en": "...No response. It seems to be broken.{end}",
   "notes": ""
  },
  {
@@ -1094,7 +1094,7 @@
   "op": "A5E95C",
   "len": 16,
   "jp": "エレベーターから降りますか？{end}",
-  "en": "",
+  "en": "Get off the elevator?{end}",
   "notes": ""
  },
  {
@@ -1103,7 +1103,7 @@
   "op": "A5E96D",
   "len": 19,
   "jp": "  他の階へ行く{br}  降りる{endFE}",
-  "en": "",
+  "en": "Go to another floor{br}Get off{endFE}",
   "notes": ""
  },
  {
@@ -1112,7 +1112,7 @@
   "op": "A5E993",
   "len": 32,
   "jp": "{c0C:01}「ダメだ、この階からは{br}使えなくなっているみたいだ。{end}",
-  "en": "",
+  "en": "{c0C:01}: No good. Looks like it can't be used{br}from this floor.{end}",
   "notes": ""
  },
  {
@@ -1121,7 +1121,7 @@
   "op": "A5E9C6",
   "len": 22,
   "jp": "{c0C:01}「どうした、敵でも発見したか？{end}",
-  "en": "",
+  "en": "{c0C:01}: What's up, spot an enemy?{end}",
   "notes": ""
  },
  {
@@ -1130,7 +1130,7 @@
   "op": "A5E9E1",
   "len": 62,
   "jp": "ブランドル「ここから先は我々だけでやる。{br}お前はここでババリアの奴らと刺し違えた{br}という事になってもらう。{end}",
-  "en": "",
+  "en": "Brundle: From here on, we go alone. As far as{br}anyone knows, you died here taking Bavaria's{br}men down with you.{end}",
   "notes": ""
  },
  {
@@ -1139,7 +1139,7 @@
   "op": "A5EA26",
   "len": 22,
   "jp": "「やっぱり、お前らハナからそのつもりで！{end}",
-  "en": "",
+  "en": "\"So you were planning this right from the{br}start!\"{end}",
   "notes": ""
  },
  {
@@ -1148,7 +1148,7 @@
   "op": "A5EA41",
   "len": 76,
   "jp": "「ババリアの行ってきたバイオ研究は我々に{br}とっても貴重だ。そのノウハウは全て頂く。{br}全てを知っているお前はジャマな存在だ。{endFD}",
-  "en": "",
+  "en": "\"Bavaria's bio-research is valuable to us as{br}well. We will take all of their know-how. And{br}you, who know everything, are in the way.\"{endFD}",
   "notes": ""
  },
  {
@@ -1157,7 +1157,7 @@
   "op": "A5EA8E",
   "len": 58,
   "jp": "もうお前らのようなアウトローが必要な時代{br}も終わりだ。新たなソリッドシティにお前ら{br}は不要だ。{end}",
-  "en": "",
+  "en": "The age when outlaws like you were needed is{br}over. The new Solid City has no need for your{br}kind.{end}",
   "notes": ""
  },
  {
@@ -1166,7 +1166,7 @@
   "op": "A5EACA",
   "len": 66,
   "jp": "「オレ達を利用するだけ利用しておいて、{br}いざとなったら始末するのか。勝手だな。{br}全てグロリアの指図なのか？{end}",
-  "en": "",
+  "en": "\"So you use us for all we're worth, then get{br}rid of us when it counts. How convenient. Is{br}this all on Gloria's orders?\"{end}",
   "notes": ""
  },
  {
@@ -1175,7 +1175,7 @@
   "op": "A5EB0E",
   "len": 58,
   "jp": "「フッ、お前とて我々を利用するつもりで{br}いたのだろう。どちらも考えている事はそう{br}変わりはしない。{endFD}",
-  "en": "",
+  "en": "\"Hmph, you meant to use us as well, did you{br}not? Neither side's thinking is all that{br}different.\"{endFD}",
   "notes": ""
  },
  {
@@ -1184,7 +1184,7 @@
   "op": "A5EB49",
   "len": 69,
   "jp": "局長は自分の子供をピラーニャ＝プレタで{br}亡くしてから、その治療法を解明する為に{br}あらゆる手を尽くしてきた。{endFD}",
-  "en": "",
+  "en": "Ever since the Director lost her child to{br}Piranha Preta, she has done everything in her{br}power to find a cure.{endFD}",
   "notes": ""
  },
  {
@@ -1193,7 +1193,7 @@
   "op": "A5EB8F",
   "len": 75,
   "jp": "お前に仕事を依頼していたのも、ババリアを{br}倒し、奴らからバイオ研究のノウハウを得る{br}為だ。お前は我々の駒だったのだよ。{end}",
-  "en": "",
+  "en": "We gave you jobs so you would bring down{br}Bavaria and we could get their bio-research{br}know-how. You were our pawn.{end}",
   "notes": ""
  },
  {
@@ -1202,7 +1202,7 @@
   "op": "A5EBDC",
   "len": 24,
   "jp": "「…やはり、決着をつけなきゃならないな。{end}",
-  "en": "",
+  "en": "\"...Guess we'll have to settle this after all.\"{end}",
   "notes": ""
  },
  {
@@ -1211,7 +1211,7 @@
   "op": "A5ECC2",
   "len": 22,
   "jp": "ラオエル「{c0C:01}、おれだ。{br}聞こえるか？{end}",
-  "en": "",
+  "en": "Raoel: {c0C:01}, it's me. Can you hear me?{end}",
   "notes": ""
  },
  {
@@ -1220,7 +1220,7 @@
   "op": "A5ECDA",
   "len": 24,
   "jp": "{c0C:01}「どうしたラオエル、{br}何かあったのか？{end}",
-  "en": "",
+  "en": "{c0C:01}: What is it, Raoel? Something happen?{end}",
   "notes": ""
  },
  {
@@ -1229,7 +1229,7 @@
   "op": "A5ECF4",
   "len": 54,
   "jp": "ラオエル「こちらの方も、内部への突入に{br}成功した。1階は完全におれ達が制圧した。{endFD}",
-  "en": "",
+  "en": "Raoel: We've broken in too. We have the first{br}floor completely under control.{endFD}",
   "notes": ""
  },
  {
@@ -1238,7 +1238,7 @@
   "op": "A5ED2B",
   "len": 39,
   "jp": "リフも連れてきているから、{br}ランナーを改造するなら1階へ来てくれ。{end}",
-  "en": "",
+  "en": "I've brought Riff along as well, so if you want{br}to modify your runner, come to the first floor.{end}",
   "notes": ""
  },
  {
@@ -1247,7 +1247,7 @@
   "op": "A5ED54",
   "len": 14,
   "jp": "「分かった、助かるよ。{end}",
-  "en": "",
+  "en": "\"Got it. That's a big help.\"{end}",
   "notes": ""
  },
  {
@@ -1256,7 +1256,7 @@
   "op": "A5ED64",
   "len": 51,
   "jp": "「おれ達はここからお前をサポートする。{br}バイスハイトまで、あともう少しだ。{br}頑張ってくれ。{end}",
-  "en": "",
+  "en": "\"We'll back you up from here. You're almost to{br}Weissheit. Hang in there.\"{end}",
   "notes": ""
  },
  {
@@ -1265,7 +1265,7 @@
   "op": "A5EE2D",
   "len": 22,
   "jp": "バイスハイト「貴様、生きていたのか。{end}",
-  "en": "",
+  "en": "Weissheit: You... you're alive?{end}",
   "notes": ""
  },
  {
@@ -1274,7 +1274,7 @@
   "op": "A5EE45",
   "len": 34,
   "jp": "{c0C:01}「オレはお前を倒すまでくたばる{br}訳にはいかないんだよ。{end}",
-  "en": "",
+  "en": "{c0C:01}: I can't kick the bucket until I've{br}taken you down.{end}",
   "notes": ""
  },
  {
@@ -1283,7 +1283,7 @@
   "op": "A5EE6B",
   "len": 43,
   "jp": "「虫ケラが…。貴様がどれほどあがこうと、{br}この私を倒す事などできぬわ。{endFD}",
-  "en": "",
+  "en": "\"Insect... However much you struggle, you can{br}never defeat me.\"{endFD}",
   "notes": ""
  },
  {
@@ -1292,7 +1292,7 @@
   "op": "A5EE97",
   "len": 77,
   "jp": "今や私は自らの脳をバイオ技術で強化し、{br}より大きな力を得た。あと少し、あと少し{br}なのだ。この病さえ直す事ができれば…！{end}",
-  "en": "",
+  "en": "I have boosted my own brain with bio-tech{br}and gained still greater power. So close, so{br}close... If only I can cure this disease...!{end}",
   "notes": ""
  },
  {
@@ -1301,7 +1301,7 @@
   "op": "A5EEE6",
   "len": 43,
   "jp": "「病だと？{br}そうか、ピラーニャ＝プレタの事だな。{br}お前もあの死の病に…。{end}",
-  "en": "",
+  "en": "\"Disease? I see, you mean Piranha Preta. So{br}you've got that deadly disease too...\"{end}",
   "notes": ""
  },
  {
@@ -1310,7 +1310,7 @@
   "op": "A5EF18",
   "len": 71,
   "jp": "「フフフフ、この私がこんないまいましい{br}病に蝕まれるとはな。だが、不老不死の体{br}を手に入れるまで、死ぬ訳にはいかぬ。{end}",
-  "en": "",
+  "en": "\"Heh heh heh. To think that I would be eaten{br}away by such a wretched disease. But I cannot{br}die until I have an immortal body.\"{end}",
   "notes": ""
  },
  {
@@ -1319,7 +1319,7 @@
   "op": "A5EF61",
   "len": 38,
   "jp": "「不老不死だと、そんな事が可能だとでも{br}思っているのか！？{end}",
-  "en": "",
+  "en": "\"Immortality? You really think something like{br}that is possible?!\"{end}",
   "notes": ""
  },
  {
@@ -1328,7 +1328,7 @@
   "op": "A5EF8C",
   "len": 69,
   "jp": "「ヨーロッパの1国を治めていた私の父も{br}人類の遥かな過去の時代からの夢である、{br}不老不死を求めていた。{endFD}",
-  "en": "",
+  "en": "\"My father, who ruled a nation in Europe, also{br}sought immortality - a dream mankind has held{br}since the most distant past.\"{endFD}",
   "notes": ""
  },
  {
@@ -1337,7 +1337,7 @@
   "op": "A5EFD2",
   "len": 75,
   "jp": "しかし、おろかな国民どもにはそれが理解{br}できなかった。父は母ともども処刑され、{br}私は人工授精によって世に生を受けた。{endFD}",
-  "en": "",
+  "en": "But his foolish people could not grasp it. He{br}was executed with my mother, and I was born{br}by artificial insemination.{endFD}",
   "notes": ""
  },
  {
@@ -1346,7 +1346,7 @@
   "op": "A5F01E",
   "len": 63,
   "jp": "私は父と同様に不死の研究をしてきた。{br}そして、いよいよ完成を見る時がやって{br}来ようとしているのだ。{endFD}",
-  "en": "",
+  "en": "Like my father, I have researched immortality.{br}And now, at last, the day of its completion is{br}drawing near.{endFD}",
   "notes": ""
  },
  {
@@ -1355,7 +1355,7 @@
   "op": "A5F05E",
   "len": 70,
   "jp": "その崇高な行いを、虫ケラの貴様になぞ{br}理解できるはずもない。貴様も父を殺した{br}おろかな国民どもと同じなのだ。{end}",
-  "en": "",
+  "en": "An insect like you could never grasp so noble{br}an endeavor. You are no different from the{br}foolish people who killed my father.{end}",
   "notes": ""
  },
  {
@@ -1364,7 +1364,7 @@
   "op": "A5F0A9",
   "len": 42,
   "jp": "「何が崇高な行いだ。その為にどれだけの{br}命をもてあそんだと思ってる！{end}",
-  "en": "",
+  "en": "\"Noble endeavor, my foot! How many lives do{br}you think you've toyed with for it?!\"{end}",
   "notes": ""
  },
  {
@@ -1373,7 +1373,7 @@
   "op": "A5F0D8",
   "len": 69,
   "jp": "「命だと？ 虫ケラの命がどれ程のものだと{br}言うのだ。そんなもの、選ばれた者の役に{br}立つのならば惜しむ必要はない。{endFD}",
-  "en": "",
+  "en": "\"Lives? What are an insect's lives worth? If{br}they serve the chosen, there is no need to{br}spare them.\"{endFD}",
   "notes": ""
  },
  {
@@ -1382,7 +1382,7 @@
   "op": "A5F11E",
   "len": 80,
   "jp": "有能な者が生きる事こそ、最も優先される{br}べき事なのだ。その為に無能な虫ケラどもが{br}何千、何万と死のうが一向に構わぬ。{end}",
-  "en": "",
+  "en": "The survival of the able comes before all else.{br}If thousands, tens of thousands of useless{br}insects die for it, I care not.{end}",
   "notes": ""
  },
  {
@@ -1391,7 +1391,7 @@
   "op": "A5F170",
   "len": 48,
   "jp": "「脳を改造して狂ったか、バイスハイト。{br}お前だけは絶対に、絶対に許さん！！{end}",
-  "en": "",
+  "en": "\"Did messing with your brain drive you mad,{br}Weissheit? You're the one guy I'll never, ever{br}forgive!!\"{end}",
   "notes": ""
  },
  {
@@ -1400,7 +1400,7 @@
   "op": "A5F1FA",
   "len": 61,
   "jp": "バイスハイト「お、おのれ…この私がこんな{br}虫ケラごときに…。いや、まだだ。まだ、{br}やられはせぬ、やられはせぬぞ！{end}",
-  "en": "",
+  "en": "Weissheit: Cu-curse you... That I should fall to{br}a mere insect... No, not yet. Not yet! I shall{br}not be beaten, I shall not!{end}",
   "notes": ""
  },
  {
@@ -1409,7 +1409,7 @@
   "op": "A5F244",
   "len": 20,
   "jp": "{c0C:01}「な、何が起きているんだ！？{end}",
-  "en": "",
+  "en": "{c0C:01}: Wh-what's happening?!{end}",
   "notes": ""
  },
  {
@@ -1418,7 +1418,7 @@
   "op": "A5F25C",
   "len": 18,
   "jp": "カーク「この現象はもしや…？{end}",
-  "en": "",
+  "en": "Kirk: Could this phenomenon be...?{end}",
   "notes": ""
  },
  {
@@ -1427,7 +1427,7 @@
   "op": "A5F270",
   "len": 57,
   "jp": "「力を…限界まで…解放するのだ。マシンと{br}脳のシンクロ状態を…極限まで引き上げる。{end}",
-  "en": "",
+  "en": "\"Release... power... to the limit. Raise the sync{br}between machine and brain... to the extreme.\"{end}",
   "notes": ""
  },
  {
@@ -1436,7 +1436,7 @@
   "op": "A5F2B4",
   "len": 14,
   "jp": "おおおおおおおおおおっ！！{end}",
-  "en": "",
+  "en": "Ooooooooooooh!!{end}",
   "notes": ""
  },
  {
@@ -1445,7 +1445,7 @@
   "op": "A5F2C4",
   "len": 54,
   "jp": "「これはデイモンの時と同じじゃ。奴にも{br}あれと同じようなシステムが組み込まれて{br}おるようじゃ！{end}",
-  "en": "",
+  "en": "\"This is just what happened with Daemon. He{br}seems to have the same sort of system built{br}into him!\"{end}",
   "notes": ""
  },
  {
@@ -1454,7 +1454,7 @@
   "op": "A5F2FE",
   "len": 21,
   "jp": "「じゃあ、奴も暴走してしまうのか？{end}",
-  "en": "",
+  "en": "\"So he's going to go berserk too?\"{end}",
   "notes": ""
  },
  {
@@ -1463,7 +1463,7 @@
   "op": "A5F317",
   "len": 41,
   "jp": "「いや、奴は自分の脳を改造している。何が{br}起こるか分からぬぞ！{end}",
-  "en": "",
+  "en": "\"No, he has modified his own brain. There's no{br}telling what will happen!\"{end}",
   "notes": ""
  },
  {
@@ -1472,7 +1472,7 @@
   "op": "A5F349",
   "len": 41,
   "jp": "「うっ！ …うおおおっ！？{br}な、何だこれは。私の意識が…マシンに…{end}",
-  "en": "",
+  "en": "\"Ngh! ...Uoooh?! Wh-what is this? My mind...{br}into the machine...\"{end}",
   "notes": ""
  },
  {
@@ -1481,7 +1481,7 @@
   "op": "A5F373",
   "len": 20,
   "jp": "ぐ、ぐあああああああああああああっ！！{end}",
-  "en": "",
+  "en": "Gu... guaaaaaaaaaaaaaaaah!!{end}",
   "notes": ""
  },
  {
@@ -1490,7 +1490,7 @@
   "op": "A5F389",
   "len": 16,
   "jp": "「やっぱり暴走したのか！？{end}",
-  "en": "",
+  "en": "\"So he did go berserk?!\"{end}",
   "notes": ""
  },
  {
@@ -1499,7 +1499,7 @@
   "op": "A5F3AE",
   "len": 30,
   "jp": "{c0C:01}「ううっ、一体何なんだ、今の{br}エネルギーは？{end}",
-  "en": "",
+  "en": "{c0C:01}: Ugh, what on earth was that energy{br}just now?{end}",
   "notes": ""
  },
  {
@@ -1508,7 +1508,7 @@
   "op": "A5F3D1",
   "len": 19,
   "jp": "カーク「{c0C:01}、何か出てきたぞ！{end}",
-  "en": "",
+  "en": "Kirk: {c0C:01}, something's coming out!{end}",
   "notes": ""
  },
  {
@@ -1517,7 +1517,7 @@
   "op": "A5F3ED",
   "len": 26,
   "jp": "{c0C:01}「こ、これがバイスハイトの姿{br}なのか…？{end}",
-  "en": "",
+  "en": "{c0C:01}: Th-this is what Weissheit really looks{br}like...?{end}",
   "notes": ""
  },
  {
@@ -1526,7 +1526,7 @@
   "op": "A5F412",
   "len": 46,
   "jp": "バイスハイト「現在ノしんくろ率200％。{br}目標ヲ…完全ニ…破壊スル。{end}",
-  "en": "",
+  "en": "Weissheit: CURRENT SYNC RATE 200%. TARGET...{br}WILL BE... COMPLETELY... DESTROYED.{end}",
   "notes": ""
  },
  {
@@ -1535,7 +1535,7 @@
   "op": "A5F441",
   "len": 30,
   "jp": "破壊…破壊…破壊…破壊………。{end}",
-  "en": "",
+  "en": "DESTROY... DESTROY... DESTROY... DESTROY...{end}",
   "notes": ""
  },
  {
@@ -1544,7 +1544,7 @@
   "op": "A5F464",
   "len": 66,
   "jp": "カーク「奴め、脳ばかりか体までもマシンと{br}一体化してしまったようじゃ。すでに奴は{br}以前のバイスハイトではないぞ。{end}",
-  "en": "",
+  "en": "Kirk: Not just his brain - even his body has{br}fused with the machine. He is no longer the{br}Weissheit he once was.{end}",
   "notes": ""
  },
  {
@@ -1553,7 +1553,7 @@
   "op": "A5F56D",
   "len": 33,
   "jp": "エレベーターの電源パネルのようだ。{br}電源を入れますか？{end}",
-  "en": "",
+  "en": "Looks like the elevator's power panel. Turn on{br}the power?{end}",
   "notes": ""
  },
  {
@@ -1562,7 +1562,7 @@
   "op": "A5F58F",
   "len": 15,
   "jp": "  入れる{br}  入れない{endFE}",
-  "en": "",
+  "en": "Turn it on{br}Leave it off{endFE}",
   "notes": ""
  },
  {
@@ -1571,7 +1571,7 @@
   "op": "A5F5BA",
   "len": 21,
   "jp": "エレベーターの電源は入っています。{end}",
-  "en": "",
+  "en": "The elevator's power is on.{end}",
   "notes": ""
  }
 ]

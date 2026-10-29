@@ -5,7 +5,7 @@
   "op": "9682C2",
   "len": 40,
   "jp": "{c0C:01}「行きづまった時は現場に戻る。{br}これが捜査の鉄則だな。{end}",
-  "en": "",
+  "en": "{c0C:01}: When you hit a dead end, go back to{br}the scene. That's the golden rule of detective{br}work.{end}",
   "notes": ""
  },
  {
@@ -14,7 +14,7 @@
   "op": "9684C9",
   "len": 30,
   "jp": "{c0C:01}「おや？{br}カギがかかっていないぞ。不用心だな。{endFD}",
-  "en": "",
+  "en": "{c0C:01}: Huh? It's not locked. Careless.{endFD}",
   "notes": ""
  },
  {
@@ -23,7 +23,7 @@
   "op": "9684E8",
   "len": 26,
   "jp": "おいナビロボ、中の様子を{br}スキャンしてくれ。{end}",
-  "en": "",
+  "en": "Hey, Navi-Robo, scan the inside for me.{end}",
   "notes": ""
  },
  {
@@ -32,7 +32,7 @@
   "op": "968509",
   "len": 55,
   "jp": "ナビロボ「…ピッピッピ。{br}生体反応不明、動体反応不明、{br}安全度不明デス。{end}",
-  "en": "",
+  "en": "Navi-Robo: ...BEEP BEEP BEEP. LIFE SIGNS{br}UNKNOWN. MOTION UNKNOWN. SAFETY LEVEL{br}UNKNOWN.{end}",
   "notes": ""
  },
  {
@@ -41,7 +41,7 @@
   "op": "968542",
   "len": 44,
   "jp": "「何だそりゃ。不明ばっかりじゃないか。{br}…ったく、仕方ない中に入ろう。{end}",
-  "en": "",
+  "en": "\"What's that supposed to mean? It's all{br}unknowns. ...Geez. Fine, let's go in.\"{end}",
   "notes": ""
  },
  {
@@ -50,7 +50,7 @@
   "op": "96857F",
   "len": 36,
   "jp": "{c0C:01}「ノーラは留守のようだな。{br}ドアもちゃんとロックされている。{end}",
-  "en": "",
+  "en": "{c0C:01}: Looks like Nora's out. The door's{br}locked properly, too.{end}",
   "notes": ""
  },
  {
@@ -59,7 +59,7 @@
   "op": "9685C5",
   "len": 52,
   "jp": "{c0C:01}「女性の家にしてはずいぶん{br}散らかっているな…って、{br}ちょっと違うようだな、これは。{end}",
-  "en": "",
+  "en": "{c0C:01}: Pretty messy for a woman's place...{br}Wait, no, this is something else.{end}",
   "notes": ""
  },
  {
@@ -68,7 +68,7 @@
   "op": "96861F",
   "len": 45,
   "jp": "{c0C:01}「クローゼットの中が{br}荒らされている。{br}どうやら何かを探していたようだな。{end}",
-  "en": "",
+  "en": "{c0C:01}: The closet's been ransacked. Looks{br}like someone was searching for something.{end}",
   "notes": ""
  },
  {
@@ -77,7 +77,7 @@
   "op": "968655",
   "len": 18,
   "jp": "{c0C:01}「ひどく荒らされているな。{end}",
-  "en": "",
+  "en": "{c0C:01}: This place has been torn apart.{end}",
   "notes": ""
  },
  {
@@ -86,7 +86,7 @@
   "op": "968670",
   "len": 40,
   "jp": "{c0C:01}「ベッドの下に死{c1C:28}体が………{c1C:00}{br}なんて事はないな。{end}",
-  "en": "",
+  "en": "{c0C:01}: And under the bed, a dead{c1C:28} body.........{c1C:00}{br}Nah, nothing like that.{end}",
   "notes": ""
  },
  {
@@ -95,7 +95,7 @@
   "op": "9686AE",
   "len": 21,
   "jp": "{c0C:01}「何か文字が書いてあるな。{end}",
-  "en": "",
+  "en": "{c0C:01}: Something's written here.{end}",
   "notes": ""
  },
  {
@@ -104,7 +104,7 @@
   "op": "9686C7",
   "len": 63,
   "jp": "女は預かった。無事に返して欲しければ{br}例のブツを用意しておけ。{br}警察に通報すれば女の命はない。{end}",
-  "en": "",
+  "en": "We have the woman. If you want her back{br}safe, have the goods ready. Call the police{br}and she dies.{end}",
   "notes": ""
  },
  {
@@ -113,7 +113,7 @@
   "op": "968713",
   "len": 41,
   "jp": "{c0C:01}「やっかいな事になったな。{br}とにかく一旦、シスターの所に戻るか。{end}",
-  "en": "",
+  "en": "{c0C:01}: This is getting messy. Guess I'll head{br}back to the Sister for now.{end}",
   "notes": ""
  },
  {
@@ -122,7 +122,7 @@
   "op": "96875B",
   "len": 63,
   "jp": "女は預かった。無事に返して欲しければ{br}例のブツを用意しておけ。{br}警察に通報すれば女の命はない。{end}",
-  "en": "",
+  "en": "We have the woman. If you want her back{br}safe, have the goods ready. Call the police{br}and she dies.{end}",
   "notes": ""
  },
  {
@@ -131,7 +131,7 @@
   "op": "9687A3",
   "len": 40,
   "jp": "{c0C:01}「行きづまった時は現場に戻る。{br}これが捜査の鉄則だな。{end}",
-  "en": "",
+  "en": "{c0C:01}: When you hit a dead end, go back to{br}the scene. That's the golden rule of detective{br}work.{end}",
   "notes": ""
  },
  {
@@ -140,7 +140,7 @@
   "op": "9687FF",
   "len": 38,
   "jp": "{c0C:01}「どうせディスクを返したって{br}生かして返してはくれないだろう。{end}",
-  "en": "",
+  "en": "{c0C:01}: Even if I hand over the disc, they{br}won't let her go alive anyway.{end}",
   "notes": ""
  },
  {
@@ -149,7 +149,7 @@
   "op": "968826",
   "len": 31,
   "jp": "ランナーで乗り込んで彼女を助け出すしか{br}ないな。{end}",
-  "en": "",
+  "en": "Only one thing for it: go in with my runner and{br}get her out.{end}",
   "notes": ""
  },
  {
@@ -158,7 +158,7 @@
   "op": "968867",
   "len": 59,
   "jp": "「似たような形の家ばかりだって？{br}そりゃあ都市開発計画のおかげで{br}建売住宅ばかりだからさ。{end}",
-  "en": "",
+  "en": "\"All the houses look alike, you say? Well,{br}that's the city development plan for you.{br}Nothing but ready-built homes.\"{end}",
   "notes": ""
  },
  {
@@ -167,7 +167,7 @@
   "op": "9688AA",
   "len": 59,
   "jp": "「もう、ソリッドシティはババリアの{br}ものなんだ。逆らうなんて利口な考え{br}じゃないよ。あんたもそう思うだろ？{end}",
-  "en": "",
+  "en": "\"Solid City belongs to Bavaria now. Fighting{br}them isn't a smart idea. Don't you think so{br}too?\"{end}",
   "notes": ""
  },
  {
@@ -176,7 +176,7 @@
   "op": "968902",
   "len": 56,
   "jp": "「エリア3にあるスラムは治安が{br}悪いそうですね。街の中にも{br}バイオモンスターが出るって話ですよ。{end}",
-  "en": "",
+  "en": "\"They say the slums in Area 3 are pretty{br}unsafe. I hear bio-monsters show up right in{br}town, too.\"{end}",
   "notes": ""
  },
  {
@@ -185,7 +185,7 @@
   "op": "968942",
   "len": 57,
   "jp": "「レジスタンスなどといってババリアに{br}抵抗している奴らがいるようですが、{br}所詮は無駄な事ですよ。{end}",
-  "en": "",
+  "en": "\"There are people calling themselves the{br}Resistance who fight Bavaria, it seems, but it's{br}all pointless in the end.\"{end}",
   "notes": ""
  },
  {
@@ -194,7 +194,7 @@
   "op": "968999",
   "len": 33,
   "jp": "「この街の建物には生体建材が{br}使われているのよ。{endFD}",
-  "en": "",
+  "en": "\"The buildings in this city are made with living{br}building materials, you know.\"{endFD}",
   "notes": ""
  },
  {
@@ -203,7 +203,7 @@
   "op": "9689BB",
   "len": 33,
   "jp": "そういえば、ランナーの装甲も{br}バイオマテリアル製なのよね。{end}",
-  "en": "",
+  "en": "Come to think of it, runner armor is made of{br}biomaterial too, isn't it?{end}",
   "notes": ""
  },
  {
@@ -212,7 +212,7 @@
   "op": "9689E4",
   "len": 41,
   "jp": "「他のエリアじゃ、夜じゃなくても{br}外へ出るのは危険だっていう話よ。{end}",
-  "en": "",
+  "en": "\"I hear that in other Areas it's dangerous to{br}go outside even in the daytime.\"{end}",
   "notes": ""
  },
  {
@@ -221,7 +221,7 @@
   "op": "968A2B",
   "len": 34,
   "jp": "「この街の環境が良いのも、ランドエア政策{br}のおかげね。{end}",
-  "en": "",
+  "en": "\"It's all thanks to the Land-Air policy that{br}this city has such a nice environment.\"{end}",
   "notes": ""
  },
  {
@@ -230,7 +230,7 @@
   "op": "968A55",
   "len": 57,
   "jp": "「私の夫は、ババリアに逆らったばかりに{br}奴らに殺されました。{br}もう、どうしたら良いのか………。{end}",
-  "en": "",
+  "en": "\"My husband stood up to Bavaria, and they{br}killed him for it. I don't know what to do{br}anymore.........\"{end}",
   "notes": ""
  },
  {
@@ -239,7 +239,7 @@
   "op": "968AB0",
   "len": 43,
   "jp": "「うっわー、だっさいナビロボ。{br}こんなふるくさいのつかってるの{br}にいちゃんだけだよ。{end}",
-  "en": "",
+  "en": "\"Eww, what a lame Navi-Robo. You're the only{br}one who still uses such an old one, mister.\"{end}",
   "notes": ""
  },
  {
@@ -248,7 +248,7 @@
   "op": "968AE0",
   "len": 43,
   "jp": "{c0C:01}「よけいなお世話だ。{br}子供はオンラインスクールで{br}勉強でもしてな！{end}",
-  "en": "",
+  "en": "{c0C:01}: Mind your own business. Kids should{br}be off studying at online school!{end}",
   "notes": ""
  },
  {
@@ -257,7 +257,7 @@
   "op": "968B13",
   "len": 39,
   "jp": "「すっげー、みたことないタイプの{br}ナビロボだ。ひょっとして、しんがた{br}なの？{end}",
-  "en": "",
+  "en": "\"Whoa, I've never seen a Navi-Robo like that.{br}Is it a new model?\"{end}",
   "notes": ""
  },
  {
@@ -266,7 +266,7 @@
   "op": "968B42",
   "len": 49,
   "jp": "「ババリアがなんだっていうんだよー！{br}ここのおとなたちは、みんなよわむし{br}だけどボクはちがうぞ！{end}",
-  "en": "",
+  "en": "\"Who cares about Bavaria! The grown-ups{br}around here are all scaredy-cats, but not me!\"{end}",
   "notes": ""
  },
  {
@@ -275,7 +275,7 @@
   "op": "968B91",
   "len": 52,
   "jp": "「なぁに？ おにいちゃん。{br}あ、わかったー。おにいちゃんロリコンって{br}やつでしょ。ね、そうなんでしょ？{end}",
-  "en": "",
+  "en": "\"What is it, mister? Oh, I get it. You're one of{br}those creeps who like little girls. Right? You{br}are, aren't you?\"{end}",
   "notes": ""
  },
  {
@@ -284,7 +284,7 @@
   "op": "968BCE",
   "len": 46,
   "jp": "{c0C:01}「なっ…ち、違うわ！{br}まったく、最近のガキは何て事を{br}言い出すんだ。{end}",
-  "en": "",
+  "en": "{c0C:01}: Wh... N-no I'm not! Geez, the things{br}kids come out with these days.{end}",
   "notes": ""
  },
  {
@@ -293,7 +293,7 @@
   "op": "968C0A",
   "len": 40,
   "jp": "「ママが、もうおそとであそんじゃ{br}ダメっていうの。{br}…なんだかつまんないな。{end}",
-  "en": "",
+  "en": "\"Mommy says I can't play outside anymore.{br}...It's kind of boring.\"{end}",
   "notes": ""
  },
  {
@@ -302,7 +302,7 @@
   "op": "968C50",
   "len": 58,
   "jp": "「私のような年寄りが不自由なく暮らせる{br}ようになったのも、バイオ技術が発達した{br}おかげです。{end}",
-  "en": "",
+  "en": "\"It's thanks to advances in biotechnology that{br}an old person like me can live without{br}hardship.\"{end}",
   "notes": ""
  },
  {
@@ -311,7 +311,7 @@
   "op": "968C92",
   "len": 62,
   "jp": "「世の中が悪くなれば、私らのような{br}弱い者から犠牲になって行くんだよ。{br}この街も、もうおしまいかねぇ。{end}",
-  "en": "",
+  "en": "\"When the world goes bad, weak folks like us{br}are the first to suffer. Maybe this city's{br}finished too.\"{end}",
   "notes": ""
  },
  {
@@ -320,7 +320,7 @@
   "op": "968CEE",
   "len": 45,
   "jp": "「わしゃあこれでも若い頃は、{br}コパカバーナ辺りをブイブイいわして{br}おったんじゃぞ。{end}",
-  "en": "",
+  "en": "\"Believe it or not, back in my younger days I{br}was the terror of Copacabana.\"{end}",
   "notes": ""
  },
  {
@@ -329,7 +329,7 @@
   "op": "968D23",
   "len": 43,
   "jp": "「わしゃあこれでも若い頃は、{br}レブロン辺りをブイブイいわして{br}おったんじゃぞ。{end}",
-  "en": "",
+  "en": "\"Believe it or not, back in my younger days I{br}was the terror of Leblon.\"{end}",
   "notes": ""
  },
  {
@@ -338,7 +338,7 @@
   "op": "968D64",
   "len": 41,
   "jp": "{c0C:01}「ドアがロックされている。{br}ま、どうせこの家に用がある訳じゃあない。{end}",
-  "en": "",
+  "en": "{c0C:01}: The door's locked. Well, I've got no{br}business at this house anyway.{end}",
   "notes": ""
  },
  {
@@ -347,7 +347,7 @@
   "op": "968D92",
   "len": 28,
   "jp": "{c0C:01}「どうやらここはノーラの{br}家じゃないようだな。{end}",
-  "en": "",
+  "en": "{c0C:01}: Looks like this isn't Nora's place.{end}",
   "notes": ""
  },
  {
@@ -356,7 +356,7 @@
   "op": "968DE3",
   "len": 38,
   "jp": "{c0C:01}「ここがイオンの家か。{br}結構まともな家に住んでいるんだな。{end}",
-  "en": "",
+  "en": "{c0C:01}: So this is Ion's place. She lives in a{br}pretty decent house.{end}",
   "notes": ""
  },
  {
@@ -365,7 +365,7 @@
   "op": "968E0B",
   "len": 65,
   "jp": "カーク「お前のボロい家と比べる事自体、{br}間違っておる。くだらん事を言っとらんで、{br}さっさと中に入らんか。{end}",
-  "en": "",
+  "en": "Kirk: Comparing it with that shabby dump of{br}yours is a mistake to begin with. Stop talking{br}nonsense and get inside.{end}",
   "notes": ""
  },
  {
@@ -374,7 +374,7 @@
   "op": "968E4E",
   "len": 37,
   "jp": "「…{c1A:3C}お前もミネルバみたいな性格だったら{br}良いんだけどな。{end}",
-  "en": "",
+  "en": "\"...{c1A:3C}If only you had a personality like{br}Minerva's.\"{end}",
   "notes": ""
  },
  {
@@ -383,7 +383,7 @@
   "op": "968E75",
   "len": 31,
   "jp": "「まだ分かっとらんようじゃな。ワシは{br}特別なんじゃぞ。{end}",
-  "en": "",
+  "en": "\"You still don't understand, do you? I am{br}special.\"{end}",
   "notes": ""
  },
  {
@@ -392,7 +392,7 @@
   "op": "968E99",
   "len": 24,
   "jp": "「そうだな、ジジ臭さだけは特別製だな。{end}",
-  "en": "",
+  "en": "\"Yeah, you're specially made when it comes to{br}sounding like an old geezer.\"{end}",
   "notes": ""
  },
  {
@@ -401,7 +401,7 @@
   "op": "968EC3",
   "len": 42,
   "jp": "{c0C:01}「イオンはもうここには{br}住んでいない。{br}今はレジスタンスのアジトにいる。{end}",
-  "en": "",
+  "en": "{c0C:01}: Ion doesn't live here anymore. She's{br}at the Resistance hideout now.{end}",
   "notes": ""
  },
  {
@@ -410,7 +410,7 @@
   "op": "968F25",
   "len": 28,
   "jp": "ミネルバ「あぁ、{c0C:01}さん。{br}来ていただけましたか。{end}",
-  "en": "",
+  "en": "Minerva: Ah, {c0C:01}-san. You came.{end}",
   "notes": ""
  },
  {
@@ -419,7 +419,7 @@
   "op": "968F47",
   "len": 26,
   "jp": "{c0C:01}「何でイオンはババリアに{br}さらわれたんだ？{end}",
-  "en": "",
+  "en": "{c0C:01}: Why did Bavaria kidnap Ion?{end}",
   "notes": ""
  },
  {
@@ -428,7 +428,7 @@
   "op": "968F63",
   "len": 14,
   "jp": "「こちらへ来て下さい。{end}",
-  "en": "",
+  "en": "\"Please come this way.\"{end}",
   "notes": ""
  },
  {
@@ -437,7 +437,7 @@
   "op": "968F8A",
   "len": 19,
   "jp": "カーク「何処へ行くつもりじゃ。{end}",
-  "en": "",
+  "en": "Kirk: Where do you think you're going?{end}",
   "notes": ""
  },
  {
@@ -446,7 +446,7 @@
   "op": "96900A",
   "len": 19,
   "jp": "{c0C:01}「この壊れている端末は？{end}",
-  "en": "",
+  "en": "{c0C:01}: What's with this broken terminal?{end}",
   "notes": ""
  },
  {
@@ -455,7 +455,7 @@
   "op": "96901F",
   "len": 39,
   "jp": "ミネルバ「{c0C:01}さん、今この街に何が{br}起きているのかご存じですか？{end}",
-  "en": "",
+  "en": "Minerva: {c0C:01}-san, do you know what's{br}happening in this city right now?{end}",
   "notes": ""
  },
  {
@@ -464,7 +464,7 @@
   "op": "96904A",
   "len": 41,
   "jp": "「何か様子がおかしいというのは気がついた{br}けど、{c1A:28}何があったんだ？{end}",
-  "en": "",
+  "en": "\"I noticed something was off, but {c1A:28}what{br}happened?\"{end}",
   "notes": ""
  },
  {
@@ -473,7 +473,7 @@
   "op": "969075",
   "len": 48,
   "jp": "「CTIにあるメインコンピューターを{br}ババリアがハックして、この街を乗っ取った{br}のです。{end}",
-  "en": "",
+  "en": "\"Bavaria hacked the main computer at CTI and{br}took over the city.\"{end}",
   "notes": ""
  },
  {
@@ -482,7 +482,7 @@
   "op": "9690AA",
   "len": 35,
   "jp": "「街をコントロールするコンピューターが{br}ハックされたっていうのか？{end}",
-  "en": "",
+  "en": "\"The computer that controls the city got{br}hacked?\"{end}",
   "notes": ""
  },
  {
@@ -491,7 +491,7 @@
   "op": "9690E5",
   "len": 21,
   "jp": "「イオンはどこへ連れて行かれたんだ？{end}",
-  "en": "",
+  "en": "\"Where did they take Ion?\"{end}",
   "notes": ""
  },
  {
@@ -500,7 +500,7 @@
   "op": "9690FC",
   "len": 16,
   "jp": "「………分かりません。{end}",
-  "en": "",
+  "en": "\"...I don't know.\"{end}",
   "notes": ""
  },
  {
@@ -509,7 +509,7 @@
   "op": "96910D",
   "len": 61,
   "jp": "ただ、電脳空間に暗号化したシグナルを{br}流しておくから、{c0C:01}さんとカークに{br}それをたどってもらえとだけ。{end}",
-  "en": "",
+  "en": "She only said she would send an encrypted{br}signal through cyberspace, and that you and{br}Kirk should follow it, {c0C:01}-san.{end}",
   "notes": ""
  },
  {
@@ -518,7 +518,7 @@
   "op": "96914C",
   "len": 30,
   "jp": "「それをたどれば、イオンの居場所が{br}分かるんだな？{end}",
-  "en": "",
+  "en": "\"If we follow it, we'll find out where Ion is?\"{end}",
   "notes": ""
  },
  {
@@ -527,7 +527,7 @@
   "op": "96916C",
   "len": 67,
   "jp": "「サイコダイブには私を使って下さい。{br}カークは私と接続しておけば大丈夫です。{br}サイコダイブの経験はありますか？{end}",
-  "en": "",
+  "en": "\"Please use me for the Psycho Dive. Kirk will{br}be fine if he's connected to me. Have you{br}ever done a Psycho Dive?\"{end}",
   "notes": ""
  },
  {
@@ -536,7 +536,7 @@
   "op": "9691B1",
   "len": 59,
   "jp": "「サイコダイブは初めてだ。だが、イオンの{br}居場所を見つけるにはこれしかないんだろ？{br}だったらやるしかない。{end}",
-  "en": "",
+  "en": "\"It's my first Psycho Dive. But it's the only{br}way to find Ion, right? Then I've got to do{br}it.\"{end}",
   "notes": ""
  },
  {
@@ -545,7 +545,7 @@
   "op": "9691EE",
   "len": 14,
   "jp": "「ありがとう、{c0C:01}さん。{end}",
-  "en": "",
+  "en": "\"Thank you, {c0C:01}-san.\"{end}",
   "notes": ""
  },
  {
@@ -554,7 +554,7 @@
   "op": "9691FD",
   "len": 48,
   "jp": "では、早速始めましょう。ヘッドセットを{br}装着して下さい。カークは私と接続を。{end}",
-  "en": "",
+  "en": "Then let's begin right away. Please put on the{br}headset. Kirk, connect to me.{end}",
   "notes": ""
  },
  {
@@ -563,7 +563,7 @@
   "op": "96922F",
   "len": 13,
   "jp": "「OK、取り付けた。{end}",
-  "en": "",
+  "en": "\"OK, it's on.\"{end}",
   "notes": ""
  },
  {
@@ -572,7 +572,7 @@
   "op": "969240",
   "len": 19,
   "jp": "「ワシの方も接続完了じゃ。{end}",
-  "en": "",
+  "en": "\"I'm connected too.\"{end}",
   "notes": ""
  },
  {
@@ -581,7 +581,7 @@
   "op": "969255",
   "len": 32,
   "jp": "「チューニングとアクセスタイミングは{br}私の方で取ります。{endFD}",
-  "en": "",
+  "en": "\"I'll handle the tuning and access timing.\"{endFD}",
   "notes": ""
  },
  {
@@ -590,7 +590,7 @@
   "op": "969276",
   "len": 63,
   "jp": "{c0C:01}さんはカークと一緒に、{br}迷路のような電脳空間から暗号化された{br}シグナルを探し出して下さい。{endFD}",
-  "en": "",
+  "en": "{c0C:01}-san, you and Kirk must find the{br}encrypted signal in the maze of cyberspace.{endFD}",
   "notes": ""
  },
  {
@@ -599,7 +599,7 @@
   "op": "9692B6",
   "len": 52,
   "jp": "カークがアドレスを教えてくれますから、{br}それを参考に探索すれば、迷わずに済む{br}ハズです。{endFD}",
-  "en": "",
+  "en": "Kirk will give you the addresses. If you search{br}with those, you shouldn't get lost.{endFD}",
   "notes": ""
  },
  {
@@ -608,7 +608,7 @@
   "op": "9692EB",
   "len": 21,
   "jp": "それでは、サイコダイブをスタートします。{end}",
-  "en": "",
+  "en": "Now, starting the Psycho Dive.{end}",
   "notes": ""
  },
  {
@@ -617,7 +617,7 @@
   "op": "96931F",
   "len": 45,
   "jp": "{c0C:01}「う〜、頭の中がクラクラする。{br}どうだ、カーク。暗号は解読できたか？{end}",
-  "en": "",
+  "en": "{c0C:01}: Ugh, my head's spinning. Well, Kirk?{br}Did you crack the code?{end}",
   "notes": ""
  },
  {
@@ -626,7 +626,7 @@
   "op": "969353",
   "len": 60,
   "jp": "カーク「うむ、解読が終わったぞ。{br}イオンが捕われておる場所はエリア12の{br}商業地区にあるようじゃ。{end}",
-  "en": "",
+  "en": "Kirk: Indeed, the decoding is done. It seems{br}Ion is being held in the Commercial District in{br}Area 12.{end}",
   "notes": ""
  },
  {
@@ -635,7 +635,7 @@
   "op": "969391",
   "len": 22,
   "jp": "「よし、準備をしたら早速行くぞ。{end}",
-  "en": "",
+  "en": "\"All right, once we're ready, let's go.\"{end}",
   "notes": ""
  },
  {
@@ -644,7 +644,7 @@
   "op": "9693B2",
   "len": 28,
   "jp": "ミネルバ「{c0C:01}さん、{br}イオンの事をお願いします。{end}",
-  "en": "",
+  "en": "Minerva: {c0C:01}-san, please take care of{br}Ion.{end}",
   "notes": ""
  },
  {
@@ -653,7 +653,7 @@
   "op": "969433",
   "len": 67,
   "jp": "「ババリアは只の犯罪組織ではなかったよう{br}です。{c1A:3C}初めからこの街を手に入れる事を{br}狙っていたようなのです。{endFD}",
-  "en": "",
+  "en": "\"It seems Bavaria wasn't just a crime{br}syndicate. {c1A:3C}It looks like they were after this{br}city from the start.\"{endFD}",
   "notes": ""
  },
  {
@@ -662,7 +662,7 @@
   "op": "969477",
   "len": 69,
   "jp": "おそらく、CTIの中にもババリアの人間が{br}潜んでいたのでしょう。そうでなければ、{br}ハックするなんて不可能に近いハズです。{endFD}",
-  "en": "",
+  "en": "There must have been Bavaria people hiding{br}inside CTI too. Otherwise hacking it should{br}have been next to impossible.{endFD}",
   "notes": ""
  },
  {
@@ -671,7 +671,7 @@
   "op": "9694BD",
   "len": 52,
   "jp": "イオンはメインコンピューターにアクセス{br}しようとしたのですが、反対に探知されて{br}しまって…。{endFD}",
-  "en": "",
+  "en": "Ion tried to access the main computer, but she{br}was traced instead...{endFD}",
   "notes": ""
  },
  {
@@ -680,7 +680,7 @@
   "op": "9694F2",
   "len": 55,
   "jp": "私を隠すのが精一杯で、イオンはここへ{br}現れたババリアの男たちに連れ去られて{br}しまいました。{end}",
-  "en": "",
+  "en": "All she could do was hide me, and then{br}Bavaria's men showed up here and took Ion{br}away.{end}",
   "notes": ""
  },
  {
@@ -689,7 +689,7 @@
   "op": "969546",
   "len": 26,
   "jp": "カーク「イオンのランナー、{br}ブリガンティアじゃな。{end}",
-  "en": "",
+  "en": "Kirk: That's Ion's runner, Brigantia.{end}",
   "notes": ""
  },
  {
@@ -698,7 +698,7 @@
   "op": "96A041",
   "len": 28,
   "jp": "ノーラ「キャッ、あなた誰？{br}私に近寄らないで！{end}",
-  "en": "",
+  "en": "Nora: Eek! Who are you? Stay away from me!{end}",
   "notes": ""
  },
  {
@@ -707,7 +707,7 @@
   "op": "96A062",
   "len": 46,
   "jp": "{c0C:01}「心配するな。{br}オレはシスターレイチェルに頼まれて{br}君を助けに来たんだ。{end}",
-  "en": "",
+  "en": "{c0C:01}: Don't worry. Sister Rachel asked me{br}to come rescue you.{end}",
   "notes": ""
  },
  {
@@ -716,7 +716,7 @@
   "op": "96A092",
   "len": 34,
   "jp": "「えっ？ シスターから…？{br}あなた、シスターの知り合いなの？{end}",
-  "en": "",
+  "en": "\"Huh? From the Sister...? You know the{br}Sister?\"{end}",
   "notes": ""
  },
  {
@@ -725,7 +725,7 @@
   "op": "96A0B6",
   "len": 37,
   "jp": "「ああ。小さい頃、よくイタズラをして{br}あの婆さんに怒られてたよ。{endFD}",
-  "en": "",
+  "en": "\"Yeah. When I was little I was always pulling{br}pranks and getting chewed out by the old{br}bag.\"{endFD}",
   "notes": ""
  },
  {
@@ -734,7 +734,7 @@
   "op": "96A0DC",
   "len": 36,
   "jp": "「ここは危険だ。さっさと脱出しよう。{br}オレに付いてくるんだ。{end}",
-  "en": "",
+  "en": "\"It's dangerous here. Let's get out quick.{br}Follow me.\"{end}",
   "notes": ""
  },
  {
@@ -743,7 +743,7 @@
   "op": "96A102",
   "len": 15,
   "jp": "「は、はい。分かりました。{end}",
-  "en": "",
+  "en": "\"Y-yes. All right.\"{end}",
   "notes": ""
  },
  {
@@ -752,7 +752,7 @@
   "op": "96A193",
   "len": 42,
   "jp": "「待てキサマ、女はディスクと交換だと{br}言ったハズだ。ディスクはどうした？{end}",
-  "en": "",
+  "en": "\"Hold it, you! I said the woman was in{br}exchange for the disc. Where's the disc?\"{end}",
   "notes": ""
  },
  {
@@ -761,7 +761,7 @@
   "op": "96A1BF",
   "len": 48,
   "jp": "{c0C:01}「あいにくだが、ディスクは{br}渡す訳にはいかないな。{br}だが、ノーラは返してもらうぜ。{end}",
-  "en": "",
+  "en": "{c0C:01}: Sorry, but I can't hand over the{br}disc. I'm taking Nora back, though.{end}",
   "notes": ""
  },
  {
@@ -770,7 +770,7 @@
   "op": "96A1F1",
   "len": 43,
   "jp": "「あのディスクにはババリアとの重要な{br}取り引きのデータが記録されている。{endFD}",
-  "en": "",
+  "en": "\"That disc holds data on important dealings{br}with Bavaria.\"{endFD}",
   "notes": ""
  },
  {
@@ -779,7 +779,7 @@
   "op": "96A21D",
   "len": 57,
   "jp": "あれが警察に渡ってしまったら、{br}私が奴らに狙われる事になるんだ。{br}絶対に生かして帰さんぞ！{end}",
-  "en": "",
+  "en": "If it falls into police hands, they'll come after{br}me. I won't let you leave here alive!{end}",
   "notes": ""
  },
  {
@@ -788,7 +788,7 @@
   "op": "96A29A",
   "len": 47,
   "jp": "{c0C:01}「今の奴、ババリアと{br}取り引きとか言ってたな。{br}ノーラ、どういう事なんだ？{end}",
-  "en": "",
+  "en": "{c0C:01}: That guy said something about{br}dealings with Bavaria. Nora, what's going on?{end}",
   "notes": ""
  },
  {
@@ -797,7 +797,7 @@
   "op": "96A2CB",
   "len": 60,
   "jp": "ノーラ「ランナーに乗っていたのは{br}カタラカンパニーの社長です。会社は{br}ババリアと取り引きしていたんです。{endFD}",
-  "en": "",
+  "en": "Nora: The man in that runner was the{br}president of the Catala Company. The company{br}has been doing business with Bavaria.{endFD}",
   "notes": ""
  },
  {
@@ -806,7 +806,7 @@
   "op": "96A308",
   "len": 48,
   "jp": "今、ババリアはこの街に次々と拠点を{br}作り、勢力を拡大しているみたいです。{end}",
-  "en": "",
+  "en": "Right now Bavaria seems to be setting up{br}bases all over the city, one after another,{br}expanding its power.{end}",
   "notes": ""
  },
  {
@@ -815,7 +815,7 @@
   "op": "96A33A",
   "len": 63,
   "jp": "「そういえば、タオがババリアの事を{br}言っていたな。たしか、最近この街に{br}進出してきた犯罪組織らしいな。{end}",
-  "en": "",
+  "en": "\"Come to think of it, Tao mentioned Bavaria. A{br}crime syndicate that moved into the city{br}recently, I think he said.\"{end}",
   "notes": ""
  },
  {
@@ -824,7 +824,7 @@
   "op": "96A37B",
   "len": 59,
   "jp": "「会社は修道院のある土地に目をつけ、{br}シスターを強引に立ち退かせようと{br}考えていたんです。{end}",
-  "en": "",
+  "en": "\"The company had its eye on the land where{br}the convent stands, and planned to force the{br}Sister out.\"{end}",
   "notes": ""
  },
  {
@@ -833,7 +833,7 @@
   "op": "96A3B8",
   "len": 47,
   "jp": "「それであんな事をしたのか。{br}さあ、シスターが心配してるぜ。{br}修道院へ戻ろう。{end}",
-  "en": "",
+  "en": "\"So that's why they pulled that stunt. C'mon,{br}the Sister's worried about you. Let's head{br}back to the convent.\"{end}",
   "notes": ""
  },
  {
@@ -842,7 +842,7 @@
   "op": "96A701",
   "len": 36,
   "jp": "{c0C:01}「コンテナばっかりだぞ。{br}ドラッグ工場なんてないじゃないか。{end}",
-  "en": "",
+  "en": "{c0C:01}: Nothing but containers. There's no{br}drug factory here.{end}",
   "notes": ""
  },
  {
@@ -851,7 +851,7 @@
   "op": "96A734",
   "len": 57,
   "jp": "カーク「あわてるでない、ヒヨッコが。{br}いくつかのコンテナの下に空間がある。{br}コンテナはカムフラージュじゃ。{end}",
-  "en": "",
+  "en": "Kirk: Don't be so hasty, greenhorn. There are{br}spaces under some of the containers. The{br}containers are camouflage.{end}",
   "notes": ""
  },
  {
@@ -860,7 +860,7 @@
   "op": "96A76F",
   "len": 25,
   "jp": "「じゃあ、コンテナを調べていけば{br}いいんだな。{end}",
-  "en": "",
+  "en": "\"So we just check the containers one by one?\"{end}",
   "notes": ""
  },
  {
@@ -869,7 +869,7 @@
   "op": "96A78A",
   "len": 42,
   "jp": "「そ〜いう事じゃ。{br}やはり、お前にはワシがついていないと{br}ダメなようじゃな。{end}",
-  "en": "",
+  "en": "\"Preeecisely. Clearly you're no good without{br}me around.\"{end}",
   "notes": ""
  },
  {
@@ -878,7 +878,7 @@
   "op": "96A7B6",
   "len": 34,
   "jp": "「ハイハイ、分かりましたよカーク様。{br}だからそうイジメるなよ。{end}",
-  "en": "",
+  "en": "\"Yeah, yeah, I get it, Kirk-sama. So quit{br}picking on me.\"{end}",
   "notes": ""
  },
  {
@@ -887,7 +887,7 @@
   "op": "96AFD2",
   "len": 41,
   "jp": "{c0C:01}「やけに簡単に潜入できたな。{br}おいカーク、何か反応はあるか？{end}",
-  "en": "",
+  "en": "{c0C:01}: That was awfully easy to sneak in.{br}Hey, Kirk, picking anything up?{end}",
   "notes": ""
  },
  {
@@ -896,7 +896,7 @@
   "op": "96B000",
   "len": 56,
   "jp": "カーク「ノイズが多くてよく分からんが、{br}いくつかそれらしき反応は感知した。{br}気を抜くでないぞ。{end}",
-  "en": "",
+  "en": "Kirk: There's a lot of noise so I can't be sure,{br}but I've sensed a few likely signals. Don't let{br}your guard down.{end}",
   "notes": ""
  },
  {
@@ -905,7 +905,7 @@
   "op": "96B03A",
   "len": 15,
   "jp": "「それくらい分かってるさ。{end}",
-  "en": "",
+  "en": "\"I know that much.\"{end}",
   "notes": ""
  },
  {
@@ -914,7 +914,7 @@
   "op": "96B05A",
   "len": 56,
   "jp": "{c0C:01}「これが奴らの『商品』か。{br}どうやらこのフロアから先が{br}奴らの工場になっているみたいだな。{end}",
-  "en": "",
+  "en": "{c0C:01}: So this is their 'product.' Looks like{br}everything past this floor is their factory.{end}",
   "notes": ""
  },
  {
@@ -923,7 +923,7 @@
   "op": "96B094",
   "len": 41,
   "jp": "カーク「人間がなぜこんな物を{br}欲しがるのか、ワシには理解しがたいな。{end}",
-  "en": "",
+  "en": "Kirk: Why humans would want such things is{br}beyond me.{end}",
   "notes": ""
  },
  {
@@ -932,7 +932,7 @@
   "op": "96B0BF",
   "len": 39,
   "jp": "「こいつに頼らなきゃ生きて行けないって{br}奴も少なからずいるんだぜ。{end}",
-  "en": "",
+  "en": "\"There are more than a few people who can't{br}live without this stuff.\"{end}",
   "notes": ""
  },
  {
@@ -941,7 +941,7 @@
   "op": "96B0E8",
   "len": 61,
   "jp": "「自分にとって害だと分かっていても{br}手を出してしまう…まったく、人間という{br}生き物は分からんな。{end}",
-  "en": "",
+  "en": "\"Knowing full well it harms them, yet they{br}reach for it anyway... Humans truly are{br}baffling creatures.\"{end}",
   "notes": ""
  },
  {
@@ -950,7 +950,7 @@
   "op": "96B13D",
   "len": 39,
   "jp": "「アハハハ〜何だぁお前は？{br}ランナーなんかに乗ってバカじゃないのか？{end}",
-  "en": "",
+  "en": "\"Ahahaha... What're you supposed to be? Ridin'{br}around in a runner, are you stupid or{br}somethin'?\"{end}",
   "notes": ""
  },
  {
@@ -959,7 +959,7 @@
   "op": "96B166",
   "len": 53,
   "jp": "{c0C:01}「こいつ、この工場にある{br}ドラッグをこっそりくすねてやってたな。{br}完全にラリっていやがる。{end}",
-  "en": "",
+  "en": "{c0C:01}: This guy's been sneaking drugs from{br}the factory. He's completely stoned.{end}",
   "notes": ""
  },
  {
@@ -968,7 +968,7 @@
   "op": "96B19D",
   "len": 30,
   "jp": "「ヘヘヘヘ、気持ちイイなぁ〜。{br}ここは最高だぁ。{end}",
-  "en": "",
+  "en": "\"Heheheh, feels sooo good... This place is the{br}best...\"{end}",
   "notes": ""
  },
  {
@@ -977,7 +977,7 @@
   "op": "96B1BD",
   "len": 31,
   "jp": "「ダメだな、こりゃ。{br}とても正気には戻りそうもないな。{end}",
-  "en": "",
+  "en": "\"Hopeless. He's not coming back to his senses{br}anytime soon.\"{end}",
   "notes": ""
  },
  {
@@ -986,7 +986,7 @@
   "op": "96B1E1",
   "len": 19,
   "jp": "カーク「このまま放って行くのか？{end}",
-  "en": "",
+  "en": "Kirk: Are you just going to leave him like this?{end}",
   "notes": ""
  },
  {
@@ -995,7 +995,7 @@
   "op": "96B1F6",
   "len": 39,
   "jp": "「オレは親切の大安売りをするような{br}正義の味方じゃないぜ。{endFD}",
-  "en": "",
+  "en": "\"I'm not some hero of justice handing out{br}kindness at bargain prices.\"{endFD}",
   "notes": ""
  },
  {
@@ -1004,7 +1004,7 @@
   "op": "96B21E",
   "len": 62,
   "jp": "ここにいるって事はババリアの人間だろう。{br}オレは仕事でここに来た訳じゃないんだ。{br}助ける義理はないよ。{end}",
-  "en": "",
+  "en": "If he's here, he's gotta be one of Bavaria's{br}people. I'm not even here on a job. I don't{br}owe him any help.{end}",
   "notes": ""
  },
  {
@@ -1013,7 +1013,7 @@
   "op": "96B267",
   "len": 67,
   "jp": "「デヘヘヘ〜お前知ってるかぁ？{br}この工場には秘密の通路があるんだぜぇ。{br}でも、だ〜れにも言っちゃダメだぜ〜。{end}",
-  "en": "",
+  "en": "\"Dehehe... Hey, you know what? There's a{br}secret passage in this factory. But don't tell{br}nobody, okaaay?\"{end}",
   "notes": ""
  },
  {
@@ -1022,7 +1022,7 @@
   "op": "96B2B1",
   "len": 31,
   "jp": "{c0C:01}「奴らの『商品』が次々と{br}流れていってる。{end}",
-  "en": "",
+  "en": "{c0C:01}: Their 'product' is flowing out one{br}after another.{end}",
   "notes": ""
  },
  {
@@ -1031,7 +1031,7 @@
   "op": "96B2D8",
   "len": 28,
   "jp": "{c0C:01}「ここのラインには何も{br}流れてないようだな。{end}",
-  "en": "",
+  "en": "{c0C:01}: Looks like nothing's running on this{br}line.{end}",
   "notes": ""
  },
  {
@@ -1040,7 +1040,7 @@
   "op": "96B2FE",
   "len": 25,
   "jp": "カーク「{c0C:01}、ここが動力室の{br}ようじゃ。{end}",
-  "en": "",
+  "en": "Kirk: {c0C:01}, this appears to be the power{br}room.{end}",
   "notes": ""
  },
  {
@@ -1049,7 +1049,7 @@
   "op": "96B319",
   "len": 29,
   "jp": "{c0C:01}「よし、リフからもらった{br}爆薬をセットしよう。{end}",
-  "en": "",
+  "en": "{c0C:01}: All right, let's set the explosives Riff{br}gave me.{end}",
   "notes": ""
  },
  {
@@ -1058,7 +1058,7 @@
   "op": "96B36F",
   "len": 14,
   "jp": "爆薬をセットしました。{end}",
-  "en": "",
+  "en": "The explosives have been set.{end}",
   "notes": ""
  },
  {
@@ -1067,7 +1067,7 @@
   "op": "96B38D",
   "len": 42,
   "jp": "{c0C:01}「これでこの工場も終わりだ。{br}ここから出たら、すぐに爆破しよう。{end}",
-  "en": "",
+  "en": "{c0C:01}: That's the end of this factory. Once{br}we're out, we blow it.{end}",
   "notes": ""
  },
  {
@@ -1076,7 +1076,7 @@
   "op": "96B444",
   "len": 27,
   "jp": "扉のスイッチがあります。スイッチを{br}入れますか？{end}",
-  "en": "",
+  "en": "There is a switch for the door. Turn it on?{end}",
   "notes": ""
  },
  {
@@ -1085,7 +1085,7 @@
   "op": "96B460",
   "len": 20,
   "jp": "  スイッチを入れる{br}  やめておく{endFE}",
-  "en": "",
+  "en": "Turn it on{br}Leave it{endFE}",
   "notes": ""
  },
  {
@@ -1094,7 +1094,7 @@
   "op": "96B54B",
   "len": 14,
   "jp": "スイッチは入っています。{end}",
-  "en": "",
+  "en": "The switch is on.{end}",
   "notes": ""
  },
  {
@@ -1103,7 +1103,7 @@
   "op": "96B5D1",
   "len": 61,
   "jp": "{c0C:01}「こいつは、ほんのアイサツ{br}代わりだ。お前ら全員、オレが地獄へ案内{br}してやる。覚悟しておけよ。{end}",
-  "en": "",
+  "en": "{c0C:01}: That's just my way of saying hello.{br}I'll show every last one of you the way to{br}hell. Get ready.{end}",
   "notes": ""
  },
  {
@@ -1112,7 +1112,7 @@
   "op": "96B615",
   "len": 20,
   "jp": "声「やはりお前の仕業だったか。{end}",
-  "en": "",
+  "en": "Voice: So it was your doing after all.{end}",
   "notes": ""
  },
  {
@@ -1121,7 +1121,7 @@
   "op": "96B634",
   "len": 17,
   "jp": "「！…ラオエル。いつの間に。{end}",
-  "en": "",
+  "en": "\"...! Raoel. When did you get here?\"{end}",
   "notes": ""
  },
  {
@@ -1130,7 +1130,7 @@
   "op": "96B649",
   "len": 35,
   "jp": "カーク「わしのセンサーに{br}感知されないとは、大したものじゃな。{end}",
-  "en": "",
+  "en": "Kirk: Slipping past my sensors - quite{br}impressive.{end}",
   "notes": ""
  },
  {
@@ -1139,7 +1139,7 @@
   "op": "96B670",
   "len": 46,
   "jp": "「感心してる場合か！{br}…ったく、お前のセンサー故障してるんじゃ{br}ないのか？{end}",
-  "en": "",
+  "en": "\"This is no time to be impressed! ...Geez,{br}aren't your sensors broken or something?\"{end}",
   "notes": ""
  },
  {
@@ -1148,7 +1148,7 @@
   "op": "96B6A2",
   "len": 14,
   "jp": "「大きなお世話じゃ。{end}",
-  "en": "",
+  "en": "\"Mind your own business.\"{end}",
   "notes": ""
  },
  {
@@ -1157,7 +1157,7 @@
   "op": "96B6B2",
   "len": 55,
   "jp": "ラオエル「ここに来るとは思っていたが、{br}まさか爆破するとはな。お前もババリアに{br}恨みがあるのか？{end}",
-  "en": "",
+  "en": "Raoel: I thought you would come here, but I{br}never imagined you'd blow it up. Do you hold a{br}grudge against Bavaria too?{end}",
   "notes": ""
  },
  {
@@ -1166,7 +1166,7 @@
   "op": "96B6EE",
   "len": 18,
   "jp": "「お前には関係のない事だ。{end}",
-  "en": "",
+  "en": "\"That's none of your business.\"{end}",
   "notes": ""
  },
  {
@@ -1175,7 +1175,7 @@
   "op": "96B704",
   "len": 60,
   "jp": "「そうか…。ひょっとしたら、お前とは{br}仲間になれそうな気がしたのだがな。{br}まぁいい、引き揚げるとしよう。{end}",
-  "en": "",
+  "en": "\"I see... I had a feeling we might be able to{br}become comrades. Well, no matter. I'll take my{br}leave.\"{end}",
   "notes": ""
  },
  {
@@ -1184,7 +1184,7 @@
   "op": "96B752",
   "len": 21,
   "jp": "「相変わらず謎の多い奴じゃな。{end}",
-  "en": "",
+  "en": "\"As mysterious a fellow as ever.\"{end}",
   "notes": ""
  },
  {
@@ -1193,7 +1193,7 @@
   "op": "96B769",
   "len": 32,
   "jp": "「オレを仲間にだと…？{br}奴め、何を考えているんだ。{end}",
-  "en": "",
+  "en": "\"Make me his comrade...? What's that guy{br}thinking?\"{end}",
   "notes": ""
  },
  {
@@ -1202,7 +1202,7 @@
   "op": "96BC8E",
   "len": 33,
   "jp": "{c0C:01}「こいつは作業ロボットだな。{br}武装はされていない。{end}",
-  "en": "",
+  "en": "{c0C:01}: This is a work robot. It's not armed.{end}",
   "notes": ""
  },
  {
@@ -1211,7 +1211,7 @@
   "op": "96BCB1",
   "len": 37,
   "jp": "カーク「バーサティリティーという{br}タイプじゃな。無人で動いておる。{end}",
-  "en": "",
+  "en": "Kirk: A Versatility type. It's running{br}unmanned.{end}",
   "notes": ""
  },
  {
@@ -1220,7 +1220,7 @@
   "op": "96BCD8",
   "len": 37,
   "jp": "「まぁ、モノがモノだしな。{br}人間には作業を任せられないだろう。{end}",
-  "en": "",
+  "en": "\"Well, considering what they're making, they{br}couldn't exactly leave the work to humans.\"{end}",
   "notes": ""
  },
  {
@@ -1229,7 +1229,7 @@
   "op": "96BD1B",
   "len": 19,
   "jp": "{c0C:01}「ダメだ、開きそうにないな。{end}",
-  "en": "",
+  "en": "{c0C:01}: No good, it won't open.{end}",
   "notes": ""
  },
  {
@@ -1238,7 +1238,7 @@
   "op": "96BD37",
   "len": 41,
   "jp": "{c0C:01}「作業用のランナーだ。{br}たしか、IRQ−01という名前だったな。{end}",
-  "en": "",
+  "en": "{c0C:01}: It's a work runner. I think it's called{br}the IRQ-01.{end}",
   "notes": ""
  },
  {
@@ -1247,7 +1247,7 @@
   "op": "96C215",
   "len": 39,
   "jp": "{c0C:01}「依頼を受けて来たんだが、{br}ここの店長はどこにいるんだい？{end}",
-  "en": "",
+  "en": "{c0C:01}: I'm here about a job. Where's the{br}manager?{end}",
   "notes": ""
  },
  {
@@ -1256,7 +1256,7 @@
   "op": "96C242",
   "len": 55,
   "jp": "受付嬢「{c0C:01}＝{c0C:00}様ですね。{br}店長が奥の部屋でお待ちです。{br}どうぞお入り下さい。{end}",
-  "en": "",
+  "en": "Receptionist: You must be {c0C:01}{br}{c0C:00}-sama. The manager is waiting for you{br}in the back room. Please go on in.{end}",
   "notes": ""
  },
  {
@@ -1265,7 +1265,7 @@
   "op": "96C291",
   "len": 28,
   "jp": "受付嬢「店長は奥の部屋でお待ちです。{end}",
-  "en": "",
+  "en": "Receptionist: The manager is waiting for you{br}in the back room.{end}",
   "notes": ""
  },
  {
@@ -1274,7 +1274,7 @@
   "op": "96C2B5",
   "len": 47,
   "jp": "受付嬢「探偵さんなんですってね。{br}店長はどんな仕事を依頼したのかしら。{end}",
-  "en": "",
+  "en": "Receptionist: So you're a detective? I wonder{br}what job the manager asked you to do.{end}",
   "notes": ""
  },
  {
@@ -1283,7 +1283,7 @@
   "op": "96C2ED",
   "len": 63,
   "jp": "受付嬢「店長ったら、いつまで店を{br}準備中にしておくつもりなのかしら。{br}探偵さん、何かあったんですか？{end}",
-  "en": "",
+  "en": "Receptionist: How long does the manager plan{br}to keep the shop closed for preparations?{br}Detective, did something happen?{end}",
   "notes": ""
  },
  {
@@ -1292,7 +1292,7 @@
   "op": "96C33E",
   "len": 53,
   "jp": "受付嬢「お待ち下さい！{br}今はまだ準備中です。{br}勝手に奥に入られては困ります。{end}",
-  "en": "",
+  "en": "Receptionist: Please wait! We're still getting{br}ready. You can't just go into the back.{end}",
   "notes": ""
  },
  {
@@ -1301,7 +1301,7 @@
   "op": "96C3BB",
   "len": 53,
   "jp": "店長「ここにあるのは全て端末でして、{br}ホストセンターのコンピューターに{br}つながっているんです。{end}",
-  "en": "",
+  "en": "Manager: Everything here is a terminal,{br}connected to the computer at the Host Center.{end}",
   "notes": ""
  },
  {
@@ -1310,7 +1310,7 @@
   "op": "96C44C",
   "len": 30,
   "jp": "イオン「ホストセンターの{br}バイオモンスターはまかせたわよ。{end}",
-  "en": "",
+  "en": "Ion: I'm leaving the bio-monster at the Host{br}Center to you.{end}",
   "notes": ""
  },
  {
@@ -1319,7 +1319,7 @@
   "op": "96C4D4",
   "len": 44,
   "jp": "ナビロボ「私はミネルバ。イオンの{br}パートナーをしています。よろしくね、{br}{c0C:01}さん。{end}",
-  "en": "",
+  "en": "Navi-Robo: I'm Minerva. I'm Ion's partner. Nice{br}to meet you, {c0C:01}-san.{end}",
   "notes": ""
  },
  {
@@ -1328,7 +1328,7 @@
   "op": "96C502",
   "len": 28,
   "jp": "{c0C:01}「へぇ、人格の刷り込みを{br}してあるのか。{end}",
-  "en": "",
+  "en": "{c0C:01}: Huh, so you've had a personality{br}imprinted.{end}",
   "notes": ""
  },
  {
@@ -1337,7 +1337,7 @@
   "op": "96C527",
   "len": 46,
   "jp": "イオン「ちょっとぉ、今時当たり前じゃ{br}ないの。あなたのナビロボが古過ぎるのよ。{end}",
-  "en": "",
+  "en": "Ion: Oh, come on, that's standard these days.{br}Your Navi-Robo's just way too old.{end}",
   "notes": ""
  },
  {
@@ -1346,7 +1346,7 @@
   "op": "96C563",
   "len": 18,
   "jp": "ミネルバ「よろしくね、{c0C:01}さん。{end}",
-  "en": "",
+  "en": "Minerva: Nice to meet you, {c0C:01}-san.{end}",
   "notes": ""
  },
  {
@@ -1355,7 +1355,7 @@
   "op": "96C5EE",
   "len": 26,
   "jp": "{c0C:01}「まるで、魂が抜けている{br}みたいだ…。{end}",
-  "en": "",
+  "en": "{c0C:01}: It's like her soul's been sucked out...{end}",
   "notes": ""
  },
  {
@@ -1364,7 +1364,7 @@
   "op": "96C683",
   "len": 19,
   "jp": "店長「{c0C:01}＝{c0C:00}さんですね。{end}",
-  "en": "",
+  "en": "Manager: You must be {c0C:01} {c0C:00}-san.{end}",
   "notes": ""
  },
  {
@@ -1373,7 +1373,7 @@
   "op": "96C69A",
   "len": 15,
   "jp": "{c0C:01}「そっちの女性は？{end}",
-  "en": "",
+  "en": "{c0C:01}: And who's she?{end}",
   "notes": ""
  },
  {
@@ -1382,7 +1382,7 @@
   "op": "96C6B0",
   "len": 50,
   "jp": "女性「初めまして。あたしはイオン。{br}あなたと同業、つまり探偵って事。{br}よろしくね。{end}",
-  "en": "",
+  "en": "Woman: Nice to meet you. I'm Ion. Same line of{br}work as you - a detective, in other words.{br}Pleased to meet you.{end}",
   "notes": ""
  },
  {
@@ -1391,7 +1391,7 @@
   "op": "96C6E4",
   "len": 43,
   "jp": "「女探偵か…初めて見たよ。{br}で、なんで探偵が2人も必要なんだ？{end}",
-  "en": "",
+  "en": "\"A lady detective... First one I've seen. So{br}why do you need two detectives?\"{end}",
   "notes": ""
  },
  {
@@ -1400,7 +1400,7 @@
   "op": "96C713",
   "len": 64,
   "jp": "イオン「この女の子を見てちょうだい。{br}名前はレミン。VRゲームを始めたきり{br}意識が戻らなくなってしまったの。{end}",
-  "en": "",
+  "en": "Ion: Take a look at this girl. Her name is{br}Remin. She started a VR game and never{br}regained consciousness.{end}",
   "notes": ""
  },
  {
@@ -1409,7 +1409,7 @@
   "op": "96C755",
   "len": 30,
   "jp": "「VRマシンの故障とか{br}プログラムのバグじゃないのか？{end}",
-  "en": "",
+  "en": "\"Couldn't it be a broken VR machine or a bug{br}in the program?\"{end}",
   "notes": ""
  },
  {
@@ -1418,7 +1418,7 @@
   "op": "96C777",
   "len": 61,
   "jp": "「いいえ、それが違うのよ。{br}さっき、彼女の意識をサルベージする為に{br}電脳空間にダイブしてみたんだけど{endFD}",
-  "en": "",
+  "en": "\"No, that's not it. A little while ago I dove{br}into cyberspace to salvage her consciousness,{br}and...\"{endFD}",
   "notes": ""
  },
  {
@@ -1427,7 +1427,7 @@
   "op": "96C7B5",
   "len": 48,
   "jp": "彼女の意識はホストコンピューターに{br}侵入した何者かによって隔離されてたの。{endFD}",
-  "en": "",
+  "en": "Her mind had been isolated by someone who{br}had broken into the host computer.{endFD}",
   "notes": ""
  },
  {
@@ -1436,7 +1436,7 @@
   "op": "96C7E6",
   "len": 54,
   "jp": "あの時に感じた意識のイメージは{br}人間のものじゃなかったわ。{br}きっと、あれはバイオモンスターよ。{end}",
-  "en": "",
+  "en": "The mind I sensed back then wasn't human. I'm{br}sure it was a bio-monster.{end}",
   "notes": ""
  },
  {
@@ -1445,7 +1445,7 @@
   "op": "96C820",
   "len": 52,
   "jp": "「それで俺の出番って訳か。{br}それにしても、電脳空間に侵入できるなんて{br}驚いたな。{endFD}",
-  "en": "",
+  "en": "\"So that's where I come in. Still, I'm surprised{br}you can break into cyberspace.\"{endFD}",
   "notes": ""
  },
  {
@@ -1454,7 +1454,7 @@
   "op": "96C855",
   "len": 59,
   "jp": "たしかサイコダイブっていうんだろ。{br}オレにはとてもマネできない芸当だな。{br}ドンパチやる方が性に合ってるよ。{end}",
-  "en": "",
+  "en": "It's called a Psycho Dive, right? That's a trick{br}I could never pull off. Shooting things up{br}suits me better.{end}",
   "notes": ""
  },
  {
@@ -1463,7 +1463,7 @@
   "op": "96C894",
   "len": 47,
   "jp": "「同じ探偵っていう商売をしていても、{br}それぞれ得意な仕事があるって事よ。{endFD}",
-  "en": "",
+  "en": "\"Even in the same detective business,{br}everyone has their specialty.\"{endFD}",
   "notes": ""
  },
  {
@@ -1472,7 +1472,7 @@
   "op": "96C8C4",
   "len": 54,
   "jp": "あたしはサイコダイブによる電脳空間への{br}侵入。あなたはランナーでの戦闘っていう{br}風にね。{endFD}",
-  "en": "",
+  "en": "For me it's breaking into cyberspace with a{br}Psycho Dive. For you, it's fighting in a runner.{br}Like that.{endFD}",
   "notes": ""
  },
  {
@@ -1481,7 +1481,7 @@
   "op": "96C8FB",
   "len": 62,
   "jp": "標的のモンスターはエリア10にある{br}ホストセンターに侵入して、そこのメイン{br}コンピューターを乗っ取っているわ。{end}",
-  "en": "",
+  "en": "The target monster has broken into the Host{br}Center in Area 10 and taken over the main{br}computer there.{end}",
   "notes": ""
  },
  {
@@ -1490,7 +1490,7 @@
   "op": "96C93B",
   "len": 32,
   "jp": "「そのホストセンターの中に{br}まだ人間は残っているのか？{end}",
-  "en": "",
+  "en": "\"Are there still people inside that Host{br}Center?\"{end}",
   "notes": ""
  },
  {
@@ -1499,7 +1499,7 @@
   "op": "96C962",
   "len": 48,
   "jp": "「普段、あそこには数名の技術者と警備員が{br}いますが、連絡がつきません。{end}",
-  "en": "",
+  "en": "\"Normally there are a few technicians and{br}guards there, but we can't reach them.\"{end}",
   "notes": ""
  },
  {
@@ -1508,7 +1508,7 @@
   "op": "96C998",
   "len": 56,
   "jp": "「おそらくセキュリティシステムを{br}乗っ取られてしまったせいで、外界と{br}連絡がつかなくなってるのよ。{endFD}",
-  "en": "",
+  "en": "\"Probably because the security system was{br}taken over, they've lost contact with the{br}outside.\"{endFD}",
   "notes": ""
  },
  {
@@ -1517,7 +1517,7 @@
   "op": "96C9D1",
   "len": 40,
   "jp": "そのおかげで、ビル内の警備ロボットも{br}言う事を聞かなくなってるわ。{end}",
-  "en": "",
+  "en": "That's also why the guard robots in the{br}building won't obey orders anymore.{end}",
   "notes": ""
  },
  {
@@ -1526,7 +1526,7 @@
   "op": "96C9FD",
   "len": 40,
   "jp": "「お願いします。何とか表沙汰にならない{br}ように処理して下さい。{end}",
-  "en": "",
+  "en": "\"Please. Handle this somehow so it doesn't{br}become public.\"{end}",
   "notes": ""
  },
  {
@@ -1535,7 +1535,7 @@
   "op": "96CA29",
   "len": 36,
   "jp": "「オレはホストセンターへ行って{br}バケモノを退治すればいいんだな？{end}",
-  "en": "",
+  "en": "\"So I go to the Host Center and wipe out the{br}monster, right?\"{end}",
   "notes": ""
  },
  {
@@ -1544,7 +1544,7 @@
   "op": "96CA54",
   "len": 48,
   "jp": "「ちょっと待って。ただモンスターを倒す{br}だけじゃ、彼女の意識を助け出せないわ。{endFD}",
-  "en": "",
+  "en": "\"Hold on. Just beating the monster won't{br}rescue her consciousness.\"{endFD}",
   "notes": ""
  },
  {
@@ -1553,7 +1553,7 @@
   "op": "96CA88",
   "len": 50,
   "jp": "あたしに考えがあるわ。{br}あなたはまずホストセンターへ行って。{br}着いたら作戦を伝えるわ。{end}",
-  "en": "",
+  "en": "I have an idea. First, go to the Host Center.{br}When you get there, I'll tell you the plan.{end}",
   "notes": ""
  },
  {
@@ -1562,7 +1562,7 @@
   "op": "96CAE0",
   "len": 31,
   "jp": "イオン「どうして、ちゃんと作戦通りに{br}しなかったのよ！{endFD}",
-  "en": "",
+  "en": "Ion: Why didn't you stick to the plan?!{endFD}",
   "notes": ""
  },
  {
@@ -1571,7 +1571,7 @@
   "op": "96CB04",
   "len": 54,
   "jp": "何とか彼女をサルベージできたから{br}良かったものの、下手したら彼女は{br}助からなかったのよ！{end}",
-  "en": "",
+  "en": "We managed to salvage her somehow, but if{br}things had gone wrong, she wouldn't have{br}made it!{end}",
   "notes": ""
  },
  {
@@ -1580,7 +1580,7 @@
   "op": "96CB3C",
   "len": 30,
   "jp": "{c0C:01}「…すまなかった。それで、{br}彼女の具合は？{end}",
-  "en": "",
+  "en": "{c0C:01}: ...Sorry. So, how is she?{end}",
   "notes": ""
  },
  {
@@ -1589,7 +1589,7 @@
   "op": "96CB62",
   "len": 16,
   "jp": "{c0C:01}「彼女の具合は？{end}",
-  "en": "",
+  "en": "{c0C:01}: How is she?{end}",
   "notes": ""
  },
  {
@@ -1598,7 +1598,7 @@
   "op": "96CB74",
   "len": 51,
   "jp": "イオン「彼女は大丈夫よ。病院で精密検査を{br}受けた方が良いとは思うけど。{end}",
-  "en": "",
+  "en": "Ion: She's all right. I do think she should get{br}a thorough checkup at a hospital, though.{end}",
   "notes": ""
  },
  {
@@ -1607,7 +1607,7 @@
   "op": "96CBAE",
   "len": 33,
   "jp": "レミン「パ…パ、パパ、パパ？{br}ハッ、あ…あたし一体…？{end}",
-  "en": "",
+  "en": "Remin: Pa... pa, Papa, Papa? Huh! Wh... what{br}happened to me...?{end}",
   "notes": ""
  },
  {
@@ -1616,7 +1616,7 @@
   "op": "96CBD6",
   "len": 40,
   "jp": "「気がついたわね。あなたはVRゲーム中に{br}意識が戻らなくなったのよ。{end}",
-  "en": "",
+  "en": "\"You're awake. You lost consciousness during{br}a VR game and couldn't wake up.\"{end}",
   "notes": ""
  },
  {
@@ -1625,7 +1625,7 @@
   "op": "96CC02",
   "len": 44,
   "jp": "「あたし…夢を見てたわ。3年前に死んだ{br}パパが会いに来てくれた夢を。{end}",
-  "en": "",
+  "en": "\"I... I was dreaming. About my papa, who died{br}three years ago, coming to see me.\"{end}",
   "notes": ""
  },
  {
@@ -1634,7 +1634,7 @@
   "op": "96CC33",
   "len": 34,
   "jp": "「あなたは疲れてるのよ。もう少し横に{br}なって休むといいわ。{end}",
-  "en": "",
+  "en": "\"You're tired. Lie down and rest a little{br}longer.\"{end}",
   "notes": ""
  },
  {
@@ -1643,7 +1643,7 @@
   "op": "96CC5A",
   "len": 54,
   "jp": "店長「いやぁ、良かった良かった。{br}もしこの子まで助からなかったら、{br}どうしようかと思ったよ。{end}",
-  "en": "",
+  "en": "Manager: Well, thank goodness, thank{br}goodness. If this girl hadn't been saved too, I{br}don't know what I'd have done.{end}",
   "notes": ""
  },
  {
@@ -1652,7 +1652,7 @@
   "op": "96CC96",
   "len": 13,
   "jp": "「イオン、ちょっと…。{end}",
-  "en": "",
+  "en": "\"Ion, a moment...\"{end}",
   "notes": ""
  },
  {
@@ -1661,7 +1661,7 @@
   "op": "96CD1C",
   "len": 34,
   "jp": "{c0C:01}「どういう事だ？{br}まさか、あのモンスターがあの子の…。{end}",
-  "en": "",
+  "en": "{c0C:01}: What's going on? Don't tell me that{br}monster was her...{end}",
   "notes": ""
  },
  {
@@ -1670,7 +1670,7 @@
   "op": "96CD40",
   "len": 59,
   "jp": "イオン「それはありえないわ。{br}あたしが調べた限りでは、彼女の父親の{br}死に不審な所はなかったもの。{end}",
-  "en": "",
+  "en": "Ion: That's impossible. As far as I could find{br}out, there was nothing suspicious about her{br}father's death.{end}",
   "notes": ""
  },
  {
@@ -1679,7 +1679,7 @@
   "op": "96CD7D",
   "len": 66,
   "jp": "「そういえば、ヤツが言っていたよ、{br}『あの子にだけは、オレの苦しみが分かる。{br}オレにも、あの子の苦しみが分かる』と。{endFD}",
-  "en": "",
+  "en": "\"Now that I think about it, it did say{br}something. 'Only that girl understands my{br}suffering. And I understand hers.'\"{endFD}",
   "notes": ""
  },
  {
@@ -1688,7 +1688,7 @@
   "op": "96CDC0",
   "len": 44,
   "jp": "『苦しみ{c1C:04}』{c1C:00}…バイオモンスターと同じ{br}苦しみって一体何なんだ？{end}",
-  "en": "",
+  "en": "'Suffering{c1C:04}'{c1C:00}... What suffering could she possibly{br}share with a bio-monster?{end}",
   "notes": ""
  },
  {
@@ -1697,7 +1697,7 @@
   "op": "96CDEE",
   "len": 33,
   "jp": "「もしかして、ピラーニャ・プレタの事を{br}言っていたのかしら？{end}",
-  "en": "",
+  "en": "\"Could it have meant Piranha Preta?\"{end}",
   "notes": ""
  },
  {
@@ -1706,7 +1706,7 @@
   "op": "96CE11",
   "len": 73,
   "jp": "「もう1つ、何か言おうとしていた。{br}『オレだって、本当は…本当は………！』{br}あの言葉の後に何を続けようとしたんだ？{end}",
-  "en": "",
+  "en": "\"It was trying to say one more thing. 'Even{br}I... really, I.........!' What was it going to say{br}after that?\"{end}",
   "notes": ""
  },
  {
@@ -1715,7 +1715,7 @@
   "op": "96CE5C",
   "len": 55,
   "jp": "「どうやらバイオモンスターは、{br}一般に言われているような{br}只のバケモノとは少し違うみたいね…。{end}",
-  "en": "",
+  "en": "\"It seems bio-monsters aren't quite the plain{br}monsters everyone says they are...\"{end}",
   "notes": ""
  },
  {
@@ -1724,7 +1724,7 @@
   "op": "96D3BE",
   "len": 55,
   "jp": "{c0C:01}「VRゲームマシンだ。{br}このシートに座って、仮想現実を体験する{br}仕組みになっている。{end}",
-  "en": "",
+  "en": "{c0C:01}: A VR game machine. You sit in this{br}seat and experience virtual reality.{end}",
   "notes": ""
  },
  {
@@ -1733,7 +1733,7 @@
   "op": "96D3FD",
   "len": 32,
   "jp": "{c0C:01}「VRゲームの環境設定をする{br}機械のようだ。{end}",
-  "en": "",
+  "en": "{c0C:01}: Looks like a machine for configuring{br}the VR game settings.{end}",
   "notes": ""
  },
  {
@@ -1742,7 +1742,7 @@
   "op": "96D42D",
   "len": 31,
   "jp": "{c0C:01}「次回リリース予定の{br}VRゲームのポスターだ。{end}",
-  "en": "",
+  "en": "{c0C:01}: A poster for a VR game coming out{br}next.{end}",
   "notes": ""
  },
  {
@@ -1751,7 +1751,7 @@
   "op": "96D464",
   "len": 32,
   "jp": "{c0C:01}「ここで体験できるVRゲームの{br}デモが流れている。{end}",
-  "en": "",
+  "en": "{c0C:01}: It's running demos of the VR games{br}you can play here.{end}",
   "notes": ""
  },
  {
@@ -1760,7 +1760,7 @@
   "op": "96DB22",
   "len": 15,
   "jp": "へぎiの。gプな・hプきざi{end}",
-  "en": "",
+  "en": "-{end}",
   "notes": ""
  },
  {
@@ -1769,7 +1769,7 @@
   "op": "96DBF4",
   "len": 25,
   "jp": "へしjの。gプへしjのZgプへしjのzgプきたj{end}",
-  "en": "",
+  "en": "-{end}",
   "notes": ""
  },
  {
@@ -1778,7 +1778,7 @@
   "op": "96DE2D",
   "len": 27,
   "jp": "{c0C:01}「ダメだ、ロックされていて{br}ドアが開かない。{end}",
-  "en": "",
+  "en": "{c0C:01}: No good, it's locked. The door won't{br}open.{end}",
   "notes": ""
  },
  {
@@ -1787,7 +1787,7 @@
   "op": "96DE50",
   "len": 34,
   "jp": "{c0C:01}「コンピューターに接続されて{br}いる光ケーブルの束だ。{end}",
-  "en": "",
+  "en": "{c0C:01}: A bundle of optical cables connected{br}to the computer.{end}",
   "notes": ""
  },
  {
@@ -1796,7 +1796,7 @@
   "op": "96DE7B",
   "len": 38,
   "jp": "{c0C:01}「コンピューターの本体だが{br}ここからでは制御できないようだ。{end}",
-  "en": "",
+  "en": "{c0C:01}: It's the computer itself, but it can't{br}be controlled from here.{end}",
   "notes": ""
  },
  {
@@ -1805,7 +1805,7 @@
   "op": "96DEB4",
   "len": 20,
   "jp": "ナビロボ「いおんサンカラ通信デス。{end}",
-  "en": "",
+  "en": "Navi-Robo: TRANSMISSION FROM ION-SAN.{end}",
   "notes": ""
  },
  {
@@ -1814,7 +1814,7 @@
   "op": "96DECC",
   "len": 37,
   "jp": "イオン「着いたみたいね、{c0C:01}。{br}それじゃ作戦を説明するわね。{endFD}",
-  "en": "",
+  "en": "Ion: Looks like you've arrived, {c0C:01}. Then{br}let me explain the plan.{endFD}",
   "notes": ""
  },
  {
@@ -1823,7 +1823,7 @@
   "op": "96DEF2",
   "len": 76,
   "jp": "レミンの意識を助け出すには、電脳空間で{br}彼女の意識を捕らえているモンスターを{br}物理攻撃で弱らせる必要があるわ。{endFD}",
-  "en": "",
+  "en": "To rescue Remin's consciousness, you need to{br}weaken the monster holding her mind in{br}cyberspace with physical attacks.{endFD}",
   "notes": ""
  },
  {
@@ -1832,7 +1832,7 @@
   "op": "96DF3F",
   "len": 67,
   "jp": "あなたがある程度モンスターにダメージを{br}与えたら、あたしは電脳空間にダイブして{br}彼女の意識をサルベージするわ。{endFD}",
-  "en": "",
+  "en": "Once you've done a certain amount of damage{br}to the monster, I'll dive into cyberspace and{br}salvage her consciousness.{endFD}",
   "notes": ""
  },
  {
@@ -1841,7 +1841,7 @@
   "op": "96DF83",
   "len": 65,
   "jp": "もしも、モンスターを先に倒してしまうと{br}彼女の意識がダメージを受ける恐れが{br}あるから、十分気を付けてよ。{end}",
-  "en": "",
+  "en": "If you defeat the monster first, her{br}consciousness could be damaged, so be very{br}careful.{end}",
   "notes": ""
  },
  {
@@ -1850,7 +1850,7 @@
   "op": "96DFC6",
   "len": 37,
   "jp": "{c0C:01}「モンスターへのダメージ量を{br}考えて戦わなきゃならないのか。{end}",
-  "en": "",
+  "en": "{c0C:01}: So I have to fight while keeping{br}track of how much damage I do to the{br}monster.{end}",
   "notes": ""
  },
  {
@@ -1859,7 +1859,7 @@
   "op": "96DFF0",
   "len": 19,
   "jp": "「でも、少し気になる事が…。{end}",
-  "en": "",
+  "en": "\"But there's something bothering me...\"{end}",
   "notes": ""
  },
  {
@@ -1868,7 +1868,7 @@
   "op": "96E005",
   "len": 25,
   "jp": "「オレの腕だったら心配する必要ないぜ？{end}",
-  "en": "",
+  "en": "\"If you're worried about my skills, don't be.\"{end}",
   "notes": ""
  },
  {
@@ -1877,7 +1877,7 @@
   "op": "96E020",
   "len": 55,
   "jp": "「そうじゃないの。{br}初めにダイブして彼女の意識に{br}近づいた時、なんだか様子が変だったの。{endFD}",
-  "en": "",
+  "en": "\"That's not it. When I first dove in and got{br}close to her mind, something felt strange.\"{endFD}",
   "notes": ""
  },
  {
@@ -1886,7 +1886,7 @@
   "op": "96E058",
   "len": 59,
   "jp": "彼女、バイオモンスターと一緒なのに、{br}少しも恐れていなかったの。{br}まるで、楽しんでいるみたいだったわ。{end}",
-  "en": "",
+  "en": "She was with a bio-monster, yet she wasn't{br}afraid at all. It was like she was enjoying{br}herself.{end}",
   "notes": ""
  },
  {
@@ -1895,7 +1895,7 @@
   "op": "96E095",
   "len": 28,
   "jp": "「そのバイオモンスターとお友達にでも{br}なったのか。{end}",
-  "en": "",
+  "en": "\"Maybe she made friends with that{br}bio-monster.\"{end}",
   "notes": ""
  },
  {
@@ -1904,7 +1904,7 @@
   "op": "96E0B6",
   "len": 36,
   "jp": "「まさか………。{br}とにかく、普通考えられない反応だわ。{endFD}",
-  "en": "",
+  "en": "\"No way......... Anyway, it's not a normal{br}reaction.\"{endFD}",
   "notes": ""
  },
  {
@@ -1913,7 +1913,7 @@
   "op": "96E0DB",
   "len": 42,
   "jp": "あたしの方も色々と調べてみる。{br}何かあったら、すぐこっちに連絡して。{end}",
-  "en": "",
+  "en": "I'll look into things on my end too. If anything{br}happens, contact me right away.{end}",
   "notes": ""
  },
  {
@@ -1922,7 +1922,7 @@
   "op": "96E11A",
   "len": 28,
   "jp": "{c0C:01}「この部屋のカギは開いている{br}みたいだな。{end}",
-  "en": "",
+  "en": "{c0C:01}: Looks like this room's unlocked.{end}",
   "notes": ""
  },
  {
@@ -1931,7 +1931,7 @@
   "op": "96E13F",
   "len": 40,
   "jp": "ナビロボ「動体反応ヲ感知シマシタ。{br}部屋ノ中ニ何カイマス。{end}",
-  "en": "",
+  "en": "Navi-Robo: MOTION DETECTED. SOMETHING IS{br}IN THE ROOM.{end}",
   "notes": ""
  },
  {
@@ -1940,7 +1940,7 @@
   "op": "96E203",
   "len": 47,
   "jp": "警備員「うわわわっ！{br}このバケモノめ、それ以上近づいたら{br}ただじゃおかないぞ！！{end}",
-  "en": "",
+  "en": "Guard: Waaah! You monster! Come any closer{br}and you'll be sorry!!{end}",
   "notes": ""
  },
  {
@@ -1949,7 +1949,7 @@
   "op": "96E236",
   "len": 21,
   "jp": "{c0C:01}「おいおい、俺は人間だって。{end}",
-  "en": "",
+  "en": "{c0C:01}: Whoa, whoa, I'm human.{end}",
   "notes": ""
  },
  {
@@ -1958,7 +1958,7 @@
   "op": "96E250",
   "len": 44,
   "jp": "依頼を受けてやって来た探偵だよ。{br}あんたの他には誰も残ってないのか？{end}",
-  "en": "",
+  "en": "I'm a detective, here on a job. Is there{br}anyone else left besides you?{end}",
   "notes": ""
  },
  {
@@ -1967,7 +1967,7 @@
   "op": "96E280",
   "len": 59,
   "jp": "「なんだ、てっきりバケモンの仲間かと{br}思ったよ。そうだな、おれの他には{br}上にもう1人残っているハズだ。{end}",
-  "en": "",
+  "en": "\"Oh, I was sure you were one of the monster's{br}buddies. Let's see, besides me there should be{br}one more guy left upstairs.\"{end}",
   "notes": ""
  },
  {
@@ -1976,7 +1976,7 @@
   "op": "96E2BD",
   "len": 34,
   "jp": "「何だって？{br}今バケモンって言ったけど、何か{br}見たのか？{end}",
-  "en": "",
+  "en": "\"What? You just said 'monster.' Did you see{br}something?\"{end}",
   "notes": ""
  },
  {
@@ -1985,7 +1985,7 @@
   "op": "96E2E1",
   "len": 57,
   "jp": "「ちらっとだけど見たよ。{br}バイオモンスターみたいな奴が3階の{br}メインコンピューター室の方へ行くのを。{end}",
-  "en": "",
+  "en": "\"Just a glimpse. Something like a bio-monster{br}heading toward the main computer room on the{br}third floor.\"{end}",
   "notes": ""
  },
  {
@@ -1994,7 +1994,7 @@
   "op": "96E31C",
   "len": 55,
   "jp": "「ヤツは3階か………。{br}よし、俺の後に付いて来るんだ。{br}出口の所まで連れて行こう。{end}",
-  "en": "",
+  "en": "\"So it's on the third floor......... All right,{br}follow me. I'll take you to the exit.\"{end}",
   "notes": ""
  },
  {
@@ -2003,7 +2003,7 @@
   "op": "96E3AB",
   "len": 62,
   "jp": "警備員「ここまで来れば大丈夫だろう。{br}あんた、このキーを持って行くといいよ。{br}きっと役に立つハズだ。{end}",
-  "en": "",
+  "en": "Guard: We should be safe this far out. Here,{br}take this key with you. I'm sure it'll come in{br}handy.{end}",
   "notes": ""
  },
  {
@@ -2012,7 +2012,7 @@
   "op": "96E3F8",
   "len": 31,
   "jp": "{c0C:01}「ビルのマスターキーか。{br}これでドアを開けられるな。{end}",
-  "en": "",
+  "en": "{c0C:01}: The building's Master Key. This'll{br}open the doors.{end}",
   "notes": ""
  },
  {
@@ -2021,7 +2021,7 @@
   "op": "96E494",
   "len": 35,
   "jp": "ナビロボ「生命反応ハアリマセン。{br}スデニ死亡シテイマス。{end}",
-  "en": "",
+  "en": "Navi-Robo: NO LIFE SIGNS. ALREADY DECEASED.{end}",
   "notes": ""
  },
  {
@@ -2030,7 +2030,7 @@
   "op": "96E4BC",
   "len": 35,
   "jp": "{c0C:01}「一撃でやられたみたいだな。{br}くそっ、バイオモンスターめ。{endFD}",
-  "en": "",
+  "en": "{c0C:01}: Looks like he was killed with one{br}blow. Damn bio-monster.{endFD}",
   "notes": ""
  },
  {
@@ -2039,7 +2039,7 @@
   "op": "96E4E5",
   "len": 19,
   "jp": "ん？ この男、何か持ってるぞ。{end}",
-  "en": "",
+  "en": "Hm? This guy's holding something.{end}",
   "notes": ""
  },
  {
@@ -2048,7 +2048,7 @@
   "op": "96E4FB",
   "len": 24,
   "jp": "技術者専用キーを手に入れました。{end}",
-  "en": "",
+  "en": "Obtained the Engineer Key.{end}",
   "notes": ""
  },
  {
@@ -2057,7 +2057,7 @@
   "op": "96E51B",
   "len": 24,
   "jp": "ナビロボ「スデニ生命反応ハアリマセン。{end}",
-  "en": "",
+  "en": "Navi-Robo: NO LIFE SIGNS REMAIN.{end}",
   "notes": ""
  },
  {
@@ -2066,7 +2066,7 @@
   "op": "96E54D",
   "len": 54,
   "jp": "{c0C:01}「イオン、聞こえるか？{br}どうやらここが、バイオモンスターのいる{br}メインコンピューター室みたいだ。{end}",
-  "en": "",
+  "en": "{c0C:01}: Ion, can you hear me? Looks like this{br}is the main computer room where the{br}bio-monster is.{end}",
   "notes": ""
  },
  {
@@ -2075,7 +2075,7 @@
   "op": "96E58D",
   "len": 51,
   "jp": "イオン「こちらイオン。{br}中に入るのはちょっと待って。{br}その前に聞いて欲しい事があるの。{endFD}",
-  "en": "",
+  "en": "Ion: This is Ion. Hold off on going in for a{br}moment. There's something I want you to hear{br}first.{endFD}",
   "notes": ""
  },
  {
@@ -2084,7 +2084,7 @@
   "op": "96E5C1",
   "len": 50,
   "jp": "レミンの事が少し分かったの。{br}彼女、ピラーニャ・プレタという病気に{br}かかっているわ。{end}",
-  "en": "",
+  "en": "I found out a little about Remin. She has a{br}disease called Piranha Preta.{end}",
   "notes": ""
  },
  {
@@ -2093,7 +2093,7 @@
   "op": "96E5F8",
   "len": 37,
   "jp": "「あの黒ピラニア病とも言われている{br}原因不明の奇病か？{end}",
-  "en": "",
+  "en": "\"That mystery illness they call black piranha{br}disease, with no known cause?\"{end}",
   "notes": ""
  },
  {
@@ -2102,7 +2102,7 @@
   "op": "96E61F",
   "len": 55,
   "jp": "「ええ、まだ発病はしていないけど{br}気分を紛らわす為にVRゲームセンターに{br}通っていたみたいね。{end}",
-  "en": "",
+  "en": "\"Yes. It hasn't set in yet, but it seems she{br}was going to the VR Game Center to take her{br}mind off it.\"{end}",
   "notes": ""
  },
  {
@@ -2111,7 +2111,7 @@
   "op": "96E65B",
   "len": 19,
   "jp": "まだあんなに幼いのに………。{end}",
-  "en": "",
+  "en": "And she's still so young.........{end}",
   "notes": ""
  },
  {
@@ -2120,7 +2120,7 @@
   "op": "96E672",
   "len": 58,
   "jp": "「あの病気にかかったと知れば、{br}誰でも気が重くなるさ。{br}それが今回の事件と関係があるのか？{end}",
-  "en": "",
+  "en": "\"Anyone would feel down knowing they'd{br}caught that disease. But does it have{br}anything to do with this case?\"{end}",
   "notes": ""
  },
  {
@@ -2129,7 +2129,7 @@
   "op": "96E6AE",
   "len": 57,
   "jp": "「それはまだ分からないけど…。{br}何故バイオモンスターが彼女を狙ったのか{br}理由が分からなくて、{end}",
-  "en": "",
+  "en": "\"I don't know yet... I just can't figure out why{br}the bio-monster went after her, so...\"{end}",
   "notes": ""
  },
  {
@@ -2138,7 +2138,7 @@
   "op": "96E6E9",
   "len": 34,
   "jp": "「バイオモンスターの考える事なんて{br}分かりたくもないけどな。{endFD}",
-  "en": "",
+  "en": "\"I don't even want to understand what goes{br}on in a bio-monster's head.\"{endFD}",
   "notes": ""
  },
  {
@@ -2147,7 +2147,7 @@
   "op": "96E70C",
   "len": 33,
   "jp": "とにかく、これから突入するから{br}そっちもスタンバイしてくれ。{end}",
-  "en": "",
+  "en": "Anyway, I'm going in now, so stand by on your{br}end.{end}",
   "notes": ""
  },
  {
@@ -2156,7 +2156,7 @@
   "op": "96E72F",
   "len": 27,
   "jp": "「分かったわ。{br}作戦の事、忘れないでよね。{end}",
-  "en": "",
+  "en": "\"Got it. Don't forget the plan.\"{end}",
   "notes": ""
  },
  {
@@ -2165,7 +2165,7 @@
   "op": "96E76C",
   "len": 47,
   "jp": "{c0C:01}「あれ、開かないぞ。{br}どうやら、この部屋だけ特別なキーが{br}必要らしいな。{end}",
-  "en": "",
+  "en": "{c0C:01}: Huh, it won't open. Looks like this{br}room alone needs a special key.{end}",
   "notes": ""
  },
  {
@@ -2174,7 +2174,7 @@
   "op": "96E7A9",
   "len": 25,
   "jp": "{c0C:01}「おい、イオン。レミンは{br}どうなったんだ？{end}",
-  "en": "",
+  "en": "{c0C:01}: Hey, Ion. What happened with Remin?{end}",
   "notes": ""
  },
  {
@@ -2183,7 +2183,7 @@
   "op": "96E7C7",
   "len": 25,
   "jp": "ナビロボ「通信回線ガ閉ジラレテイマス。{end}",
-  "en": "",
+  "en": "Navi-Robo: COMMUNICATION LINE CLOSED.{end}",
   "notes": ""
  },
  {
@@ -2192,7 +2192,7 @@
   "op": "96E7E2",
   "len": 15,
   "jp": "「くそっ、戻るしかないな。{end}",
-  "en": "",
+  "en": "\"Damn, guess I'll have to go back.\"{end}",
   "notes": ""
  },
  {
@@ -2201,7 +2201,7 @@
   "op": "96E819",
   "len": 39,
   "jp": "バイオモンスタ{c1C:06}ー「誰…ダ。{br}オレノ邪魔ヲ…スル…ツモリカ？{end}",
-  "en": "",
+  "en": "Bio-monster{c1C:06}: Who... are you. Do you... intend...{br}to get in my way?{end}",
   "notes": ""
  },
  {
@@ -2210,7 +2210,7 @@
   "op": "96E845",
   "len": 26,
   "jp": "{c0C:01}「何だ、バイオモンスターが{br}しゃべった！？{end}",
-  "en": "",
+  "en": "{c0C:01}: What the...?! The bio-monster{br}talked?!{end}",
   "notes": ""
  },
  {
@@ -2219,7 +2219,7 @@
   "op": "96E861",
   "len": 44,
   "jp": "{c1C:06}「アノ子ハ…オレヲ恐レナカッタ。{br}コンナ体ニナッテシマッタ、オレヲ…。{endFD}",
-  "en": "",
+  "en": "{c1C:06}\"That girl... was not afraid of me. Of me... the{br}way my body has become...\"{endFD}",
   "notes": ""
  },
  {
@@ -2228,7 +2228,7 @@
   "op": "96E88E",
   "len": 75,
   "jp": "{c1C:04}アノ子ダケニハ、オレノ苦シミガ分カル。{br}オレニモ、アノ子ノ苦シミガ分カル…。{br}オレダッテ、本当ハ…本当ハ………！{end}",
-  "en": "",
+  "en": "{c1C:04}Only that girl understands my suffering. And I{br}understand hers... Even I... really, I.........!{end}",
   "notes": ""
  },
  {
@@ -2237,7 +2237,7 @@
   "op": "96E8DE",
   "len": 19,
   "jp": "「何を言っているんだ、こいつは？{end}",
-  "en": "",
+  "en": "\"What's this thing talking about?\"{end}",
   "notes": ""
  },
  {
@@ -2246,7 +2246,7 @@
   "op": "96E8F3",
   "len": 24,
   "jp": "{c1C:04}「誰ニモ、オレノ邪魔ハサセナイゾ！{end}",
-  "en": "",
+  "en": "{c1C:04}\"I will let no one get in my way!\"{end}",
   "notes": ""
  },
  {
@@ -2255,7 +2255,7 @@
   "op": "96E949",
   "len": 20,
   "jp": "ナビロボ「いおんサンカラ通信デス。{end}",
-  "en": "",
+  "en": "Navi-Robo: TRANSMISSION FROM ION-SAN.{end}",
   "notes": ""
  },
  {
@@ -2264,7 +2264,7 @@
   "op": "96E961",
   "len": 35,
   "jp": "「さすがね、{c0C:01}。{br}腕に自信を持っているのもうなずけるわ。{end}",
-  "en": "",
+  "en": "\"Nice work, {c0C:01}. No wonder you're so{br}confident in your skills.\"{end}",
   "notes": ""
  },
  {
@@ -2273,7 +2273,7 @@
   "op": "96E986",
   "len": 35,
   "jp": "{c0C:01}「君の作戦がうまくいったな。{br}今からそっちへ戻るよ。{end}",
-  "en": "",
+  "en": "{c0C:01}: Your plan worked out. I'm heading{br}back to you now.{end}",
   "notes": ""
  },
  {
@@ -2282,7 +2282,7 @@
   "op": "96E9AB",
   "len": 12,
   "jp": "「ええ、待ってるわ。{end}",
-  "en": "",
+  "en": "\"Okay, I'll be waiting.\"{end}",
   "notes": ""
  },
  {
@@ -2291,7 +2291,7 @@
   "op": "96EA3F",
   "len": 37,
   "jp": "{c0C:01}「セキュリティシステムを{br}乗っ取られて、使えなくなっている。{end}",
-  "en": "",
+  "en": "{c0C:01}: The security system's been taken{br}over. It's unusable.{end}",
   "notes": ""
  },
  {
@@ -2300,7 +2300,7 @@
   "op": "96F3F8",
   "len": 30,
   "jp": "テオ「{c0C:01}＝{c0C:00}さんですね。{br}お待ちしていましたよ。{end}",
-  "en": "",
+  "en": "Theo: You must be {c0C:01} {c0C:00}-san. I've{br}been expecting you.{end}",
   "notes": ""
  },
  {
@@ -2309,7 +2309,7 @@
   "op": "96F418",
   "len": 44,
   "jp": "{c0C:01}「へぇ、同じCTIの人間でも{br}あのオッサンと随分感じが違うんだな。{end}",
-  "en": "",
+  "en": "{c0C:01}: Huh, you're both CTI, but you're{br}nothing like that old man.{end}",
   "notes": ""
  },
  {
@@ -2318,7 +2318,7 @@
   "op": "96F446",
   "len": 51,
   "jp": "「コスタ部長の事ですか？{br}まぁあの方はうちの保安部の中でも嫌われ者{br}ですからね。{end}",
-  "en": "",
+  "en": "\"You mean Chief Costa? Well, he is the black{br}sheep of our Security Division.\"{end}",
   "notes": ""
  },
  {
@@ -2327,7 +2327,7 @@
   "op": "96F47A",
   "len": 41,
   "jp": "太ってるし、臭いし、小心者のくせに{br}欲が深い。ついでにスケベです。{end}",
-  "en": "",
+  "en": "He's fat, he smells, he's a coward and yet{br}greedy. And a lecher, to boot.{end}",
   "notes": ""
  },
  {
@@ -2336,7 +2336,7 @@
   "op": "96F4A5",
   "len": 20,
   "jp": "「…あんたも色々と大変だな。{end}",
-  "en": "",
+  "en": "\"...Sounds like you've got it rough.\"{end}",
   "notes": ""
  },
  {
@@ -2345,7 +2345,7 @@
   "op": "96F4BB",
   "len": 12,
   "jp": "「もう慣れましたよ。{endFD}",
-  "en": "",
+  "en": "\"I'm used to it by now.\"{endFD}",
   "notes": ""
  },
  {
@@ -2354,7 +2354,7 @@
   "op": "96F4C8",
   "len": 54,
   "jp": "では仕事ですが、このエリアの{br}再開発に邪魔なバイオモンスター共を{br}一掃してもらいます。{endFD}",
-  "en": "",
+  "en": "Now, about the job. I'd like you to clear out{br}the bio-monsters standing in the way of this{br}Area's redevelopment.{endFD}",
   "notes": ""
  },
  {
@@ -2363,7 +2363,7 @@
   "op": "96F4FF",
   "len": 54,
   "jp": "ヤツらがいる地下下水道はまるで迷路です{br}から、迷わないように十分注意して下さい。{endFD}",
-  "en": "",
+  "en": "The sewers where they live are a real maze,{br}so take great care not to get lost.{endFD}",
   "notes": ""
  },
  {
@@ -2372,7 +2372,7 @@
   "op": "96F536",
   "len": 52,
   "jp": "私が得た情報では、ここのボスのリザウガ{br}というモンスターは、かなり手ごわいヤツの{br}ようです。{end}",
-  "en": "",
+  "en": "According to my information, the boss here, a{br}monster called Lizauga, is quite a tough one.{end}",
   "notes": ""
  },
  {
@@ -2381,7 +2381,7 @@
   "op": "96F56C",
   "len": 31,
   "jp": "「でも、あのオッサンは大した事ないなんて{br}言ってたぜ？{end}",
-  "en": "",
+  "en": "\"But the old man said it was nothing much.\"{end}",
   "notes": ""
  },
  {
@@ -2390,7 +2390,7 @@
   "op": "96F58D",
   "len": 44,
   "jp": "「あの方の情報はアテになりません。{br}現場の事を何も知らないのですから。{end}",
-  "en": "",
+  "en": "\"His information isn't reliable. He knows{br}nothing about the field.\"{end}",
   "notes": ""
  },
  {
@@ -2399,7 +2399,7 @@
   "op": "96F5BB",
   "len": 38,
   "jp": "「そうだな。あのオッサンなんかより、{br}あんたの情報の方を信じるよ。{end}",
-  "en": "",
+  "en": "\"Right. I'll trust your info over that old man's{br}any day.\"{end}",
   "notes": ""
  },
  {
@@ -2408,7 +2408,7 @@
   "op": "96F5E3",
   "len": 41,
   "jp": "「私はここに残っています。{br}仕事が済んだら、報告に来て下さい。{end}",
-  "en": "",
+  "en": "\"I'll stay here. Come report to me when the{br}job is done.\"{end}",
   "notes": ""
  },
  {
@@ -2417,7 +2417,7 @@
   "op": "96F66D",
   "len": 20,
   "jp": "テオ「どうしました、忘れ物ですか？{end}",
-  "en": "",
+  "en": "Theo: What is it? Forget something?{end}",
   "notes": ""
  },
  {
@@ -2426,7 +2426,7 @@
   "op": "96F693",
   "len": 19,
   "jp": "テオ「どうやら片づいたようですね。{end}",
-  "en": "",
+  "en": "Theo: Looks like it's all taken care of.{end}",
   "notes": ""
  },
  {
@@ -2435,7 +2435,7 @@
   "op": "96F6A8",
   "len": 66,
   "jp": "{c0C:01}「あぁ。だが地下で怪しいヤツを{br}見かけた。人間かバイオモンスターかは、{br}逃げられたので分からなかったが…。{end}",
-  "en": "",
+  "en": "{c0C:01}: Yeah. But I saw someone suspicious{br}underground. It got away, so I couldn't tell if{br}it was human or a bio-monster...{end}",
   "notes": ""
  },
  {
@@ -2444,7 +2444,7 @@
   "op": "96F6EC",
   "len": 57,
   "jp": "「そいつは最近現れた奴かも知れません。{br}バイオモンスター共をまとめて、群れを{br}作っているんです。{end}",
-  "en": "",
+  "en": "\"That may be the one who showed up recently.{br}It's been gathering the bio-monsters together{br}into a pack.\"{end}",
   "notes": ""
  },
  {
@@ -2453,7 +2453,7 @@
   "op": "96F72A",
   "len": 32,
   "jp": "「モンスター共が組織化してるってのか？{br}冗談だろ。{end}",
-  "en": "",
+  "en": "\"The monsters are getting organized? You're{br}kidding.\"{end}",
   "notes": ""
  },
  {
@@ -2462,7 +2462,7 @@
   "op": "96F74C",
   "len": 71,
   "jp": "「まだ情報不足で良く分からないのです。{br}ですが、ここのモンスターは一掃された訳{br}ですから、もう現れる事もないでしょう。{endFD}",
-  "en": "",
+  "en": "\"We still don't have enough information to{br}say. But the monsters here have been wiped{br}out, so they shouldn't turn up again.\"{endFD}",
   "notes": ""
  },
  {
@@ -2471,7 +2471,7 @@
   "op": "96F794",
   "len": 26,
   "jp": "報酬の方は口座へ振り込んでおきます。{end}",
-  "en": "",
+  "en": "Your reward will be transferred to your{br}account.{end}",
   "notes": ""
  },
  {
@@ -2480,7 +2480,7 @@
   "op": "96F804",
   "len": 25,
   "jp": "{c0C:01}「おいナビロボ、何か探知{br}できるか？{end}",
-  "en": "",
+  "en": "{c0C:01}: Hey, Navi-Robo, can you detect{br}anything?{end}",
   "notes": ""
  },
  {
@@ -2489,7 +2489,7 @@
   "op": "96F826",
   "len": 46,
   "jp": "ナビロボ「ピッピッピ…動体反応ヲ無数ニ{br}感知、安全度ハ20％デス。{end}",
-  "en": "",
+  "en": "Navi-Robo: BEEP BEEP BEEP... COUNTLESS{br}MOTION SIGNALS DETECTED. SAFETY LEVEL{br}20%.{end}",
   "notes": ""
  },
  {
@@ -2498,7 +2498,7 @@
   "op": "96F859",
   "len": 51,
   "jp": "「20％っていったら、確実に敵がいるって{br}事じゃないか。お前のセンサー、アテになる{br}のか？{end}",
-  "en": "",
+  "en": "\"20%? That means there are definitely{br}enemies here. Can I even trust your sensors?\"{end}",
   "notes": ""
  },
  {
@@ -2507,7 +2507,7 @@
   "op": "96F89F",
   "len": 22,
   "jp": "ナビロボ「反応カラ遠ザカッテイマス。{end}",
-  "en": "",
+  "en": "Navi-Robo: WE ARE MOVING AWAY FROM THE{br}SIGNAL.{end}",
   "notes": ""
  },
  {
@@ -2516,7 +2516,7 @@
   "op": "96F8CF",
   "len": 29,
   "jp": "{c0C:01}「行き止まりだぞ。奴はどこへ{br}行ったんだ？{end}",
-  "en": "",
+  "en": "{c0C:01}: It's a dead end. Where'd it go?{end}",
   "notes": ""
  },
  {
@@ -2525,7 +2525,7 @@
   "op": "96F8F1",
   "len": 44,
   "jp": "ナビロボ「反応ハ依然移動中デス。コノママ{br}デハ探知デキナクナリマス。{end}",
-  "en": "",
+  "en": "Navi-Robo: SIGNAL STILL MOVING. AT THIS{br}RATE, DETECTION WILL BE LOST.{end}",
   "notes": ""
  },
  {
@@ -2534,7 +2534,7 @@
   "op": "96F91F",
   "len": 42,
   "jp": "「おいおい、本当かよ。この部屋のどこかに{br}隠し通路でもあるってのか？{end}",
-  "en": "",
+  "en": "\"Hey, hey, seriously? Is there some hidden{br}passage somewhere in this room?\"{end}",
   "notes": ""
  },
  {
@@ -2543,7 +2543,7 @@
   "op": "96F959",
   "len": 39,
   "jp": "ナビロボ「反応ガ消エマシタ。せんさーノ{br}範囲外ヘ出タヨウデス。{end}",
-  "en": "",
+  "en": "Navi-Robo: SIGNAL LOST. IT APPEARS TO HAVE{br}LEFT SENSOR RANGE.{end}",
   "notes": ""
  },
  {
@@ -2552,7 +2552,7 @@
   "op": "96F985",
   "len": 61,
   "jp": "{c0C:01}「ヤツの姿、人間のような、{br}バイオモンスターのような………。{br}一体、地下で何をしていたんだ？{end}",
-  "en": "",
+  "en": "{c0C:01}: That figure looked human, and yet{br}like a bio-monster......... What was it doing{br}down there?{end}",
   "notes": ""
  },
  {
@@ -2561,7 +2561,7 @@
   "op": "96F9F4",
   "len": 9,
   "jp": "{c0C:01}「あれか！{end}",
-  "en": "",
+  "en": "{c0C:01}: There it is!{end}",
   "notes": ""
  },
  {
@@ -2570,7 +2570,7 @@
   "op": "96FAA3",
   "len": 18,
   "jp": "{c0C:01}「ん？ ここに何かあるぞ。{end}",
-  "en": "",
+  "en": "{c0C:01}: Hm? There's something here.{end}",
   "notes": ""
  },
  {
@@ -2579,7 +2579,7 @@
   "op": "96FCE4",
   "len": 24,
   "jp": "ナビロボ「動体反応ヲ感知シマシタ。{end}",
-  "en": "",
+  "en": "Navi-Robo: MOTION DETECTED.{end}",
   "notes": ""
  },
  {
@@ -2588,7 +2588,7 @@
   "op": "96FD01",
   "len": 28,
   "jp": "{c0C:01}「ちっ、まだ他のバイオ{br}モンスターがいたのか。{end}",
-  "en": "",
+  "en": "{c0C:01}: Tch, there are still more{br}bio-monsters?{end}",
   "notes": ""
  },
  {
@@ -2597,7 +2597,7 @@
   "op": "96FD53",
   "len": 43,
   "jp": "「なんじゃ、お前は？{br}ここはワシの家、マイホームじゃぞ。{br}さっさと出て行け！{end}",
-  "en": "",
+  "en": "\"What are you? This is my house, my home{br}sweet home! Now get out!\"{end}",
   "notes": ""
  },
  {
@@ -2606,7 +2606,7 @@
   "op": "96FD85",
   "len": 54,
   "jp": "「バイオモンスターがいようと、{br}ワシは絶対にここを立ち退かんぞ。{br}分かったら早く出て行け！{end}",
-  "en": "",
+  "en": "\"Bio-monsters or not, I'm never moving out of{br}here. Got it? Then get out!\"{end}",
   "notes": ""
  }
 ]

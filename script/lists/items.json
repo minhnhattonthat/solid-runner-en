@@ -4,7 +4,7 @@
   "addr": "83:96AD",
   "len": 8,
   "jp": "リペアキットL{end}",
-  "en": "",
+  "en": "Repair Kit L{end}",
   "notes": ""
  },
  {
@@ -12,7 +12,7 @@
   "addr": "83:96B5",
   "len": 17,
   "jp": "HPを150ポイント回復する{end}",
-  "en": "",
+  "en": "Restores 150 HP{end}",
   "notes": ""
  },
  {
@@ -20,7 +20,7 @@
   "addr": "83:96C6",
   "len": 8,
   "jp": "リペアキットM{end}",
-  "en": "",
+  "en": "Repair Kit M{end}",
   "notes": ""
  },
  {
@@ -28,7 +28,7 @@
   "addr": "83:96CE",
   "len": 17,
   "jp": "HPを300ポイント回復する{end}",
-  "en": "",
+  "en": "Restores 300 HP{end}",
   "notes": ""
  },
  {
@@ -36,7 +36,7 @@
   "addr": "83:96DF",
   "len": 8,
   "jp": "リペアキットH{end}",
-  "en": "",
+  "en": "Repair Kit H{end}",
   "notes": ""
  },
  {
@@ -44,7 +44,7 @@
   "addr": "83:96E7",
   "len": 17,
   "jp": "HPを600ポイント回復する{end}",
-  "en": "",
+  "en": "Restores 600 HP{end}",
   "notes": ""
  },
  {
@@ -52,7 +52,7 @@
   "addr": "83:96F8",
   "len": 9,
   "jp": "リペアキットSP{end}",
-  "en": "",
+  "en": "Repair Kit SP{end}",
   "notes": ""
  },
  {
@@ -60,7 +60,7 @@
   "addr": "83:9701",
   "len": 15,
   "jp": "HPをMAXまで回復する{end}",
-  "en": "",
+  "en": "Restores HP to MAX{end}",
   "notes": ""
  },
  {
@@ -68,7 +68,7 @@
   "addr": "83:9710",
   "len": 8,
   "jp": "リペアキットX{end}",
-  "en": "",
+  "en": "Repair Kit X{end}",
   "notes": ""
  },
  {
@@ -76,7 +76,7 @@
   "addr": "83:9718",
   "len": 15,
   "jp": "HPをランダムで回復する{end}",
-  "en": "",
+  "en": "Restores a random amount of HP{end}",
   "notes": ""
  },
  {
@@ -84,7 +84,7 @@
   "addr": "83:9727",
   "len": 9,
   "jp": "リカバーリキッド{end}",
-  "en": "",
+  "en": "Recover Liquid{end}",
   "notes": ""
  },
  {
@@ -92,7 +92,7 @@
   "addr": "83:9730",
   "len": 20,
   "jp": "火に焼かれた装甲を回復する{end}",
-  "en": "",
+  "en": "Repairs armor burned by fire{end}",
   "notes": ""
  },
  {
@@ -100,7 +100,7 @@
   "addr": "83:9744",
   "len": 8,
   "jp": "リフレッシャー{end}",
-  "en": "",
+  "en": "Refresher{end}",
   "notes": ""
  },
  {
@@ -108,7 +108,7 @@
   "addr": "83:974C",
   "len": 24,
   "jp": "命中率と回避率の低下を回復{end}",
-  "en": "",
+  "en": "Restores lowered Accuracy and Evasion{end}",
   "notes": ""
  },
  {
@@ -116,7 +116,7 @@
   "addr": "83:9764",
   "len": 9,
   "jp": "アルカリワックス{end}",
-  "en": "",
+  "en": "Alkali Wax{end}",
   "notes": ""
  },
  {
@@ -124,7 +124,7 @@
   "addr": "83:976D",
   "len": 18,
   "jp": "酸に侵された装甲を回復{end}",
-  "en": "",
+  "en": "Repairs armor eaten by acid{end}",
   "notes": ""
  },
  {
@@ -132,7 +132,7 @@
   "addr": "83:977F",
   "len": 8,
   "jp": "キュアリキッド{end}",
-  "en": "",
+  "en": "Cure Liquid{end}",
   "notes": ""
  },
  {
@@ -140,7 +140,7 @@
   "addr": "83:9787",
   "len": 18,
   "jp": "毒に侵された装甲を回復{end}",
-  "en": "",
+  "en": "Repairs armor tainted by poison{end}",
   "notes": ""
  },
  {
@@ -148,7 +148,7 @@
   "addr": "83:9799",
   "len": 8,
   "jp": "フレイムコート{end}",
-  "en": "",
+  "en": "Flame Coat{end}",
   "notes": ""
  },
  {
@@ -156,7 +156,7 @@
   "addr": "83:97A1",
   "len": 17,
   "jp": "ナパーム攻撃を1回無効{end}",
-  "en": "",
+  "en": "Nullifies 1 napalm attack{end}",
   "notes": ""
  },
  {
@@ -164,7 +164,7 @@
   "addr": "83:97B2",
   "len": 7,
   "jp": "スタンコート{end}",
-  "en": "",
+  "en": "Stun Coat{end}",
   "notes": ""
  },
  {
@@ -172,7 +172,7 @@
   "addr": "83:97B9",
   "len": 17,
   "jp": "電撃攻撃を1回無効{end}",
-  "en": "",
+  "en": "Nullifies 1 shock attack{end}",
   "notes": ""
  },
  {
@@ -180,7 +180,7 @@
   "addr": "83:97CA",
   "len": 8,
   "jp": "アシッドコート{end}",
-  "en": "",
+  "en": "Acid Coat{end}",
   "notes": ""
  },
  {
@@ -188,7 +188,7 @@
   "addr": "83:97D2",
   "len": 15,
   "jp": "酸攻撃を1回無効{end}",
-  "en": "",
+  "en": "Nullifies 1 acid attack{end}",
   "notes": ""
  },
  {
@@ -196,7 +196,7 @@
   "addr": "83:97E1",
   "len": 8,
   "jp": "ポイズンコート{end}",
-  "en": "",
+  "en": "Poison Coat{end}",
   "notes": ""
  },
  {
@@ -204,7 +204,7 @@
   "addr": "83:97E9",
   "len": 15,
   "jp": "毒攻撃を1回無効{end}",
-  "en": "",
+  "en": "Nullifies 1 poison attack{end}",
   "notes": ""
  },
  {
@@ -212,7 +212,7 @@
   "addr": "83:97F8",
   "len": 8,
   "jp": "パワーアシスト{end}",
-  "en": "",
+  "en": "Power Assist{end}",
   "notes": ""
  },
  {
@@ -220,7 +220,7 @@
   "addr": "83:9800",
   "len": 12,
   "jp": "攻撃力を1アップ{end}",
-  "en": "",
+  "en": "Raises Attack by 1{end}",
   "notes": ""
  },
  {
@@ -228,7 +228,7 @@
   "addr": "83:980C",
   "len": 7,
   "jp": "EXアーマー{end}",
-  "en": "",
+  "en": "EX Armor{end}",
   "notes": ""
  },
  {
@@ -236,7 +236,7 @@
   "addr": "83:9813",
   "len": 12,
   "jp": "防御力を1アップ{end}",
-  "en": "",
+  "en": "Raises Defense by 1{end}",
   "notes": ""
  },
  {
@@ -244,7 +244,7 @@
   "addr": "83:981F",
   "len": 9,
   "jp": "ブースターキット{end}",
-  "en": "",
+  "en": "Booster Kit{end}",
   "notes": ""
  },
  {
@@ -252,7 +252,7 @@
   "addr": "83:9828",
   "len": 14,
   "jp": "反応速度を1アップ{end}",
-  "en": "",
+  "en": "Raises Reaction Speed by 1{end}",
   "notes": ""
  },
  {
@@ -260,7 +260,7 @@
   "addr": "83:9836",
   "len": 9,
   "jp": "スナイパーキット{end}",
-  "en": "",
+  "en": "Sniper Kit{end}",
   "notes": ""
  },
  {
@@ -268,7 +268,7 @@
   "addr": "83:983F",
   "len": 12,
   "jp": "命中力を1アップ{end}",
-  "en": "",
+  "en": "Raises Accuracy by 1{end}",
   "notes": ""
  },
  {
@@ -276,7 +276,7 @@
   "addr": "83:984B",
   "len": 8,
   "jp": "ドッジシステム{end}",
-  "en": "",
+  "en": "Dodge System{end}",
   "notes": ""
  },
  {
@@ -284,7 +284,7 @@
   "addr": "83:9853",
   "len": 12,
   "jp": "回避力を1アップ{end}",
-  "en": "",
+  "en": "Raises Evasion by 1{end}",
   "notes": ""
  },
  {
@@ -292,7 +292,7 @@
   "addr": "83:985F",
   "len": 6,
   "jp": "アタッカー{end}",
-  "en": "",
+  "en": "Attacker{end}",
   "notes": ""
  },
  {
@@ -300,7 +300,7 @@
   "addr": "83:9865",
   "len": 21,
   "jp": "攻撃力と命中力を1ずつアップ{end}",
-  "en": "",
+  "en": "Raises Attack and Accuracy by 1 each{end}",
   "notes": ""
  },
  {
@@ -308,7 +308,7 @@
   "addr": "83:987A",
   "len": 8,
   "jp": "ディフェンサー{end}",
-  "en": "",
+  "en": "Defender{end}",
   "notes": ""
  },
  {
@@ -316,7 +316,7 @@
   "addr": "83:9882",
   "len": 21,
   "jp": "防御力と回避力を1ずつアップ{end}",
-  "en": "",
+  "en": "Raises Defense and Evasion by 1 each{end}",
   "notes": ""
  },
  {
@@ -324,7 +324,7 @@
   "addr": "83:9897",
   "len": 8,
   "jp": "クイックムーバ{end}",
-  "en": "",
+  "en": "Quick Mover{end}",
   "notes": ""
  },
  {
@@ -332,7 +332,7 @@
   "addr": "83:989F",
   "len": 30,
   "jp": "反応速度と命中力と回避力を1ずつアップ{end}",
-  "en": "",
+  "en": "Reaction Speed, Accuracy, Evasion +1 each{end}",
   "notes": ""
  },
  {
@@ -340,7 +340,7 @@
   "addr": "83:98BD",
   "len": 7,
   "jp": "マスターキー{end}",
-  "en": "",
+  "en": "Master Key{end}",
   "notes": ""
  },
  {
@@ -348,7 +348,7 @@
   "addr": "83:98C4",
   "len": 16,
   "jp": "開かない扉を開けるカギ0{end}",
-  "en": "",
+  "en": "A key that opens a locked door 0{end}",
   "notes": ""
  },
  {
@@ -356,7 +356,7 @@
   "addr": "83:98D4",
   "len": 6,
   "jp": "カードキー{end}",
-  "en": "",
+  "en": "Card Key{end}",
   "notes": ""
  },
  {
@@ -364,7 +364,7 @@
   "addr": "83:98DA",
   "len": 16,
   "jp": "開かない扉を開けるカギ1{end}",
-  "en": "",
+  "en": "A key that opens a locked door 1{end}",
   "notes": ""
  },
  {
@@ -372,7 +372,7 @@
   "addr": "83:98EA",
   "len": 7,
   "jp": "カードキー3{end}",
-  "en": "",
+  "en": "Card Key 3{end}",
   "notes": ""
  },
  {
@@ -380,7 +380,7 @@
   "addr": "83:98F1",
   "len": 16,
   "jp": "開かない扉を開けるカギ2{end}",
-  "en": "",
+  "en": "A key that opens a locked door 2{end}",
   "notes": ""
  },
  {
@@ -388,7 +388,7 @@
   "addr": "83:9901",
   "len": 6,
   "jp": "IDカード{end}",
-  "en": "",
+  "en": "ID Card{end}",
   "notes": ""
  },
  {
@@ -396,7 +396,7 @@
   "addr": "83:9907",
   "len": 16,
   "jp": "開かない扉を開けるカギ3{end}",
-  "en": "",
+  "en": "A key that opens a locked door 3{end}",
   "notes": ""
  },
  {
@@ -404,7 +404,7 @@
   "addr": "83:9917",
   "len": 6,
   "jp": "カードキー{end}",
-  "en": "",
+  "en": "Card Key{end}",
   "notes": ""
  },
  {
@@ -412,7 +412,7 @@
   "addr": "83:991D",
   "len": 16,
   "jp": "開かない扉を開けるカギ4{end}",
-  "en": "",
+  "en": "A key that opens a locked door 4{end}",
   "notes": ""
  },
  {
@@ -420,7 +420,7 @@
   "addr": "83:992D",
   "len": 6,
   "jp": "IDカード{end}",
-  "en": "",
+  "en": "ID Card{end}",
   "notes": ""
  },
  {
@@ -428,7 +428,7 @@
   "addr": "83:9933",
   "len": 16,
   "jp": "開かない扉を開けるカギ5{end}",
-  "en": "",
+  "en": "A key that opens a locked door 5{end}",
   "notes": ""
  },
  {
@@ -436,7 +436,7 @@
   "addr": "83:9943",
   "len": 7,
   "jp": "カードキー1{end}",
-  "en": "",
+  "en": "Card Key 1{end}",
   "notes": ""
  },
  {
@@ -444,7 +444,7 @@
   "addr": "83:994A",
   "len": 16,
   "jp": "開かない扉を開けるカギ6{end}",
-  "en": "",
+  "en": "A key that opens a locked door 6{end}",
   "notes": ""
  },
  {
@@ -452,7 +452,7 @@
   "addr": "83:995A",
   "len": 7,
   "jp": "カードキー2{end}",
-  "en": "",
+  "en": "Card Key 2{end}",
   "notes": ""
  },
  {
@@ -460,7 +460,7 @@
   "addr": "83:9961",
   "len": 16,
   "jp": "開かない扉を開けるカギ7{end}",
-  "en": "",
+  "en": "A key that opens a locked door 7{end}",
   "notes": ""
  },
  {
@@ -468,7 +468,7 @@
   "addr": "83:9971",
   "len": 7,
   "jp": "カードキー3{end}",
-  "en": "",
+  "en": "Card Key 3{end}",
   "notes": ""
  },
  {
@@ -476,7 +476,7 @@
   "addr": "83:9978",
   "len": 16,
   "jp": "開かない扉を開けるカギ8{end}",
-  "en": "",
+  "en": "A key that opens a locked door 8{end}",
   "notes": ""
  },
  {
@@ -484,7 +484,7 @@
   "addr": "83:9988",
   "len": 7,
   "jp": "カードキー1{end}",
-  "en": "",
+  "en": "Card Key 1{end}",
   "notes": ""
  },
  {
@@ -492,7 +492,7 @@
   "addr": "83:998F",
   "len": 16,
   "jp": "開かない扉を開けるカギ9{end}",
-  "en": "",
+  "en": "A key that opens a locked door 9{end}",
   "notes": ""
  },
  {
@@ -500,7 +500,7 @@
   "addr": "83:999F",
   "len": 7,
   "jp": "カードキー2{end}",
-  "en": "",
+  "en": "Card Key 2{end}",
   "notes": ""
  },
  {
@@ -508,7 +508,7 @@
   "addr": "83:99A6",
   "len": 17,
   "jp": "開かない扉を開けるカギ10{end}",
-  "en": "",
+  "en": "A key that opens a locked door 10{end}",
   "notes": ""
  },
  {
@@ -516,7 +516,7 @@
   "addr": "83:99B7",
   "len": 7,
   "jp": "カードキー3{end}",
-  "en": "",
+  "en": "Card Key 3{end}",
   "notes": ""
  },
  {
@@ -524,7 +524,7 @@
   "addr": "83:99BE",
   "len": 17,
   "jp": "開かない扉を開けるカギ11{end}",
-  "en": "",
+  "en": "A key that opens a locked door 11{end}",
   "notes": ""
  },
  {
@@ -532,7 +532,7 @@
   "addr": "83:99CF",
   "len": 7,
   "jp": "カードキー4{end}",
-  "en": "",
+  "en": "Card Key 4{end}",
   "notes": ""
  },
  {
@@ -540,7 +540,7 @@
   "addr": "83:99D6",
   "len": 17,
   "jp": "開かない扉を開けるカギ12{end}",
-  "en": "",
+  "en": "A key that opens a locked door 12{end}",
   "notes": ""
  },
  {
@@ -548,7 +548,7 @@
   "addr": "83:99E7",
   "len": 6,
   "jp": "IDカード{end}",
-  "en": "",
+  "en": "ID Card{end}",
   "notes": ""
  },
  {
@@ -556,7 +556,7 @@
   "addr": "83:99ED",
   "len": 17,
   "jp": "開かない扉を開けるカギ13{end}",
-  "en": "",
+  "en": "A key that opens a locked door 13{end}",
   "notes": ""
  },
  {
@@ -564,7 +564,7 @@
   "addr": "83:99FE",
   "len": 13,
   "jp": "技術者専用キー{end}",
-  "en": "",
+  "en": "Engineer Key{end}",
   "notes": ""
  },
  {
@@ -572,7 +572,7 @@
   "addr": "83:9A0B",
   "len": 17,
   "jp": "開かない扉を開けるカギ14{end}",
-  "en": "",
+  "en": "A key that opens a locked door 14{end}",
   "notes": ""
  },
  {
@@ -580,7 +580,7 @@
   "addr": "83:9A1C",
   "len": 7,
   "jp": "カードキー1{end}",
-  "en": "",
+  "en": "Card Key 1{end}",
   "notes": ""
  },
  {
@@ -588,7 +588,7 @@
   "addr": "83:9A23",
   "len": 17,
   "jp": "開かない扉を開けるカギ15{end}",
-  "en": "",
+  "en": "A key that opens a locked door 15{end}",
   "notes": ""
  },
  {
@@ -596,7 +596,7 @@
   "addr": "83:9A34",
   "len": 7,
   "jp": "カードキー2{end}",
-  "en": "",
+  "en": "Card Key 2{end}",
   "notes": ""
  },
  {
@@ -604,7 +604,7 @@
   "addr": "83:9A3B",
   "len": 17,
   "jp": "開かない扉を開けるカギ16{end}",
-  "en": "",
+  "en": "A key that opens a locked door 16{end}",
   "notes": ""
  },
  {
@@ -612,7 +612,7 @@
   "addr": "83:9A4C",
   "len": 12,
   "jp": "非常階段のキー{end}",
-  "en": "",
+  "en": "Fire Escape Key{end}",
   "notes": ""
  },
  {
@@ -620,7 +620,7 @@
   "addr": "83:9A58",
   "len": 12,
   "jp": "非常階段のキー{end}",
-  "en": "",
+  "en": "The fire escape key{end}",
   "notes": ""
  }
 ]

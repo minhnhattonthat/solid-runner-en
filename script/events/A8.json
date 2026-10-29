@@ -5,7 +5,7 @@
   "op": "A8854A",
   "len": 52,
   "jp": "リフ「ここにはワシが集めたランナー使いの{br}他にも、ラオエルの仲間のバイオモンスター{br}もいる。{endFD}",
-  "en": "",
+  "en": "Riff: Besides the runner pilots I've gathered,{br}Raoel's bio-monster friends are here too.{endFD}",
   "notes": ""
  },
  {
@@ -14,7 +14,7 @@
   "op": "A8857F",
   "len": 47,
   "jp": "皆、いい奴らばかりだ。今ではみんなバイス{br}ハイトに立ち向かう仲間という訳だ。{end}",
-  "en": "",
+  "en": "They're all good folks. These days, everyone{br}here is a comrade standing up to Weissheit.{end}",
   "notes": ""
  },
  {
@@ -23,7 +23,7 @@
   "op": "A885B5",
   "len": 65,
   "jp": "{c0C:01}「リフ、聞きたい事があるんだ。{br}ラオエルが言っていたんだが、デイモンの{br}設計者の事を何か知っているのか？{end}",
-  "en": "",
+  "en": "{c0C:01}: Riff, there's something I want to{br}ask. Raoel mentioned it - do you know{br}anything about Daemon's designer?{end}",
   "notes": ""
  },
  {
@@ -32,7 +32,7 @@
   "op": "A885F8",
   "len": 39,
   "jp": "リフ「おお、その事か。ラオエルの話を{br}聞いてもしやと思っとったんだ。{endFD}",
-  "en": "",
+  "en": "Riff: Oh, that. When I heard Raoel's story, I{br}had a hunch.{endFD}",
   "notes": ""
  },
  {
@@ -41,7 +41,7 @@
   "op": "A88620",
   "len": 67,
   "jp": "デイモンの設計者は、トーマスという男だ。{br}彼に間違いない。なんでも、外国で{br}ランナーの研究をやっていたそうだ。{endFD}",
-  "en": "",
+  "en": "Daemon's designer is a man named Thomas. No{br}doubt about it. Word is he did runner research{br}overseas.{endFD}",
   "notes": ""
  },
  {
@@ -50,7 +50,7 @@
   "op": "A88664",
   "len": 34,
   "jp": "エリア8に住んどるのだが、{br}今は人嫌いになっとるらしいぞ。{end}",
-  "en": "",
+  "en": "He lives in Area 8, but I hear these days he{br}can't stand people.{end}",
   "notes": ""
  },
  {
@@ -59,7 +59,7 @@
   "op": "A88688",
   "len": 41,
   "jp": "「とにかく、会って話をしてみる。{br}エリア8だったな。今から行ってみるよ。{end}",
-  "en": "",
+  "en": "\"Anyway, I'll go see him and talk. Area 8,{br}right? I'll head over now.\"{end}",
   "notes": ""
  },
  {
@@ -68,7 +68,7 @@
   "op": "A886C9",
   "len": 43,
   "jp": "リフ「いよいよ決戦だな。ワシで力になれる{br}事があったら何でも言ってくれ。{end}",
-  "en": "",
+  "en": "Riff: So the final battle's here at last. If{br}there's anything I can do to help, just say the{br}word.{end}",
   "notes": ""
  },
  {
@@ -77,7 +77,7 @@
   "op": "A886FB",
   "len": 31,
   "jp": "リフ「{c0C:02}がないというのは{br}少し寂しいが気がするな。{end}",
-  "en": "",
+  "en": "Riff: It's a bit lonely without {c0C:02} around.{end}",
   "notes": ""
  },
  {
@@ -86,7 +86,7 @@
   "op": "A88735",
   "len": 39,
   "jp": "リフ「{c0C:01}、いい所に帰ってきた。{br}奥でラオエル達が待っているぞ。{end}",
-  "en": "",
+  "en": "Riff: {c0C:01}, you're back at just the right{br}time. Raoel and the others are waiting in the{br}back.{end}",
   "notes": ""
  },
  {
@@ -95,7 +95,7 @@
   "op": "A88C32",
   "len": 41,
   "jp": "ラオエル「イオン、まだ休んで{br}いなかったのか。{br}いい加減、体を壊すぞ。{end}",
-  "en": "",
+  "en": "Raoel: Ion, you still haven't rested? Keep this{br}up and you'll make yourself sick.{end}",
   "notes": ""
  },
  {
@@ -104,7 +104,7 @@
   "op": "A88C61",
   "len": 28,
   "jp": "イオン「ええ、分かってるわ。{br}でも、もう少しだけ。{end}",
-  "en": "",
+  "en": "Ion: Yes, I know. But just a little longer.{end}",
   "notes": ""
  },
  {
@@ -113,7 +113,7 @@
   "op": "A88C81",
   "len": 23,
   "jp": "「………{c0C:01}の具合はどうなんだ？{end}",
-  "en": "",
+  "en": "\"...How is {c0C:01} doing?\"{end}",
   "notes": ""
  },
  {
@@ -122,7 +122,7 @@
   "op": "A88C9F",
   "len": 36,
   "jp": "「ドクターの話では、意識が戻りさえすれば{br}大丈夫だって。{end}",
-  "en": "",
+  "en": "\"The doctor says he'll be fine as long as he{br}regains consciousness.\"{end}",
   "notes": ""
  },
  {
@@ -131,7 +131,7 @@
   "op": "A88CC5",
   "len": 57,
   "jp": "「しかし、あれからもう1カ月だ。おれは、{br}もうこのまま意識が戻らないんじゃないかと{br}思う時さえある。{end}",
-  "en": "",
+  "en": "\"But it's already been a month since then.{br}There are times I even think he may never{br}wake up.\"{end}",
   "notes": ""
  },
  {
@@ -140,7 +140,7 @@
   "op": "A88D05",
   "len": 10,
   "jp": "「そんな事ない！{endFD}",
-  "en": "",
+  "en": "\"That's not true!\"{endFD}",
   "notes": ""
  },
  {
@@ -149,7 +149,7 @@
   "op": "A88D13",
   "len": 25,
   "jp": "{c0C:01}は…{c0C:01}はきっと、目を{br}覚ますわ。{end}",
-  "en": "",
+  "en": "{c0C:01}... {c0C:01} will wake up. I know he{br}will.{end}",
   "notes": ""
  },
  {
@@ -158,7 +158,7 @@
   "op": "A88D32",
   "len": 23,
   "jp": "「こいつの事を信じているんだな、イオン。{end}",
-  "en": "",
+  "en": "\"You really believe in him, don't you, Ion?\"{end}",
   "notes": ""
  },
  {
@@ -167,7 +167,7 @@
   "op": "A88D56",
   "len": 48,
   "jp": "イオン「{c0C:01}、あたしは信じてる。{br}あなたはこのまま眠ったままでいるような人{br}じゃない。{end}",
-  "en": "",
+  "en": "Ion: {c0C:01}, I believe in you. You're not the{br}kind of person who'd just stay asleep like this.{end}",
   "notes": ""
  },
  {
@@ -176,7 +176,7 @@
   "op": "A88D9F",
   "len": 35,
   "jp": "イオン「しばらく留守にしていたようだけど{br}どこへ行っていたの？{end}",
-  "en": "",
+  "en": "Ion: You've been away for a while. Where did{br}you go?{end}",
   "notes": ""
  },
  {
@@ -185,7 +185,7 @@
   "op": "A88DC4",
   "len": 33,
   "jp": "ラオエル「ここしばらく、エリア4から北の{br}方を回っていた。{endFD}",
-  "en": "",
+  "en": "Raoel: For some time now, I've been making{br}the rounds of the areas north of Area 4.{endFD}",
   "notes": ""
  },
  {
@@ -194,7 +194,7 @@
   "op": "A88DE6",
   "len": 51,
   "jp": "お前は、ずっとここにいるから分からない{br}かも知れないが、外はずいぶんと変わって{br}しまった。{end}",
-  "en": "",
+  "en": "You've been here the whole time, so you may{br}not know, but things outside have changed a{br}great deal.{end}",
   "notes": ""
  },
  {
@@ -203,7 +203,7 @@
   "op": "A88E1B",
   "len": 9,
   "jp": "「どんな風に？{end}",
-  "en": "",
+  "en": "\"How so?\"{end}",
   "notes": ""
  },
  {
@@ -212,7 +212,7 @@
   "op": "A88E26",
   "len": 61,
   "jp": "「街は荒廃しきっている。街だけじゃない、{br}人の心もだ。皆、バイスハイトの事を恐れて{br}生活している。{endFD}",
-  "en": "",
+  "en": "\"The city is in total ruin. And not only the city{br}- people's hearts too. Everyone lives in fear{br}of Weissheit.\"{endFD}",
   "notes": ""
  },
  {
@@ -221,7 +221,7 @@
   "op": "A88E64",
   "len": 66,
   "jp": "しかも、奴に抵抗しようとさえしない。{br}CTIの元局長がレジスタンスを組織して{br}いるが、それでもまだ小さな力だ。{end}",
-  "en": "",
+  "en": "What's more, they don't even try to resist him.{br}The former CTI Director has organized a{br}Resistance, but it's still a small force.{end}",
   "notes": ""
  },
  {
@@ -230,7 +230,7 @@
   "op": "A88EAB",
   "len": 63,
   "jp": "「仕方ないわ。奴らは街のメインコンピュー{br}ターを抑えている。もし、逆らえばライフ{br}ラインを止められてしまうわ。{endFD}",
-  "en": "",
+  "en": "\"It can't be helped. They control the city's{br}main computer. Anyone who defies them gets{br}their lifelines cut off.\"{endFD}",
   "notes": ""
  },
  {
@@ -239,7 +239,7 @@
   "op": "A88EEB",
   "len": 53,
   "jp": "それは、文明に頼りきった生活をして来た{br}人達にとって、死を宣告されるのと同じよ。{end}",
-  "en": "",
+  "en": "For people who've always depended completely{br}on civilization, that's the same as a death{br}sentence.{end}",
   "notes": ""
  },
  {
@@ -248,7 +248,7 @@
   "op": "A88F24",
   "len": 36,
   "jp": "「おれ達のように地下に潜って生活すれば{br}良いではないか。{end}",
-  "en": "",
+  "en": "\"Then they could just go underground and live{br}like we do.\"{end}",
   "notes": ""
  },
  {
@@ -257,7 +257,7 @@
   "op": "A88F4E",
   "len": 69,
   "jp": "「無理よ。普通の人には耐えられないわ。{br}それに、奴らに命を狙われる事になる。{br}誰だって自分の命は惜しいわ。{end}",
-  "en": "",
+  "en": "\"Impossible. Ordinary people couldn't stand it.{br}Besides, they'd be marked for death. Everyone{br}values their own life.\"{end}",
   "notes": ""
  },
  {
@@ -266,7 +266,7 @@
   "op": "A88F95",
   "len": 43,
   "jp": "「お前も変わったな。初めて会った時は{br}そんな事を言う女ではなかった。{end}",
-  "en": "",
+  "en": "\"You've changed too. When we first met, you{br}weren't the kind of woman who'd say things{br}like that.\"{end}",
   "notes": ""
  },
  {
@@ -275,7 +275,7 @@
   "op": "A88FC4",
   "len": 62,
   "jp": "「私もバイスハイトは憎いわ。でも、{br}今は{c0C:01}の事で頭が一杯なの。{br}だから、ここを離れる訳にはいかない。{end}",
-  "en": "",
+  "en": "\"I hate Weissheit too. But right now, all I can{br}think about is {c0C:01}. That's why I can't{br}leave here.\"{end}",
   "notes": ""
  },
  {
@@ -284,7 +284,7 @@
   "op": "A89004",
   "len": 12,
   "jp": "「イオン………。{end}",
-  "en": "",
+  "en": "\"Ion...\"{end}",
   "notes": ""
  },
  {
@@ -293,7 +293,7 @@
   "op": "A89029",
   "len": 31,
   "jp": "イオン「ん…ラオエル。あたし眠っちゃって{br}いたみたいね。{end}",
-  "en": "",
+  "en": "Ion: Mm... Raoel. Looks like I dozed off.{end}",
   "notes": ""
  },
  {
@@ -302,7 +302,7 @@
   "op": "A8904A",
   "len": 21,
   "jp": "ラオエル「すまない、起こしてしまった。{end}",
-  "en": "",
+  "en": "Raoel: Sorry. I woke you.{end}",
   "notes": ""
  },
  {
@@ -311,7 +311,7 @@
   "op": "A89064",
   "len": 21,
   "jp": "「これ、あなたが………ありがとう。{end}",
-  "en": "",
+  "en": "\"This... you did this? ...Thank you.\"{end}",
   "notes": ""
  },
  {
@@ -320,7 +320,7 @@
   "op": "A8907B",
   "len": 18,
   "jp": "「{c0C:01}の奴は相変わらずか。{end}",
-  "en": "",
+  "en": "\"Still no change in {c0C:01}?\"{end}",
   "notes": ""
  },
  {
@@ -329,7 +329,7 @@
   "op": "A89091",
   "len": 34,
   "jp": "「…いつになったら、意識が戻るのかしら。{br}もう半年よ。{end}",
-  "en": "",
+  "en": "\"...I wonder when he'll wake up. It's been half{br}a year already.\"{end}",
   "notes": ""
  },
  {
@@ -338,7 +338,7 @@
   "op": "A890B5",
   "len": 51,
   "jp": "「あせらず待つんだ。{br}こいつは、必ず戻って来る。{br}煮ても焼いても喰えない奴だからな。{end}",
-  "en": "",
+  "en": "\"Be patient and wait. He'll come back, I'm sure.{br}He's far too tough to go down for good.\"{end}",
   "notes": ""
  },
  {
@@ -347,7 +347,7 @@
   "op": "A890EA",
   "len": 14,
   "jp": "「えぇ…それもそうよね。{end}",
-  "en": "",
+  "en": "\"Yeah... I guess you're right.\"{end}",
   "notes": ""
  },
  {
@@ -356,7 +356,7 @@
   "op": "A890FC",
   "len": 35,
   "jp": "「お前も無理せずに休め。おれは、お前の{br}体が心配だ。{end}",
-  "en": "",
+  "en": "\"Don't push yourself either - get some rest.{br}I'm worried about your health.\"{end}",
   "notes": ""
  },
  {
@@ -365,7 +365,7 @@
   "op": "A89126",
   "len": 35,
   "jp": "「そうもいかないわよ。だって、{br}{c0C:01}はあたしを助ける為に…。{end}",
-  "en": "",
+  "en": "\"I can't do that. After all, {c0C:01} ended up{br}like this saving me...\"{end}",
   "notes": ""
  },
  {
@@ -374,7 +374,7 @@
   "op": "A8914F",
   "len": 16,
   "jp": "「イオン。お前………。{end}",
-  "en": "",
+  "en": "\"Ion. You...\"{end}",
   "notes": ""
  },
  {
@@ -383,7 +383,7 @@
   "op": "A89167",
   "len": 15,
   "jp": "「………………。{end}",
-  "en": "",
+  "en": "\"......\"{end}",
   "notes": ""
  },
  {
@@ -392,7 +392,7 @@
   "op": "A8917A",
   "len": 26,
   "jp": "「おれは…お前の事が好きだ。愛している。{end}",
-  "en": "",
+  "en": "\"I... have feelings for you. I love you.\"{end}",
   "notes": ""
  },
  {
@@ -401,7 +401,7 @@
   "op": "A8919B",
   "len": 8,
   "jp": "「ラオエル！？{end}",
-  "en": "",
+  "en": "\"Raoel?!\"{end}",
   "notes": ""
  },
  {
@@ -410,7 +410,7 @@
   "op": "A891A5",
   "len": 62,
   "jp": "「ずっと前からそう思っていた。{br}もっとも、おれはこんなみにくい姿だから、{br}お前にとっては迷惑かも知れないが。{endFD}",
-  "en": "",
+  "en": "\"I've felt this way for a long time. Though{br}with an ugly form like mine, it may only be a{br}burden to you.\"{endFD}",
   "notes": ""
  },
  {
@@ -419,7 +419,7 @@
   "op": "A891E6",
   "len": 44,
   "jp": "だが、お前の事を考えると、むねの中が{br}どうしようもなくアツくなって来るんだ。{endFD}",
-  "en": "",
+  "en": "But when I think of you, my chest burns so{br}hot I can't help it.{endFD}",
   "notes": ""
  },
  {
@@ -428,7 +428,7 @@
   "op": "A89213",
   "len": 64,
   "jp": "おれの事を好きだと思ってくれなくても{br}構わない。ただ、お前の事を想っている事を{br}知っていて欲しかったんだ。{end}",
-  "en": "",
+  "en": "It's all right if you can't feel the same way{br}about me. I just wanted you to know that I{br}care for you.{end}",
   "notes": ""
  },
  {
@@ -437,7 +437,7 @@
   "op": "A89258",
   "len": 39,
   "jp": "「………ありがとう。{br}今はまだ応えられないかも知れないけど…。{endFD}",
-  "en": "",
+  "en": "\"...Thank you. I may not be able to answer you{br}just yet...\"{endFD}",
   "notes": ""
  },
  {
@@ -446,7 +446,7 @@
   "op": "A89280",
   "len": 54,
   "jp": "でもあたし、あなたの事嫌いじゃないわよ。{br}少なくとも、友達とか、仲間っていうんじゃ{br}ないわ。{end}",
-  "en": "",
+  "en": "But I don't dislike you, you know. At the very{br}least, you're more to me than just a friend or{br}a comrade.{end}",
   "notes": ""
  },
  {
@@ -455,7 +455,7 @@
   "op": "A892B7",
   "len": 34,
   "jp": "あたし…考えてみる。しばらく時間をちょう{br}だい、ラオエル。{end}",
-  "en": "",
+  "en": "I'll... think about it. Give me a little time,{br}Raoel.{end}",
   "notes": ""
  },
  {
@@ -464,7 +464,7 @@
   "op": "A892E0",
   "len": 11,
   "jp": "「あぁ、もちろんさ。{end}",
-  "en": "",
+  "en": "\"Of course.\"{end}",
   "notes": ""
  },
  {
@@ -473,7 +473,7 @@
   "op": "A892F2",
   "len": 55,
   "jp": "「それに、今は{c0C:01}の意識が戻る事が{br}大切なの。だって、あたしを助けてくれた人{br}ですもの。{end}",
-  "en": "",
+  "en": "\"Besides, right now what matters is {c0C:01}{br}waking up. After all, he's the one who saved{br}me.\"{end}",
   "notes": ""
  },
  {
@@ -482,7 +482,7 @@
   "op": "A89332",
   "len": 20,
   "jp": "{c0C:01}「う、う〜ん。アイリーン…。{end}",
-  "en": "",
+  "en": "{c0C:01}: Uhh... nnngh... Irene...{end}",
   "notes": ""
  },
  {
@@ -491,7 +491,7 @@
   "op": "A8934F",
   "len": 16,
   "jp": "「{c0C:01}、目を覚ましたか！{end}",
-  "en": "",
+  "en": "\"{c0C:01}, you're awake!\"{end}",
   "notes": ""
  },
  {
@@ -500,7 +500,7 @@
   "op": "A89363",
   "len": 59,
   "jp": "「あたしをアイリーンと間違えているのね。{br}{c0C:01}、ここに居るわ。もう大丈夫よ、{br}あなたは助かったのよ。{end}",
-  "en": "",
+  "en": "\"He thinks I'm Irene. {c0C:01}, I'm right here.{br}It's all right now. You're safe.\"{end}",
   "notes": ""
  },
  {
@@ -509,7 +509,7 @@
   "op": "A893A2",
   "len": 31,
   "jp": "「う…イオン…？{br}ずっと、アイリーンの夢を見ていた。{end}",
-  "en": "",
+  "en": "\"Ugh... Ion...? I was dreaming about Irene the{br}whole time.\"{end}",
   "notes": ""
  },
  {
@@ -518,7 +518,7 @@
   "op": "A893C3",
   "len": 17,
   "jp": "「{c0C:01}、やっぱりあなたは…。{end}",
-  "en": "",
+  "en": "\"{c0C:01}, you really do still...\"{end}",
   "notes": ""
  },
  {
@@ -527,7 +527,7 @@
   "op": "A893DC",
   "len": 9,
   "jp": "「えぇ、そうよ。{end}",
-  "en": "",
+  "en": "\"Yes, that's right.\"{end}",
   "notes": ""
  },
  {
@@ -536,7 +536,7 @@
   "op": "A893E9",
   "len": 53,
   "jp": "「そうか…。しかし、こいつの心にはまだ、{br}昔の恋人への想いが残っている。それでも{br}なのか？{end}",
-  "en": "",
+  "en": "\"I see... But his heart still holds feelings for{br}his old love. Even so?\"{end}",
   "notes": ""
  },
  {
@@ -545,7 +545,7 @@
   "op": "A89420",
   "len": 57,
   "jp": "「確かに、{c0C:01}の心の中にはいつでも{br}アイリーンの姿がある…。あたしの出る幕{br}なんかないのかもね。{endFD}",
-  "en": "",
+  "en": "\"It's true, Irene is always there in {c0C:01}'s{br}heart... Maybe there's no room for me.\"{endFD}",
   "notes": ""
  },
  {
@@ -554,7 +554,7 @@
   "op": "A8945F",
   "len": 45,
   "jp": "でも、あたしは自分の気持ちにまっすぐで{br}いたいの。この想いに変わりはないわ。{end}",
-  "en": "",
+  "en": "But I want to stay true to my own feelings.{br}They won't change.{end}",
   "notes": ""
  },
  {
@@ -563,7 +563,7 @@
   "op": "A89490",
   "len": 68,
   "jp": "「イオン、あきらめるなよ。想うという事は{br}ひとつのパワーだ。自分を信じて、ずっと{br}想い続ける事で、それは通じるんだ。{end}",
-  "en": "",
+  "en": "\"Ion, don't give up. Loving someone is a kind{br}of power. If you believe in yourself and keep{br}on loving, it will reach him.\"{end}",
   "notes": ""
  },
  {
@@ -572,7 +572,7 @@
   "op": "A894D6",
   "len": 25,
   "jp": "「ありがとう、ラオエル。あなた、優しい{br}のね。{end}",
-  "en": "",
+  "en": "\"Thank you, Raoel. You're kind, aren't you?\"{end}",
   "notes": ""
  },
  {
@@ -581,7 +581,7 @@
   "op": "A894F6",
   "len": 12,
   "jp": "{c0C:01}「う、う〜ん。{end}",
-  "en": "",
+  "en": "{c0C:01}: Uhh... nnngh...{end}",
   "notes": ""
  },
  {
@@ -590,7 +590,7 @@
   "op": "A8950B",
   "len": 7,
   "jp": "「{c0C:01}！！{end}",
-  "en": "",
+  "en": "\"{c0C:01}!!\"{end}",
   "notes": ""
  },
  {
@@ -599,7 +599,7 @@
   "op": "A8951A",
   "len": 16,
   "jp": "「{c0C:01}、目を覚ましたか！{end}",
-  "en": "",
+  "en": "\"{c0C:01}, you're awake!\"{end}",
   "notes": ""
  },
  {
@@ -608,7 +608,7 @@
   "op": "A8952E",
   "len": 12,
   "jp": "「ア、アイリーン…。{end}",
-  "en": "",
+  "en": "\"I-Irene...\"{end}",
   "notes": ""
  },
  {
@@ -617,7 +617,7 @@
   "op": "A8953F",
   "len": 46,
   "jp": "「あたしをアイリーンと間違えているのね。{br}{c0C:01}、しっかりして。あたしよ、{br}イオンよ。{end}",
-  "en": "",
+  "en": "\"He thinks I'm Irene. {c0C:01}, pull yourself{br}together. It's me. It's Ion.\"{end}",
   "notes": ""
  },
  {
@@ -626,7 +626,7 @@
   "op": "A8956F",
   "len": 11,
   "jp": "「う…イオン…？{end}",
-  "en": "",
+  "en": "\"Ugh... Ion...?\"{end}",
   "notes": ""
  },
  {
@@ -635,7 +635,7 @@
   "op": "A8957E",
   "len": 40,
   "jp": "そうか、お前も助かったのか。よかった、{br}お前まで亡くしたらオレは…。{end}",
-  "en": "",
+  "en": "So you made it out too. Thank goodness. If I'd{br}lost you as well, I'd...{end}",
   "notes": ""
  },
  {
@@ -644,7 +644,7 @@
   "op": "A895AD",
   "len": 12,
   "jp": "「{c0C:01}………。{end}",
-  "en": "",
+  "en": "\"{c0C:01}...\"{end}",
   "notes": ""
  },
  {
@@ -653,7 +653,7 @@
   "op": "A895C7",
   "len": 27,
   "jp": "リフ「おお、{c0C:01}！ ようやく目を{br}覚ましたか。{end}",
-  "en": "",
+  "en": "Riff: Oh, {c0C:01}! You're finally awake.{end}",
   "notes": ""
  },
  {
@@ -662,7 +662,7 @@
   "op": "A895E8",
   "len": 19,
   "jp": "「リフ、カーク。ここは一体…？{end}",
-  "en": "",
+  "en": "\"Riff, Kirk. Where am I...?\"{end}",
   "notes": ""
  },
  {
@@ -671,7 +671,7 @@
   "op": "A89600",
   "len": 61,
   "jp": "カーク「リフのジャンクヤードの地下じゃ。{br}ババリアのアジトから、このラオエルが{br}お前を助け出してくれたんじゃ。{endFD}",
-  "en": "",
+  "en": "Kirk: Under Riff's Junkyard. Raoel here{br}rescued you from Bavaria's hideout.{endFD}",
   "notes": ""
  },
  {
@@ -680,7 +680,7 @@
   "op": "A8963E",
   "len": 57,
   "jp": "家は危険じゃったから、ここへ移した。{br}それから半年、ずっとイオンが看病して{br}くれていたんじゃぞ。{end}",
-  "en": "",
+  "en": "Your home was dangerous, so we moved you{br}here. Ion has been nursing you ever since -{br}for half a year.{end}",
   "notes": ""
  },
  {
@@ -689,7 +689,7 @@
   "op": "A89680",
   "len": 61,
   "jp": "「半年………。そうだったのか。あの時{br}オレはバイスハイトにやられちまって…。{br}ありがとうラオエル、イオン。{end}",
-  "en": "",
+  "en": "\"Half a year... So that's what happened. Back{br}then, Weissheit got the better of me... Thanks,{br}Raoel, Ion.\"{end}",
   "notes": ""
  },
  {
@@ -698,7 +698,7 @@
   "op": "A896C4",
   "len": 35,
   "jp": "「よく戻って来たな、{c0C:01}。{br}本当にお前は大した奴だ。{end}",
-  "en": "",
+  "en": "\"Welcome back, {c0C:01}. You really are{br}something.\"{end}",
   "notes": ""
  },
  {
@@ -707,7 +707,7 @@
   "op": "A896EB",
   "len": 16,
   "jp": "「本当によかった、{c0C:01}。{end}",
-  "en": "",
+  "en": "\"I'm so glad, {c0C:01}.\"{end}",
   "notes": ""
  },
  {
@@ -716,7 +716,7 @@
   "op": "A89782",
   "len": 57,
   "jp": "リフ「おい、{c0C:01}。もう動いて大丈夫{br}なのか？ リハビリもまだ完全に終わって{br}ないんじゃないのか。{end}",
-  "en": "",
+  "en": "Riff: Hey, {c0C:01}. You sure you're okay{br}moving around already? You haven't finished{br}your rehab yet, have you?{end}",
   "notes": ""
  },
  {
@@ -725,7 +725,7 @@
   "op": "A897BD",
   "len": 50,
   "jp": "{c0C:01}「ああ。イオンがよく看病して{br}いてくれたからな。{br}おかげで時間をかけなくて済んだ。{end}",
-  "en": "",
+  "en": "{c0C:01}: Yeah. Ion took good care of me, so{br}it didn't take long.{end}",
   "notes": ""
  },
  {
@@ -734,7 +734,7 @@
   "op": "A897F1",
   "len": 19,
   "jp": "「そうか。で、これからどうするんだ？{end}",
-  "en": "",
+  "en": "\"I see. So what're you going to do now?\"{end}",
   "notes": ""
  },
  {
@@ -743,7 +743,7 @@
   "op": "A89806",
   "len": 66,
   "jp": "「外に出て、街の様子を見て来ようと思う。{br}大体の事はラオエルから聞いたが、自分の{br}目で確かめたい。{end}",
-  "en": "",
+  "en": "\"I'm going out to see how the city's doing.{br}Raoel told me most of it, but I want to see for{br}myself.\"{end}",
   "notes": ""
  },
  {
@@ -752,7 +752,7 @@
   "op": "A8984A",
   "len": 21,
   "jp": "「外は危険だ。気をつけるんだぞ。{end}",
-  "en": "",
+  "en": "\"It's dangerous out there. Be careful.\"{end}",
   "notes": ""
  },
  {
@@ -761,7 +761,7 @@
   "op": "A89888",
   "len": 41,
   "jp": "イオン「{c0C:01}、まだ体が本調子じゃ{br}ないんだから無理をしちゃダメよ。{end}",
-  "en": "",
+  "en": "Ion: {c0C:01}, you're not back to full strength{br}yet, so don't overdo it.{end}",
   "notes": ""
  },
  {
@@ -770,7 +770,7 @@
   "op": "A898BC",
   "len": 15,
   "jp": "イオン「{c0C:01}、いよいよね。{end}",
-  "en": "",
+  "en": "Ion: {c0C:01}, this is it.{end}",
   "notes": ""
  },
  {
@@ -779,7 +779,7 @@
   "op": "A898CD",
   "len": 45,
   "jp": "{c0C:01}「ああ、いよいよだ。{br}でも、どうしてイオンは{br}おれ達と一緒に行かないんだ？{end}",
-  "en": "",
+  "en": "{c0C:01}: Yeah, this is it. But why aren't you{br}coming with us, Ion?{end}",
   "notes": ""
  },
  {
@@ -788,7 +788,7 @@
   "op": "A89905",
   "len": 13,
   "jp": "「え、ええ………。{end}",
-  "en": "",
+  "en": "\"W-well...\"{end}",
   "notes": ""
  },
  {
@@ -797,7 +797,7 @@
   "op": "A89913",
   "len": 34,
   "jp": "あたし、あなたの足手まといには………{br}なりたくないから。{end}",
-  "en": "",
+  "en": "I don't want to... be a burden to you.{end}",
   "notes": ""
  },
  {
@@ -806,7 +806,7 @@
   "op": "A89937",
   "len": 12,
   "jp": "「イオン………。{end}",
-  "en": "",
+  "en": "\"Ion...\"{end}",
   "notes": ""
  },
  {
@@ -815,7 +815,7 @@
   "op": "A89948",
   "len": 58,
   "jp": "「や、やぁね。そんな顔しないでよ、{br}あなたらしくない。あたし達も{br}チャンスを見て中に突入するつもりよ。{endFD}",
-  "en": "",
+  "en": "\"C-come on, don't make that face. It's not like{br}you. We're planning to storm in too when we{br}get the chance.\"{endFD}",
   "notes": ""
  },
  {
@@ -824,7 +824,7 @@
   "op": "A89986",
   "len": 18,
   "jp": "ねぇ、{c0C:01}。あたし………。{end}",
-  "en": "",
+  "en": "Hey, {c0C:01}. I...{end}",
   "notes": ""
  },
  {
@@ -833,7 +833,7 @@
   "op": "A8999A",
   "len": 5,
   "jp": "「えっ？{end}",
-  "en": "",
+  "en": "\"Huh?\"{end}",
   "notes": ""
  },
  {
@@ -842,7 +842,7 @@
   "op": "A899A1",
   "len": 59,
   "jp": "「………ううん、何でもないわ。{br}とにかく早く戦いを終わらせて、{br}ソリッドシテイを元に戻しましょう。{end}",
-  "en": "",
+  "en": "\"...No, it's nothing. Anyway, let's end this fight{br}fast and put Solid City back the way it was.\"{end}",
   "notes": ""
  },
  {
@@ -851,7 +851,7 @@
   "op": "A899E3",
   "len": 9,
   "jp": "「え、ええ…。{endFD}",
-  "en": "",
+  "en": "\"W-well...\"{endFD}",
   "notes": ""
  },
  {
@@ -860,7 +860,7 @@
   "op": "A899ED",
   "len": 38,
   "jp": "そばに…いておきたい人がいるの。{br}だから、あたしは地上で戦うわ。{end}",
-  "en": "",
+  "en": "There's... someone I want to stay close to. So{br}I'll fight on the surface.{end}",
   "notes": ""
  },
  {
@@ -869,7 +869,7 @@
   "op": "A89A15",
   "len": 23,
   "jp": "「そうか。{br}イオン、必ずまた会えるよな？{end}",
-  "en": "",
+  "en": "\"I see. Ion, we'll meet again for sure, right?\"{end}",
   "notes": ""
  },
  {
@@ -878,7 +878,7 @@
   "op": "A89A31",
   "len": 70,
   "jp": "「ええ。この戦いが終わったら…あたし、{br}全ての事に結論が出せるような気がするの。{br}だから、必ず戦いに勝ちましょう。{end}",
-  "en": "",
+  "en": "\"Yes. When this fight is over... I feel like I'll{br}be able to settle everything. So let's win this{br}fight, no matter what.\"{end}",
   "notes": ""
  },
  {
@@ -887,7 +887,7 @@
   "op": "A89A7D",
   "len": 22,
   "jp": "イオン「{c0C:01}、生きてまた………。{end}",
-  "en": "",
+  "en": "Ion: {c0C:01}, let's both live and meet again...{end}",
   "notes": ""
  },
  {
@@ -896,7 +896,7 @@
   "op": "A89AAC",
   "len": 44,
   "jp": "ミネルバ「{c0C:01}さんの看病でイオンが{br}倒れてしまうんじゃないかと心配でした。{end}",
-  "en": "",
+  "en": "Minerva: I was worried Ion would collapse from{br}nursing you, {c0C:01}-san.{end}",
   "notes": ""
  },
  {
@@ -905,7 +905,7 @@
   "op": "A89AE3",
   "len": 31,
   "jp": "ミネルバ「{c0C:01}さん、必ず生きてまた{br}会いましょうね。{end}",
-  "en": "",
+  "en": "Minerva: {c0C:01}-san, let's be sure to meet{br}again alive.{end}",
   "notes": ""
  },
  {
@@ -914,7 +914,7 @@
   "op": "A89B04",
   "len": 17,
   "jp": "{c0C:01}「イオンの事を頼むぞ。{end}",
-  "en": "",
+  "en": "{c0C:01}: Take care of Ion.{end}",
   "notes": ""
  },
  {
@@ -923,7 +923,7 @@
   "op": "A89B17",
   "len": 28,
   "jp": "「ハイッ。カークも、{c0C:01}さんの事を{br}頼みますよ。{end}",
-  "en": "",
+  "en": "\"Yes! And Kirk, you take care of{br}{c0C:01}-san.\"{end}",
   "notes": ""
  },
  {
@@ -932,7 +932,7 @@
   "op": "A89B38",
   "len": 48,
   "jp": "カーク「分かっておる。こやつの事はワシが{br}1番よく知っておる。心配せずとも良い。{end}",
-  "en": "",
+  "en": "Kirk: I know. No one knows this fellow better{br}than I. You needn't worry.{end}",
   "notes": ""
  },
  {
@@ -941,7 +941,7 @@
   "op": "A89B6E",
   "len": 18,
   "jp": "ミネルバ「頑張って下さいね。{end}",
-  "en": "",
+  "en": "Minerva: Good luck to you both.{end}",
   "notes": ""
  },
  {
@@ -950,7 +950,7 @@
   "op": "A89BAA",
   "len": 21,
   "jp": "ラオエル「今までの事を聞きたいか？{end}",
-  "en": "",
+  "en": "Raoel: Want to hear what's happened up to{br}now?{end}",
   "notes": ""
  },
  {
@@ -959,7 +959,7 @@
   "op": "A89BC0",
   "len": 14,
   "jp": "  聞く{br}  聞かない{endFE}",
-  "en": "",
+  "en": "Hear it{br}Skip it{endFE}",
   "notes": ""
  },
  {
@@ -968,7 +968,7 @@
   "op": "A89BD9",
   "len": 48,
   "jp": "「お前が倒された後、今まで裏の世界にいた{br}バイスハイトが表に姿を現わした。{endFD}",
-  "en": "",
+  "en": "\"After you were defeated, Weissheit, who'd{br}kept to the underworld until then, came out{br}into the open.\"{endFD}",
   "notes": ""
  },
  {
@@ -977,7 +977,7 @@
   "op": "A89C0A",
   "len": 75,
   "jp": "自らをこの街の支配者として、人々に圧政を{br}しくようになり、逆らう者がいれば、ライフ{br}ラインをカットし、武力で制圧した。{endFD}",
-  "en": "",
+  "en": "He made himself the city's ruler and oppressed{br}the people. Whoever defied him had their{br}lifelines cut and was crushed by force.{endFD}",
   "notes": ""
  },
  {
@@ -986,7 +986,7 @@
   "op": "A89C56",
   "len": 68,
   "jp": "今では人々は奴を恐れ、すっかりいいなりに{br}なっている。だが、おれ達はレジスタンスを{br}組織して奴らに抵抗している。{endFD}",
-  "en": "",
+  "en": "Now the people fear him and do whatever he{br}says. But we've organized a Resistance and{br}are fighting back.{endFD}",
   "notes": ""
  },
  {
@@ -995,7 +995,7 @@
   "op": "A89C9B",
   "len": 75,
   "jp": "おれ達の他にも、元CTIの人間が独自に{br}組織を作って抵抗を続けているようだ。その{br}リーダーはグロリアという人間らしい。{end}",
-  "en": "",
+  "en": "Ex-CTI people have also formed a group of{br}their own and keep resisting. Their leader is{br}said to be someone named Gloria.{end}",
   "notes": ""
  },
  {
@@ -1004,7 +1004,7 @@
   "op": "A89CE9",
   "len": 24,
   "jp": "「聞きたい事があればいつでも言ってくれ。{end}",
-  "en": "",
+  "en": "\"If there's anything you want to ask, just say{br}so.\"{end}",
   "notes": ""
  },
  {
@@ -1013,7 +1013,7 @@
   "op": "A89D07",
   "len": 19,
   "jp": "ラオエル「リフに話は聞いたのか？{end}",
-  "en": "",
+  "en": "Raoel: Did you talk to Riff?{end}",
   "notes": ""
  },
  {
@@ -1022,7 +1022,7 @@
   "op": "A89D20",
   "len": 21,
   "jp": "ラオエル「くれぐれも無理はするなよ。{end}",
-  "en": "",
+  "en": "Raoel: Whatever you do, don't push yourself{br}too hard.{end}",
   "notes": ""
  },
  {
@@ -1031,7 +1031,7 @@
   "op": "A89D3D",
   "len": 51,
   "jp": "ラオエル「ランナーをパワーアップさせた{br}ようだな。これでおれ達の方も準備が{br}整った訳だ。{end}",
-  "en": "",
+  "en": "Raoel: Looks like you've powered up your{br}runner. That means our side is ready too.{end}",
   "notes": ""
  },
  {
@@ -1040,7 +1040,7 @@
   "op": "A89D72",
   "len": 30,
   "jp": "{c0C:01}「いよいよババリアの本拠へ乗り{br}込むんだな？{end}",
-  "en": "",
+  "en": "{c0C:01}: So we're finally storming Bavaria's{br}headquarters?{end}",
   "notes": ""
  },
  {
@@ -1049,7 +1049,7 @@
   "op": "A89D92",
   "len": 64,
   "jp": "「目標は、奴らが乗っ取ったCTI本部だ。{br}バイスハイトはメインコンピューターのある{br}場所にいるという事だ。{end}",
-  "en": "",
+  "en": "\"Our target is CTI HQ, which they've taken{br}over. Weissheit is said to be where the main{br}computer is.\"{end}",
   "notes": ""
  },
  {
@@ -1058,7 +1058,7 @@
   "op": "A89DD4",
   "len": 32,
   "jp": "「そう簡単に侵入させてはくれないだろう。{br}作戦は？{end}",
-  "en": "",
+  "en": "\"They won't let us in that easily. What's the{br}plan?\"{end}",
   "notes": ""
  },
  {
@@ -1067,7 +1067,7 @@
   "op": "A89DF6",
   "len": 43,
   "jp": "「ちょうど本部の真下に地下道が{br}通っている。それを利用するんだ。{endFD}",
-  "en": "",
+  "en": "\"There's a tunnel running right beneath HQ.{br}We'll use it.\"{endFD}",
   "notes": ""
  },
  {
@@ -1076,7 +1076,7 @@
   "op": "A89E22",
   "len": 77,
   "jp": "まず、地上でイオンとおれ達が奴らの注意を{br}引き付ける。その機に乗じて、お前とCTI{br}の奴らが地下から内部へ侵入する。{endFD}",
-  "en": "",
+  "en": "First, Ion and the rest of us draw their{br}attention on the surface. Meanwhile, you and{br}the CTI people sneak in from underground.{endFD}",
   "notes": ""
  },
  {
@@ -1085,7 +1085,7 @@
   "op": "A89E70",
   "len": 66,
   "jp": "この作戦が失敗すれば、奴らは警戒を強め{br}2度と侵入のチャンスは来ないだろう。{br}絶対に成功させねば。{end}",
-  "en": "",
+  "en": "If this operation fails, they'll tighten security{br}and we'll never get another chance to get in.{br}It must succeed.{end}",
   "notes": ""
  },
  {
@@ -1094,7 +1094,7 @@
   "op": "A89EB4",
   "len": 42,
   "jp": "「分かっている。今度こそ奴の息の根を{br}止めて、決着をつけてやる！{end}",
-  "en": "",
+  "en": "\"I know. This time I'm finishing him off and{br}settling this for good!\"{end}",
   "notes": ""
  },
  {
@@ -1103,7 +1103,7 @@
   "op": "A89EE0",
   "len": 28,
   "jp": "「{c0C:01}、死ぬんじゃないぞ。{br}生きてまた会おう。{end}",
-  "en": "",
+  "en": "\"{c0C:01}, don't you die. Let's meet again{br}alive.\"{end}",
   "notes": ""
  },
  {
@@ -1112,7 +1112,7 @@
   "op": "A89EFE",
   "len": 47,
   "jp": "「もちろんだ。オレは死なない。{br}奴と刺し違えるのもゴメンだ。{br}必ず生きて戻る。{end}",
-  "en": "",
+  "en": "\"Of course. I won't die. And I'm not taking him{br}down with me, either. I'll make it back alive,{br}count on it.\"{end}",
   "notes": ""
  },
  {
@@ -1121,7 +1121,7 @@
   "op": "A89F2F",
   "len": 42,
   "jp": "「まだ準備も残っているだろう。{br}作戦開始までにはまだ時間がある。{endFD}",
-  "en": "",
+  "en": "\"You probably still have preparations to make.{br}There's still time before the operation{br}starts.\"{endFD}",
   "notes": ""
  },
  {
@@ -1130,7 +1130,7 @@
   "op": "A89F5A",
   "len": 30,
   "jp": "済ませておきたい事があったら、{br}今の内にしておけ。{end}",
-  "en": "",
+  "en": "If there's anything you want to take care of,{br}do it now.{end}",
   "notes": ""
  },
  {
@@ -1139,7 +1139,7 @@
   "op": "A89F89",
   "len": 21,
   "jp": "ラオエル「みんなに別れは言ったのか？{end}",
-  "en": "",
+  "en": "Raoel: Did you say your goodbyes to{br}everyone?{end}",
   "notes": ""
  },
  {
@@ -1148,7 +1148,7 @@
   "op": "A89FA5",
   "len": 19,
   "jp": "ラオエル「準備は終わったのか？{end}",
-  "en": "",
+  "en": "Raoel: Are your preparations done?{end}",
   "notes": ""
  },
  {
@@ -1157,7 +1157,7 @@
   "op": "A89FB9",
   "len": 24,
   "jp": "  出撃する{br}  もう少し待ってもらう{endFE}",
-  "en": "",
+  "en": "Move out{br}Wait a little longer{endFE}",
   "notes": ""
  },
  {
@@ -1166,7 +1166,7 @@
   "op": "A89FDC",
   "len": 23,
   "jp": "「あまり時間はないぞ。早くしてくれよ。{end}",
-  "en": "",
+  "en": "\"We don't have much time. Make it quick.\"{end}",
   "notes": ""
  },
  {
@@ -1175,7 +1175,7 @@
   "op": "A89FF7",
   "len": 21,
   "jp": "「よし、行くぞ。最後の決戦だ！{end}",
-  "en": "",
+  "en": "\"All right, let's go. This is the final battle!\"{end}",
   "notes": ""
  },
  {
@@ -1184,7 +1184,7 @@
   "op": "A8A03A",
   "len": 45,
   "jp": "バイオモンスター「私を覚えているか？{br}以前、エリア8の廃ビルで会っただろう。{endFD}",
-  "en": "",
+  "en": "Bio-monster: Do you remember me? We met{br}before, in the abandoned building in Area 8.{endFD}",
   "notes": ""
  },
  {
@@ -1193,7 +1193,7 @@
   "op": "A8A068",
   "len": 54,
   "jp": "あれからラオエル達と行動を共にしてきた。{br}もちろん、もうドラッグなんかには{br}手を出していない。{end}",
-  "en": "",
+  "en": "Since then I've been with Raoel and the{br}others. And of course, I don't touch drugs{br}anymore.{end}",
   "notes": ""
  },
  {
@@ -1202,7 +1202,7 @@
   "op": "A8A0A7",
   "len": 74,
   "jp": "バイオモンスター「我々は今までの人間との{br}確執を捨てて、バイスハイトという共通の{br}敵に立ち向かう為に協力している。{endFD}",
-  "en": "",
+  "en": "Bio-monster: We have cast aside our past{br}feuds with humans and are working together{br}to face our common enemy, Weissheit.{endFD}",
   "notes": ""
  },
  {
@@ -1211,7 +1211,7 @@
   "op": "A8A0F2",
   "len": 52,
   "jp": "バイオモンスター「ここでは我々も人間達も{br}お互いを信頼している。大切な仲間だ。{end}",
-  "en": "",
+  "en": "Bio-monster: Here, we and the humans trust{br}each other. We are precious comrades.{end}",
   "notes": ""
  },
  {
@@ -1220,7 +1220,7 @@
   "op": "A8A12F",
   "len": 41,
   "jp": "バイオモンスター「我々の力を見せてやる。{br}バイスハイトめ、覚悟しろ！{end}",
-  "en": "",
+  "en": "Bio-monster: We'll show them our strength.{br}Prepare yourself, Weissheit!{end}",
   "notes": ""
  },
  {
@@ -1229,7 +1229,7 @@
   "op": "A8A17B",
   "len": 32,
   "jp": "バイオモンスター「君の事はラオエルから{br}よく聞いている。{end}",
-  "en": "",
+  "en": "Bio-monster: Raoel has told me a lot about{br}you.{end}",
   "notes": ""
  },
  {
@@ -1238,7 +1238,7 @@
   "op": "A8A1A4",
   "len": 33,
   "jp": "バイオモンスター「君も我々と共に奴らと{br}戦ってくれ。{end}",
-  "en": "",
+  "en": "Bio-monster: Fight them alongside us.{end}",
   "notes": ""
  },
  {
@@ -1247,7 +1247,7 @@
   "op": "A8A1CE",
   "len": 41,
   "jp": "バイオモンスター「作戦の成功は、君の手に{br}かかっている。頼んだぞ。{end}",
-  "en": "",
+  "en": "Bio-monster: The success of the operation is{br}in your hands. We're counting on you.{end}",
   "notes": ""
  },
  {
@@ -1256,7 +1256,7 @@
   "op": "A8A20A",
   "len": 56,
   "jp": "レジスタンス「バイオモンスターと協力する{br}事になろうとは、半年前までは考えられ{br}なかった事だ。{end}",
-  "en": "",
+  "en": "Resistance Fighter: Teaming up with{br}bio-monsters... Half a year ago, I'd never{br}have imagined it.{end}",
   "notes": ""
  },
  {
@@ -1265,7 +1265,7 @@
   "op": "A8A24B",
   "len": 52,
   "jp": "レジスタンス「一緒に戦うようになって、{br}初めてあいつらの事が分かったような気が{br}したよ。{end}",
-  "en": "",
+  "en": "Resistance Fighter: Once we started fighting{br}together, I felt like I finally understood them.{end}",
   "notes": ""
  },
  {
@@ -1274,7 +1274,7 @@
   "op": "A8A288",
   "len": 62,
   "jp": "レジスタンス「今こそバイオモンスターと{br}人間の力を一つに合わせる時だ。{br}そうすれば我々は必ず勝てる。{end}",
-  "en": "",
+  "en": "Resistance Fighter: Now's the time for{br}bio-monsters and humans to join forces. Then{br}we're sure to win.{end}",
   "notes": ""
  },
  {
@@ -1283,7 +1283,7 @@
   "op": "A8A2DC",
   "len": 48,
   "jp": "レジスタンス「我々の仲間は街のいたる所に{br}潜んで抵抗活動を行っている。{end}",
-  "en": "",
+  "en": "Resistance Fighter: Our comrades are hiding all{br}over the city, carrying on the resistance.{end}",
   "notes": ""
  },
  {
@@ -1292,7 +1292,7 @@
   "op": "A8A315",
   "len": 49,
   "jp": "レジスタンス「今、仲間達がバイスハイトを{br}倒す為に、色々と探っているところだ。{end}",
-  "en": "",
+  "en": "Resistance Fighter: Right now, our comrades{br}are digging for anything that'll help bring{br}Weissheit down.{end}",
   "notes": ""
  },
  {
@@ -1301,7 +1301,7 @@
   "op": "A8A34F",
   "len": 68,
   "jp": "レジスタンス「攻撃には我々以外にも{br}街中に散っている仲間達が全て加わります。{br}頑張りましょう、{c0C:01}！{end}",
-  "en": "",
+  "en": "Resistance Fighter: Besides us, all our{br}comrades scattered across the city will join{br}the attack. Let's give it our all, {c0C:01}!{end}",
   "notes": ""
  },
  {
@@ -1310,7 +1310,7 @@
   "op": "A8A4BC",
   "len": 18,
   "jp": "ラオエル「戻ってきたか、{c0C:01}。{end}",
-  "en": "",
+  "en": "Raoel: You're back, {c0C:01}.{end}",
   "notes": ""
  },
  {
@@ -1319,7 +1319,7 @@
   "op": "A8A4D7",
   "len": 39,
   "jp": "{c0C:01}「これはどういう事だ。{br}お前ら、よくオレの前に姿を現せたな！{end}",
-  "en": "",
+  "en": "{c0C:01}: What's the meaning of this? You've{br}got some nerve showing your faces around me!{end}",
   "notes": ""
  },
  {
@@ -1328,7 +1328,7 @@
   "op": "A8A505",
   "len": 24,
   "jp": "グロリア「今さら許してくれとは言わない。{end}",
-  "en": "",
+  "en": "Gloria: I won't ask you to forgive us now.{end}",
   "notes": ""
  },
  {
@@ -1337,7 +1337,7 @@
   "op": "A8A51F",
   "len": 38,
   "jp": "「当然だ。お前らの裏切りで、オレは死ぬ所{br}だったんだからな。{end}",
-  "en": "",
+  "en": "\"Damn right. Thanks to your betrayal, I nearly{br}died.\"{end}",
   "notes": ""
  },
  {
@@ -1346,7 +1346,7 @@
   "op": "A8A547",
   "len": 46,
   "jp": "「分かっている。しかし、それでも我々は{br}ここへ来た。来なければならなかったのだ。{endFD}",
-  "en": "",
+  "en": "\"I know. Even so, we came here. We had to{br}come.\"{endFD}",
   "notes": ""
  },
  {
@@ -1355,7 +1355,7 @@
   "op": "A8A576",
   "len": 69,
   "jp": "今、この街がどういう事になっているかは{br}知っているだろう。一刻も早くバイスハイト{br}から街を取り戻さなければならない。{endFD}",
-  "en": "",
+  "en": "You must know what has become of this city.{br}We have to take it back from Weissheit as{br}soon as possible.{endFD}",
   "notes": ""
  },
  {
@@ -1364,7 +1364,7 @@
   "op": "A8A5BC",
   "len": 64,
   "jp": "その為には、我々とあなた達の力を合わせる{br}事が必要だと考えた。ぜひ、我々に力を{br}貸してもらいたい。{end}",
-  "en": "",
+  "en": "To do that, we believe our forces and yours{br}must join together. We would like you to lend{br}us your strength.{end}",
   "notes": ""
  },
  {
@@ -1373,7 +1373,7 @@
   "op": "A8A600",
   "len": 59,
   "jp": "「半年前だって、お前らはそういって{br}オレをダマしたんじゃないか。{br}そんな事言われたって信じられるかよ！{end}",
-  "en": "",
+  "en": "\"You said the same thing half a year ago and{br}tricked me, didn't you? You think I'm gonna{br}believe that?!\"{end}",
   "notes": ""
  },
  {
@@ -1382,7 +1382,7 @@
   "op": "A8A644",
   "len": 65,
   "jp": "ブランドル「あの時は本当にすまなかった。{br}だが、我々は心を入れ替えたのだ。{br}頼む、私達と協力してくれ。{end}",
-  "en": "",
+  "en": "Brundle: We are truly sorry for what happened{br}then. But we have turned over a new leaf.{br}Please, work with us.{end}",
   "notes": ""
  },
  {
@@ -1391,7 +1391,7 @@
   "op": "A8A68B",
   "len": 66,
   "jp": "「{c0C:01}、おれだってこいつらを完全に{br}信用している訳じゃない。しかし、おれ達{br}だけでは力が足りないのも事実だ。{endFD}",
-  "en": "",
+  "en": "\"{c0C:01}, I don't trust them completely{br}either. But it's also true that we alone don't{br}have enough strength.\"{endFD}",
   "notes": ""
  },
  {
@@ -1400,7 +1400,7 @@
   "op": "A8A6CE",
   "len": 70,
   "jp": "このままでは両方の組織が潰されるのは{br}目に見えている。ならば、たとえ一時の{br}間でも協力するのが良いんじゃないか？{end}",
-  "en": "",
+  "en": "At this rate, both our groups will clearly be{br}crushed. So isn't it best to cooperate, even if{br}only for a while?{end}",
   "notes": ""
  },
  {
@@ -1409,7 +1409,7 @@
   "op": "A8A715",
   "len": 44,
   "jp": "  分かった、今回だけは信用しよう。{br}  やはりこいつらは信用できない。{endFE}",
-  "en": "",
+  "en": "Fine. I'll trust them, just this once.{br}Knew it. I can't trust these people.{endFE}",
   "notes": ""
  },
  {
@@ -1418,7 +1418,7 @@
   "op": "A8A74F",
   "len": 58,
   "jp": "「確かにバイスハイトを倒すには、{br}力が必要だ。今回だけ、今回だけは{br}お前らの事を信じよう。{end}",
-  "en": "",
+  "en": "\"It's true we need strength to beat Weissheit.{br}Just this once - only this once - I'll trust{br}you.\"{end}",
   "notes": ""
  },
  {
@@ -1427,7 +1427,7 @@
   "op": "A8A790",
   "len": 74,
   "jp": "「全く、都合のいい事ばかり言う奴らだ。{br}オレはお前らを信用してしない。だがな、{br}一緒に戦いたいのなら勝手にすればいい。{end}",
-  "en": "",
+  "en": "\"Honestly, you people only ever say what suits{br}you. I don't trust you. But if you want to{br}fight alongside us, suit yourselves.\"{end}",
   "notes": ""
  },
  {
@@ -1436,7 +1436,7 @@
   "op": "A8A7DF",
   "len": 58,
   "jp": "「そうか。ならば作戦が決まりしだい、{br}こちらに連絡を入れさせる。{br}それまでに準備をしておくといい。{end}",
-  "en": "",
+  "en": "\"I see. Then once the operation is decided, I'll{br}have someone contact you. Be ready by then.\"{end}",
   "notes": ""
  },
  {
@@ -1445,7 +1445,7 @@
   "op": "A8A825",
   "len": 31,
   "jp": "テオ「{c0C:01}、あなたが生きていて、{br}本当に良かった。{end}",
-  "en": "",
+  "en": "Theo: {c0C:01}, I'm truly glad you're alive.{end}",
   "notes": ""
  },
  {
@@ -1454,7 +1454,7 @@
   "op": "A8A846",
   "len": 16,
   "jp": "{c0C:01}「あ、ああ、ありがとう。{end}",
-  "en": "",
+  "en": "{c0C:01}: Uh, yeah. Thanks.{end}",
   "notes": ""
  },
  {
@@ -1463,7 +1463,7 @@
   "op": "A8A860",
   "len": 16,
   "jp": "ラオエル「これから、どうする？{end}",
-  "en": "",
+  "en": "Raoel: What will you do now?{end}",
   "notes": ""
  },
  {
@@ -1472,7 +1472,7 @@
   "op": "A8A872",
   "len": 43,
   "jp": "{c0C:01}「オレには1つやっておきたい{br}事がある。{c0C:02}をパワーアップ{br}させたいんだ。{endFD}",
-  "en": "",
+  "en": "{c0C:01}: There's one thing I want to do first.{br}I want to power up {c0C:02}.{endFD}",
   "notes": ""
  },
  {
@@ -1481,7 +1481,7 @@
   "op": "A8A89E",
   "len": 36,
   "jp": "今のままではバイスハイトに戦いを挑むのは{br}無理だろうからな。{end}",
-  "en": "",
+  "en": "The way it is now, I'd never stand a chance{br}against Weissheit.{end}",
   "notes": ""
  },
  {
@@ -1490,7 +1490,7 @@
   "op": "A8A8C4",
   "len": 52,
   "jp": "「リフが聞いたら怒るかも知れないが{br}ここには大した設備はないぞ。{br}何かアテでもあるのか？{end}",
-  "en": "",
+  "en": "\"Riff might get mad if he heard me, but{br}there's no real equipment here. Do you have{br}something in mind?\"{end}",
   "notes": ""
  },
  {
@@ -1499,7 +1499,7 @@
   "op": "A8A8FA",
   "len": 55,
   "jp": "「ああ、前に1度デイモンという{br}ランナーと戦った事がある。{br}その設計者ならそれができるハズだ。{end}",
-  "en": "",
+  "en": "\"Yeah. I fought a runner called Daemon once.{br}Its designer should be able to do it.\"{end}",
   "notes": ""
  },
  {
@@ -1508,7 +1508,7 @@
   "op": "A8A933",
   "len": 70,
   "jp": "「そういえば、北のエリアを回っていた時に{br}その設計者のウワサを聞いた事がある。{br}リフなら詳しい事を知っているハズだ。{end}",
-  "en": "",
+  "en": "\"Come to think of it, when I was making the{br}rounds of the northern areas, I heard rumors{br}about that designer. Riff should know more.\"{end}",
   "notes": ""
  },
  {
@@ -1517,7 +1517,7 @@
   "op": "A8A97B",
   "len": 20,
   "jp": "「そうか、じゃあ話を聞いてみよう。{end}",
-  "en": "",
+  "en": "\"I see. Then I'll go ask him.\"{end}",
   "notes": ""
  },
  {
@@ -1526,7 +1526,7 @@
   "op": "A8A99A",
   "len": 75,
   "jp": "第4部エピソード「破壊・誕生」{br}イオン「{c0C:01}、グロリア達から連絡が{br}あったわ。奥でラオエルが待っているから{br}行ってあげて。{end}",
-  "en": "",
+  "en": "Part 4: Destruction/Birth{br}Ion: {c0C:01}, Gloria and the others got in{br}touch. Raoel's waiting in the back, so go see{br}him.{end}",
   "notes": ""
  },
  {
@@ -1535,7 +1535,7 @@
   "op": "A8AAEB",
   "len": 38,
   "jp": "バイオモンスター「ラオエル、攻撃準備完了{br}だ。いつでもいいぞ。{end}",
-  "en": "",
+  "en": "Bio-monster: Raoel, we're ready to attack. Say{br}the word.{end}",
   "notes": ""
  },
  {
@@ -1544,7 +1544,7 @@
   "op": "A8AB15",
   "len": 28,
   "jp": "ラオエル「よし分かった。イオンも覚悟は{br}いいな？{end}",
-  "en": "",
+  "en": "Raoel: All right. Ion, are you ready too?{end}",
   "notes": ""
  },
  {
@@ -1553,7 +1553,7 @@
   "op": "A8AB38",
   "len": 36,
   "jp": "イオン「ええ。派手にあばれて奴らの注意を{br}引き付けるわ。{end}",
-  "en": "",
+  "en": "Ion: Yes. I'll raise all kinds of hell and draw{br}their attention.{end}",
   "notes": ""
  },
  {
@@ -1562,7 +1562,7 @@
   "op": "A8AB60",
   "len": 21,
   "jp": "「よし、攻撃開始だ。行くぞ！！{end}",
-  "en": "",
+  "en": "\"All right, commence the attack. Let's go!!\"{end}",
   "notes": ""
  },
  {
@@ -1571,7 +1571,7 @@
   "op": "A8AB88",
   "len": 30,
   "jp": "{c0C:01}「イオンの使っているランナー、{br}ブリガンティアだ。{end}",
-  "en": "",
+  "en": "{c0C:01}: That's the runner Ion uses -{br}Brigantia.{end}",
   "notes": ""
  },
  {
@@ -1580,7 +1580,7 @@
   "op": "A8AC6B",
   "len": 28,
   "jp": "カーク「この花、イオンがかざってくれた{br}ものじゃぞ。{end}",
-  "en": "",
+  "en": "Kirk: Ion arranged these flowers for you, you{br}know.{end}",
   "notes": ""
  },
  {
@@ -1589,7 +1589,7 @@
   "op": "A8AC89",
   "len": 28,
   "jp": "{c0C:01}「へえ〜あいつも女らしい所が{br}あるんだな。{end}",
-  "en": "",
+  "en": "{c0C:01}: Heh, so she's got a girly side after{br}all.{end}",
   "notes": ""
  },
  {
@@ -1598,7 +1598,7 @@
   "op": "A8ACA7",
   "len": 19,
   "jp": "「こりゃ、本人に言いつけるぞ。{end}",
-  "en": "",
+  "en": "\"Here now, I'll tell her you said that.\"{end}",
   "notes": ""
  },
  {
@@ -1607,7 +1607,7 @@
   "op": "A8ACC2",
   "len": 36,
   "jp": "{c0C:01}「半年も寝ていたんだ。{br}十分過ぎる程、休んだぜ。{end}",
-  "en": "",
+  "en": "{c0C:01}: I slept for half a year. I've had{br}more than enough rest.{end}",
   "notes": ""
  },
  {
@@ -1616,7 +1616,7 @@
   "op": "A8ACFA",
   "len": 26,
   "jp": "{c0C:01}「オレが寝ていたベッドと{br}変わらないな。{end}",
-  "en": "",
+  "en": "{c0C:01}: Same as the bed I was sleeping in.{end}",
   "notes": ""
  },
  {
@@ -1625,7 +1625,7 @@
   "op": "A8AD1C",
   "len": 48,
   "jp": "{c0C:01}「ソリッドシティの地図だ。{br}ババリアの拠点がある場所にマークが{br}つけてある。{end}",
-  "en": "",
+  "en": "{c0C:01}: A map of Solid City. The places where{br}Bavaria has bases are marked.{end}",
   "notes": ""
  },
  {
@@ -1634,7 +1634,7 @@
   "op": "A8AD54",
   "len": 23,
   "jp": "{c0C:01}「作戦会議用のテーブルだな。{end}",
-  "en": "",
+  "en": "{c0C:01}: A table for strategy meetings.{end}",
   "notes": ""
  },
  {
@@ -1643,7 +1643,7 @@
   "op": "A8AD73",
   "len": 34,
   "jp": "{c0C:01}「{c0C:02}が使えそうな{br}武器は入っていないみたいだな。{end}",
-  "en": "",
+  "en": "{c0C:01}: Doesn't look like there are any{br}weapons {c0C:02} could use.{end}",
   "notes": ""
  },
  {
@@ -1652,7 +1652,7 @@
   "op": "A8B008",
   "len": 18,
   "jp": "{c0C:01}「ここがトーマスの家だな。{end}",
-  "en": "",
+  "en": "{c0C:01}: So this is Thomas's house.{end}",
   "notes": ""
  },
  {
@@ -1661,7 +1661,7 @@
   "op": "A8B02D",
   "len": 42,
   "jp": "トーマス「…誰だか知らないが、私は誰とも{br}会いたくない。帰ってくれ。{end}",
-  "en": "",
+  "en": "Thomas: ...I don't know who you are, but I{br}don't want to see anyone. Please leave.{end}",
   "notes": ""
  },
  {
@@ -1670,7 +1670,7 @@
   "op": "A8B05C",
   "len": 63,
   "jp": "「待ってくれ、オレは{c0C:01}。あんた{br}デイモンの設計者だろ？ オレのランナーを{br}ぜひチューンアップしてもらいたいんだ！{end}",
-  "en": "",
+  "en": "\"Wait, I'm {c0C:01}. You're Daemon's designer,{br}right? I really need you to tune up my{br}runner!\"{end}",
   "notes": ""
  },
  {
@@ -1679,7 +1679,7 @@
   "op": "A8B09D",
   "len": 59,
   "jp": "「私はもうランナーなんかをいじるのは{br}やめたんだ。このまま1人でしずかに{br}暮らしたいんだ。放っておいてくれ。{end}",
-  "en": "",
+  "en": "\"I've given up tinkering with runners. I just{br}want to live quietly on my own. Leave me{br}alone.\"{end}",
   "notes": ""
  },
  {
@@ -1688,7 +1688,7 @@
   "op": "A8B0DA",
   "len": 41,
   "jp": "「頼む、バイスハイトの奴を倒すには、{br}あの力がどうしても必要なんだ。{end}",
-  "en": "",
+  "en": "\"Please. To beat Weissheit, I absolutely need{br}that power.\"{end}",
   "notes": ""
  },
  {
@@ -1697,7 +1697,7 @@
   "op": "A8B105",
   "len": 31,
   "jp": "「そんな事、私には関係ない。{br}あきらめるんだな…。{end}",
-  "en": "",
+  "en": "\"That has nothing to do with me. Give it up...\"{end}",
   "notes": ""
  },
  {
@@ -1706,7 +1706,7 @@
   "op": "A8B126",
   "len": 12,
   "jp": "「おい、待ってくれ！{end}",
-  "en": "",
+  "en": "\"Hey, wait!\"{end}",
   "notes": ""
  },
  {
@@ -1715,7 +1715,7 @@
   "op": "A8B134",
   "len": 19,
   "jp": "「……………………。{end}",
-  "en": "",
+  "en": "\"........................\"{end}",
   "notes": ""
  },
  {
@@ -1724,7 +1724,7 @@
   "op": "A8B14C",
   "len": 18,
   "jp": "「くっそ〜。どうしたらいいんだ。{end}",
-  "en": "",
+  "en": "\"Damn it. What am I supposed to do now?\"{end}",
   "notes": ""
  },
  {
@@ -1733,7 +1733,7 @@
   "op": "A8B168",
   "len": 37,
   "jp": "カーク「トーマス、いつからお前はそんな{br}ふぬけになってしまったのじゃ？{end}",
-  "en": "",
+  "en": "Kirk: Thomas, since when did you become such{br}a spineless wretch?{end}",
   "notes": ""
  },
  {
@@ -1742,7 +1742,7 @@
   "op": "A8B191",
   "len": 32,
   "jp": "「カーク？ いつもと声が違うぞ。{br}何なんだ、その声は。{end}",
-  "en": "",
+  "en": "\"Kirk? Your voice is different. What's with{br}that voice?\"{end}",
   "notes": ""
  },
  {
@@ -1751,7 +1751,7 @@
   "op": "A8B1B3",
   "len": 19,
   "jp": "「そ、その声は…そんな、まさか。{end}",
-  "en": "",
+  "en": "\"Th-that voice... No, it can't be.\"{end}",
   "notes": ""
  },
  {
@@ -1760,7 +1760,7 @@
   "op": "A8B1CB",
   "len": 51,
   "jp": "「ワシと一緒に研究をしていた頃のお前は、{br}夢の実現の為に情熱を注いでいた。{endFD}",
-  "en": "",
+  "en": "\"Back when you did research with me, you{br}poured your passion into making a dream come{br}true.\"{endFD}",
   "notes": ""
  },
  {
@@ -1769,7 +1769,7 @@
   "op": "A8B1FF",
   "len": 49,
   "jp": "その時のお前は、もっと生き生きと{br}していたぞ。{br}忘れてしまったのか、あの時の事を？{end}",
-  "en": "",
+  "en": "You were far more alive in those days. Have{br}you forgotten that time?{end}",
   "notes": ""
  },
  {
@@ -1778,7 +1778,7 @@
   "op": "A8B232",
   "len": 45,
   "jp": "「その声…間違いない、将軍の声だ。{br}という事は、お前はカークなんだな？{end}",
-  "en": "",
+  "en": "\"That voice... There's no mistake, it's the{br}General's voice. Which means you're Kirk?\"{end}",
   "notes": ""
  },
  {
@@ -1787,7 +1787,7 @@
   "op": "A8B261",
   "len": 30,
   "jp": "「どうじゃ、{br}少しは昔の事を思い出してくれたか？{end}",
-  "en": "",
+  "en": "\"Well? Has that brought back a little of the{br}old days?\"{end}",
   "notes": ""
  },
  {
@@ -1796,7 +1796,7 @@
   "op": "A8B28A",
   "len": 50,
   "jp": "「やっぱりそうだったか。{br}将軍が亡くなってからだから、{br}何年ぶりだろう。久しぶりだな。{end}",
-  "en": "",
+  "en": "\"So it was you after all. It's been years, ever{br}since the General passed away. Long time no{br}see.\"{end}",
   "notes": ""
  },
  {
@@ -1805,7 +1805,7 @@
   "op": "A8B2C1",
   "len": 34,
   "jp": "{c0C:01}「一体、どうなっているんだ？{br}説明してくれ、カーク。{end}",
-  "en": "",
+  "en": "{c0C:01}: What the heck is going on? Explain,{br}Kirk.{end}",
   "notes": ""
  },
  {
@@ -1814,7 +1814,7 @@
   "op": "A8B2E7",
   "len": 38,
   "jp": "カーク「こんな所で立ち話もないじゃろう。{br}中へ入ろうではないか。{end}",
-  "en": "",
+  "en": "Kirk: We can hardly stand here chatting. Let{br}us go inside, shall we?{end}",
   "notes": ""
  },
  {
@@ -1823,7 +1823,7 @@
   "op": "A8B30F",
   "len": 16,
   "jp": "「そうだな、さぁ入ってくれ。{end}",
-  "en": "",
+  "en": "\"Right. Come on in.\"{end}",
   "notes": ""
  },
  {
@@ -1832,7 +1832,7 @@
   "op": "A8B409",
   "len": 57,
   "jp": "{c0C:01}「………なるほどな。{br}カークの昔の主人とトーマスは、軍で一緒に{br}仕事をしていたのか。{end}",
-  "en": "",
+  "en": "{c0C:01}: ...I see. So Kirk's old master and{br}Thomas worked together in the army.{end}",
   "notes": ""
  },
  {
@@ -1841,7 +1841,7 @@
   "op": "A8B444",
   "len": 71,
   "jp": "トーマス「軍の次世代型ランナーの研究を{br}していたんだ。将軍はその責任者だった。{br}カークとは、その頃からの仲だよ。{end}",
-  "en": "",
+  "en": "Thomas: We were researching the army's{br}next-generation runner. The General was in{br}charge. Kirk and I go back to those days.{end}",
   "notes": ""
  },
  {
@@ -1850,7 +1850,7 @@
   "op": "A8B490",
   "len": 42,
   "jp": "カーク「じゃが、その研究は実現半ばにして{br}中止になってしまった…。{end}",
-  "en": "",
+  "en": "Kirk: But that research was canceled before it{br}could be completed...{end}",
   "notes": ""
  },
  {
@@ -1859,7 +1859,7 @@
   "op": "A8B4BC",
   "len": 75,
   "jp": "「そう、軍からの中止命令と、その直後の{br}将軍の突然の死。チームは解散させられ、{br}研究の記録も消されてしまった。{end}",
-  "en": "",
+  "en": "\"Yes. The army ordered it stopped, then the{br}General suddenly died. The team was broken{br}up, our records erased.\"{end}",
   "notes": ""
  },
  {
@@ -1868,7 +1868,7 @@
   "op": "A8B509",
   "len": 58,
   "jp": "「ワシは将軍の権威をきらっていた息子に{br}邪魔モノ扱いされ、スクラップ置き場に{br}捨てられた。{end}",
-  "en": "",
+  "en": "\"The General's son, who loathed his father's{br}authority, treated me as a nuisance and{br}dumped me on a scrapheap.\"{end}",
   "notes": ""
  },
  {
@@ -1877,7 +1877,7 @@
   "op": "A8B547",
   "len": 18,
   "jp": "「それをリフが見つけてきたのか。{end}",
-  "en": "",
+  "en": "\"And that's where Riff found you.\"{end}",
   "notes": ""
  },
  {
@@ -1886,7 +1886,7 @@
   "op": "A8B55D",
   "len": 59,
   "jp": "「ワシはリフに助けられた。じゃからこそ、{br}リフの友人であるお前のパートナーになる{br}のを拒まなかったのじゃ。{end}",
-  "en": "",
+  "en": "\"Riff saved me. That is precisely why I did not{br}refuse to become partner to his friend.\"{end}",
   "notes": ""
  },
  {
@@ -1895,7 +1895,7 @@
   "op": "A8B59C",
   "len": 48,
   "jp": "「じゃあ、オレがリフの知り合いじゃあ{br}なかったらパートナーにならなかったって{br}言うのか？{end}",
-  "en": "",
+  "en": "\"So you're saying if I hadn't known Riff, you{br}wouldn't have become my partner?\"{end}",
   "notes": ""
  },
  {
@@ -1904,7 +1904,7 @@
   "op": "A8B5D0",
   "len": 32,
   "jp": "「そうじゃ。ヒヨッコと組むつもりは毛頭{br}なかったのじゃ。{endFD}",
-  "en": "",
+  "en": "\"Quite so. I hadn't the slightest intention of{br}teaming up with a greenhorn.\"{endFD}",
   "notes": ""
  },
  {
@@ -1913,7 +1913,7 @@
   "op": "A8B5F1",
   "len": 70,
   "jp": "じゃが、今ではこのめぐり合わせが、人間の{br}言う『運命』だったのではないかと思うぞ。{br}お前は十分に強く成長した。{end}",
-  "en": "",
+  "en": "But now I think our meeting may have been{br}what you humans call 'fate.' You have grown{br}plenty strong.{end}",
   "notes": ""
  },
  {
@@ -1922,7 +1922,7 @@
   "op": "A8B63B",
   "len": 22,
   "jp": "「ありがと、ほめ言葉と思っておくよ。{endFD}",
-  "en": "",
+  "en": "\"Thanks. I'll take that as a compliment.\"{endFD}",
   "notes": ""
  },
  {
@@ -1931,7 +1931,7 @@
   "op": "A8B652",
   "len": 38,
   "jp": "ところでトーマス、オレのランナーをあんた{br}に改造してもらいたいんだが。{end}",
-  "en": "",
+  "en": "By the way, Thomas, I'd like you to modify my{br}runner.{end}",
   "notes": ""
  },
  {
@@ -1940,7 +1940,7 @@
   "op": "A8B67A",
   "len": 24,
   "jp": "「デイモンのようにか………危険だぞ。{end}",
-  "en": "",
+  "en": "\"Like Daemon......? That's dangerous.\"{end}",
   "notes": ""
  },
  {
@@ -1949,7 +1949,7 @@
   "op": "A8B694",
   "len": 43,
   "jp": "「奴はオレと戦っている時、突然おかしく{br}なった。その事を言ってるのか？{end}",
-  "en": "",
+  "en": "\"When he was fighting me, he suddenly went{br}strange. Is that what you mean?\"{end}",
   "notes": ""
  },
  {
@@ -1958,7 +1958,7 @@
   "op": "A8B6C1",
   "len": 51,
   "jp": "「そうか、やはり取り込まれてしまったか。{br}あれこそが、軍が研究を中止させた理由だ。{end}",
-  "en": "",
+  "en": "\"I see, so he was absorbed after all. That is{br}exactly why the army shut the research{br}down.\"{end}",
   "notes": ""
  },
  {
@@ -1967,7 +1967,7 @@
   "op": "A8B70B",
   "len": 29,
   "jp": "{c0C:01}「それだったら、どうして{br}デイモンを作ったんだ？{end}",
-  "en": "",
+  "en": "{c0C:01}: Then why did you build Daemon?{end}",
   "notes": ""
  },
  {
@@ -1976,7 +1976,7 @@
   "op": "A8B72A",
   "len": 64,
   "jp": "トーマス「………私も研究者だ。{br}軍をやめてからも、いつか自分の研究を{br}完成させたいと考えていた。{end}",
-  "en": "",
+  "en": "Thomas: ......I'm a researcher too. Even after I{br}left the army, I wanted to complete my{br}research someday.{end}",
   "notes": ""
  },
  {
@@ -1985,7 +1985,7 @@
   "op": "A8B781",
   "len": 12,
   "jp": "「そうだったのか…。{end}",
-  "en": "",
+  "en": "\"So that's how it was...\"{end}",
   "notes": ""
  },
  {
@@ -1994,7 +1994,7 @@
   "op": "A8B78F",
   "len": 51,
   "jp": "「それでも改造をして欲しいのかね？{br}デイモンと同じ事になってしまうとも{br}限らないんだぞ。{end}",
-  "en": "",
+  "en": "\"Do you still want the modification? There's no{br}guarantee you won't end up the same as{br}Daemon.\"{end}",
   "notes": ""
  },
  {
@@ -2003,7 +2003,7 @@
   "op": "A8B7C7",
   "len": 14,
   "jp": "「どうするんじゃ、{c0C:01}？{end}",
-  "en": "",
+  "en": "\"What will you do, {c0C:01}?\"{end}",
   "notes": ""
  },
  {
@@ -2012,7 +2012,7 @@
   "op": "A8B7D9",
   "len": 64,
   "jp": "「オレは…オレには、どうしてもやらなきゃ{br}ならない事がある。バイスハイトの奴を{br}倒して、アイリーンの仇を取るんだ。{endFD}",
-  "en": "",
+  "en": "\"I... There's something I just have to do. Take{br}down Weissheit and avenge Irene.\"{endFD}",
   "notes": ""
  },
  {
@@ -2021,7 +2021,7 @@
   "op": "A8B81A",
   "len": 59,
   "jp": "その為には、例えそれが身を滅ぼす可能性の{br}ある『悪魔の力』だとしても、オレには必要{br}なんだ！{end}",
-  "en": "",
+  "en": "For that, I need it, even if it's a 'devil's{br}power' that could destroy me!{end}",
   "notes": ""
  },
  {
@@ -2030,7 +2030,7 @@
   "op": "A8B857",
   "len": 69,
   "jp": "「………………分かった。{br}君だったら、システムに取り込まれる事も{br}ないかも知れない。改造を引き受けよう。{end}",
-  "en": "",
+  "en": "\"..................All right. You might be able to{br}keep from being absorbed by the system. I'll{br}take on the modification.\"{end}",
   "notes": ""
  },
  {
@@ -2039,7 +2039,7 @@
   "op": "A8B89E",
   "len": 36,
   "jp": "「ありがとう、トーマス。{br}それじゃ、今からランナーを持って来る。{end}",
-  "en": "",
+  "en": "\"Thank you, Thomas. I'll go bring my runner{br}right now.\"{end}",
   "notes": ""
  },
  {
@@ -2048,7 +2048,7 @@
   "op": "A8B905",
   "len": 59,
   "jp": "トーマス「改造が終わるまでには、{br}しばらく時間がかかる。{br}カフェにでも行って時間を潰してきてくれ。{end}",
-  "en": "",
+  "en": "Thomas: The modification will take a while. Go{br}kill some time at a cafe or something.{end}",
   "notes": ""
  },
  {
@@ -2057,7 +2057,7 @@
   "op": "A8BA86",
   "len": 54,
   "jp": "「私達はイギリスのとある軍事施設で、{br}次世代型の軍用ランナーの研究をしていた。{endFD}",
-  "en": "",
+  "en": "\"We were researching a next-generation{br}military runner at a certain military facility in{br}Britain.\"{endFD}",
   "notes": ""
  },
  {
@@ -2066,7 +2066,7 @@
   "op": "A8BABF",
   "len": 61,
   "jp": "パイロットとランナーのシンクロ率を{br}極限まで高める事で、ランナーを自分の{br}手足のように動かそうとね。{endFD}",
-  "en": "",
+  "en": "By raising the pilot-runner sync rate to the{br}limit, we meant to let a pilot move his runner{br}like his own arms and legs.{endFD}",
   "notes": ""
  },
  {
@@ -2075,7 +2075,7 @@
   "op": "A8BAFF",
   "len": 69,
   "jp": "しかし、機械と人の脳をシンクロさせる事で{br}大きな問題が発生した。人の脳が機械に取り{br}込まれてしまうのだ。{endFD}",
-  "en": "",
+  "en": "But syncing machine and human brain caused a{br}serious problem. The human brain was{br}absorbed by the machine.{endFD}",
   "notes": ""
  },
  {
@@ -2084,7 +2084,7 @@
   "op": "A8BB45",
   "len": 76,
   "jp": "機械に取り込まれてしまった人間は廃人と{br}なり、やがてはランナーと一体化する。{br}結局、軍を納得させる物はできなかった。{endFD}",
-  "en": "",
+  "en": "Anyone it absorbs is left a broken shell and in{br}time merges with the runner. In the end, we{br}made nothing the army would accept.{endFD}",
   "notes": ""
  },
  {
@@ -2093,7 +2093,7 @@
   "op": "A8C001",
   "len": 34,
   "jp": "そこへあいつが現れた。{br}君が倒した、デイモンのパイロットだ。{endFE}",
-  "en": "",
+  "en": "That's when he showed up. Daemon's pilot, the{br}one you defeated.{endFE}",
   "notes": ""
  },
  {
@@ -2102,7 +2102,7 @@
   "op": "A8C026",
   "len": 71,
   "jp": "あいつは、軍にいる時に噂を聞きつけ、私に{br}大金を差し出した。これで例のシステムを{br}完成させてみないかと言って…。{endFE}",
-  "en": "",
+  "en": "He'd heard the rumors while he was in the{br}army, and he offered me a fortune. Asked if I{br}wouldn't use it to complete that system...{endFE}",
   "notes": ""
  },
  {
@@ -2111,7 +2111,7 @@
   "op": "A8C1BA",
   "len": 46,
   "jp": "結局、自分の欲望を抑えきれなかった私は{br}1機のランナーを完成させた。{endFE}",
-  "en": "",
+  "en": "In the end, unable to hold back my own{br}ambition, I completed a single runner.{endFE}",
   "notes": ""
  },
  {
@@ -2120,7 +2120,7 @@
   "op": "A8C1EC",
   "len": 14,
   "jp": "「それが、あのデイモンか。{endFE}",
-  "en": "",
+  "en": "\"And that was Daemon.\"{endFE}",
   "notes": ""
  },
  {
@@ -2129,7 +2129,7 @@
   "op": "A8C20B",
   "len": 59,
   "jp": "「その通りだ。しかし、システムは完全では{br}なかった。あのシステムはパイロットの{br}精神力に左右される。{endFE}",
-  "en": "",
+  "en": "\"Exactly. But the system wasn't perfect. It{br}depends on the pilot's strength of mind.\"{endFE}",
   "notes": ""
  },
  {
@@ -2138,7 +2138,7 @@
   "op": "A8C24D",
   "len": 60,
   "jp": "システムにあいつは耐えられなかった。{br}しまいにはドラッグに頼るようになり、{br}あんな事件を起こすようになった。{endFE}",
-  "en": "",
+  "en": "He couldn't withstand the system. Eventually{br}he came to rely on drugs, and started causing{br}incidents like that.{endFE}",
   "notes": ""
  },
  {
@@ -2147,7 +2147,7 @@
   "op": "A8C2A1",
   "len": 33,
   "jp": "トーマス「完成したぞ。{br}どうだ、すっかり見違えただろう。{end}",
-  "en": "",
+  "en": "Thomas: It's done. Well? You'd hardly know it{br}was the same machine.{end}",
   "notes": ""
  },
  {
@@ -2156,7 +2156,7 @@
   "op": "A8C2CA",
   "len": 41,
   "jp": "{c0C:01}「随分と外見が変わったな。{br}サイズも少し小さくなったようだ。{end}",
-  "en": "",
+  "en": "{c0C:01}: It sure looks different. Seems a bit{br}smaller, too.{end}",
   "notes": ""
  },
  {
@@ -2165,7 +2165,7 @@
   "op": "A8C301",
   "len": 61,
   "jp": "「小さいのは、無駄がないという事だ。{br}武装のマウントに関しては、今までの{br}ランナーと互換性がある。{end}",
-  "en": "",
+  "en": "\"Smaller means no waste. As for the weapon{br}mounts, they're compatible with your old{br}runner.\"{end}",
   "notes": ""
  },
  {
@@ -2174,7 +2174,7 @@
   "op": "A8C340",
   "len": 22,
   "jp": "「それじゃ早速、試運転といくか。{end}",
-  "en": "",
+  "en": "\"Then let's give it a test run right away.\"{end}",
   "notes": ""
  },
  {
@@ -2183,7 +2183,7 @@
   "op": "A8C358",
   "len": 67,
   "jp": "「実は、改造を引き受けたのには、もう一つ{br}理由があるんだ。カークは気付いていない{br}ようだが、実はカークは…。{end}",
-  "en": "",
+  "en": "\"Actually, there was one more reason I took{br}the job. Kirk doesn't seem to have noticed,{br}but Kirk is actually...\"{end}",
   "notes": ""
  },
  {
@@ -2192,7 +2192,7 @@
   "op": "A8C3A6",
   "len": 27,
   "jp": "カーク「{c0C:01}、敵じゃ！{br}ランナーがやってくるぞ。{end}",
-  "en": "",
+  "en": "Kirk: {c0C:01}, enemy! A runner's approaching!{end}",
   "notes": ""
  },
  {
@@ -2201,7 +2201,7 @@
   "op": "A8C3C5",
   "len": 17,
   "jp": "「くそっ、一体何者だ！？{end}",
-  "en": "",
+  "en": "\"Damn it, who the hell are you?!\"{end}",
   "notes": ""
  },
  {
@@ -2210,7 +2210,7 @@
   "op": "A8C3E1",
   "len": 64,
   "jp": "ハロルド「トーマスだな。お前の事は調べ{br}させてもらった。お前の技術、我がババリア{br}の為に役立ててもらうぞ。{end}",
-  "en": "",
+  "en": "Harold: You're Thomas, I presume. I've had{br}you looked into. Your skills will be put to use{br}for our Bavaria.{end}",
   "notes": ""
  },
  {
@@ -2219,7 +2219,7 @@
   "op": "A8C43C",
   "len": 21,
   "jp": "{c0C:01}「お前ら、ババリアの兵隊か！{end}",
-  "en": "",
+  "en": "{c0C:01}: You're Bavaria's soldiers!{end}",
   "notes": ""
  },
  {
@@ -2228,7 +2228,7 @@
   "op": "A8C453",
   "len": 29,
   "jp": "「何だ、貴様は？{br}ん？ そのランナーはもしや…。{endFD}",
-  "en": "",
+  "en": "\"And who are you? Hm? That runner, could it{br}be...\"{endFD}",
   "notes": ""
  },
  {
@@ -2237,7 +2237,7 @@
   "op": "A8C471",
   "len": 58,
   "jp": "そうか、これが例のシステムを組み込んだ{br}ランナーだな。これはバイスハイト様への{br}良い手土産になる。{endFD}",
-  "en": "",
+  "en": "I see, so this is the runner with that system{br}built in. It will make a fine gift for{br}Weissheit-sama.{endFD}",
   "notes": ""
  },
  {
@@ -2246,7 +2246,7 @@
   "op": "A8C4AC",
   "len": 38,
   "jp": "おい貴様、おとなしくランナーから降りろ。{br}命だけは助けてやろう。{end}",
-  "en": "",
+  "en": "You there, step down from that runner{br}quietly. I'll at least spare your life.{end}",
   "notes": ""
  },
  {
@@ -2255,7 +2255,7 @@
   "op": "A8C4D4",
   "len": 65,
   "jp": "「ふざけるなよ、オレはお前らを倒す為に{br}このランナーを手に入れたんだ。お前らと{br}バイスハイトの奴を倒す為にな！{end}",
-  "en": "",
+  "en": "\"Don't make me laugh. I got this runner to{br}take you guys down. You and that bastard{br}Weissheit!\"{end}",
   "notes": ""
  },
  {
@@ -2264,7 +2264,7 @@
   "op": "A8C51A",
   "len": 49,
   "jp": "「バカが、例のシステムを組み込んである{br}とはいえ、たった1機のランナーで何が{br}できる。{endFD}",
-  "en": "",
+  "en": "\"Fool. System or no system, what can a single{br}runner do?\"{endFD}",
   "notes": ""
  },
  {
@@ -2273,7 +2273,7 @@
   "op": "A8C54C",
   "len": 48,
   "jp": "若造が、バイスハイト様の片腕である{br}このハロルドを倒せるとでも思っている{br}のか！{end}",
-  "en": "",
+  "en": "Whelp, do you really think you can defeat me,{br}Harold, Weissheit-sama's right hand?!{end}",
   "notes": ""
  },
  {
@@ -2282,7 +2282,7 @@
   "op": "A8C66A",
   "len": 39,
   "jp": "トーマス「改造にはまだ時間がかかる。{br}邪魔をしないでくれないか。{end}",
-  "en": "",
+  "en": "Thomas: The modification will take a while yet.{br}Would you mind not getting in my way?{end}",
   "notes": ""
  },
  {
@@ -2291,7 +2291,7 @@
   "op": "A8C71E",
   "len": 22,
   "jp": "{c0C:01}「おいっ、トーマス？{br}しっかりしろ！{end}",
-  "en": "",
+  "en": "{c0C:01}: Hey, Thomas? Hang in there!{end}",
   "notes": ""
  },
  {
@@ -2300,7 +2300,7 @@
   "op": "A8C739",
   "len": 43,
   "jp": "カーク「…ダメじゃ。もう事切れておる。{br}流れ弾に当たってしまったのじゃ。{end}",
-  "en": "",
+  "en": "Kirk: ...It's no use. He's already gone. A stray{br}shot hit him.{end}",
   "notes": ""
  },
  {
@@ -2309,7 +2309,7 @@
   "op": "A8C769",
   "len": 23,
   "jp": "「何てこった、オレのせいでトーマスは…。{end}",
-  "en": "",
+  "en": "\"Damn it, Thomas is dead because of me...\"{end}",
   "notes": ""
  },
  {
@@ -2318,7 +2318,7 @@
   "op": "A8C782",
   "len": 24,
   "jp": "「お前のせいではない、自分を責めるな。{end}",
-  "en": "",
+  "en": "\"It was not your fault. Don't blame yourself.\"{end}",
   "notes": ""
  },
  {
@@ -2327,7 +2327,7 @@
   "op": "A8C7A3",
   "len": 30,
   "jp": "「あ、ああ………。{br}だが、仇は必ず討ってやる。{end}",
-  "en": "",
+  "en": "\"Y-yeah......... But I swear I'll avenge him.\"{end}",
   "notes": ""
  },
  {
@@ -2336,7 +2336,7 @@
   "op": "A8C7CB",
   "len": 53,
   "jp": "そういえば、トーマスはお前の事を何か{br}言おうとしていた。{br}カーク、何か心当たりはないのか？{end}",
-  "en": "",
+  "en": "Come to think of it, Thomas was trying to tell{br}me something about you. Kirk, any idea what it{br}was?{end}",
   "notes": ""
  },
  {
@@ -2345,7 +2345,7 @@
   "op": "A8C802",
   "len": 25,
   "jp": "「何の事じゃ、ワシは何も隠しておらんぞ。{end}",
-  "en": "",
+  "en": "\"Whatever do you mean? I'm hiding nothing.\"{end}",
   "notes": ""
  },
  {
@@ -2354,7 +2354,7 @@
   "op": "A8C81D",
   "len": 34,
   "jp": "「そうか。一体、トーマスは何を言おうと{br}していたんだ…？{end}",
-  "en": "",
+  "en": "\"I see. What was Thomas trying to tell me...?\"{end}",
   "notes": ""
  },
  {
@@ -2363,7 +2363,7 @@
   "op": "A8C8AC",
   "len": 31,
   "jp": "{c0C:01}「オレが気に入るような物なんか{br}入ってないぜ。{end}",
-  "en": "",
+  "en": "{c0C:01}: Nothing in here I'd want.{end}",
   "notes": ""
  },
  {
@@ -2372,7 +2372,7 @@
   "op": "A8C8D4",
   "len": 17,
   "jp": "{c0C:01}「うっ、オヤジ臭い…。{end}",
-  "en": "",
+  "en": "{c0C:01}: Ugh, smells like an old man...{end}",
   "notes": ""
  },
  {
@@ -2381,7 +2381,7 @@
   "op": "A8C91C",
   "len": 20,
   "jp": "る物に{br}勝手に触るんじゃない。{end}",
-  "en": "",
+  "en": "...Don't go touching things without asking.{end}",
   "notes": ""
  },
  {
@@ -2390,7 +2390,7 @@
   "op": "A8D232",
   "len": 26,
   "jp": "み{br}がうHあらうPあぜうPあがうXあの。b5きぉZ{end}",
-  "en": "",
+  "en": "...{end}",
   "notes": ""
  },
  {
@@ -2399,7 +2399,7 @@
   "op": "A8D712",
   "len": 30,
   "jp": "{c0C:01}「待たせたな。ここから下水道へ{br}入るのか。{end}",
-  "en": "",
+  "en": "{c0C:01}: Sorry to keep you waiting. So we go{br}into the sewers from here?{end}",
   "notes": ""
  },
  {
@@ -2408,7 +2408,7 @@
   "op": "A8D735",
   "len": 64,
   "jp": "レクター「その通り。ちょいと匂うかも知れ{br}ないが、招待状なしでパーティーに参加する{br}には、これしかないんでね。{end}",
-  "en": "",
+  "en": "Lecter: You got it. Might stink a little, but it's{br}the only way to crash a party without an{br}invitation.{end}",
   "notes": ""
  },
  {
@@ -2417,7 +2417,7 @@
   "op": "A8D779",
   "len": 63,
   "jp": "ブランドル「下水道自体、ほとんど人が入り{br}込まない場所だ。まず奴らに発見される事は{br}ないだろう。{end}",
-  "en": "",
+  "en": "Brundle: Hardly anyone ever goes into the{br}sewers. They're very unlikely to spot us.{end}",
   "notes": ""
  },
  {
@@ -2426,7 +2426,7 @@
   "op": "A8D7BA",
   "len": 44,
   "jp": "「言っておくが、またオレをハメようとした{br}時は、今度こそ容赦しないからな。{end}",
-  "en": "",
+  "en": "\"Just so you know, if you try to set me up{br}again, this time I won't go easy on you.\"{end}",
   "notes": ""
  },
  {
@@ -2435,7 +2435,7 @@
   "op": "A8D7E8",
   "len": 21,
   "jp": "「うむ、分かっている。では行こうか。{end}",
-  "en": "",
+  "en": "\"Yes, I understand. Now, shall we go?\"{end}",
   "notes": ""
  },
  {
@@ -2444,7 +2444,7 @@
   "op": "A8D80A",
   "len": 65,
   "jp": "レクター「おいおい、ブルっちまったのか？{br}もう作戦は始まってるんだぜ。早く本部の{br}下へ行かなきゃダメじゃねぇか。{end}",
-  "en": "",
+  "en": "Lecter: Whoa, whoa, you chickening out? The{br}operation's already started. We gotta get{br}under HQ, and fast.{end}",
   "notes": ""
  },
  {
@@ -2453,7 +2453,7 @@
   "op": "A8D85B",
   "len": 26,
   "jp": "ブランドル「目標地点まで、あと半分だ。{end}",
-  "en": "",
+  "en": "Brundle: We're halfway to the target point.{end}",
   "notes": ""
  },
  {
@@ -2462,7 +2462,7 @@
   "op": "A8D886",
   "len": 64,
   "jp": "カーク「ここが目標地点、CTI本部の真下{br}じゃ。そろそろ地上のラオエル達が行動を{br}起こすハズじゃ。{end}",
-  "en": "",
+  "en": "Kirk: This is the target point, directly beneath{br}CTI HQ. Raoel and the others on the surface{br}should be making their move about now.{end}",
   "notes": ""
  },
  {
@@ -2471,7 +2471,7 @@
   "op": "A8D8C8",
   "len": 19,
   "jp": "{c0C:01}「ラオエル、うまくやれよ…。{end}",
-  "en": "",
+  "en": "{c0C:01}: Raoel, make it count...{end}",
   "notes": ""
  },
  {
@@ -2480,7 +2480,7 @@
   "op": "A8D975",
   "len": 26,
   "jp": "カーク「地上で戦闘が始まったようじゃぞ。{end}",
-  "en": "",
+  "en": "Kirk: It seems the fighting has begun up top.{end}",
   "notes": ""
  },
  {
@@ -2489,7 +2489,7 @@
   "op": "A8D991",
   "len": 25,
   "jp": "{c0C:01}「オレ達も行動開始だ、行くぞ！{end}",
-  "en": "",
+  "en": "{c0C:01}: Our turn to move too. Let's go!{end}",
   "notes": ""
  },
  {
@@ -2498,7 +2498,7 @@
   "op": "A8ECDD",
   "len": 13,
   "jp": "何階へ行きますか？{end}",
-  "en": "",
+  "en": "Which floor?{end}",
   "notes": ""
  },
  {
@@ -2507,7 +2507,7 @@
   "op": "A8ECF1",
   "len": 64,
   "jp": "  地下4階     地下3階{br}  地下2階     次ページ{br}現在地下{c04:010A0270}階にいます。{endFE}",
-  "en": "",
+  "en": "B4 B3{br}B2 Next Page{br}Now on B{c04:010A0270}F{endFE}",
   "notes": ""
  },
  {
@@ -2516,7 +2516,7 @@
   "op": "A8ED42",
   "len": 60,
   "jp": "  地下4階     地下3階{br}  地下2階     次ページ{br}現在{c04:010B0270}階にいます。{endFE}",
-  "en": "",
+  "en": "B4 B3{br}B2 Next Page{br}Now on {c04:010B0270}F{endFE}",
   "notes": ""
  },
  {
@@ -2525,7 +2525,7 @@
   "op": "A8ED8F",
   "len": 65,
   "jp": "  地下1階     1階{br}  前ページ     非常用呼び出し{br}現在地下{c04:010A0270}階にいます。{endFE}",
-  "en": "",
+  "en": "B1 1F{br}Previous Page Emergency Call{br}Now on B{c04:010A0270}F{endFE}",
   "notes": ""
  },
  {
@@ -2534,7 +2534,7 @@
   "op": "A8EDE1",
   "len": 61,
   "jp": "  地下1階     1階{br}  前ページ     非常用呼び出し{br}現在{c04:010B0270}階にいます。{endFE}",
-  "en": "",
+  "en": "B1 1F{br}Previous Page Emergency Call{br}Now on {c04:010B0270}F{endFE}",
   "notes": ""
  },
  {
@@ -2543,7 +2543,7 @@
   "op": "A8EE2F",
   "len": 11,
   "jp": "{c0C:01}「ポチっとな！{end}",
-  "en": "",
+  "en": "{c0C:01}: Annnd... click!{end}",
   "notes": ""
  },
  {
@@ -2552,7 +2552,7 @@
   "op": "A8EE3B",
   "len": 15,
   "jp": "カーク「やめんか、{c0C:01}！！{end}",
-  "en": "",
+  "en": "Kirk: Stop that, {c0C:01}!!{end}",
   "notes": ""
  },
  {
@@ -2561,7 +2561,7 @@
   "op": "A8EE4B",
   "len": 24,
   "jp": "{c0C:01}「ってのはうそー。{br}押すわけないだろ。{end}",
-  "en": "",
+  "en": "{c0C:01}: Just kidding. Like I'd really press it.{end}",
   "notes": ""
  },
  {
@@ -2570,7 +2570,7 @@
   "op": "A8EE64",
   "len": 22,
   "jp": "カーク「……………………。{end}",
-  "en": "",
+  "en": "Kirk: ........................{end}",
   "notes": ""
  },
  {
@@ -2579,7 +2579,7 @@
   "op": "A8EE7B",
   "len": 10,
   "jp": "{c0C:01}「怒った？{end}",
-  "en": "",
+  "en": "{c0C:01}: You mad?{end}",
   "notes": ""
  },
  {
@@ -2588,7 +2588,7 @@
   "op": "A8EEFD",
   "len": 16,
   "jp": "エレベーターから降りますか？{end}",
-  "en": "",
+  "en": "Get off the elevator?{end}",
   "notes": ""
  },
  {
@@ -2597,7 +2597,7 @@
   "op": "A8EF0E",
   "len": 19,
   "jp": "  他の階へ行く{br}  降りる{endFE}",
-  "en": "",
+  "en": "Go to another floor{br}Get off{endFE}",
   "notes": ""
  },
  {
@@ -2606,7 +2606,7 @@
   "op": "A8F169",
   "len": 85,
   "jp": "{c0C:01}「ピラーニャプレタ治療の為の{br}遺伝子組み換え実験の報告…実験失敗により{br}バイオハザード発生。治療法は依然不明？{endFD}",
-  "en": "",
+  "en": "{c0C:01}: Report on gene-splicing tests for a{br}Piranha Preta cure... tests failed, causing a{br}biohazard outbreak. Cure still unknown?{endFD}",
   "notes": ""
  },
  {
@@ -2615,7 +2615,7 @@
   "op": "A8F1BF",
   "len": 40,
   "jp": "やっぱり奴ら、各地の施設であの病気の研究{br}をしていたんだな。{end}",
-  "en": "",
+  "en": "So they really were researching that disease{br}at facilities all over.{end}",
   "notes": ""
  },
  {
@@ -2624,7 +2624,7 @@
   "op": "A8F1E9",
   "len": 59,
   "jp": "カーク「じゃが、何の為じゃ。まさか本当に{br}奴らが人様の為に研究をしているとは、考え{br}られんぞ。{end}",
-  "en": "",
+  "en": "Kirk: But to what end? I can't believe they're{br}actually doing this research for the good of{br}others.{end}",
   "notes": ""
  },
  {
@@ -2633,7 +2633,7 @@
   "op": "A8F232",
   "len": 48,
   "jp": "「そうだよな…。おい、ブランドル。お前ら{br}奴らの事を何か知っているんじゃないのか？{end}",
-  "en": "",
+  "en": "\"Yeah, really... Hey, Brundle. You guys know{br}something about them, don't you?\"{end}",
   "notes": ""
  },
  {
@@ -2642,7 +2642,7 @@
   "op": "A8F267",
   "len": 65,
   "jp": "ブランドル「興味深い話だが、我々には関係{br}ない事だ。我々の目的はバイスハイトを倒す{br}事。違うか？{end}",
-  "en": "",
+  "en": "Brundle: An interesting story, but it's no{br}concern of ours. Our objective is to defeat{br}Weissheit. Am I wrong?{end}",
   "notes": ""
  },
  {
@@ -2651,7 +2651,7 @@
   "op": "A8F2AC",
   "len": 25,
   "jp": "レクター「そーいう事。早く先に進もうぜ。{end}",
-  "en": "",
+  "en": "Lecter: Exactly. Let's keep moving.{end}",
   "notes": ""
  },
  {
@@ -2660,7 +2660,7 @@
   "op": "A8F2D2",
   "len": 76,
   "jp": "{c0C:01}「デヒドロエピアン…いてっ、{br}舌かんだ…より老化症状を抑える薬品の開発{br}に成功、不老不死へ1歩近づいた？{endFD}",
-  "en": "",
+  "en": "{c0C:01}: Dehydroepian... ow, bit my tongue...{br}has succeeded in developing an anti-aging{br}drug; one step closer to immortality?{endFD}",
   "notes": ""
  },
  {
@@ -2669,7 +2669,7 @@
   "op": "A8F31F",
   "len": 46,
   "jp": "奴ら、こんな研究までしていたのか。本当に{br}不老不死なんて可能なのか？{end}",
-  "en": "",
+  "en": "They were even doing research like this? Is{br}immortality really possible?{end}",
   "notes": ""
  },
  {
@@ -2678,7 +2678,7 @@
   "op": "A8F34F",
   "len": 67,
   "jp": "カーク「確かに、不老不死の研究は昔から{br}行われていた事じゃが、何故奴らがこんな{br}研究をしているんじゃ。{end}",
-  "en": "",
+  "en": "Kirk: True, research into immortality has gone{br}on since ancient times, but why would they be{br}doing such research?{end}",
   "notes": ""
  },
  {
@@ -2687,7 +2687,7 @@
   "op": "A8F39A",
   "len": 33,
   "jp": "{c0C:01}「これといって使えそうな物は{br}入っていないようだな。{end}",
-  "en": "",
+  "en": "{c0C:01}: Doesn't look like there's anything{br}useful in here.{end}",
   "notes": ""
  },
  {
@@ -2696,7 +2696,7 @@
   "op": "A8F3C3",
   "len": 39,
   "jp": "{c0C:01}「光ディスクがたくさん{br}置いてあるな。実験か何かのデータか？{end}",
-  "en": "",
+  "en": "{c0C:01}: There's a whole lot of optical discs{br}here. Experiment data or something?{end}",
   "notes": ""
  }
 ]

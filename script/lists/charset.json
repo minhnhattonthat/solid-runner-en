@@ -4,7 +4,7 @@
   "addr": "93:CC7E",
   "len": 11,
   "jp": "サシスセソタチツテト{end}",
-  "en": "",
+  "en": "ABCDEFGHIJ{end}",
   "notes": ""
  },
  {
@@ -12,7 +12,7 @@
   "addr": "93:CC89",
   "len": 11,
   "jp": "ナニヌネノハヒフヘホ{end}",
-  "en": "",
+  "en": "KLMNOPQRST{end}",
   "notes": ""
  },
  {
@@ -20,7 +20,7 @@
   "addr": "93:CC94",
   "len": 11,
   "jp": "マミムメモヤユヨ  {end}",
-  "en": "",
+  "en": "UVWXYZ.-{end}",
   "notes": ""
  },
  {
@@ -28,7 +28,7 @@
   "addr": "93:CC9F",
   "len": 11,
   "jp": "ラリルレロワヲン  {end}",
-  "en": "",
+  "en": "'&!?,:(){end}",
   "notes": ""
  },
  {
@@ -36,7 +36,7 @@
   "addr": "93:CCAA",
   "len": 11,
   "jp": "ガギグゲゴザジズゼゾ{end}",
-  "en": "",
+  "en": "abcdefghij{end}",
   "notes": ""
  },
  {
@@ -44,7 +44,7 @@
   "addr": "93:CCB5",
   "len": 11,
   "jp": "ダヂヅデドバビブベボ{end}",
-  "en": "",
+  "en": "klmnopqrst{end}",
   "notes": ""
  },
  {
@@ -52,7 +52,7 @@
   "addr": "93:CCC0",
   "len": 11,
   "jp": "パピプペポァィゥェォ{end}",
-  "en": "",
+  "en": "uvwxyz{end}",
   "notes": ""
  },
  {
@@ -60,7 +60,7 @@
   "addr": "93:CCCB",
   "len": 11,
   "jp": "ッャュョヴー？！・ {end}",
-  "en": "",
+  "en": "+*=%/;${end}",
   "notes": ""
  },
  {
@@ -68,7 +68,7 @@
   "addr": "93:CCD6",
   "len": 11,
   "jp": "0123456789{end}",
-  "en": "",
+  "en": "0123456789{end}",
   "notes": ""
  },
  {
@@ -76,7 +76,7 @@
   "addr": "93:CCE1",
   "len": 11,
   "jp": "ABCDEFGHIJ{end}",
-  "en": "",
+  "en": "ABCDEFGHIJ{end}",
   "notes": ""
  },
  {
@@ -84,7 +84,7 @@
   "addr": "93:CCEC",
   "len": 11,
   "jp": "KLMNOPQRST{end}",
-  "en": "",
+  "en": "KLMNOPQRST{end}",
   "notes": ""
  },
  {
@@ -92,7 +92,7 @@
   "addr": "93:CCF7",
   "len": 11,
   "jp": "UVWXYZ    {end}",
-  "en": "",
+  "en": "UVWXYZ{end}",
   "notes": ""
  },
  {
@@ -100,7 +100,7 @@
   "addr": "93:CD02",
   "len": 11,
   "jp": "abcdefghij{end}",
-  "en": "",
+  "en": "abcdefghij{end}",
   "notes": ""
  },
  {
@@ -108,7 +108,7 @@
   "addr": "93:CD0D",
   "len": 11,
   "jp": "klmnopqrst{end}",
-  "en": "",
+  "en": "klmnopqrst{end}",
   "notes": ""
  },
  {
@@ -116,7 +116,7 @@
   "addr": "93:CD18",
   "len": 11,
   "jp": "uvwxyz    {end}",
-  "en": "",
+  "en": "uvwxyz{end}",
   "notes": ""
  }
 ]

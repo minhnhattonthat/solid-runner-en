@@ -5,7 +5,7 @@
   "op": "83AFC9",
   "len": 34,
   "jp": "この装置を使ってゲームのデータを記録する{br}事ができます{end}",
-  "en": "",
+  "en": "This device lets you save your game data.{end}",
   "notes": ""
  },
  {
@@ -14,7 +14,7 @@
   "op": "83B0AA",
   "len": 11,
   "jp": "{c18}を見つけました{end}",
-  "en": "",
+  "en": "Found {c18}.{end}",
   "notes": ""
  },
  {
@@ -23,7 +23,7 @@
   "op": "83B0CB",
   "len": 30,
   "jp": "{c18}を見つけましたが、{br}ストックが一杯で持てません{end}",
-  "en": "",
+  "en": "Found {c18}, but your stock is full. You can't carry{br}it.{end}",
   "notes": ""
  },
  {
@@ -32,7 +32,7 @@
   "op": "83B110",
   "len": 17,
   "jp": "ちぇっ、たったの{c04:02310170}Gか{end}",
-  "en": "",
+  "en": "Tch, only {c04:02310170}G?{end}",
   "notes": ""
  },
  {
@@ -41,7 +41,7 @@
   "op": "83B128",
   "len": 21,
   "jp": "おっ、{c04:02310170}G入ってる。しめしめ{end}",
-  "en": "",
+  "en": "Oh, there's {c04:02310170}G in here. Score.{end}",
   "notes": ""
  },
  {
@@ -50,7 +50,7 @@
   "op": "83B144",
   "len": 20,
   "jp": "うわっ！{c04:02310170}Gも入ってたぞ。{end}",
-  "en": "",
+  "en": "Whoa! There was a whole {c04:02310170}G in here!{end}",
   "notes": ""
  },
  {
@@ -59,7 +59,7 @@
   "op": "83B162",
   "len": 16,
   "jp": "…誰も見てないだろうな？{end}",
-  "en": "",
+  "en": "...Nobody's watching, right?{end}",
   "notes": ""
  }
 ]

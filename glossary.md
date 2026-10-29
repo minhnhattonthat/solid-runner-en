@@ -159,7 +159,9 @@ compound), its EN must appear in the line. Words that vary with context are unde
 | ディフェンサー | Defender | | | Defenser |
 | クイックムーバ | Quick Mover | | | |
 | マスターキー | Master Key | | | |
-| カードキー | card key | | | |
+| 技術者専用キー | Engineer Key | | | Technician Key |
+| 非常階段のキー | Fire Escape Key | | | |
+| カードキー | Card Key | | item name, capitalised (Card Key 2) | |
 | 耐火装甲 | Fireproof Armor | | | |
 | 耐電装甲 | Insulated Armor | | | |
 | 耐毒装甲 | Poisonproof Armor | | | |
@@ -193,7 +195,8 @@ Other runner names (runners list, once each): ラヴィアン Lavian, マッド�
 オーク Orc, ノーム Gnome, エルフ Elf, ライデン Raiden, ライジン Raijin, ライリュウ Rairyu, ライオウ Raio.
 Missions: 母と娘 Mother and Daughter, 少女の夢 A Girl's Dream, ハンティング Hunting, 宣戦布告 Declaration of War,
 失敗作 The Failure, 眼前の敵 The Enemy Before Me, 帰らなかった男 The Man Who Never Came Home, 黄金のたてがみ Golden
-Mane, アイドルのアイドル The Idol's Idol. Episode 第4部「破壊・誕生」 Part 4: Destruction / Birth.
+Mane, アイドルのアイドル The Idol's Idol. Episode card 第4部エピソード「破壊・誕生」 Part 4: Destruction/Birth (no
+spaces round the slash: " / " is a forced line break).
 
 ## Common words (guidance, not enforced)
 - People/roles: 将軍 the General; 局長 Director; 保安部 Security Division; 保安部長 Security Chief; 院長 Mother
@@ -212,4 +215,24 @@ Mane, アイドルのアイドル The Idol's Idol. Episode 第4部「破壊・�
   スタンナックル stun knuckle. Status: 火 fire, 電撃 shock, 毒 poison, 酸 acid, ナパーム napalm.
 
 ## Decisions from earlier batches
-- (none yet)
+- wave 1: honorifics per D1 everywhere, no English substitutes: 〜さん -san (Mr./Ms. never), 〜様 -sama (バイスハイト様
+  Weissheit-sama, カーク様 Kirk-sama; not "Lord"), 〜くん -kun, 〜ちゃん -chan. 探偵さん "Detective". Remin (a little girl) to
+  Shu お兄ちゃん "big brother", to Ion イオンお姉ちゃん "Big Sis Ion". お嬢さん (Dark Dragon men, Irene) "miss" to her,
+  "the young miss" about her.
+- wave 1: American spelling throughout (organization, realize, fertilize, Dr.).
+- wave 1: machine speech (katakana-only lines of robots, runner computers, Weissheit's machine voice) in ALL CAPS,
+  clipped, no contractions ("ATTACK HIT. DAMAGE INFLICTED."). Hiragana lines of the same speaker: normal case.
+- wave 1: elevator buttons B4 / B1 / 1F / 7F are signage, allowed; in dialogue "the first floor". 次ページ/前ページ
+  Next Page / Previous Page; 現在N階 "Now on NF" / "Now on BNF".
+- wave 1: layout blanks (choice indents, column padding, centring) are dropped by translators; phase 7 restores them.
+- wave 1: 情報 (field menu) Information (not Info); コンフィグ Config (the JP is the clipped form).
+- wave 1 terms: 技術者専用キー Engineer Key; 非常階段のキー Fire Escape Key; アニル社 Anil; ジョブス社 Jobs; 地下道 Tunnel
+  (place names); 廃墟 Ruins; SCBC局 SCBC Station; ババリアのアジト Bavaria Hideout; テロ集団アジト Terrorist Hideout;
+  3枚目 clown; ランドエア政策 Land-Air policy; 黒ピラニア病 black piranha disease; コスタ部長 Chief Costa; 発信者：X
+  "From: X"; 依頼内容 Request (menu), 依頼人 Client; terminal counts "Requests found: {n}" (no plural after a number
+  code).
+- wave 1 speaker labels: 店のオヤジ Shopkeeper, バーテン Bartender, 選手 Fighter, 声 Voice, 男 Man, 女性 Woman,
+  ストーカー Stalker, 受付嬢 Receptionist, 店長 Manager, 警備員 Guard, 記者 Reporter, 秘書 Secretary, 工場長 Plant
+  Manager, 作業員 Worker, マスター Owner, メカニック Mechanic, コンパニオン Hostess, 客 Customer, 店員 Staff, ダンサー
+  Dancer, 兵士 Soldier, 政府軍兵士 Government Soldier, 子供 Child, レジスタンス Resistance Fighter, バイオモンスター
+  Bio-monster, ヨッパライ Drunk, ドラッグのバイヤー Drug Dealer.

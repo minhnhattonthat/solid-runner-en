@@ -4,7 +4,7 @@
   "addr": "87:B1ED",
   "len": 11,
   "jp": "HP：{c04:02310170}{end}",
-  "en": "",
+  "en": "HP: {c04:02310170}{end}",
   "notes": ""
  },
  {
@@ -12,7 +12,7 @@
   "addr": "87:B1F8",
   "len": 15,
   "jp": "攻撃力：{c04:01310170}{end}",
-  "en": "",
+  "en": "Attack: {c04:01310170}{end}",
   "notes": ""
  },
  {
@@ -20,7 +20,7 @@
   "addr": "87:B207",
   "len": 15,
   "jp": "防御力：{c04:01320170}{end}",
-  "en": "",
+  "en": "Defense: {c04:01320170}{end}",
   "notes": ""
  },
  {
@@ -28,7 +28,7 @@
   "addr": "87:B216",
   "len": 17,
   "jp": "反応速度：{c04:01330170}{end}",
-  "en": "",
+  "en": "Reaction Speed: {c04:01330170}{end}",
   "notes": ""
  },
  {
@@ -36,7 +36,7 @@
   "addr": "87:B2F9",
   "len": 66,
   "jp": "メディア：S−MD{br}  容量：128GB{br}作成日：20XX年1月24日{br}  属性：書き込み不可{end}",
-  "en": "",
+  "en": "Media: S-MD{br}Capacity: 128GB{br}Created: January 24, 20XX{br}Attribute: Read-only{end}",
   "notes": ""
  }
 ]
