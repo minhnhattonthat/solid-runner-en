@@ -35,8 +35,50 @@ def covered_bytes(rom):
     return cov
 
 
-def sentences(rom, cov):
+def units(rom, p, end):
+    """Character units of a string (kanji = 2 bytes, control codes dropped)."""
+    out = []
+    while p < end:
+        b = rom[p]
+        if b == 0xF8:
+            p += 2 + (events.w16(rom, events.ARGC + rom[p + 1] * 2) & 0xFF)
+            continue
+        n = 2 if 0xF9 <= b <= 0xFC else 1
+        out.append(bytes(rom[p:p + n]))
+        p += n
+    return out
+
+
+class Bigrams:
+    """Character bigram model of the extracted script: Japanese scores ~-4 per bigram, data decoded as text ~-9."""
+
+    def __init__(self, rom, cov):
+        import math
+        from collections import Counter
+        self.uni, self.bi = Counter(), Counter()
+        p, n = 0, len(rom)
+        for f in sorted((ROOT / "script").rglob("*.json")):
+            for e in json.loads(f.read_text(encoding="utf-8")):
+                bank, lo = e["addr"].split(":")
+                o = off(int(bank + lo, 16))
+                u = units(rom, o, o + e["len"] - 1)
+                self.uni.update(u)
+                self.bi.update(zip(u, u[1:]))
+        self.total, self.v, self.log = sum(self.uni.values()), len(self.uni) + 1, math.log
+
+    def score(self, u):
+        if len(u) < 2:
+            return -99
+        s = sum(self.log((self.bi[a, b] + 0.1) / (self.uni[a] + 0.1 * self.v)) for a, b in zip(u, u[1:]))
+        return s / (len(u) - 1)
+
+
+GATE = -5.0  # mean bigram log-probability: script strings sit at -3.4 (1st pct -4.6), data decoded as text at -7
+
+
+def sentences(rom, cov, model=None):
     """Uncovered prose strings: [(cpu address, length)]. A string starts after a terminator or covered byte."""
+    model = model or Bigrams(rom, cov)
     out = []
     for bank in TEXT_BANKS:
         base = off(bank << 16 | 0x8000)
@@ -49,8 +91,8 @@ def sentences(rom, cov):
                 n = q + 1 - p
                 # the sentence may start anywhere in the run: take the longest prose suffix start
                 for s in range(p, q):
-                    if events.prose(rom, cpu(s), q + 1 - s) >= 0.5 and \
-                            any(b in rom[s:q] for b in b"\xb1\xb7\xb8") and q - s >= 8:
+                    u = units(rom, s, q)
+                    if len(u) >= 8 and model.score(u) > GATE:
                         out.append((cpu(s), q + 1 - s))
                         break
             p = q + 1 if q > p else p + 1

@@ -344,6 +344,42 @@ def prose(rom, a, n):
     return hits / units
 
 
+def no_latin(rom, a):
+    """No latin letter (B9-EC) in the text at a, kanji pairs and control codes skipped."""
+    p = off(a)
+    end = p + text_len(rom, a) - 1
+    while p < end:
+        b = rom[p]
+        if b == 0xF8:
+            p += 2 + (w16(rom, ARGC + rom[p + 1] * 2) & 0xFF)
+            continue
+        if 0xB9 <= b <= 0xEC:
+            return False
+        p += 2 if 0xF9 <= b <= 0xFC else 1
+    return True
+
+
+def sync(rom, a, ends):
+    """Start of the op run that leads to the text op at a: the nearest point in the 48 bytes before it (after a text
+    terminator or a known instruction) whose op-by-op decode lands exactly on a. None if there is none, so a text op
+    byte inside a text or an argument (`ソあぐす{br}フぬ「` = 5F 02 30 0E 00 2A 18) is not taken as a root."""
+    for s in range(a, a - 48, -1):
+        if not (rom[off(s) - 1] >= 0xFD or s in ends):
+            continue
+        p = s
+        while p < a:
+            op = rom[off(p)]
+            if op in TEXT_HEAD:
+                p += TEXT_HEAD[op] + text_len(rom, p + TEXT_HEAD[op])
+            elif op in VM_LEN:
+                p += VM_LEN[op]
+            else:
+                break
+        if p == a:
+            return s
+    return None
+
+
 def chain(rom, a, code):
     """Fall-through decode from a until an end op or known code: (texts, prose texts) or None if invalid."""
     texts = good = 0
@@ -371,6 +407,9 @@ def chain(rom, a, code):
 # banks whose scripts the roots reach, plus 87/90/91 (psycho-dive, battle and info scripts reached from native
 # tables); 98-9D and 9F hold no reachable script, and data there passes the chain test.
 ORPHAN_BANKS = {0x87, 0x90, 0x91, 0x92, 0x93, 0x94, 0x95, 0x96, 0x97, 0x9E, 0xA5, 0xA8, 0xA9, 0xAD}
+# text-op roots that pass the orphan test but are data or start inside a real text (checked by hand)
+LATE_SKIP = {0x90BF33, 0x90BF3A, 0x90BF41, 0x90BF50, 0x90BF5F, 0x90BF6E, 0x90BF7D,  # table rows `ぬュさ、ゅフザぬビあ6`
+             0x919E06}  # op byte in the bytes before the real op at 919E0D
 
 
 def orphan_entries(rom, d):
@@ -387,12 +426,21 @@ def orphan_entries(rom, d):
             w = blk[i] | blk[i + 1] << 8
             if w >= 0x8000:
                 cand.add(bank << 16 | w)
+    # scripts are laid out back to back: the byte after an end/jump of known code often starts the next one
+    cand.update(a + n for a, n in d.code.items() if rom[off(a)] in (0x00, 0x01, 0x41, 0x42, 0x43))
+    # last resort, after the pointer candidates: a text op itself (scripts inline after native code, e.g. 90:83E7)
+    # The first text must hold no latin, which data decoded as text is full of; LATE_SKIP drops the rest.
+    late = sorted({bank << 16 | 0x8000 | i for bank in ORPHAN_BANKS for i in range(0x8000)
+                   if rom[off(bank << 16 | 0x8000) + i] in TEXT_HEAD} - cand - LATE_SKIP)
+    ends = {a + n for a, n in d.code.items()}
+    late_set = {s for a in late if no_latin(rom, a + TEXT_HEAD[rom[off(a)]]) for s in [sync(rom, a, ends)] if s}
     out = []
-    for a in sorted(cand):
+    for a in sorted((cand | late_set) - LATE_SKIP):
         if a in covered:
             continue
         r = chain(rom, a, d.code)
-        if not (r and r[0] and r[0] == r[1]):
+        # a pointer root needs every text to read as prose; a text-op root a majority (shouts like うおおお！ fail)
+        if not (r and r[0] and (r[1] * 2 > r[0] if a in late_set else r[0] == r[1])):
             continue
         # trial descent: everything it reaches must decode and must not overlap code already known
         trial = Disasm(rom)
@@ -411,7 +459,12 @@ def orphan_entries(rom, d):
 def disassemble(rom, orphans=True):
     d = Disasm(rom).run(map_entries(rom) + native_entries(rom))
     if orphans:
-        d.orphans = orphan_entries(rom, d)
+        d.orphans = []
+        while True:  # an accepted orphan adds end-of-block candidates after it
+            more = orphan_entries(rom, d)
+            if not more:
+                return d
+            d.orphans += more
     return d
 
 

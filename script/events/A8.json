@@ -1521,6 +1521,15 @@
   "notes": ""
  },
  {
+  "id": "ev_A8A99B",
+  "addr": "A8:A99B",
+  "op": "A8A99A",
+  "len": 75,
+  "jp": "[FB]ュ4[F9]ねエピソード「[F9]5[FA]Q・[FC]（[FA]ぅ」{br}イオン「{c0C:01}、グロリア[F9]gから[F9]ぁ[F9]ぃが{br}あったわ。[F9]Fでラオエルが[F9]ろっているから{br}[F9]こってあげて。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
   "id": "ev_A8AAEC",
   "addr": "A8:AAEC",
   "op": "A8AAEB",
@@ -2430,6 +2439,15 @@
   "notes": ""
  },
  {
+  "id": "ev_A8D80B",
+  "addr": "A8:D80B",
+  "op": "A8D80A",
+  "len": 65,
+  "jp": "レクター「おいおい、ブルっちまったのか？{br}もう[F9]、[FA]デは[F9]イまってるんだぜ。[F9]Bく[F9]ぼ[F9]ねの{br}[F9]マへ[F9]こかなきゃダメじゃねぇか。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
   "id": "ev_A8D85C",
   "addr": "A8:D85C",
   "op": "A8D85B",
@@ -2516,6 +2534,51 @@
   "op": "A8EDE1",
   "len": 61,
   "jp": "  [F9]ホ[F9]マ1[FA]モ     1[FA]モ{br}  [F9]むページ     [FA]（[FA]ギ[F9]I[F9]あび[F9]いし{br}[FA]キ[FB]ヂ{c04:010B0270}[FA]モにいます。{endFE}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_A8EE30",
+  "addr": "A8:EE30",
+  "op": "A8EE2F",
+  "len": 11,
+  "jp": "{c0C:01}「ポチっとな！{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_A8EE3C",
+  "addr": "A8:EE3C",
+  "op": "A8EE3B",
+  "len": 15,
+  "jp": "カーク「やめんか、{c0C:01}！！{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_A8EE4C",
+  "addr": "A8:EE4C",
+  "op": "A8EE4B",
+  "len": 24,
+  "jp": "{c0C:01}「ってのはうそー。{br}[F9]」すわけないだろ。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_A8EE65",
+  "addr": "A8:EE65",
+  "op": "A8EE64",
+  "len": 22,
+  "jp": "カーク「[F9]Q[F9]Q[F9]Q[F9]Q[F9]Q[F9]Q[F9]Q[F9]Q。{end}",
+  "en": "",
+  "notes": ""
+ },
+ {
+  "id": "ev_A8EE7C",
+  "addr": "A8:EE7C",
+  "op": "A8EE7B",
+  "len": 10,
+  "jp": "{c0C:01}「[FA]っった？{end}",
   "en": "",
   "notes": ""
  },
