@@ -36,7 +36,7 @@ def scene_entries():
         if m:
             f = re.search(r"\bframes\s*=\s*(\d+)", line) or re.search(r"battle\((?:[^,)]*,){3}\s*(\d+)\s*\)", line)
             out.append((m.group(1), int(f.group(1)) if f else 2600 if "battle(" in line else
-                        6400 if "field(" in line else None))
+                        6400 if "field(" in line else 6800 if "data(" in line else None))
     return out
 
 
@@ -68,6 +68,7 @@ def main():
     ap.add_argument("--jobs", type=int, default=4)
     ap.add_argument("--states", action="store_true")
     ap.add_argument("--script", action="append", default=[], help="extra Lua probe for every run (e.g. fields.lua)")
+    ap.add_argument("--var", action="append", default=[], help="NAME=lua-value for every run (probe settings)")
     a = ap.parse_args()
 
     out_root = Path(a.out)
@@ -83,7 +84,7 @@ def main():
                 sys.exit(f"unknown scene {n}")
             jobs.append((n, [f"SCENE='{n}'"], known[n] or a.frames))
     with ThreadPoolExecutor(a.jobs) as ex:
-        res = list(ex.map(lambda j: run(a.rom, out_root, j[0], j[1], j[2], a.states, a.script), jobs))
+        res = list(ex.map(lambda j: run(a.rom, out_root, j[0], j[1] + a.var, j[2], a.states, a.script), jobs))
     bad = [r for r in res if not r[1]]
     for name, ok, err in res:
         print(("ok  " if ok else "FAIL"), name, *err)

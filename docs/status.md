@@ -22,15 +22,32 @@ Updated at the end of every session. Keep it to what the next session needs; his
   --rom build/marker.sfc --out work/qa/marker --script tools/lua/fields.lua`, then `python -X utf8 tools/fields.py`
   writes `windows.json` (dialogue variant + per-entry px budgets: `next-field` from the logged column of the
   next string on the row, `line-end`/`strip-end` geometric; see the docstring). 32 entries seen so far.
-- **Left in phase 5:**
-  1. Text still Japanese: Results screen labels at 92:95FD (`ミッション：` `報告：` `報酬：` `所持金合計：`, short
-     FF-separated runs under the coverage gate; `coverage.py` with `GATE=-5.6` lists ~70 such runs): add them to
-     `strings.py`, re-extract, rebuild marker, re-tour.
-  2. Budgets for the lists no scene shows yet (database/info pages, missions, shop parts/equipment, names, places in
-     the field HUD, help, Turbo File...): add scenes that open them (`scenes.lua` keys), rerun the tour with
-     fields.lua; check each `strip-end`/`line-end` guess against the window frame in a zoomed shot.
-  3. Identify the screen of the second renderer (84:B017), and the name length for `{c0C:01}` (name entry; the
-     default name entry is markered as `2zp`).
+- **Session 2026-10-30 (phase 5):** new lists `results` (92:95FD), `labels` (setup slot labels 82:AB25, info>data
+  submenu 82:AEF4, empty-slot dashes 82:C13F/83:9A66 - EE is `*` in en.tbl so English must use `-`, はずす 82:C1DB,
+  shop item labels 93:8AFB/8B02), `default_names` (copies at 83:8F1D/21 and 93:CB2C/32/38; 93:CB20 is a {RAM dest,
+  src} table into the name buffers $1AC3/$1AC9/$1ACF, 5 glyphs + FF each); missions list starts at 92:96A3 (table
+  92:9681; `母と娘` was missed). Database descriptions start with **big-endian page-pointer lists** + 00 (49 of
+  them; `strings.page_ptrs`): data, now cut out of the entries (the marker build had overwritten them). Missed
+  strings are found precisely by `fields.lua` logs: any logged ROM pointer no entry covers (scratch check: grep the
+  logs, `fields.lookup`). `fields.lua` now also hooks the typewriter (84:A7E1, string starts) - before, no
+  dialogue was logged. New scenes: info_status/requests/data, data_info_list/page, data_people_list/page (unlock
+  bits set when the field is ready: `ready_flags`; info $70:0154+x bit 6, people $70:018F+x bit 7, 82:D08D/D0A5),
+  requests_view ($70:013B = request index, $70:0141+i bit 6; 82:ADC7), item_use, setup_slot. `run_scenes.py --var`
+  passes probe settings. `tools/ruler.py` overlays a pixel ruler on shots (budget measuring). `fields.py` now has
+  `VARIANTS` (measured box widths per list/entry, see its comments) merged with logged next-field budgets into
+  `windows.json` (3461/4078 entries have a budget).
+- **Left in phase 5 (width gate):**
+  1. Measure the remaining variants with `tools/ruler.py` on the marker tour shots (`work/qa/marker`, rerun
+     `run_scenes.py --rom build/marker.sfc --out work/qa/marker --script tools/lua/fields.lua` after
+     `build.py --marker --out build/marker.sfc`) and add them to `fields.VARIANTS`: battle message box
+     (battle_fight; are battle event texts narrower than 240?), database list titles / info page title (2 lines) /
+     page body (3 lines x ~240) / people pages (data_* scenes), setup parts list + はずす (setup_slot), info and data
+     submenus (sliced, 2 cells per row), place names (area HUD, `places` are space-padded), intro crawl, Results
+     fields (code-positioned: needs a phase-7 rework into one line), runner_status/runners/names/missions (screens
+     not found yet: the info terminal (info list 87:8558) is an object in some town room).
+  2. Unassigned so far: database (264), parts descriptions, places/places2, runners, names, missions, info, turbo,
+     equip, menu, runner_status, intro, results, labels. `python -X utf8 tools/fields.py` prints the count.
+  3. Identify the screen of the second renderer (84:B017).
   4. Before phase 6: kanji table (925 codes, see phase 4 notes below).
 - **Done (phase 4):** `tools/events.py` VM disassembler (`docs/re/events.md` "Disassembler": every opcode, room
   scripts, NPC/tile record tables, native roots, orphan roots incl. text-op roots synced to op boundaries; 3172

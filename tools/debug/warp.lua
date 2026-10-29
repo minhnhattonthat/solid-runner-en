@@ -76,6 +76,7 @@ L.on_frame(function(n)
     held = ok and (held or 0) + 1 or 0
     if held >= 30 then
       ready_frame = n
+      for addr, v in pairs(scene.ready_flags or {}) do wr(addr, v) end
       L.log(string.format("READY f%d (+%d after the warp)", n, n - warp_frame))
     elseif n - warp_frame > 6000 then
       L.fail("warp: scene.wait never held")

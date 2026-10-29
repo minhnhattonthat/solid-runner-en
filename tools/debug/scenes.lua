@@ -14,11 +14,27 @@ local S = {}
 -- Field control after the opening: mashing A through Tao's scene ends it ~3500 frames after the warp ($70:0013 -> 1,
 -- $7E:1745 -> 0; the length varies run to run). Ending the thread at once (run = {0x00}, or its tail ops) leaves the
 -- player without control, so the menu scenes mash through it and press their keys once the flags hold.
-local function field(keys)
+local function field(keys, flags, frames)
   local k = {}  -- no A after the opening: it talks to Tao again
   for _, v in ipairs(keys or {}) do k[#k + 1] = { v[1] + 120, v[2] } end
   return { area = 0x01, room = 0x00, mash = { "a", 30, 100 }, wait = { { 0x700013, 1 }, { 0x7E1745, 0 } },
-    keys = k, frames = 6400 }
+    keys = k, ready_flags = flags, frames = frames or 6400 }
+end
+-- n SRAM bytes from lo set to v (unlock bits)
+local function fill(lo, n, v)
+  local t = {}
+  for i = 0, n - 1 do t[lo + i] = v end
+  return t
+end
+-- database unlock bits (82:D08D / 82:D0A5): info entries $70:0153+x bit 6 (x 0-20; entry 0 is unused, its text
+-- pointer 87:FF85 in table 87:C96C is blank), people $70:018F+x bit 7 (20)
+local INFO, PEOPLE = fill(0x700154, 20, 0x40), fill(0x70018F, 20, 0x80)
+local DATA = { { 0, "x" }, { 60, "down" }, { 100, "down" }, { 160, "a" }, { 220, "down" }, { 260, "down" }, { 320, "a" } }
+local function data(more, flags)
+  local k = {}
+  for _, v in ipairs(DATA) do k[#k + 1] = v end
+  for _, v in ipairs(more) do k[#k + 1] = v end
+  return field(k, flags, 6800)
 end
 local function battle(lo, hi, bank, frames)
   return { area = 0x01, room = 0x00, run = { 0x7D, lo, hi, bank, 0x00 }, frames = frames or 2600 }
@@ -67,6 +83,14 @@ S.list = {
     { 320, "a" } }),
   info_data_page = field({ { 0, "x" }, { 60, "down" }, { 100, "down" }, { 160, "a" }, { 220, "down" }, { 260, "down" },
     { 320, "a" }, { 400, "a" }, { 480, "a" } }),
+  item_use = field({ { 0, "x" }, { 100, "a" }, { 180, "a" }, { 260, "a" }, { 340, "a" } }),
+  -- current request $70:013B (index into 82:C8B4, FF none), shown if $70:0141+index bit 6 (82:ADC7)
+  requests_view = field({ { 0, "x" }, { 60, "down" }, { 100, "down" }, { 160, "a" }, { 220, "down" }, { 280, "a" } },
+    { [0x70013B] = 0x01, [0x700142] = 0x40 }),
+  data_info_list = data({ { 400, "a" } }, INFO),
+  data_info_page = data({ { 400, "a" }, { 480, "a" } }, INFO),
+  data_people_list = data({ { 400, "down" }, { 440, "a" } }, PEOPLE),
+  data_people_page = data({ { 400, "down" }, { 440, "a" }, { 520, "a" } }, PEOPLE),
   setup_slot = field({ { 0, "x" }, { 60, "down" }, { 120, "a" }, { 200, "a" } }),
   -- scripted battles: op 7D records {id, formation, callback} found in the event banks
   battle_97DFE8 = battle(0xE8, 0xDF, 0x97),
