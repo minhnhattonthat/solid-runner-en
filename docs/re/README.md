@@ -8,8 +8,16 @@ proven, so a later session doesn't build on a guess:
 - **guess** - and why it seems likely (byte pattern, another game, an earlier patch's notes). Promote it to verified
   before code depends on it.
 
-Addresses are for the dump in `rom.sha1` unless a note says otherwise.
+Addresses are for the dump in `rom.sha1` unless a note says otherwise. Prior work: none found (no fan patch or
+community docs for Solid Runner as of 2026-10-29).
 
 | File | Covers | State |
 |---|---|---|
-| <text.md> | <encoding, control codes, pointer tables> | <verified / partly guessed> |
+| [text.md](text.md) | encoding, control codes, font, text engine, where each text kind lives | encoding/font/engine verified; kanji table and some list locations pending |
+| [events.md](events.md) | event-script VM, text opcodes, map headers, insertion plan | dispatcher + text ops verified; ~40 opcode lengths to read |
+| [rom-map.md](rom-map.md) | header, bank map, LZ/RLE compression, free space | LZ verified; bank map partly guessed |
+| [graphics.md](graphics.md) | graphics-text survey | sweep done for LZ blocks; mid/late-game screens wait for the debug tool |
+
+Tools: `tools/font_sheet.py` (font with codes), `tools/vm_oplen.py` (VM opcode lengths), `tools/lz.py` (LZ codec),
+`tools/gfx_sweep.py` (decompress + render every LZ block), `tools/freespace.py`, `tools/lua/textlog.lua` (log every
+string the text engine is given).
