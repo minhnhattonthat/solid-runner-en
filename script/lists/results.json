@@ -28,7 +28,7 @@
   "addr": "92:9611",
   "len": 10,
   "jp": "報酬：   {end}",
-  "en": "Reward:{end}",
+  "en": "Reward:{blank}{blank}{blank}{end}",
   "notes": ""
  },
  {

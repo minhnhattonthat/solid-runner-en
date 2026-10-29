@@ -2,8 +2,39 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 7 (insert, fit, check) **done** (2026-10-30): lint clean with `script/engine_todo.txt` empty, codes
-  matched, writes only in allowed ranges (`tests/test_insert.py`). Next: phase 8 (QA in the emulator).
+- **Phase:** 8 (QA in the emulator) **in progress** (2026-10-30). Phase 7 done (lint clean, codes matched, writes
+  only in allowed ranges).
+- **Phase 8 so far:** tour = `run_scenes.py --rom build/qa_tour.sfc --out work/qa/tour --jobs 7 --script
+  tools/lua/textlog.lua` (~25 min, every scene now gets a `--sheet`); JP baseline `work/qa/tour_jp` (same ids);
+  `tools/textscan.py` reads the tour's textlog lines and lists drawn strings that still hold kana/kanji (run it with
+  the ROM the tour used). Gate: `qa_gate.py init work/qa/manifest.tsv work/qa/tour`, `todo ... --size 30 --out-dir
+  work/qa/chunks`, 4 `visual-qa` agents (brief `docs/visual-qa-brief.md`), verdicts in `work/qa/verdicts/`.
+  First review (116 sheets): ~25 issues, fixed and seen in game unless noted: battle HUD names (8x8 renderer reads
+  the runners table: every table-list entry is now repointed, jump slot kept too), VWF full line + `{br}` stepped
+  two lines (asm `vwf_pos`: a strip edge stays column 10), shop Buy/Sell submenu (string starts at column 2 where the
+  main menu's wrap left it: cells [2, 8], Items/Weapons), request Cancel at cell 10, intro crawl (`intro` variant
+  196 px `clipped`), parts view Hit/Ammo (glossary), news headline 2 lines, 411 one-word last lines
+  (`batches.py dewidow`, test_dewidow), title logo katakana removed (`tools/gfx.py`, G1), 5 code-loaded labels
+  extracted (request Client/Reward, shop Amount/Cost: `scene shop_buy_count`), heads ev_93827B/ev_97BA44 (dead copies
+  as far as known, started at the real text anyway; `insert.entries` decodes a moved head's whole JP).
+  New scenes: `shop_buy_count`, `vm_*` (`vmtext(op)`: 0E window + jump to a text op; elevators/keypad seen OK; the
+  `vm_9194..` ones show garbage on the JP too = wrong entry, not a bug).
+- **Phase 8 next (in this order):**
+  1. Results screen (scene `results`): the reward/total count-up redraws its number with narrow VWF digits at
+     shifting x and leaves old digits ("250G 500G"; before: a stray "!"). JP digits are fixed 12 px cells, right
+     aligned by pad blanks. Find the number writer ({c04} or native, 92:95xx) and draw digits there at 12 px (or
+     clear the field first). `Reward:` now has the JP's 3 trailing blanks.
+  2. Teal/green pixels above "Status" in the info submenu header and list row (menu_info, info_status, info_data,
+     data_people_*; zoom work/qa/zoom/c2/id_z2.png): not in JP. Topics selection bar in info_terminal_4 (DATA
+     LIBRARY tabs) keeps the JP 2-glyph width: widen it or shorten the label (Topics/People/Enemies).
+  3. Re-tour everything on the final build (copy to build/qa_tour.sfc first), `textscan.py`, `qa_gate.py init`
+     (changed sheets lose their verdicts), `todo`, re-review, recheck files `verdicts/recheck_<n>.tsv` for fixed
+     issues, until `qa_gate.py check` exits 0.
+  4. Graphics rows: G3 (debug-menu font B3_10/11) not reachable in play; G4 (`EAは/あけて` tags, A3_05 tiles
+     0x1D80+, not in area_01's VRAM): find the screen or record as unused. Game Over / THE END / credits already
+     English (tour scenes game_over, ending_*, credits).
+  Non-blocking: English types ~2x the JP's glyphs; the player can set Message Speed: Fast. `{c1C:xx}` slow print not
+  timed.
 - **Phase 7 done so far:** `tools/insert.py` (run by `build.py`): every English entry in free space, each slot a
   jump (`F8 20 p24` / `F8 22 p16` / table word) keeping its length and end byte; new control table at 84:E000 with
   jump, jump16 and `{tab:n}` (asm/vwf.asm); `01` = 12 px `{blank}`, English space = code 02; indents and column
@@ -34,13 +65,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
   `insert.NOT_TEXT`): places2_93C015 had overwritten its table's last byte (save slot place showed "ま狩B");
   92:DE77 (65816 code), 96:DB26/DBF8, A8:D233 no longer written; 93:EED3 / 92:9F06 keep their `PLX : RTL`.
   Last build 2026-10-30 07:09, sha1 8c88fb089d14..., smoke ok; `tools/check.py` 34 passed.
-- **Phase 8 next (in this order):**
-  1. Heads still JP: ev_93827B (real start 93:8267 `店のオヤジ「…`, after a `12` op, not a text op: find what reads
-     it) and ev_97BA44 (news headline): `jp_left.py` will list them.
-  2. In game, not yet seen with the English: elevators (` | ` columns), A5 countdown, Turbo File "No data" (92:9F08),
-     ev_91940D / ev_95A2AA / ev_979F08 (new starts), the load screen's slot (sheet DC_03 also has the `=`: check
-     which screen uses it), add-armor yes/no (needs a level-up).
-  3. `{c1C:xx}` slow-print timing; typing speed (English ~2x glyphs; maybe halve the per-glyph delay).
+- **Still not seen in game:** A5 countdown, Turbo File "No data" (92:9F08), the load screen's slot (sheet DC_03 also
+  has the `=`), add-armor yes/no (needs a level-up).
   Note: `run_scenes.py` defaults to the original ROM; pass `--rom build/solid_runner_en.sfc` for the English.
   Results with another mission: point table word 0 (92:9681) at the mission's name in a ROM copy (pin of
   $70:013E didn't take).
