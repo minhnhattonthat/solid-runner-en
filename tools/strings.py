@@ -31,8 +31,10 @@ LISTS = {
     "database": [(0x87CA07, 0x87EEC4), (0x87EF56, 0x87F616)],  # info database: requests, news, runners, monsters
     "names": [(0x87EEF4, 0x87EF56)],  # character names, table 87:EEC6
     "intro": [(0x928F1F, 0x9290A5)],  # opening text crawl
-    "missions": [(0x9296A3, 0x9299C7)],  # mission list, table 92:9681 (first entry 96A3, seen on Results)
-    "turbo": [(0x92AEBC, 0x92B2CE), (0x929F06, None)],  # Turbo File menu and errors, table 92:AE6E
+    # mission names (table 92:9681, first entry 96A3) and reports (table 92:9719, between the two: data)
+    "missions": [(0x9296A3, 0x929719), (0x92973B, 0x9299C7)],
+    # Turbo File menu and errors, table 92:AE6E (19 words), then the not-connected message
+    "turbo": [(0x92AE94, 0x92B2CE), (0x929F06, None)],
     "equip": [(0x93B33D, 0x93B36A), (0x93B376, 0x93B430),  # tables 93:B32A, 93:B36A
               (0x93B62E, 0x93B64E),
               (0x93B248, None), (0x93B274, None), (0x93B291, None),  # menu labels, no terminator between them

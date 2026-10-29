@@ -410,7 +410,8 @@ def chain(rom, a, code):
 ORPHAN_BANKS = {0x83, 0x87, 0x90, 0x91, 0x92, 0x93, 0x94, 0x95, 0x96, 0x97, 0x9E, 0xA5, 0xA8, 0xA9, 0xAD}
 # text-op roots that pass the orphan test but are data or start inside a real text (checked by hand)
 LATE_SKIP = {0x90BF33, 0x90BF3A, 0x90BF41, 0x90BF50, 0x90BF5F, 0x90BF6E, 0x90BF7D,  # table rows `ぬュさ、ゅフザぬビあ6`
-             0x919E06}  # op byte in the bytes before the real op at 919E0D
+             0x919E06} | set(range(0x92AE40, 0x92AE94))  # 919E06: op byte before the real op at 919E0D;
+# 92:AE40-AE93: Turbo File code (`STA $18B2`...) and the table 92:AE6E, whose "text" ran into the message (strings.py)
 
 
 def orphan_entries(rom, d):

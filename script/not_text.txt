@@ -17,3 +17,6 @@
 95B61E 00-separated bytes, data
 96D9F1 data (latin + 00)
 97FA16 00-separated bytes, data
+90B4C3 00-separated bytes, data (scores above the gate after the 92:AE58 orphan was dropped)
+90B543 00-separated bytes, data
+91AFDE 00-separated bytes, data

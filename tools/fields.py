@@ -31,6 +31,12 @@ DIALOGUE = {"px": 240, "lines": 3, "last_px": 232, "how": "measured: 40-digit st
 # cells cut into rows of `cells` 12-px cells (field menu, setup labels...): English needs a tab-to-cell control
 # (phase 7); each item's budget is the slice.
 VARIANTS = {
+    "battle_msg": {"px": 240, "lines": 2, "prefixes": ["ev_90"],
+                   "how": "measured: battle_fight message bar x 8-247, y 192-224 (2 lines); bank $90 = battle "
+                          "messages (59 of 60 one line)"},
+    "database": {"px": 212, "lines": 3, "lists": ["database"],
+                 "how": "measured: data_info_page / data_people_page boxes x 24 to frame 238; title box 2 lines, "
+                        "page box 3 lines (FE pages)"},
     "dialogue": dict(DIALOGUE, lists=["events", "loose", "item_use"],
                      note="field, cutscene and shop typewriter box (opening, shop_greeting: x 8-247)"),
     "item_name": {"px": 94, "lines": 1, "pairs": [("items", 0)],
@@ -53,8 +59,53 @@ VARIANTS = {
                                                               "places2_93C169"],
                     "how": "measured: name_entry second name x 168 to frame 236; buffer 5 + FF"},
     "charset": {"px": 11, "lines": 1, "lists": ["charset"], "how": "measured: name_entry grid, one glyph per cell"},
-    "parts_view_name": {"px": 240, "lines": 1, "pairs": [("parts", 0)],
-                        "how": "measured: shop_parts_view bottom box x 8-247 (setup lists: see fields)"},
+    "parts_name": {"px": 88, "lines": 1, "ranges": [("parts", 0x83A642, 0x83A8D8)],
+                   "ids": ["labels_82C13F", "labels_839A66"],
+                   "how": "measured: setup_slot header x 150 to frame 240 (menu_setup x 72-164, slot list x 118-236, "
+                          "shop_parts_view x 8-247)"},
+    "parts_desc": {"px": 240, "lines": 1, "ranges": [("parts", 0x83A8D8, 0x83AE5F)],
+                   "how": "guess: bottom box like shop_parts_view (x 8-247); not seen on screen yet"},
+    "slot_label": {"px": 36, "lines": 1, "ranges": [("labels", 0x82AB25, 0x82AB39)],
+                   "how": "measured: setup_slot header label x 112, part name at 150"},
+    "remove": {"px": 116, "lines": 1, "ids": ["labels_82C1DB"], "how": "measured: setup_slot list x 118 to 236"},
+    "setup_labels": {"sliced": True, "cells": 4, "px": 46, "ids": ["menu_82C4DD"],
+                     "how": "measured: menu_setup rows of 4 cells x 24-70, part names from x 72"},
+    "setup_stats": {"sliced": True, "cells": 6, "px": 68, "ids": ["menu_82C4FA"],
+                    "how": "measured: setup_slot left panel rows x 24 to frame 95"},
+    "info_menu": {"sliced": True, "cells": 5, "px": 58, "ids": ["menu_82C515"],
+                  "how": "measured: menu_info / info_data rows of 5 cells x 24-86, frame 95"},
+    "place_name": {"px": 240, "lines": 1, "lists": ["places"], "centred": True,
+                   "how": "measured: area_14 banner x 8-247 (work/qa/place f1780); JP centres with leading spaces"},
+    "people": {"px": 212, "lines": 1, "lists": ["names"], "how": "measured: data_people_list x 24 to frame 238"},
+    "intro": {"px": 240, "lines": 2, "lists": ["intro"], "centred": True,
+              "how": "measured: boot crawl (area_01 f900) lines centred, no frame, x 8-247"},
+    "turbo": {"px": 240, "lines": 1, "lists": ["turbo"], "how": "measured: turbofile_menu frameless rows from x 8"},
+    "shop_left": {"px": 66, "lines": 1, "ids": ["labels_938AFB", "labels_938B02"],
+                  "how": "measured: shop_buy_items left window labels x 24, values at x 92 / 88"},
+    "shop_menu_left": {"sliced": True, "cells": 5, "px": 54, "ids": ["equip_938D8A", "equip_938D9B"],
+                       "how": "measured: shop_buy left window rows x 24 to frame 79"},
+    "shop_menu_right": {"sliced": True, "cells": 5, "px": 62, "ids": ["equip_938D77"],
+                        "how": "measured: shop_buy right window rows x 118 to frame 182"},
+    "item_cmds": {"sliced": True, "cells": 4, "px": 44, "ids": ["menu_82C4A9"],
+                  "how": "measured: menu_item use/discard x 32 to frame 79 (title part: menu_title 74)"},
+    "requests_title": {"px": 74, "lines": 1, "ids": ["menu_82C4D3"], "how": "measured: title box as menu_title"},
+    "config": {"sliced": True, "px": 96, "ids": ["menu_82C529", "menu_82C540", "menu_82C549", "menu_82C554",
+                                                  "menu_82C574"],
+               "how": "guess: menu_config window x 24 to frame 124; row slicing not read yet"},
+    "results": {"px": 120, "lines": 1, "lists": ["results", "missions"],
+                "how": "guess: code-positioned fields (results shot: label x 8, mission name, reward values at "
+                       "x 112-120); phase 7 reworks the line into one string"},
+    "runners": {"px": 88, "lines": 1, "lists": ["runners"], "how": "guess: screen not found; like part names"},
+    "info_terminal": {"px": 212, "lines": 2, "lists": ["info", "runner_status"],
+                      "how": "guess: info terminal (87:8558) not reached; like the database boxes"},
+    "save_places": {"px": 212, "lines": 1, "lists": ["places2"], "centred": True,
+                    "how": "guess: save slots (no save at new game); slot frame x 28-240"},
+    "equip_other": {"px": 212, "lines": 1, "lists": ["equip"],
+                    "how": "guess: equipment texts not seen on screen (save/shop ones have their own variants)"},
+    "third_name": {"px": 66, "lines": 1, "chars": 6, "ids": ["default_names_93CB38", "places2_93C20B"],
+                   "how": "guess: buffer $1ACF (6 glyphs + FF); screen not seen"},
+    "data_submenu": {"sliced": True, "cells": 2, "px": 22, "ids": ["labels_82AEF4"],
+                     "how": "measured: info_data submenu rows of 2 cells x 118, frame 143 (phase 7: widen)"},
     "field_menu": {"sliced": True, "cells": 6, "px": 70, "ids": ["menu_82C48F"],
                    "how": "measured: menu shows the run in rows of 6 cells (x 24-96)"},
     "parts_labels": {"sliced": True, "cells": 4, "px": 44, "ids": ["status_93951C"],
@@ -134,19 +185,28 @@ def variant_of():
     for f in sorted((ROOT / "script").glob("*/*.json")):
         name = "events" if f.parent.name == "events" else f.stem
         for i, e in enumerate(json.loads(f.read_text(encoding="utf-8"))):
+            single = [v for v, d in VARIANTS.items() if e["id"] in d.get("ids", ())]  # an id beats its list's rule
+            if single:
+                out[e["id"]] = single[0]
+                continue
             for v, d in VARIANTS.items():
-                if name in d.get("lists", ()) or (name, i % 2) in d.get("pairs", ()) or e["id"] in d.get("ids", ()):
+                if name in d.get("lists", ()) or (name, i % 2) in d.get("pairs", ()) or e["id"] in d.get("ids", ()) \
+                        or e["id"].startswith(tuple(d.get("prefixes", ()))) \
+                        or any(n == name and lo <= int(e["addr"].replace(":", ""), 16) < hi
+                               for n, lo, hi in d.get("ranges", ())):
                     out[e["id"]] = v
                     break
     return out
 
 
 def merge(fields, variants):
-    """Each entry's budget: its variant's measured px, or the logged next field when that is closer."""
+    """Each entry's budget: its variant's measured px, else the logged geometry. The variant wins: windows map
+    strip cells to screen rows in their own way, so logged columns can disagree with the pixels (slot labels:
+    2 columns in the log, 38 px on screen)."""
     out = {}
     for eid in sorted(set(fields) | set(variants)):
         f, v = fields.get(eid), variants.get(eid)
-        if v and not (f and f["how"] == "next-field" and f["px"] < VARIANTS[v]["px"]):
+        if v:
             out[eid] = {"px": VARIANTS[v]["px"], "how": "variant", "variant": v}
             if f:
                 out[eid]["scene"] = f["scene"]
@@ -160,7 +220,8 @@ def merge(fields, variants):
 def main():
     logdir = sys.argv[1] if len(sys.argv) > 1 else ROOT / "work" / "qa" / "marker"
     fields = merge(budgets(logdir), variant_of())
-    variants = {k: {x: y for x, y in v.items() if x not in ("lists", "pairs", "ids")} for k, v in VARIANTS.items()}
+    variants = {k: {x: y for x, y in v.items() if x not in ("lists", "pairs", "ids", "prefixes", "ranges")}
+                for k, v in VARIANTS.items()}
     OUT.write_text(json.dumps({"variants": variants, "fields": fields}, indent=1, ensure_ascii=False) + "\n",
                    encoding="utf-8", newline="\n")
     hows = {}

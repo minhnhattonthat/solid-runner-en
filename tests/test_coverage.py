@@ -27,6 +27,26 @@ def test_no_overlap():
 
 
 @needs_rom
+def test_no_pointer_table_inside_entries():
+    """3+ consecutive 16-bit words (LE or BE) that point at entry starts are a pointer table, not text: the marker
+    build overwrote two (missions reports 92:9719, Turbo File 92:AE6E) before the ranges were split."""
+    from events import off
+    rom = ROM.read_bytes()
+    es = sorted(spans())
+    starts = {a for a, _, _ in es}
+    bad = []
+    for a, b, eid in es:
+        o, n = off(a), b - a
+        for k in range(n - 5):
+            for be in (False, True):
+                ws = [(rom[p] << 8 | rom[p + 1]) if be else (rom[p] | rom[p + 1] << 8)
+                      for p in range(o + k, o + k + 6, 2)]
+                if all(w >= 0x8000 and (a & 0xFF0000) | w in starts for w in ws):
+                    bad.append((eid, hex(a + k)))
+    assert not bad, bad[:5]
+
+
+@needs_rom
 def test_no_uncovered_prose():
     import coverage
     rom = ROM.read_bytes()
