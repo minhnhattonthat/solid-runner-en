@@ -318,7 +318,8 @@ def plan(rom):
 
 ASM_SITES = [(0x00C942, 4), (0x022967, 3), (0x022993, 6), (0x022A2A, 3), (0x026000, 0x2000),  # asm/vwf.asm
              (0x012923, 1), (0x012A6B, 5), (0x012AF9, 4), (0x012A00, 1), (0x012F34, 3),  # asm/menus.asm
-             (0x09A7A6, 1), (0x09AAAE, 1), (0x09AC24, 5), (0x09AA9E, 2), (0x09B2A1, 1)] + [
+             (0x09A7A6, 1), (0x09AAAE, 1), (0x09AC24, 5), (0x09AA9E, 2), (0x09B2A1, 1),
+             (0x03A817, 11)] + [  # 87:A817-A821 tab bar pointer (build.py bridges the short gaps)
     (0x09B2DA + 13 * i, 2) for i in range(6)]
 FONT = (0x170000, 0x500 * 22)  # $AE:8000 glyphs (tools/font.py)
 

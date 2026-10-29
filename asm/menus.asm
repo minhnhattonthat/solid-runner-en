@@ -53,3 +53,18 @@ org $93B31B
 ; it carries strip $1E
 org $82AA00
     db $0C
+
+; DATA LIBRARY tab highlight (object 87:A80E): its metasprite 87:A83F is two 16 px sprites at x -8, 0 (24 px, the
+; JP's two glyphs); the English tabs (Topics, People, Enemies) get three (-8, 8, 16: 40 px)
+org $87A817
+    db tab_bar
+org $87A81C
+    db tab_bar>>8
+org $87A821
+    db tab_bar>>16
+org $84FE00
+tab_bar:
+    db $01 : dw -8, -8 : db $EE, $28
+    db $01 : dw -8, 8 : db $EE, $28
+    db $01 : dw -8, 16 : db $EE, $28
+    db $FF

@@ -457,7 +457,37 @@ vwf_plot:
     JMP .row
 +
     SEP #$30
+    LDA $18B9               ; overwrite mode: also clear the cell's rows above and below the glyph (0-2, 14-15),
+    BEQ +                   ; which held another screen's pixels (teal marks over the info menu's "Status")
     RTS
++
+    STZ !G
+    STZ !G+1
+    STZ !G+2
+    STZ !S
+    STZ !S+1
+    STZ !S+2
+    REP #$30
+    LDY #$0000
+-   PHY
+    TYX
+    LDA.l vwf_edge,x
+    STA !ro
+    %plot(0)
+    %plot(1)
+    %plot(2)
+    REP #$30
+    PLY
+    INY
+    INY
+    CPY.w #10
+    BEQ +
+    JMP -
++   SEP #$30
+    RTS
+
+vwf_edge:                   ; bitmap rows 0-2 (top tile) and 14-15 (bottom tile) of a line
+    dw $0000, $0002, $0004, $010C, $010E
 
 ; glyph row r -> bitmap row r+3 of a 2-tile-high line
 vwf_rows:
