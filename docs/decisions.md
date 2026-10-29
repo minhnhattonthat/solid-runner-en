@@ -16,3 +16,6 @@ All D1-D7 came from the owner's standing answers injected into the one-shot run 
 | D6 | 2026-10-29 | Specs and plans | need approval, pre-approved | Pre-approved: keep going through checkpoints, report at the end. |
 | D7 | 2026-10-29 | Existing saves / savestates | user supplies, none | None provided; build the debug tool as usual. |
 | D8 | 2026-10-29 | Git identity | - | Already set by new-game.ps1 (minhnhattonthat); do not change. |
+| D9 | 2026-10-30 | Register, sound effects (phase 6) | literal/formal, casual noir; SFX romanised JP, English words | Casual near-future noir, contractions; English SFX words. Pre-approved run (D6): controller's default, matches the game's tone (wisecracking detective, gangsters). |
+| D10 | 2026-10-30 | Speech layout | `Name: "text"`, `Name: text`, keep 「」 as quotes | `Name: text` for named lines, `"text"` for unnamed 「 boxes, plain for continuations. JP never closes 」 (8 of 2536); colon form costs no closing quote per box and keeps the JP's named/unnamed distinction. |
+| D11 | 2026-10-30 | Default names longer than the name buffers | shorten (Shu Ersk.), widen buffers in phase 7 | Keep Erskine / Grandil and widen the buffers in phase 7 (D4: engine work before abbreviation). |
