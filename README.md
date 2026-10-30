@@ -9,6 +9,21 @@ no game data you can play; you need your own dump of the Japanese game.
 **Found a bug?** [Report it](../../issues/new/choose): untranslated text, typos, overflow, crashes. Attaching a savestate
 helps most.
 
+## Translation status
+
+| Part | Status |
+|---|---|
+| Dialogue / story | Translated |
+| Menus, shop, missions, items, system messages | Translated |
+| Battle HUD | Translated (four long enemy names shortened to fit: N. Vague, G. Hunter, P. Lizard, Weissheit) |
+| Title screen | Translated (the logo was already English; its katakana reading was removed) |
+| Name entry | Translated (English letters) |
+| Staff roll, THE END, Game Over | Already English in the original |
+| Debug menu | Left in Japanese (not reachable in normal play) |
+
+Known issues: a few screens were not seen in testing (the A5 countdown, the Turbo File "No data" message, the add-armor
+yes/no prompt, the shop's sell-count screen).
+
 ## What's here
 
 | Path | What it is |
